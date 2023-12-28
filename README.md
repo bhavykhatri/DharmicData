@@ -1,10 +1,10 @@
 # Hindu Sacred Texts Dataset
 
 ## Overview
-This repository contains a structured collection of sacred texts from Hinduism, formatted in JSON for easy access and analysis. It includes texts from the 'Ramcharitmanas' and the 'Srimad Bhagavad Gita'.
+This repository contains a structured collection of sacred texts from Hinduism, formatted in JSON for easy access and analysis. It includes texts from the 'Ramcharitmanas' , 'Srimad Bhagavad Gita' and 'Rigveda'.
 
 ## File Structure
-The dataset is organized into two main directories: `Ramcharitmanas` and `SrimadBhagvadGita`, each containing JSON files for different chapters or काण्डs.
+The dataset is organized into two main directories: `Ramcharitmanas` , `SrimadBhagvadGita` and the `Rigveda`, each containing JSON files for different chapters or काण्ड.
 
 ### Ramcharitmanas
 The `Ramcharitmanas` directory contains the following files representing each of the seven काण्डs:
@@ -39,8 +39,33 @@ The `SrimadBhagvadGita` directory contains files for each of the 18 chapters of 
 - [bhagavad_gita_chapter_17.json](./SrimadBhagvadGita/bhagavad_gita_chapter_17.json) - Chapter 17
 - [bhagavad_gita_chapter_18.json](./SrimadBhagvadGita/bhagavad_gita_chapter_18.json) - Chapter 18
 
+### Rigveda
+The `Rigveda` directory has been added to the repository, containing JSON files for each of the ten Mandalas:
+
+- [rigveda_mandala_1.json](./Rigveda/rigveda_mandala_1.json) - Mandala 1
+- [rigveda_mandala_2.json](./Rigveda/rigveda_mandala_2.json) - Mandala 2
+- [rigveda_mandala_3.json](./Rigveda/rigveda_mandala_3.json) - Mandala 3
+- [rigveda_mandala_4.json](./Rigveda/rigveda_mandala_4.json) - Mandala 4
+- [rigveda_mandala_5.json](./Rigveda/rigveda_mandala_5.json) - Mandala 5
+- [rigveda_mandala_6.json](./Rigveda/rigveda_mandala_6.json) - Mandala 6
+- [rigveda_mandala_7.json](./Rigveda/rigveda_mandala_7.json) - Mandala 7
+- [rigveda_mandala_8.json](./Rigveda/rigveda_mandala_8.json) - Mandala 8
+- [rigveda_mandala_9.json](./Rigveda/rigveda_mandala_9.json) - Mandala 9
+- [rigveda_mandala_10.json](./Rigveda/rigveda_mandala_10.json) - Mandala 10
+
+
+
 ## Usage
 To use this dataset, simply clone the repository and refer to the individual JSON files as needed. The files are named in a way that should be self-explanatory, with each file corresponding to a specific chapter or काण्ड.
+
+## Upcoming Additions
+We plan to expand this collection by including the following texts:
+
+- Atharva Veda
+- Yajur Veda
+- Sam Veda
+
+These will be added in a similar structured format, making it easy for users to access and study these ancient texts.
 
 ## Contributing
 Contributions to this dataset are welcome. Please submit a pull request or raise an issue if you find any errors or have suggestions for improvements.
