@@ -41,7 +41,7 @@ The `SrimadBhagvadGita` directory contains files for each of the 18 chapters of 
 
 ### Rigveda
 
-![Structure of Rigveda](/Images/rigveda-structure.png)
+![Structure of Rigveda](/Images/rigveda-structure.jpg)
 
 The `Rigveda` directory has been added to the repository, containing JSON files for each of the ten Mandalas:
 
