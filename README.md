@@ -56,6 +56,10 @@ The `Rigveda` directory has been added to the repository, containing JSON files 
 - [rigveda_mandala_9.json](./Rigveda/rigveda_mandala_9.json) - Mandala 9
 - [rigveda_mandala_10.json](./Rigveda/rigveda_mandala_10.json) - Mandala 10
 
+### Ahtarvaveda
+![Structure of Rigveda](./Images/atharvaveda%20strucutre.jpg)
+
+There are 20 kaandas in atharvaveda which are present in [Aharavaveda Repo](./AtharvaVeda/)
 
 
 ## Usage
@@ -64,7 +68,6 @@ To use this dataset, simply clone the repository and refer to the individual JSO
 ## Upcoming Additions
 We plan to expand this collection by including the following texts:
 
-- Atharva Veda
 - Yajur Veda
 - Sam Veda
 
