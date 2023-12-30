@@ -74,12 +74,12 @@ The `Yajurveda` directory has been added to the repository, containing JSON file
 #### Vajasaneyi Madhyandina Samhita
 The `Vajasaneyi Madhyandina Samhita` directory contains JSON files for the chapters of the Vajasaneyi Madhyandina Samhita:
 
-- [vajasaneyi_madhyandina_samhita.json](./Yajurveda/vajasaneyi_madhyandina_samhita.json) - Complete Samhita
+- [vajasaneyi_madhyandina_samhita.json](./Yajurveda/vajasneyi_madhyadina_samhita.json) - Complete Samhita
 
 #### Vajasaneyi Kanva Samhita
 The `Vajasaneyi Kanva Samhita` directory contains JSON files for the chapters of the Vajasaneyi Kanva Samhita:
 
-- [vajasaneyi_kanva_samhita_chapters.json](./Yajurveda/vajasaneyi_kanva_samhita_chapters.json) - Chapters 2 to 40 (Note: Chapter 1 is missing)
+- [vajasaneyi_kanva_samhita_chapters.json](./Yajurveda/vajasneyi_kanva_samhita_chapters.json) - Chapters 2 to 40 (Note: Chapter 1 is missing)
 
 
 ### Atharvaveda
