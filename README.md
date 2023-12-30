@@ -1,10 +1,10 @@
 # Hindu Sacred Texts Dataset
 
 ## Overview
-This repository contains a structured collection of sacred texts from Hinduism, formatted in JSON for easy access and analysis. It includes texts from the 'Ramcharitmanas' , 'Srimad Bhagavad Gita' and 'Rigveda'.
+This repository contains a structured collection of sacred texts from Hinduism, formatted in JSON for easy access and analysis. It includes texts from the 'Ramcharitmanas' , 'Srimad Bhagavad Gita' , 'Rigveda' , 'Yajurveda' and the 'Atharvaveda'.
 
 ## File Structure
-The dataset is organized into two main directories: `Ramcharitmanas` , `SrimadBhagvadGita` and the `Rigveda`, each containing JSON files for different chapters or काण्ड.
+The dataset is organized into two main directories: `Ramcharitmanas` , `SrimadBhagvadGita` , `Rigveda`, `Yajurveda` and the `Atharvaveda`, each containing JSON files for different chapters or काण्ड.
 
 ### Ramcharitmanas
 The `Ramcharitmanas` directory contains the following files representing each of the seven काण्डs:
@@ -56,10 +56,36 @@ The `Rigveda` directory has been added to the repository, containing JSON files 
 - [rigveda_mandala_9.json](./Rigveda/rigveda_mandala_9.json) - Mandala 9
 - [rigveda_mandala_10.json](./Rigveda/rigveda_mandala_10.json) - Mandala 10
 
-### Ahtarvaveda
+
+
+Certainly! Below is the updated README section for the Shukla Yajurveda Samhita, along with a note about the Kanva Samhita chapter 1 missing, and an update to the upcoming additions section:
+
+markdown
+Copy code
+## Yajurveda
+
+The `Yajurveda` directory has been added to the repository, containing JSON files for the Shukla Yajurveda Samhitas:
+
+- Vajasaneyi Madhyandina Samhita
+- Vajasaneyi Kanva Samhita
+
+### Shukla Yajurveda Samhitas
+
+#### Vajasaneyi Madhyandina Samhita
+The `Vajasaneyi Madhyandina Samhita` directory contains JSON files for the chapters of the Vajasaneyi Madhyandina Samhita:
+
+- [vajasaneyi_madhyandina_samhita.json](./Yajurveda/vajasaneyi_madhyandina_samhita.json) - Complete Samhita
+
+#### Vajasaneyi Kanva Samhita
+The `Vajasaneyi Kanva Samhita` directory contains JSON files for the chapters of the Vajasaneyi Kanva Samhita:
+
+- [vajasaneyi_kanva_samhita_chapters.json](./Yajurveda/vajasaneyi_kanva_samhita_chapters.json) - Chapters 2 to 40 (Note: Chapter 1 is missing)
+
+
+### Atharvaveda
 ![Structure of Rigveda](./Images/atharvaveda%20strucutre.jpg)
 
-There are 20 kaandas in atharvaveda which are present in [Aharavaveda Repo](./AtharvaVeda/)
+There are 20 kaandas in atharvaveda which are present in [Atharavaveda Repo](./AtharvaVeda/)
 
 
 ## Usage
@@ -68,8 +94,9 @@ To use this dataset, simply clone the repository and refer to the individual JSO
 ## Upcoming Additions
 We plan to expand this collection by including the following texts:
 
-- Yajur Veda
 - Sam Veda
+- Krishna Yajurveda Samhita
+- The missing chapter 1 of the Vajasaneyi Kanva Samhita
 
 These will be added in a similar structured format, making it easy for users to access and study these ancient texts.
 
