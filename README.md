@@ -10,6 +10,7 @@ The dataset is organized into two main directories: `Ramcharitmanas` , `SrimadBh
 |------|-------------------|---------------------------|
 | [Ramcharitmanas](#ramcharitmanas) | Composed of chaupais, dohas (sorthas), and various chhands | Approximately 10,000 chaupais |
 | [Srimad Bhagavad Gita](#srimad-bhagavad-gita) | Verses (shlokas) in classical Sanskrit | Approximately 700 |
+| [Mahabharata](#mahabharata) | 18 books divided into multiple chapter | Approximately 1,00,000 |
 | [Valmiki Ramayana](#valmiki-ramayana) | Verses (shlokas) in classical Sanskrit | Approximately 24,000 |
 | [Rigveda](#rigveda) | Hymns (suktas) divided into mandalas | Over 10,000 (including all Mandalas) |
 | [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 |
@@ -49,6 +50,11 @@ The `SrimadBhagvadGita` directory contains files for each of the 18 chapters of 
 - [bhagavad_gita_chapter_16.json](./SrimadBhagvadGita/bhagavad_gita_chapter_16.json) - Chapter 16
 - [bhagavad_gita_chapter_17.json](./SrimadBhagvadGita/bhagavad_gita_chapter_17.json) - Chapter 17
 - [bhagavad_gita_chapter_18.json](./SrimadBhagvadGita/bhagavad_gita_chapter_18.json) - Chapter 18
+
+### [Mahabharata](./Mahabharata/)
+
+There are 18 books in mahabharata consiting of around 1 Lakhs shlokas, available in     
+ [Mahabharata folder](./Mahabharata/)
 
 ### [Valmiki Ramayana](./ValmikiRamayana/)
 
