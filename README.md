@@ -17,13 +17,6 @@ Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with B
 | [Atharvaveda](#atharvaveda) | Hymns and prose | Approximately 6,000 |
 
 
-- [Ramcharitmanas](#ramcharitmanas)
-- [Srimad Bhagavad Gita](#srimad-bhagavad-gita)
-- [Valmiki Ramayana](#valmiki-ramayana)
-- [Rigveda](#rigveda)
-- [Yajurveda](#yajurveda)
-- [Atharvaveda](#atharvaveda)
-
 ### [Ramcharitmanas](./Ramcharitmanas/)
 The `Ramcharitmanas` directory contains the following files representing each of the seven काण्डs:
 
