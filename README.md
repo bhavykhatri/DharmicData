@@ -52,7 +52,19 @@ The `SrimadBhagvadGita` directory contains files for each of the 18 chapters of 
 
 ### [Valmiki Ramayana](./ValmikiRamayana/)
 
-All 7 kaands (~24000 shlokas) of vamiki ramayana is present [here](./ValmikiRamayana/). Credits to [Ramayana book](https://github.com/svenkatreddy/Ramayana_Book) for providing the data
+All 7 kaands (~24,000 shlokas) of Valmiki Ramayana are present in the directory. Each kānd is available as a separate JSON file, detailing the various phases of Lord Rama's life:
+
+- [Balakanda](./ValmikiRamayana/1_balakanda.json) - बालकाण्ड: Describes the birth of Rama, his childhood and marriage to Sita.
+- [Ayodhyakanda](./ValmikiRamayana/2_ayodhyakanda.json) - अयोध्याकाण्ड: Details Rama's exile, the preparations for his coronation, and his departure to the forest.
+- [Aranyakanda](./ValmikiRamayana/3_aranyakanda.json) - अरण्यकाण्ड: Chronicles the forest life of Rama and his encounters with sages and demons.
+- [Kishkindhakanda](./ValmikiRamayana/4_kishkindhakanda.json) - किष्किंधाकाण्ड: Covers the meeting of Rama with Hanuman and the vanara (monkey) kingdom of Kishkindha.
+- [Sundarakanda](./ValmikiRamayana/5_sundarakanda.json) - सुंदरकाण्ड: Depicts Hanuman's journey to Lanka, his meeting with Sita, and his fiery escape.
+- [Yudhhakanda](./ValmikiRamayana/6_yudhhakanda.json) - युद्धकाण्ड: Describes the great war between Rama's army and the forces of Ravana.
+- [Uttarakanda](./ValmikiRamayana/7_uttarakanda.json) - उत्तरकाण्ड: Talks about Rama's life after returning to Ayodhya, his coronation, and the banishment of Sita.
+
+Credits to [Ramayana book](https://github.com/svenkatreddy/Ramayana_Book) for providing the data.
+
+
 
 ### [Rigveda](./Rigveda/)
 
