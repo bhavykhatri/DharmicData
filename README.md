@@ -1,12 +1,19 @@
 # Hindu Sacred Texts Dataset
 
 ## Overview
-This repository contains a structured collection of sacred texts from Hinduism, formatted in JSON for easy access and analysis. It includes texts from the 'Ramcharitmanas' , 'Srimad Bhagavad Gita' , 'Rigveda' , 'Yajurveda' and the 'Atharvaveda'.
+This repository contains a structured collection of sacred texts from Hinduism, formatted in JSON for easy access and analysis. It includes texts from the 'Ramcharitmanas' , 'Srimad Bhagavad Gita', 'Valmiki Ramayana' , 'Rigveda' , 'Yajurveda' and the 'Atharvaveda'.
 
 ## File Structure
-The dataset is organized into two main directories: `Ramcharitmanas` , `SrimadBhagvadGita` , `Rigveda`, `Yajurveda` and the `Atharvaveda`, each containing JSON files for different chapters or काण्ड.
+The dataset is organized into two main directories: `Ramcharitmanas` , `SrimadBhagvadGita`, `Valmiki Ramayana` , `Rigveda`, `Yajurveda` and the `Atharvaveda`, each containing JSON files for different chapters or काण्ड.
 
-### Ramcharitmanas
+- [Ramcharitmanas](#ramcharitmanas)
+- [Srimad Bhagavad Gita](#srimad-bhagavad-gita)
+- [Valmiki Ramayana](#valmiki-ramayana)
+- [Rigveda](#rigveda)
+- [Yajurveda](#yajurveda)
+- [Atharvaveda](#atharvaveda)
+
+### [Ramcharitmanas](./Ramcharitmanas/)
 The `Ramcharitmanas` directory contains the following files representing each of the seven काण्डs:
 
 - [1_बाल_काण्ड_data.json](./Ramcharitmanas/1_बाल_काण्ड_data.json) - Bal Kānd
@@ -17,7 +24,7 @@ The `Ramcharitmanas` directory contains the following files representing each of
 - [6_लंका_काण्ड_data.json](./Ramcharitmanas/6_लंका_काण्ड_data.json) - Lanka Kānd
 - [7_उत्तर_काण्ड_data.json](./Ramcharitmanas/7_उत्तर_काण्ड_data.json) - Uttar Kānd
 
-### Srimad Bhagavad Gita
+### [Srimad Bhagavad Gita](./SrimadBhagvadGita/)
 The `SrimadBhagvadGita` directory contains files for each of the 18 chapters of the Bhagavad Gita:
 
 - [bhagavad_gita_chapter_1.json](./SrimadBhagvadGita/bhagavad_gita_chapter_1.json) - Chapter 1
@@ -39,11 +46,11 @@ The `SrimadBhagvadGita` directory contains files for each of the 18 chapters of 
 - [bhagavad_gita_chapter_17.json](./SrimadBhagvadGita/bhagavad_gita_chapter_17.json) - Chapter 17
 - [bhagavad_gita_chapter_18.json](./SrimadBhagvadGita/bhagavad_gita_chapter_18.json) - Chapter 18
 
-### Valmiki Ramayana
+### [Valmiki Ramayana](./ValmikiRamayana/)
 
 All 7 kaands (~24000 shlokas) of vamiki ramayana is present [here](./ValmikiRamayana/). Credits to [Ramayana book](https://github.com/svenkatreddy/Ramayana_Book) for providing the data
 
-### Rigveda
+### [Rigveda](./Rigveda/)
 
 ![Structure of Rigveda](/Images/rigveda-structure.jpg)
 
@@ -62,11 +69,8 @@ The `Rigveda` directory has been added to the repository, containing JSON files 
 
 
 
-Certainly! Below is the updated README section for the Shukla Yajurveda Samhita, along with a note about the Kanva Samhita chapter 1 missing, and an update to the upcoming additions section:
 
-markdown
-Copy code
-## Yajurveda
+## [Yajurveda](./Yajurveda/)
 
 The `Yajurveda` directory has been added to the repository, containing JSON files for the Shukla Yajurveda Samhitas:
 
@@ -86,7 +90,7 @@ The `Vajasaneyi Kanva Samhita` directory contains JSON files for the chapters of
 - [vajasaneyi_kanva_samhita_chapters.json](./Yajurveda/vajasneyi_kanva_samhita_chapters.json) - Chapters 2 to 40 (Note: Chapter 1 is missing)
 
 
-### Atharvaveda
+### [Atharvaveda](./AtharvaVeda/)
 ![Structure of Rigveda](./Images/atharvaveda%20strucutre.jpg)
 
 There are 20 kaandas in atharvaveda which are present in [Atharavaveda Repo](./AtharvaVeda/)
