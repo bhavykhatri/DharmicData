@@ -6,6 +6,17 @@ This repository contains a structured collection of sacred texts from Hinduism, 
 ## File Structure
 The dataset is organized into two main directories: `Ramcharitmanas` , `SrimadBhagvadGita`, `Valmiki Ramayana` , `Rigveda`, `Yajurveda` and the `Atharvaveda`, each containing JSON files for different chapters or काण्ड.
 
+| Text | Structure Details | Estimated Number of Verses |
+|------|-------------------|---------------------------|
+| [Ramcharitmanas](#ramcharitmanas) | Composed of chaupais, dohas (sorthas), and various chhands | Approximately 10,000 chaupais |
+| [Srimad Bhagavad Gita](#srimad-bhagavad-gita) | Verses (shlokas) in classical Sanskrit | Approximately 700 |
+| [Valmiki Ramayana](#valmiki-ramayana) | Verses (shlokas) in classical Sanskrit | Approximately 24,000 |
+| [Rigveda](#rigveda) | Hymns (suktas) divided into mandalas | Over 10,000 (including all Mandalas) |
+| [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 |
+Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with Brahmana and Aranyaka sections | Varies widely |
+| [Atharvaveda](#atharvaveda) | Hymns and prose | Approximately 6,000 |
+
+
 - [Ramcharitmanas](#ramcharitmanas)
 - [Srimad Bhagavad Gita](#srimad-bhagavad-gita)
 - [Valmiki Ramayana](#valmiki-ramayana)
