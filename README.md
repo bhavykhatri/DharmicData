@@ -39,6 +39,10 @@ The `SrimadBhagvadGita` directory contains files for each of the 18 chapters of 
 - [bhagavad_gita_chapter_17.json](./SrimadBhagvadGita/bhagavad_gita_chapter_17.json) - Chapter 17
 - [bhagavad_gita_chapter_18.json](./SrimadBhagvadGita/bhagavad_gita_chapter_18.json) - Chapter 18
 
+### Valmiki Ramayana
+
+All 7 kaands (~24000 shlokas) of vamiki ramayana is present [here](./ValmikiRamayana/). Credits to [Ramayana book](https://github.com/svenkatreddy/Ramayana_Book) for providing the data
+
 ### Rigveda
 
 ![Structure of Rigveda](/Images/rigveda-structure.jpg)
