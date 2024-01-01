@@ -12,10 +12,10 @@ The dataset is organized into two main directories: `Ramcharitmanas`, `Srimad Bh
 | [Srimad Bhagavad Gita](#srimad-bhagavad-gita) | Verses (shlokas) in classical Sanskrit | Approximately 700 | [Gita Supersite by IIT Kanpur](https://www.gitasupersite.iitk.ac.in/) |
 | [Mahabharata](#mahabharata) | 18 books divided into multiple chapters | Approximately 1,00,000 | [Sacred Texts Mahabharata](https://sacred-texts.com/hin/mbs/mbsi01.htm) |
 | [Valmiki Ramayana](#valmiki-ramayana) | Verses (shlokas) in classical Sanskrit | Approximately 24,000 | [GitHub Repository - Ramayana Book](https://github.com/svenkatreddy/Ramayana_Book) |
-| [Rigveda](#rigveda) | Hymns (suktas) divided into mandalas | Over 10,000 (including all Mandalas) | [Sacred Text Rigveda](https://archive.sacred-texts.com/hin/rvsan/index.htm) |
-| [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 | - |
-| Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with Brahmana and Aranyaka sections | Varies widely | TBA |
-| [Atharvaveda](#atharvaveda) | Hymns and prose | Approximately 6,000 | [Atharva Veda Complete Volume 1 & 2](https://archive.org/details/atharva-veda-vol-2-of-2/page/n41/mode/2up) |
+| [Rigveda](#rigveda) | Hymns (suktas) divided into mandalas | Over 10,000 (including all Mandalas) | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
+| [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
+| Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with Brahmana and Aranyaka sections | Varies widely | - |
+| [Atharvaveda](#atharvaveda) | Hymns and prose | Approximately 6,000 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
 
 
 ### [Ramcharitmanas](./Ramcharitmanas/)
