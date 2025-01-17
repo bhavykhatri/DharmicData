@@ -1,236 +1,1640 @@
 {
-    "17001001": "जनमेजय उवाच\n",
-    "17001001a": "एवं वृष्ण्यन्धककुले श्रुत्वा मौसलमाहवम्\n",
-    "17001001c": "पाण्डवाः किमकुर्वन्त तथा कृष्णे दिवं गते\n",
-    "17001002": "वैशंपायन उवाच\n",
-    "17001002a": "श्रुत्वैव कौरवो राजा वृष्णीनां कदनं महत्\n",
-    "17001002c": "प्रस्थाने मतिमाधाय वाक्यमर्जुनमब्रवीत्\n",
-    "17001003a": "कालः पचति भूतानि सर्वाण्येव महामते\n",
-    "17001003c": "कर्मन्यासमहं मन्ये त्वमपि द्रष्टुमर्हसि\n",
-    "17001004a": "इत्युक्तः स तु कौन्तेयः कालः काल इति ब्रुवन्\n",
-    "17001004c": "अन्वपद्यत तद्वाक्यं भ्रातुर्ज्येष्ठस्य वीर्यवान्\n",
-    "17001005a": "अर्जुनस्य मतं ज्ञात्वा भीमसेनो यमौ तथा\n",
-    "17001005c": "अन्वपद्यन्त तद्वाक्यं यदुक्तं सव्यसाचिना\n",
-    "17001006a": "ततो युयुत्सुमानाय्य प्रव्रजन्धर्मकाम्यया\n",
-    "17001006c": "राज्यं परिददौ सर्वं वैश्यापुत्रे युधिष्ठिरः\n",
-    "17001007a": "अभिषिच्य स्वराज्ये तु तं राजानं परिक्षितम्\n",
-    "17001007c": "दुःखार्तश्चाब्रवीद्राजा सुभद्रां पाण्डवाग्रजः\n",
-    "17001008a": "एष पुत्रस्य ते पुत्रः कुरुराजो भविष्यति\n",
-    "17001008c": "यदूनां परिशेषश्च वज्रो राजा कृतश्च ह\n",
-    "17001009a": "परिक्षिद्धास्तिनपुरे शक्रप्रस्थे तु यादवः\n",
-    "17001009c": "वज्रो राजा त्वया रक्ष्यो मा चाधर्मे मनः कृथाः\n",
-    "17001010a": "इत्युक्त्वा धर्मराजः स वासुदेवस्य धीमतः\n",
-    "17001010c": "मातुलस्य च वृद्धस्य रामादीनां तथैव च\n",
-    "17001011a": "भ्रातृभिः सह धर्मात्मा कृत्वोदकमतन्द्रितः\n",
-    "17001011c": "श्राद्धान्युद्दिश्य सर्वेषां चकार विधिवत्तदा\n",
-    "17001012a": "ददौ रत्नानि वासांसि ग्रामानश्वान्रथानपि\n",
-    "17001012c": "स्त्रियश्च द्विजमुख्येभ्यो गवां शतसहस्रशः\n",
-    "17001013a": "कृपमभ्यर्च्य च गुरुमर्थमानपुरस्कृतम्\n",
-    "17001013c": "शिष्यं परिक्षितं तस्मै ददौ भरतसत्तमः\n",
-    "17001014a": "ततस्तु प्रकृतीः सर्वाः समानाय्य युधिष्ठिरः\n",
-    "17001014c": "सर्वमाचष्ट राजर्षिश्चिकीर्षितमथात्मनः\n",
-    "17001015a": "ते श्रुत्वैव वचस्तस्य पौरजानपदा जनाः\n",
-    "17001015c": "भृशमुद्विग्नमनसो नाभ्यनन्दन्त तद्वचः\n",
-    "17001016a": "नैवं कर्तव्यमिति ते तदोचुस्ते नराधिपम्\n",
-    "17001016c": "न च राजा तथाकार्षीत्कालपर्यायधर्मवित्\n",
-    "17001017a": "ततोऽनुमान्य धर्मात्मा पौरजानपदं जनम्\n",
-    "17001017c": "गमनाय मतिं चक्रे भ्रातरश्चास्य ते तदा\n",
-    "17001018a": "ततः स राजा कौरव्यो धर्मपुत्रो युधिष्ठिरः\n",
-    "17001018c": "उत्सृज्याभरणान्यङ्गाज्जगृहे वल्कलान्युत\n",
-    "17001019a": "भीमार्जुनौ यमौ चैव द्रौपदी च यशस्विनी\n",
-    "17001019c": "तथैव सर्वे जगृहुर्वल्कलानि जनाधिप\n",
-    "17001020a": "विधिवत्कारयित्वेष्टिं नैष्ठिकीं भरतर्षभ\n",
-    "17001020c": "समुत्सृज्याप्सु सर्वेऽग्नीन्प्रतस्थुर्नरपुंगवाः\n",
-    "17001021a": "ततः प्ररुरुदुः सर्वाः स्त्रियो दृष्ट्वा नरर्षभान्\n",
-    "17001021c": "प्रस्थितान्द्रौपदीषष्ठान्पुरा द्यूतजितान्यथा\n",
-    "17001022a": "हर्षोऽभवच्च सर्वेषां भ्रातॄणां गमनं प्रति\n",
-    "17001022c": "युधिष्ठिरमतं ज्ञात्वा वृष्णिक्षयमवेक्ष्य च\n",
-    "17001023a": "भ्रातरः पञ्च कृष्णा च षष्ठी श्वा चैव सप्तमः\n",
-    "17001023c": "आत्मना सप्तमो राजा निर्ययौ गजसाह्वयात्\n",
-    "17001023e": "पौरैरनुगतो दूरं सर्वैरन्तःपुरैस्तथा\n",
-    "17001024a": "न चैनमशकत्कश्चिन्निवर्तस्वेति भाषितुम्\n",
-    "17001024c": "न्यवर्तन्त ततः सर्वे नरा नगरवासिनः\n",
-    "17001025a": "कृपप्रभृतयश्चैव युयुत्सुं पर्यवारयन्\n",
-    "17001025c": "विवेश गङ्गां कौरव्य उलूपी भुजगात्मजा\n",
-    "17001026a": "चित्राङ्गदा ययौ चापि मणिपूरपुरं प्रति\n",
-    "17001026c": "शिष्टाः परिक्षितं त्वन्या मातरः पर्यवारयन्\n",
-    "17001027a": "पाण्डवाश्च महात्मानो द्रौपदी च यशस्विनी\n",
-    "17001027c": "कृतोपवासाः कौरव्य प्रययुः प्राङ्मुखास्ततः\n",
-    "17001028a": "योगयुक्ता महात्मानस्त्यागधर्ममुपेयुषः\n",
-    "17001028c": "अभिजग्मुर्बहून्देशान्सरितः पर्वतांस्तथा\n",
-    "17001029a": "युधिष्ठिरो ययावग्रे भीमस्तु तदनन्तरम्\n",
-    "17001029c": "अर्जुनस्तस्य चान्वेव यमौ चैव यथाक्रमम्\n",
-    "17001030a": "पृष्ठतस्तु वरारोहा श्यामा पद्मदलेक्षणा\n",
-    "17001030c": "द्रौपदी योषितां श्रेष्ठा ययौ भरतसत्तम\n",
-    "17001031a": "श्वा चैवानुययावेकः पाण्डवान्प्रस्थितान्वने\n",
-    "17001031c": "क्रमेण ते ययुर्वीरा लौहित्यं सलिलार्णवम्\n",
-    "17001032a": "गाण्डीवं च धनुर्दिव्यं न मुमोच धनंजयः\n",
-    "17001032c": "रत्नलोभान्महाराज तौ चाक्षय्यौ महेषुधी\n",
-    "17001033a": "अग्निं ते ददृशुस्तत्र स्थितं शैलमिवाग्रतः\n",
-    "17001033c": "मार्गमावृत्य तिष्ठन्तं साक्षात्पुरुषविग्रहम्\n",
-    "17001034a": "ततो देवः स सप्तार्चिः पाण्डवानिदमब्रवीत्\n",
-    "17001034c": "भो भो पाण्डुसुता वीराः पावकं मां विबोधत\n",
-    "17001035a": "युधिष्ठिर महाबाहो भीमसेन परंतप\n",
-    "17001035c": "अर्जुनाश्विसुतौ वीरौ निबोधत वचो मम\n",
-    "17001036a": "अहमग्निः कुरुश्रेष्ठा मया दग्धं च खाण्डवम्\n",
-    "17001036c": "अर्जुनस्य प्रभावेण तथा नारायणस्य च\n",
-    "17001037a": "अयं वः फल्गुनो भ्राता गाण्डीवं परमायुधम्\n",
-    "17001037c": "परित्यज्य वनं यातु नानेनार्थोऽस्ति कश्चन\n",
-    "17001038a": "चक्ररत्नं तु यत्कृष्णे स्थितमासीन्महात्मनि\n",
-    "17001038c": "गतं तच्च पुनर्हस्ते कालेनैष्यति तस्य ह\n",
-    "17001039a": "वरुणादाहृतं पूर्वं मयैतत्पार्थकारणात्\n",
-    "17001039c": "गाण्डीवं कार्मुकश्रेष्ठं वरुणायैव दीयताम्\n",
-    "17001040a": "ततस्ते भ्रातरः सर्वे धनंजयमचोदयन्\n",
-    "17001040c": "स जले प्राक्षिपत्तत्तु तथाक्षय्यौ महेषुधी\n",
-    "17001041a": "ततोऽग्निर्भरतश्रेष्ठ तत्रैवान्तरधीयत\n",
-    "17001041c": "ययुश्च पाण्डवा वीरास्ततस्ते दक्षिणामुखाः\n",
-    "17001042a": "ततस्ते तूत्तरेणैव तीरेण लवणाम्भसः\n",
-    "17001042c": "जग्मुर्भरतशार्दूल दिशं दक्षिणपश्चिमम्\n",
-    "17001043a": "ततः पुनः समावृत्ताः पश्चिमां दिशमेव ते\n",
-    "17001043c": "ददृशुर्द्वारकां चापि सागरेण परिप्लुताम्\n",
-    "17001044a": "उदीचीं पुनरावृत्त्य ययुर्भरतसत्तमाः\n",
-    "17001044c": "प्रादक्षिण्यं चिकीर्षन्तः पृथिव्या योगधर्मिणः\n",
-    "17002001": "वैशंपायन उवाच\n",
-    "17002001a": "ततस्ते नियतात्मान उदीचीं दिशमास्थिताः\n",
-    "17002001c": "ददृशुर्योगयुक्ताश्च हिमवन्तं महागिरिम्\n",
-    "17002002a": "तं चाप्यतिक्रमन्तस्ते ददृशुर्वालुकार्णवम्\n",
-    "17002002c": "अवैक्षन्त महाशैलं मेरुं शिखरिणां वरम्\n",
-    "17002003a": "तेषां तु गच्छतां शीघ्रं सर्वेषां योगधर्मिणाम्\n",
-    "17002003c": "याज्ञसेनी भ्रष्टयोगा निपपात महीतले\n",
-    "17002004a": "तां तु प्रपतितां दृष्ट्वा भीमसेनो महाबलः\n",
-    "17002004c": "उवाच धर्मराजानं याज्ञसेनीमवेक्ष्य ह\n",
-    "17002005a": "नाधर्मश्चरितः कश्चिद्राजपुत्र्या परंतप\n",
-    "17002005c": "कारणं किं नु तद्राजन्यत्कृष्णा पतिता भुवि\n",
-    "17002006": "युधिष्ठिर उवाच\n",
-    "17002006a": "पक्षपातो महानस्या विशेषेण धनंजये\n",
-    "17002006c": "तस्यैतत्फलमद्यैषा भुङ्क्ते पुरुषसत्तम\n",
-    "17002007": "वैशंपायन उवाच\n",
-    "17002007a": "एवमुक्त्वानवेक्ष्यैनां ययौ धर्मसुतो नृपः\n",
-    "17002007c": "समाधाय मनो धीमान्धर्मात्मा पुरुषर्षभः\n",
-    "17002008a": "सहदेवस्ततो धीमान्निपपात महीतले\n",
-    "17002008c": "तं चापि पतितं दृष्ट्वा भीमो राजानमब्रवीत्\n",
-    "17002009a": "योऽयमस्मासु सर्वेषु शुश्रूषुरनहंकृतः\n",
-    "17002009c": "सोऽयं माद्रवतीपुत्रः कस्मान्निपतितो भुवि\n",
-    "17002010": "युधिष्ठिर उवाच\n",
-    "17002010a": "आत्मनः सदृशं प्राज्ञं नैषोऽमन्यत कंचन\n",
-    "17002010c": "तेन दोषेण पतितस्तस्मादेष नृपात्मजः\n",
-    "17002011": "वैशंपायन उवाच\n",
-    "17002011a": "इत्युक्त्वा तु समुत्सृज्य सहदेवं ययौ तदा\n",
-    "17002011c": "भ्रातृभिः सह कौन्तेयः शुना चैव युधिष्ठिरः\n",
-    "17002012a": "कृष्णां निपतितां दृष्ट्वा सहदेवं च पाण्डवम्\n",
-    "17002012c": "आर्तो बन्धुप्रियः शूरो नकुलो निपपात ह\n",
-    "17002013a": "तस्मिन्निपतिते वीरे नकुले चारुदर्शने\n",
-    "17002013c": "पुनरेव तदा भीमो राजानमिदमब्रवीत्\n",
-    "17002014a": "योऽयमक्षतधर्मात्मा भ्राता वचनकारकः\n",
-    "17002014c": "रूपेणाप्रतिमो लोके नकुलः पतितो भुवि\n",
-    "17002015a": "इत्युक्तो भीमसेनेन प्रत्युवाच युधिष्ठिरः\n",
-    "17002015c": "नकुलं प्रति धर्मात्मा सर्वबुद्धिमतां वरः\n",
-    "17002016a": "रूपेण मत्समो नास्ति कश्चिदित्यस्य दर्शनम्\n",
-    "17002016c": "अधिकश्चाहमेवैक इत्यस्य मनसि स्थितम्\n",
-    "17002017a": "नकुलः पतितस्तस्मादागच्छ त्वं वृकोदर\n",
-    "17002017c": "यस्य यद्विहितं वीर सोऽवश्यं तदुपाश्नुते\n",
-    "17002018a": "तांस्तु प्रपतितान्दृष्ट्वा पाण्डवः श्वेतवाहनः\n",
-    "17002018c": "पपात शोकसंतप्तस्ततोऽनु परवीरहा\n",
-    "17002019a": "तस्मिंस्तु पुरुषव्याघ्रे पतिते शक्रतेजसि\n",
-    "17002019c": "म्रियमाणे दुराधर्षे भीमो राजानमब्रवीत्\n",
-    "17002020a": "अनृतं न स्मराम्यस्य स्वैरेष्वपि महात्मनः\n",
-    "17002020c": "अथ कस्य विकारोऽयं येनायं पतितो भुवि\n",
-    "17002021": "युधिष्ठिर उवाच\n",
-    "17002021a": "एकाह्ना निर्दहेयं वै शत्रूनित्यर्जुनोऽब्रवीत्\n",
-    "17002021c": "न च तत्कृतवानेष शूरमानी ततोऽपतत्\n",
-    "17002022a": "अवमेने धनुर्ग्राहानेष सर्वांश्च फल्गुनः\n",
-    "17002022c": "यथा चोक्तं तथा चैव कर्तव्यं भूतिमिच्छता\n",
-    "17002023": "वैशंपायन उवाच\n",
-    "17002023a": "इत्युक्त्वा प्रस्थितो राजा भीमोऽथ निपपात ह\n",
-    "17002023c": "पतितश्चाब्रवीद्भीमो धर्मराजं युधिष्ठिरम्\n",
-    "17002024a": "भो भो राजन्नवेक्षस्व पतितोऽहं प्रियस्तव\n",
-    "17002024c": "किंनिमित्तं च पतनं ब्रूहि मे यदि वेत्थ ह\n",
-    "17002025": "युधिष्ठिर उवाच\n",
-    "17002025a": "अतिभुक्तं च भवता प्राणेन च विकत्थसे\n",
-    "17002025c": "अनवेक्ष्य परं पार्थ तेनासि पतितः क्षितौ\n",
-    "17002026": "वैशंपायन उवाच\n",
-    "17002026a": "इत्युक्त्वा तं महाबाहुर्जगामानवलोकयन्\n",
-    "17002026c": "श्वा त्वेकोऽनुययौ यस्ते बहुशः कीर्तितो मया\n",
-    "17003001": "वैशंपायन उवाच\n",
-    "17003001a": "ततः संनादयञ्शक्रो दिवं भूमिं च सर्वशः\n",
-    "17003001c": "रथेनोपययौ पार्थमारोहेत्यब्रवीच्च तम्\n",
-    "17003002a": "स भ्रातॄन्पतितान्दृष्ट्वा धर्मराजो युधिष्ठिरः\n",
-    "17003002c": "अब्रवीच्छोकसंतप्तः सहस्राक्षमिदं वचः\n",
-    "17003003a": "भ्रातरः पतिता मेऽत्र आगच्छेयुर्मया सह\n",
-    "17003003c": "न विना भ्रातृभिः स्वर्गमिच्छे गन्तुं सुरेश्वर\n",
-    "17003004a": "सुकुमारी सुखार्हा च राजपुत्री पुरंदर\n",
-    "17003004c": "सास्माभिः सह गच्छेत तद्भवाननुमन्यताम्\n",
-    "17003005": "इन्द्र उवाच\n",
-    "17003005a": "भ्रातॄन्द्रक्ष्यसि पुत्रांस्त्वमग्रतस्त्रिदिवं गतान्\n",
-    "17003005c": "कृष्णया सहितान्सर्वान्मा शुचो भरतर्षभ\n",
-    "17003006a": "निक्षिप्य मानुषं देहं गतास्ते भरतर्षभ\n",
-    "17003006c": "अनेन त्वं शरीरेण स्वर्गं गन्ता न संशयः\n",
-    "17003007": "युधिष्ठिर उवाच\n",
-    "17003007a": "अयं श्वा भूतभव्येश भक्तो मां नित्यमेव ह\n",
-    "17003007c": "स गच्छेत मया सार्धमानृशंस्या हि मे मतिः\n",
-    "17003008": "इन्द्र उवाच\n",
-    "17003008a": "अमर्त्यत्वं मत्समत्वं च राज;ञ्श्रियं कृत्स्नां महतीं चैव कीर्तिम्\n",
-    "17003008c": "संप्राप्तोऽद्य स्वर्गसुखानि च त्वं; त्यज श्वानं नात्र नृशंसमस्ति\n",
-    "17003009": "युधिष्ठिर उवाच\n",
-    "17003009a": "अनार्यमार्येण सहस्रनेत्र; शक्यं कर्तुं दुष्करमेतदार्य\n",
-    "17003009c": "मा मे श्रिया संगमनं तयास्तु; यस्याः कृते भक्तजनं त्यजेयम्\n",
-    "17003010": "इन्द्र उवाच\n",
-    "17003010a": "स्वर्गे लोके श्ववतां नास्ति धिष्ण्य;मिष्टापूर्तं क्रोधवशा हरन्ति\n",
-    "17003010c": "ततो विचार्य क्रियतां धर्मराज; त्यज श्वानं नात्र नृशंसमस्ति\n",
-    "17003011": "युधिष्ठिर उवाच\n",
-    "17003011a": "भक्तत्यागं प्राहुरत्यन्तपापं; तुल्यं लोके ब्रह्मवध्याकृतेन\n",
-    "17003011c": "तस्मान्नाहं जातु कथंचनाद्य; त्यक्ष्याम्येनं स्वसुखार्थी महेन्द्र\n",
-    "17003012": "इन्द्र उवाच\n",
-    "17003012a": "शुना दृष्टं क्रोधवशा हरन्ति; यद्दत्तमिष्टं विवृतमथो हुतं च\n",
-    "17003012c": "तस्माच्छुनस्त्यागमिमं कुरुष्व; शुनस्त्यागात्प्राप्स्यसे देवलोकम्\n",
-    "17003013a": "त्यक्त्वा भ्रातॄन्दयितां चापि कृष्णां; प्राप्तो लोकः कर्मणा स्वेन वीर\n",
-    "17003013c": "श्वानं चैनं न त्यजसे कथं नु; त्यागं कृत्स्नं चास्थितो मुह्यसेऽद्य\n",
-    "17003014": "युधिष्ठिर उवाच\n",
-    "17003014a": "न विद्यते संधिरथापि विग्रहो; मृतैर्मर्त्यैरिति लोकेषु निष्ठा\n",
-    "17003014c": "न ते मया जीवयितुं हि शक्या; तस्मात्त्यागस्तेषु कृतो न जीवताम्\n",
-    "17003015a": "प्रतिप्रदानं शरणागतस्य; स्त्रिया वधो ब्राह्मणस्वापहारः\n",
-    "17003015c": "मित्रद्रोहस्तानि चत्वारि शक्र; भक्तत्यागश्चैव समो मतो मे\n",
-    "17003016": "वैशंपायन उवाच\n",
-    "17003016a": "तद्धर्मराजस्य वचो निशम्य; धर्मस्वरूपी भगवानुवाच\n",
-    "17003016c": "युधिष्ठिरं प्रीतियुक्तो नरेन्द्रं; श्लक्ष्णैर्वाक्यैः संस्तवसंप्रयुक्तैः\n",
-    "17003017a": "अभिजातोऽसि राजेन्द्र पितुर्वृत्तेन मेधया\n",
-    "17003017c": "अनुक्रोशेन चानेन सर्वभूतेषु भारत\n",
-    "17003018a": "पुरा द्वैतवने चासि मया पुत्र परीक्षितः\n",
-    "17003018c": "पानीयार्थे पराक्रान्ता यत्र ते भ्रातरो हताः\n",
-    "17003019a": "भीमार्जुनौ परित्यज्य यत्र त्वं भ्रातरावुभौ\n",
-    "17003019c": "मात्रोः साम्यमभीप्सन्वै नकुलं जीवमिच्छसि\n",
-    "17003020a": "अयं श्वा भक्त इत्येव त्यक्तो देवरथस्त्वया\n",
-    "17003020c": "तस्मात्स्वर्गे न ते तुल्यः कश्चिदस्ति नराधिप\n",
-    "17003021a": "अतस्तवाक्षया लोकाः स्वशरीरेण भारत\n",
-    "17003021c": "प्राप्तोऽसि भरतश्रेष्ठ दिव्यां गतिमनुत्तमाम्\n",
-    "17003022a": "ततो धर्मश्च शक्रश्च मरुतश्चाश्विनावपि\n",
-    "17003022c": "देवा देवर्षयश्चैव रथमारोप्य पाण्डवम्\n",
-    "17003023a": "प्रययुः स्वैर्विमानैस्ते सिद्धाः कामविहारिणः\n",
-    "17003023c": "सर्वे विरजसः पुण्याः पुण्यवाग्बुद्धिकर्मिणः\n",
-    "17003024a": "स तं रथं समास्थाय राजा कुरुकुलोद्वहः\n",
-    "17003024c": "ऊर्ध्वमाचक्रमे शीघ्रं तेजसावृत्य रोदसी\n",
-    "17003025a": "ततो देवनिकायस्थो नारदः सर्वलोकवित्\n",
-    "17003025c": "उवाचोच्चैस्तदा वाक्यं बृहद्वादी बृहत्तपाः\n",
-    "17003026a": "येऽपि राजर्षयः सर्वे ते चापि समुपस्थिताः\n",
-    "17003026c": "कीर्तिं प्रच्छाद्य तेषां वै कुरुराजोऽधितिष्ठति\n",
-    "17003027a": "लोकानावृत्य यशसा तेजसा वृत्तसंपदा\n",
-    "17003027c": "स्वशरीरेण संप्राप्तं नान्यं शुश्रुम पाण्डवात्\n",
-    "17003028a": "नारदस्य वचः श्रुत्वा राजा वचनमब्रवीत्\n",
-    "17003028c": "देवानामन्त्र्य धर्मात्मा स्वपक्षांश्चैव पार्थिवान्\n",
-    "17003029a": "शुभं वा यदि वा पापं भ्रातॄणां स्थानमद्य मे\n",
-    "17003029c": "तदेव प्राप्तुमिच्छामि लोकानन्यान्न कामये\n",
-    "17003030a": "राज्ञस्तु वचनं श्रुत्वा देवराजः पुरंदरः\n",
-    "17003030c": "आनृशंस्यसमायुक्तं प्रत्युवाच युधिष्ठिरम्\n",
-    "17003031a": "स्थानेऽस्मिन्वस राजेन्द्र कर्मभिर्निर्जिते शुभैः\n",
-    "17003031c": "किं त्वं मानुष्यकं स्नेहमद्यापि परिकर्षसि\n",
-    "17003032a": "सिद्धिं प्राप्तोऽसि परमां यथा नान्यः पुमान्क्वचित्\n",
-    "17003032c": "नैव ते भ्रातरः स्थानं संप्राप्ताः कुरुनन्दन\n",
-    "17003033a": "अद्यापि मानुषो भावः स्पृशते त्वां नराधिप\n",
-    "17003033c": "स्वर्गोऽयं पश्य देवर्षीन्सिद्धांश्च त्रिदिवालयान्\n",
-    "17003034a": "युधिष्ठिरस्तु देवेन्द्रमेवंवादिनमीश्वरम्\n",
-    "17003034c": "पुनरेवाब्रवीद्धीमानिदं वचनमर्थवत्\n",
-    "17003035a": "तैर्विना नोत्सहे वस्तुमिह दैत्यनिबर्हण\n",
-    "17003035c": "गन्तुमिच्छामि तत्राहं यत्र मे भ्रातरो गताः\n",
-    "17003036a": "यत्र सा बृहती श्यामा बुद्धिसत्त्वगुणान्विता\n",
-    "17003036c": "द्रौपदी योषितां श्रेष्ठा यत्र चैव प्रिया मम\n"
+  "17001001": {
+    "text": {
+      "ud": "जनमेजय उवाच\n",
+      "ur": "janamejaya uvāca\n",
+      "ascii": "janamejaya uvAca\n"
+    }
+  },
+  "17001001a": {
+    "text": {
+      "ud": "एवं वृष्ण्यन्धककुले श्रुत्वा मौसलमाहवम्\n",
+      "ur": "evaṁ vr̥ṣṇyandhakakule śrutvā mausalam āhavam\n",
+      "ascii": "evaM vRSNyandhakakule zrutvA mausalam Ahavam\n"
+    }
+  },
+  "17001001c": {
+    "text": {
+      "ud": "पाण्डवाः किमकुर्वन्त तथा कृष्णे दिवं गते\n",
+      "ur": "pāṇḍavāḥ kim akurvanta tathā kr̥ṣṇe divaṁ gate\n",
+      "ascii": "pANDavAH kim akurvanta tathA kRSNe divaM gate\n"
+    }
+  },
+  "17001002": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17001002a": {
+    "text": {
+      "ud": "श्रुत्वैव कौरवो राजा वृष्णीनां कदनं महत्\n",
+      "ur": "śrutvaiva kauravo rājā vr̥ṣṇīnāṁ kadanaṁ mahat\n",
+      "ascii": "zrutvaiva kauravo rAjA vRSNInAM kadanaM mahat\n"
+    }
+  },
+  "17001002c": {
+    "text": {
+      "ud": "प्रस्थाने मतिमाधाय वाक्यमर्जुनमब्रवीत्\n",
+      "ur": "prasthāne matim ādhāya vākyam arjunam abravīt\n",
+      "ascii": "prasthAne matim AdhAya vAkyam arjunam abravIt\n"
+    }
+  },
+  "17001003a": {
+    "text": {
+      "ud": "कालः पचति भूतानि सर्वाण्येव महामते\n",
+      "ur": "kālaḥ pacati bhūtāni sarvāṇy eva mahāmate\n",
+      "ascii": "kAlaH pacati bhUtAni sarvANy eva mahAmate\n"
+    }
+  },
+  "17001003c": {
+    "text": {
+      "ud": "कर्मन्यासमहं मन्ये त्वमपि द्रष्टुमर्हसि\n",
+      "ur": "karmanyāsam ahaṁ manye tvam api draṣṭum arhasi\n",
+      "ascii": "karmanyAsam ahaM manye tvam api draSTum arhasi\n"
+    }
+  },
+  "17001004a": {
+    "text": {
+      "ud": "इत्युक्तः स तु कौन्तेयः कालः काल इति ब्रुवन्\n",
+      "ur": "ity uktaḥ sa tu kaunteyaḥ kālaḥ kāla iti bruvan\n",
+      "ascii": "ity uktaH sa tu kaunteyaH kAlaH kAla iti bruvan\n"
+    }
+  },
+  "17001004c": {
+    "text": {
+      "ud": "अन्वपद्यत तद्वाक्यं भ्रातुर्ज्येष्ठस्य वीर्यवान्\n",
+      "ur": "anvapadyata tad vākyaṁ bhrātur jyeṣṭhasya vīryavān\n",
+      "ascii": "anvapadyata tad vAkyaM bhrAtur jyeSThasya vIryavAn\n"
+    }
+  },
+  "17001005a": {
+    "text": {
+      "ud": "अर्जुनस्य मतं ज्ञात्वा भीमसेनो यमौ तथा\n",
+      "ur": "arjunasya mataṁ jñātvā bhīmaseno yamau tathā\n",
+      "ascii": "arjunasya mataM jJAtvA bhImaseno yamau tathA\n"
+    }
+  },
+  "17001005c": {
+    "text": {
+      "ud": "अन्वपद्यन्त तद्वाक्यं यदुक्तं सव्यसाचिना\n",
+      "ur": "anvapadyanta tad vākyaṁ yad uktaṁ savyasācinā\n",
+      "ascii": "anvapadyanta tad vAkyaM yad uktaM savyasAcinA\n"
+    }
+  },
+  "17001006a": {
+    "text": {
+      "ud": "ततो युयुत्सुमानाय्य प्रव्रजन्धर्मकाम्यया\n",
+      "ur": "tato yuyutsum ānāyya pravrajan dharmakāmyayā\n",
+      "ascii": "tato yuyutsum AnAyya pravrajan dharmakAmyayA\n"
+    }
+  },
+  "17001006c": {
+    "text": {
+      "ud": "राज्यं परिददौ सर्वं वैश्यापुत्रे युधिष्ठिरः\n",
+      "ur": "rājyaṁ paridadau sarvaṁ vaiśyāputre yudhiṣṭhiraḥ\n",
+      "ascii": "rAjyaM paridadau sarvaM vaizyAputre yudhiSThiraH\n"
+    }
+  },
+  "17001007a": {
+    "text": {
+      "ud": "अभिषिच्य स्वराज्ये तु तं राजानं परिक्षितम्\n",
+      "ur": "abhiṣicya svarājye tu taṁ rājānaṁ parikṣitam\n",
+      "ascii": "abhiSicya svarAjye tu taM rAjAnaM parikSitam\n"
+    }
+  },
+  "17001007c": {
+    "text": {
+      "ud": "दुःखार्तश्चाब्रवीद्राजा सुभद्रां पाण्डवाग्रजः\n",
+      "ur": "duḥkhārtaś cābravīd rājā subhadrāṁ pāṇḍavāgrajaḥ\n",
+      "ascii": "duHkhArtaz cAbravId rAjA subhadrAM pANDavAgrajaH\n"
+    }
+  },
+  "17001008a": {
+    "text": {
+      "ud": "एष पुत्रस्य ते पुत्रः कुरुराजो भविष्यति\n",
+      "ur": "eṣa putrasya te putraḥ kururājo bhaviṣyati\n",
+      "ascii": "eSa putrasya te putraH kururAjo bhaviSyati\n"
+    }
+  },
+  "17001008c": {
+    "text": {
+      "ud": "यदूनां परिशेषश्च वज्रो राजा कृतश्च ह\n",
+      "ur": "yadūnāṁ pariśeṣaś ca vajro rājā kr̥taś ca ha\n",
+      "ascii": "yadUnAM parizeSaz ca vajro rAjA kRtaz ca ha\n"
+    }
+  },
+  "17001009a": {
+    "text": {
+      "ud": "परिक्षिद्धास्तिनपुरे शक्रप्रस्थे तु यादवः\n",
+      "ur": "parikṣid dhāstinapure śakraprasthe tu yādavaḥ\n",
+      "ascii": "parikSid dhAstinapure zakraprasthe tu yAdavaH\n"
+    }
+  },
+  "17001009c": {
+    "text": {
+      "ud": "वज्रो राजा त्वया रक्ष्यो मा चाधर्मे मनः कृथाः\n",
+      "ur": "vajro rājā tvayā rakṣyo mā cādharme manaḥ kr̥thāḥ\n",
+      "ascii": "vajro rAjA tvayA rakSyo mA cAdharme manaH kRthAH\n"
+    }
+  },
+  "17001010a": {
+    "text": {
+      "ud": "इत्युक्त्वा धर्मराजः स वासुदेवस्य धीमतः\n",
+      "ur": "ity uktvā dharmarājaḥ sa vāsudevasya dhīmataḥ\n",
+      "ascii": "ity uktvA dharmarAjaH sa vAsudevasya dhImataH\n"
+    }
+  },
+  "17001010c": {
+    "text": {
+      "ud": "मातुलस्य च वृद्धस्य रामादीनां तथैव च\n",
+      "ur": "mātulasya ca vr̥ddhasya rāmādīnāṁ tathaiva ca\n",
+      "ascii": "mAtulasya ca vRddhasya rAmAdInAM tathaiva ca\n"
+    }
+  },
+  "17001011a": {
+    "text": {
+      "ud": "भ्रातृभिः सह धर्मात्मा कृत्वोदकमतन्द्रितः\n",
+      "ur": "bhrātr̥bhiḥ saha dharmātmā kr̥tvodakam atandritaḥ\n",
+      "ascii": "bhrAtRbhiH saha dharmAtmA kRtvodakam atandritaH\n"
+    }
+  },
+  "17001011c": {
+    "text": {
+      "ud": "श्राद्धान्युद्दिश्य सर्वेषां चकार विधिवत्तदा\n",
+      "ur": "śrāddhāny uddiśya sarveṣāṁ cakāra vidhivat tadā\n",
+      "ascii": "zrAddhAny uddizya sarveSAM cakAra vidhivat tadA\n"
+    }
+  },
+  "17001012a": {
+    "text": {
+      "ud": "ददौ रत्नानि वासांसि ग्रामानश्वान्रथानपि\n",
+      "ur": "dadau ratnāni vāsāṁsi grāmān aśvān rathān api\n",
+      "ascii": "dadau ratnAni vAsAMsi grAmAn azvAn rathAn api\n"
+    }
+  },
+  "17001012c": {
+    "text": {
+      "ud": "स्त्रियश्च द्विजमुख्येभ्यो गवां शतसहस्रशः\n",
+      "ur": "striyaś ca dvijamukhyebhyo gavāṁ śatasahasraśaḥ\n",
+      "ascii": "striyaz ca dvijamukhyebhyo gavAM zatasahasrazaH\n"
+    }
+  },
+  "17001013a": {
+    "text": {
+      "ud": "कृपमभ्यर्च्य च गुरुमर्थमानपुरस्कृतम्\n",
+      "ur": "kr̥pam abhyarcya ca gurum arthamānapuraskr̥tam\n",
+      "ascii": "kRpam abhyarcya ca gurum arthamAnapuraskRtam\n"
+    }
+  },
+  "17001013c": {
+    "text": {
+      "ud": "शिष्यं परिक्षितं तस्मै ददौ भरतसत्तमः\n",
+      "ur": "śiṣyaṁ parikṣitaṁ tasmai dadau bharatasattamaḥ\n",
+      "ascii": "ziSyaM parikSitaM tasmai dadau bharatasattamaH\n"
+    }
+  },
+  "17001014a": {
+    "text": {
+      "ud": "ततस्तु प्रकृतीः सर्वाः समानाय्य युधिष्ठिरः\n",
+      "ur": "tatas tu prakr̥tīḥ sarvāḥ samānāyya yudhiṣṭhiraḥ\n",
+      "ascii": "tatas tu prakRtIH sarvAH samAnAyya yudhiSThiraH\n"
+    }
+  },
+  "17001014c": {
+    "text": {
+      "ud": "सर्वमाचष्ट राजर्षिश्चिकीर्षितमथात्मनः\n",
+      "ur": "sarvam ācaṣṭa rājarṣiś cikīrṣitam athātmanaḥ\n",
+      "ascii": "sarvam AcaSTa rAjarSiz cikIrSitam athAtmanaH\n"
+    }
+  },
+  "17001015a": {
+    "text": {
+      "ud": "ते श्रुत्वैव वचस्तस्य पौरजानपदा जनाः\n",
+      "ur": "te śrutvaiva vacas tasya paurajānapadā janāḥ\n",
+      "ascii": "te zrutvaiva vacas tasya paurajAnapadA janAH\n"
+    }
+  },
+  "17001015c": {
+    "text": {
+      "ud": "भृशमुद्विग्नमनसो नाभ्यनन्दन्त तद्वचः\n",
+      "ur": "bhr̥śam udvignamanaso nābhyanandanta tad vacaḥ\n",
+      "ascii": "bhRzam udvignamanaso nAbhyanandanta tad vacaH\n"
+    }
+  },
+  "17001016a": {
+    "text": {
+      "ud": "नैवं कर्तव्यमिति ते तदोचुस्ते नराधिपम्\n",
+      "ur": "naivaṁ kartavyam iti te tadocus te narādhipam\n",
+      "ascii": "naivaM kartavyam iti te tadocus te narAdhipam\n"
+    }
+  },
+  "17001016c": {
+    "text": {
+      "ud": "न च राजा तथाकार्षीत्कालपर्यायधर्मवित्\n",
+      "ur": "na ca rājā tathākārṣīt kālaparyāyadharmavit\n",
+      "ascii": "na ca rAjA tathAkArSIt kAlaparyAyadharmavit\n"
+    }
+  },
+  "17001017a": {
+    "text": {
+      "ud": "ततोऽनुमान्य धर्मात्मा पौरजानपदं जनम्\n",
+      "ur": "tato ’numānya dharmātmā paurajānapadaṁ janam\n",
+      "ascii": "tato 'numAnya dharmAtmA paurajAnapadaM janam\n"
+    }
+  },
+  "17001017c": {
+    "text": {
+      "ud": "गमनाय मतिं चक्रे भ्रातरश्चास्य ते तदा\n",
+      "ur": "gamanāya matiṁ cakre bhrātaraś cāsya te tadā\n",
+      "ascii": "gamanAya matiM cakre bhrAtaraz cAsya te tadA\n"
+    }
+  },
+  "17001018a": {
+    "text": {
+      "ud": "ततः स राजा कौरव्यो धर्मपुत्रो युधिष्ठिरः\n",
+      "ur": "tataḥ sa rājā kauravyo dharmaputro yudhiṣṭhiraḥ\n",
+      "ascii": "tataH sa rAjA kauravyo dharmaputro yudhiSThiraH\n"
+    }
+  },
+  "17001018c": {
+    "text": {
+      "ud": "उत्सृज्याभरणान्यङ्गाज्जगृहे वल्कलान्युत\n",
+      "ur": "utsr̥jyābharaṇāny aṅgāj jagr̥he valkalāny uta\n",
+      "ascii": "utsRjyAbharaNAny aGgAj jagRhe valkalAny uta\n"
+    }
+  },
+  "17001019a": {
+    "text": {
+      "ud": "भीमार्जुनौ यमौ चैव द्रौपदी च यशस्विनी\n",
+      "ur": "bhīmārjunau yamau caiva draupadī ca yaśasvinī\n",
+      "ascii": "bhImArjunau yamau caiva draupadI ca yazasvinI\n"
+    }
+  },
+  "17001019c": {
+    "text": {
+      "ud": "तथैव सर्वे जगृहुर्वल्कलानि जनाधिप\n",
+      "ur": "tathaiva sarve jagr̥hur valkalāni janādhipa\n",
+      "ascii": "tathaiva sarve jagRhur valkalAni janAdhipa\n"
+    }
+  },
+  "17001020a": {
+    "text": {
+      "ud": "विधिवत्कारयित्वेष्टिं नैष्ठिकीं भरतर्षभ\n",
+      "ur": "vidhivat kārayitveṣṭiṁ naiṣṭhikīṁ bharatarṣabha\n",
+      "ascii": "vidhivat kArayitveSTiM naiSThikIM bharatarSabha\n"
+    }
+  },
+  "17001020c": {
+    "text": {
+      "ud": "समुत्सृज्याप्सु सर्वेऽग्नीन्प्रतस्थुर्नरपुंगवाः\n",
+      "ur": "samutsr̥jyāpsu sarve ’gnīn pratasthur narapuṁgavāḥ\n",
+      "ascii": "samutsRjyApsu sarve 'gnIn pratasthur narapuMgavAH\n"
+    }
+  },
+  "17001021a": {
+    "text": {
+      "ud": "ततः प्ररुरुदुः सर्वाः स्त्रियो दृष्ट्वा नरर्षभान्\n",
+      "ur": "tataḥ praruruduḥ sarvāḥ striyo dr̥ṣṭvā nararṣabhān\n",
+      "ascii": "tataH praruruduH sarvAH striyo dRSTvA nararSabhAn\n"
+    }
+  },
+  "17001021c": {
+    "text": {
+      "ud": "प्रस्थितान्द्रौपदीषष्ठान्पुरा द्यूतजितान्यथा\n",
+      "ur": "prasthitān draupadīṣaṣṭhān purā dyūtajitān yathā\n",
+      "ascii": "prasthitAn draupadISaSThAn purA dyUtajitAn yathA\n"
+    }
+  },
+  "17001022a": {
+    "text": {
+      "ud": "हर्षोऽभवच्च सर्वेषां भ्रातॄणां गमनं प्रति\n",
+      "ur": "harṣo ’bhavac ca sarveṣāṁ bhrātr̥̄ṇāṁ gamanaṁ prati\n",
+      "ascii": "harSo 'bhavac ca sarveSAM bhrAtqNAM gamanaM prati\n"
+    }
+  },
+  "17001022c": {
+    "text": {
+      "ud": "युधिष्ठिरमतं ज्ञात्वा वृष्णिक्षयमवेक्ष्य च\n",
+      "ur": "yudhiṣṭhiramataṁ jñātvā vr̥ṣṇikṣayam avekṣya ca\n",
+      "ascii": "yudhiSThiramataM jJAtvA vRSNikSayam avekSya ca\n"
+    }
+  },
+  "17001023a": {
+    "text": {
+      "ud": "भ्रातरः पञ्च कृष्णा च षष्ठी श्वा चैव सप्तमः\n",
+      "ur": "bhrātaraḥ pañca kr̥ṣṇā ca ṣaṣṭhī śvā caiva saptamaḥ\n",
+      "ascii": "bhrAtaraH paJca kRSNA ca SaSThI zvA caiva saptamaH\n"
+    }
+  },
+  "17001023c": {
+    "text": {
+      "ud": "आत्मना सप्तमो राजा निर्ययौ गजसाह्वयात्\n",
+      "ur": "ātmanā saptamo rājā niryayau gajasāhvayāt\n",
+      "ascii": "AtmanA saptamo rAjA niryayau gajasAhvayAt\n"
+    }
+  },
+  "17001023e": {
+    "text": {
+      "ud": "पौरैरनुगतो दूरं सर्वैरन्तःपुरैस्तथा\n",
+      "ur": "paurair anugato dūraṁ sarvair antaḥpurais tathā\n",
+      "ascii": "paurair anugato dUraM sarvair antaHpurais tathA\n"
+    }
+  },
+  "17001024a": {
+    "text": {
+      "ud": "न चैनमशकत्कश्चिन्निवर्तस्वेति भाषितुम्\n",
+      "ur": "na cainam aśakat kaś cin nivartasveti bhāṣitum\n",
+      "ascii": "na cainam azakat kaz cin nivartasveti bhASitum\n"
+    }
+  },
+  "17001024c": {
+    "text": {
+      "ud": "न्यवर्तन्त ततः सर्वे नरा नगरवासिनः\n",
+      "ur": "nyavartanta tataḥ sarve narā nagaravāsinaḥ\n",
+      "ascii": "nyavartanta tataH sarve narA nagaravAsinaH\n"
+    }
+  },
+  "17001025a": {
+    "text": {
+      "ud": "कृपप्रभृतयश्चैव युयुत्सुं पर्यवारयन्\n",
+      "ur": "kr̥paprabhr̥tayaś caiva yuyutsuṁ paryavārayan\n",
+      "ascii": "kRpaprabhRtayaz caiva yuyutsuM paryavArayan\n"
+    }
+  },
+  "17001025c": {
+    "text": {
+      "ud": "विवेश गङ्गां कौरव्य उलूपी भुजगात्मजा\n",
+      "ur": "viveśa gaṅgāṁ kauravya ulūpī bhujagātmajā\n",
+      "ascii": "viveza gaGgAM kauravya ulUpI bhujagAtmajA\n"
+    }
+  },
+  "17001026a": {
+    "text": {
+      "ud": "चित्राङ्गदा ययौ चापि मणिपूरपुरं प्रति\n",
+      "ur": "citrāṅgadā yayau cāpi maṇipūrapuraṁ prati\n",
+      "ascii": "citrAGgadA yayau cApi maNipUrapuraM prati\n"
+    }
+  },
+  "17001026c": {
+    "text": {
+      "ud": "शिष्टाः परिक्षितं त्वन्या मातरः पर्यवारयन्\n",
+      "ur": "śiṣṭāḥ parikṣitaṁ tv anyā mātaraḥ paryavārayan\n",
+      "ascii": "ziSTAH parikSitaM tv anyA mAtaraH paryavArayan\n"
+    }
+  },
+  "17001027a": {
+    "text": {
+      "ud": "पाण्डवाश्च महात्मानो द्रौपदी च यशस्विनी\n",
+      "ur": "pāṇḍavāś ca mahātmāno draupadī ca yaśasvinī\n",
+      "ascii": "pANDavAz ca mahAtmAno draupadI ca yazasvinI\n"
+    }
+  },
+  "17001027c": {
+    "text": {
+      "ud": "कृतोपवासाः कौरव्य प्रययुः प्राङ्मुखास्ततः\n",
+      "ur": "kr̥topavāsāḥ kauravya prayayuḥ prāṅmukhās tataḥ\n",
+      "ascii": "kRtopavAsAH kauravya prayayuH prAGmukhAs tataH\n"
+    }
+  },
+  "17001028a": {
+    "text": {
+      "ud": "योगयुक्ता महात्मानस्त्यागधर्ममुपेयुषः\n",
+      "ur": "yogayuktā mahātmānas tyāgadharmam upeyuṣaḥ\n",
+      "ascii": "yogayuktA mahAtmAnas tyAgadharmam upeyuSaH\n"
+    }
+  },
+  "17001028c": {
+    "text": {
+      "ud": "अभिजग्मुर्बहून्देशान्सरितः पर्वतांस्तथा\n",
+      "ur": "abhijagmur bahūn deśān saritaḥ parvatāṁs tathā\n",
+      "ascii": "abhijagmur bahUn dezAn saritaH parvatAMs tathA\n"
+    }
+  },
+  "17001029a": {
+    "text": {
+      "ud": "युधिष्ठिरो ययावग्रे भीमस्तु तदनन्तरम्\n",
+      "ur": "yudhiṣṭhiro yayāv agre bhīmas tu tadanantaram\n",
+      "ascii": "yudhiSThiro yayAv agre bhImas tu tadanantaram\n"
+    }
+  },
+  "17001029c": {
+    "text": {
+      "ud": "अर्जुनस्तस्य चान्वेव यमौ चैव यथाक्रमम्\n",
+      "ur": "arjunas tasya cānv eva yamau caiva yathākramam\n",
+      "ascii": "arjunas tasya cAnv eva yamau caiva yathAkramam\n"
+    }
+  },
+  "17001030a": {
+    "text": {
+      "ud": "पृष्ठतस्तु वरारोहा श्यामा पद्मदलेक्षणा\n",
+      "ur": "pr̥ṣṭhatas tu varārohā śyāmā padmadalekṣaṇā\n",
+      "ascii": "pRSThatas tu varArohA zyAmA padmadalekSaNA\n"
+    }
+  },
+  "17001030c": {
+    "text": {
+      "ud": "द्रौपदी योषितां श्रेष्ठा ययौ भरतसत्तम\n",
+      "ur": "draupadī yoṣitāṁ śreṣṭhā yayau bharatasattama\n",
+      "ascii": "draupadI yoSitAM zreSThA yayau bharatasattama\n"
+    }
+  },
+  "17001031a": {
+    "text": {
+      "ud": "श्वा चैवानुययावेकः पाण्डवान्प्रस्थितान्वने\n",
+      "ur": "śvā caivānuyayāv ekaḥ pāṇḍavān prasthitān vane\n",
+      "ascii": "zvA caivAnuyayAv ekaH pANDavAn prasthitAn vane\n"
+    }
+  },
+  "17001031c": {
+    "text": {
+      "ud": "क्रमेण ते ययुर्वीरा लौहित्यं सलिलार्णवम्\n",
+      "ur": "krameṇa te yayur vīrā lauhityaṁ salilārṇavam\n",
+      "ascii": "krameNa te yayur vIrA lauhityaM salilArNavam\n"
+    }
+  },
+  "17001032a": {
+    "text": {
+      "ud": "गाण्डीवं च धनुर्दिव्यं न मुमोच धनंजयः\n",
+      "ur": "gāṇḍīvaṁ ca dhanur divyaṁ na mumoca dhanaṁjayaḥ\n",
+      "ascii": "gANDIvaM ca dhanur divyaM na mumoca dhanaMjayaH\n"
+    }
+  },
+  "17001032c": {
+    "text": {
+      "ud": "रत्नलोभान्महाराज तौ चाक्षय्यौ महेषुधी\n",
+      "ur": "ratnalobhān mahārāja tau cākṣayyau maheṣudhī\n",
+      "ascii": "ratnalobhAn mahArAja tau cAkSayyau maheSudhI\n"
+    }
+  },
+  "17001033a": {
+    "text": {
+      "ud": "अग्निं ते ददृशुस्तत्र स्थितं शैलमिवाग्रतः\n",
+      "ur": "agniṁ te dadr̥śus tatra sthitaṁ śailam ivāgrataḥ\n",
+      "ascii": "agniM te dadRzus tatra sthitaM zailam ivAgrataH\n"
+    }
+  },
+  "17001033c": {
+    "text": {
+      "ud": "मार्गमावृत्य तिष्ठन्तं साक्षात्पुरुषविग्रहम्\n",
+      "ur": "mārgam āvr̥tya tiṣṭhantaṁ sākṣāt puruṣavigraham\n",
+      "ascii": "mArgam AvRtya tiSThantaM sAkSAt puruSavigraham\n"
+    }
+  },
+  "17001034a": {
+    "text": {
+      "ud": "ततो देवः स सप्तार्चिः पाण्डवानिदमब्रवीत्\n",
+      "ur": "tato devaḥ sa saptārciḥ pāṇḍavān idam abravīt\n",
+      "ascii": "tato devaH sa saptArciH pANDavAn idam abravIt\n"
+    }
+  },
+  "17001034c": {
+    "text": {
+      "ud": "भो भो पाण्डुसुता वीराः पावकं मां विबोधत\n",
+      "ur": "bho bho pāṇḍusutā vīrāḥ pāvakaṁ māṁ vibodhata\n",
+      "ascii": "bho bho pANDusutA vIrAH pAvakaM mAM vibodhata\n"
+    }
+  },
+  "17001035a": {
+    "text": {
+      "ud": "युधिष्ठिर महाबाहो भीमसेन परंतप\n",
+      "ur": "yudhiṣṭhira mahābāho bhīmasena paraṁtapa\n",
+      "ascii": "yudhiSThira mahAbAho bhImasena paraMtapa\n"
+    }
+  },
+  "17001035c": {
+    "text": {
+      "ud": "अर्जुनाश्विसुतौ वीरौ निबोधत वचो मम\n",
+      "ur": "arjunāśvisutau vīrau nibodhata vaco mama\n",
+      "ascii": "arjunAzvisutau vIrau nibodhata vaco mama\n"
+    }
+  },
+  "17001036a": {
+    "text": {
+      "ud": "अहमग्निः कुरुश्रेष्ठा मया दग्धं च खाण्डवम्\n",
+      "ur": "aham agniḥ kuruśreṣṭhā mayā dagdhaṁ ca khāṇḍavam\n",
+      "ascii": "aham agniH kuruzreSThA mayA dagdhaM ca khANDavam\n"
+    }
+  },
+  "17001036c": {
+    "text": {
+      "ud": "अर्जुनस्य प्रभावेण तथा नारायणस्य च\n",
+      "ur": "arjunasya prabhāveṇa tathā nārāyaṇasya ca\n",
+      "ascii": "arjunasya prabhAveNa tathA nArAyaNasya ca\n"
+    }
+  },
+  "17001037a": {
+    "text": {
+      "ud": "अयं वः फल्गुनो भ्राता गाण्डीवं परमायुधम्\n",
+      "ur": "ayaṁ vaḥ phalguno bhrātā gāṇḍīvaṁ paramāyudham\n",
+      "ascii": "ayaM vaH phalguno bhrAtA gANDIvaM paramAyudham\n"
+    }
+  },
+  "17001037c": {
+    "text": {
+      "ud": "परित्यज्य वनं यातु नानेनार्थोऽस्ति कश्चन\n",
+      "ur": "parityajya vanaṁ yātu nānenārtho ’sti kaś cana\n",
+      "ascii": "parityajya vanaM yAtu nAnenArtho 'sti kaz cana\n"
+    }
+  },
+  "17001038a": {
+    "text": {
+      "ud": "चक्ररत्नं तु यत्कृष्णे स्थितमासीन्महात्मनि\n",
+      "ur": "cakraratnaṁ tu yat kr̥ṣṇe sthitam āsīn mahātmani\n",
+      "ascii": "cakraratnaM tu yat kRSNe sthitam AsIn mahAtmani\n"
+    }
+  },
+  "17001038c": {
+    "text": {
+      "ud": "गतं तच्च पुनर्हस्ते कालेनैष्यति तस्य ह\n",
+      "ur": "gataṁ tac ca punar haste kālenaiṣyati tasya ha\n",
+      "ascii": "gataM tac ca punar haste kAlenaiSyati tasya ha\n"
+    }
+  },
+  "17001039a": {
+    "text": {
+      "ud": "वरुणादाहृतं पूर्वं मयैतत्पार्थकारणात्\n",
+      "ur": "varuṇād āhr̥taṁ pūrvaṁ mayaitat pārthakāraṇāt\n",
+      "ascii": "varuNAd AhRtaM pUrvaM mayaitat pArthakAraNAt\n"
+    }
+  },
+  "17001039c": {
+    "text": {
+      "ud": "गाण्डीवं कार्मुकश्रेष्ठं वरुणायैव दीयताम्\n",
+      "ur": "gāṇḍīvaṁ kārmukaśreṣṭhaṁ varuṇāyaiva dīyatām\n",
+      "ascii": "gANDIvaM kArmukazreSThaM varuNAyaiva dIyatAm\n"
+    }
+  },
+  "17001040a": {
+    "text": {
+      "ud": "ततस्ते भ्रातरः सर्वे धनंजयमचोदयन्\n",
+      "ur": "tatas te bhrātaraḥ sarve dhanaṁjayam acodayan\n",
+      "ascii": "tatas te bhrAtaraH sarve dhanaMjayam acodayan\n"
+    }
+  },
+  "17001040c": {
+    "text": {
+      "ud": "स जले प्राक्षिपत्तत्तु तथाक्षय्यौ महेषुधी\n",
+      "ur": "sa jale prākṣipat tat tu tathākṣayyau maheṣudhī\n",
+      "ascii": "sa jale prAkSipat tat tu tathAkSayyau maheSudhI\n"
+    }
+  },
+  "17001041a": {
+    "text": {
+      "ud": "ततोऽग्निर्भरतश्रेष्ठ तत्रैवान्तरधीयत\n",
+      "ur": "tato ’gnir bharataśreṣṭha tatraivāntaradhīyata\n",
+      "ascii": "tato 'gnir bharatazreSTha tatraivAntaradhIyata\n"
+    }
+  },
+  "17001041c": {
+    "text": {
+      "ud": "ययुश्च पाण्डवा वीरास्ततस्ते दक्षिणामुखाः\n",
+      "ur": "yayuś ca pāṇḍavā vīrās tatas te dakṣiṇāmukhāḥ\n",
+      "ascii": "yayuz ca pANDavA vIrAs tatas te dakSiNAmukhAH\n"
+    }
+  },
+  "17001042a": {
+    "text": {
+      "ud": "ततस्ते तूत्तरेणैव तीरेण लवणाम्भसः\n",
+      "ur": "tatas te tūttareṇaiva tīreṇa lavaṇāmbhasaḥ\n",
+      "ascii": "tatas te tUttareNaiva tIreNa lavaNAmbhasaH\n"
+    }
+  },
+  "17001042c": {
+    "text": {
+      "ud": "जग्मुर्भरतशार्दूल दिशं दक्षिणपश्चिमम्\n",
+      "ur": "jagmur bharataśārdūla diśaṁ dakṣiṇapaścimam\n",
+      "ascii": "jagmur bharatazArdUla dizaM dakSiNapazcimam\n"
+    }
+  },
+  "17001043a": {
+    "text": {
+      "ud": "ततः पुनः समावृत्ताः पश्चिमां दिशमेव ते\n",
+      "ur": "tataḥ punaḥ samāvr̥ttāḥ paścimāṁ diśam eva te\n",
+      "ascii": "tataH punaH samAvRttAH pazcimAM dizam eva te\n"
+    }
+  },
+  "17001043c": {
+    "text": {
+      "ud": "ददृशुर्द्वारकां चापि सागरेण परिप्लुताम्\n",
+      "ur": "dadr̥śur dvārakāṁ cāpi sāgareṇa pariplutām\n",
+      "ascii": "dadRzur dvArakAM cApi sAgareNa pariplutAm\n"
+    }
+  },
+  "17001044a": {
+    "text": {
+      "ud": "उदीचीं पुनरावृत्त्य ययुर्भरतसत्तमाः\n",
+      "ur": "udīcīṁ punar āvr̥ttya yayur bharatasattamāḥ\n",
+      "ascii": "udIcIM punar AvRttya yayur bharatasattamAH\n"
+    }
+  },
+  "17001044c": {
+    "text": {
+      "ud": "प्रादक्षिण्यं चिकीर्षन्तः पृथिव्या योगधर्मिणः\n",
+      "ur": "prādakṣiṇyaṁ cikīrṣantaḥ pr̥thivyā yogadharmiṇaḥ\n",
+      "ascii": "prAdakSiNyaM cikIrSantaH pRthivyA yogadharmiNaH\n"
+    }
+  },
+  "17002001": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17002001a": {
+    "text": {
+      "ud": "ततस्ते नियतात्मान उदीचीं दिशमास्थिताः\n",
+      "ur": "tatas te niyatātmāna udīcīṁ diśam āsthitāḥ\n",
+      "ascii": "tatas te niyatAtmAna udIcIM dizam AsthitAH\n"
+    }
+  },
+  "17002001c": {
+    "text": {
+      "ud": "ददृशुर्योगयुक्ताश्च हिमवन्तं महागिरिम्\n",
+      "ur": "dadr̥śur yogayuktāś ca himavantaṁ mahāgirim\n",
+      "ascii": "dadRzur yogayuktAz ca himavantaM mahAgirim\n"
+    }
+  },
+  "17002002a": {
+    "text": {
+      "ud": "तं चाप्यतिक्रमन्तस्ते ददृशुर्वालुकार्णवम्\n",
+      "ur": "taṁ cāpy atikramantas te dadr̥śur vālukārṇavam\n",
+      "ascii": "taM cApy atikramantas te dadRzur vAlukArNavam\n"
+    }
+  },
+  "17002002c": {
+    "text": {
+      "ud": "अवैक्षन्त महाशैलं मेरुं शिखरिणां वरम्\n",
+      "ur": "avaikṣanta mahāśailaṁ meruṁ śikhariṇāṁ varam\n",
+      "ascii": "avaikSanta mahAzailaM meruM zikhariNAM varam\n"
+    }
+  },
+  "17002003a": {
+    "text": {
+      "ud": "तेषां तु गच्छतां शीघ्रं सर्वेषां योगधर्मिणाम्\n",
+      "ur": "teṣāṁ tu gacchatāṁ śīghraṁ sarveṣāṁ yogadharmiṇām\n",
+      "ascii": "teSAM tu gacchatAM zIghraM sarveSAM yogadharmiNAm\n"
+    }
+  },
+  "17002003c": {
+    "text": {
+      "ud": "याज्ञसेनी भ्रष्टयोगा निपपात महीतले\n",
+      "ur": "yājñasenī bhraṣṭayogā nipapāta mahītale\n",
+      "ascii": "yAjJasenI bhraSTayogA nipapAta mahItale\n"
+    }
+  },
+  "17002004a": {
+    "text": {
+      "ud": "तां तु प्रपतितां दृष्ट्वा भीमसेनो महाबलः\n",
+      "ur": "tāṁ tu prapatitāṁ dr̥ṣṭvā bhīmaseno mahābalaḥ\n",
+      "ascii": "tAM tu prapatitAM dRSTvA bhImaseno mahAbalaH\n"
+    }
+  },
+  "17002004c": {
+    "text": {
+      "ud": "उवाच धर्मराजानं याज्ञसेनीमवेक्ष्य ह\n",
+      "ur": "uvāca dharmarājānaṁ yājñasenīm avekṣya ha\n",
+      "ascii": "uvAca dharmarAjAnaM yAjJasenIm avekSya ha\n"
+    }
+  },
+  "17002005a": {
+    "text": {
+      "ud": "नाधर्मश्चरितः कश्चिद्राजपुत्र्या परंतप\n",
+      "ur": "nādharmaś caritaḥ kaś cid rājaputryā paraṁtapa\n",
+      "ascii": "nAdharmaz caritaH kaz cid rAjaputryA paraMtapa\n"
+    }
+  },
+  "17002005c": {
+    "text": {
+      "ud": "कारणं किं नु तद्राजन्यत्कृष्णा पतिता भुवि\n",
+      "ur": "kāraṇaṁ kiṁ nu tad rājan yat kr̥ṣṇā patitā bhuvi\n",
+      "ascii": "kAraNaM kiM nu tad rAjan yat kRSNA patitA bhuvi\n"
+    }
+  },
+  "17002006": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17002006a": {
+    "text": {
+      "ud": "पक्षपातो महानस्या विशेषेण धनंजये\n",
+      "ur": "pakṣapāto mahān asyā viśeṣeṇa dhanaṁjaye\n",
+      "ascii": "pakSapAto mahAn asyA vizeSeNa dhanaMjaye\n"
+    }
+  },
+  "17002006c": {
+    "text": {
+      "ud": "तस्यैतत्फलमद्यैषा भुङ्क्ते पुरुषसत्तम\n",
+      "ur": "tasyaitat phalam adyaiṣā bhuṅkte puruṣasattama\n",
+      "ascii": "tasyaitat phalam adyaiSA bhuGkte puruSasattama\n"
+    }
+  },
+  "17002007": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17002007a": {
+    "text": {
+      "ud": "एवमुक्त्वानवेक्ष्यैनां ययौ धर्मसुतो नृपः\n",
+      "ur": "evam uktvānavekṣyaināṁ yayau dharmasuto nr̥paḥ\n",
+      "ascii": "evam uktvAnavekSyainAM yayau dharmasuto nRpaH\n"
+    }
+  },
+  "17002007c": {
+    "text": {
+      "ud": "समाधाय मनो धीमान्धर्मात्मा पुरुषर्षभः\n",
+      "ur": "samādhāya mano dhīmān dharmātmā puruṣarṣabhaḥ\n",
+      "ascii": "samAdhAya mano dhImAn dharmAtmA puruSarSabhaH\n"
+    }
+  },
+  "17002008a": {
+    "text": {
+      "ud": "सहदेवस्ततो धीमान्निपपात महीतले\n",
+      "ur": "sahadevas tato dhīmān nipapāta mahītale\n",
+      "ascii": "sahadevas tato dhImAn nipapAta mahItale\n"
+    }
+  },
+  "17002008c": {
+    "text": {
+      "ud": "तं चापि पतितं दृष्ट्वा भीमो राजानमब्रवीत्\n",
+      "ur": "taṁ cāpi patitaṁ dr̥ṣṭvā bhīmo rājānam abravīt\n",
+      "ascii": "taM cApi patitaM dRSTvA bhImo rAjAnam abravIt\n"
+    }
+  },
+  "17002009a": {
+    "text": {
+      "ud": "योऽयमस्मासु सर्वेषु शुश्रूषुरनहंकृतः\n",
+      "ur": "yo ’yam asmāsu sarveṣu śuśrūṣur anahaṁkr̥taḥ\n",
+      "ascii": "yo 'yam asmAsu sarveSu zuzrUSur anahaMkRtaH\n"
+    }
+  },
+  "17002009c": {
+    "text": {
+      "ud": "सोऽयं माद्रवतीपुत्रः कस्मान्निपतितो भुवि\n",
+      "ur": "so ’yaṁ mādravatīputraḥ kasmān nipatito bhuvi\n",
+      "ascii": "so 'yaM mAdravatIputraH kasmAn nipatito bhuvi\n"
+    }
+  },
+  "17002010": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17002010a": {
+    "text": {
+      "ud": "आत्मनः सदृशं प्राज्ञं नैषोऽमन्यत कंचन\n",
+      "ur": "ātmanaḥ sadr̥śaṁ prājñaṁ naiṣo ’manyata kaṁ cana\n",
+      "ascii": "AtmanaH sadRzaM prAjJaM naiSo 'manyata kaM cana\n"
+    }
+  },
+  "17002010c": {
+    "text": {
+      "ud": "तेन दोषेण पतितस्तस्मादेष नृपात्मजः\n",
+      "ur": "tena doṣeṇa patitas tasmād eṣa nr̥pātmajaḥ\n",
+      "ascii": "tena doSeNa patitas tasmAd eSa nRpAtmajaH\n"
+    }
+  },
+  "17002011": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17002011a": {
+    "text": {
+      "ud": "इत्युक्त्वा तु समुत्सृज्य सहदेवं ययौ तदा\n",
+      "ur": "ity uktvā tu samutsr̥jya sahadevaṁ yayau tadā\n",
+      "ascii": "ity uktvA tu samutsRjya sahadevaM yayau tadA\n"
+    }
+  },
+  "17002011c": {
+    "text": {
+      "ud": "भ्रातृभिः सह कौन्तेयः शुना चैव युधिष्ठिरः\n",
+      "ur": "bhrātr̥bhiḥ saha kaunteyaḥ śunā caiva yudhiṣṭhiraḥ\n",
+      "ascii": "bhrAtRbhiH saha kaunteyaH zunA caiva yudhiSThiraH\n"
+    }
+  },
+  "17002012a": {
+    "text": {
+      "ud": "कृष्णां निपतितां दृष्ट्वा सहदेवं च पाण्डवम्\n",
+      "ur": "kr̥ṣṇāṁ nipatitāṁ dr̥ṣṭvā sahadevaṁ ca pāṇḍavam\n",
+      "ascii": "kRSNAM nipatitAM dRSTvA sahadevaM ca pANDavam\n"
+    }
+  },
+  "17002012c": {
+    "text": {
+      "ud": "आर्तो बन्धुप्रियः शूरो नकुलो निपपात ह\n",
+      "ur": "ārto bandhupriyaḥ śūro nakulo nipapāta ha\n",
+      "ascii": "Arto bandhupriyaH zUro nakulo nipapAta ha\n"
+    }
+  },
+  "17002013a": {
+    "text": {
+      "ud": "तस्मिन्निपतिते वीरे नकुले चारुदर्शने\n",
+      "ur": "tasmin nipatite vīre nakule cārudarśane\n",
+      "ascii": "tasmin nipatite vIre nakule cArudarzane\n"
+    }
+  },
+  "17002013c": {
+    "text": {
+      "ud": "पुनरेव तदा भीमो राजानमिदमब्रवीत्\n",
+      "ur": "punar eva tadā bhīmo rājānam idam abravīt\n",
+      "ascii": "punar eva tadA bhImo rAjAnam idam abravIt\n"
+    }
+  },
+  "17002014a": {
+    "text": {
+      "ud": "योऽयमक्षतधर्मात्मा भ्राता वचनकारकः\n",
+      "ur": "yo ’yam akṣatadharmātmā bhrātā vacanakārakaḥ\n",
+      "ascii": "yo 'yam akSatadharmAtmA bhrAtA vacanakArakaH\n"
+    }
+  },
+  "17002014c": {
+    "text": {
+      "ud": "रूपेणाप्रतिमो लोके नकुलः पतितो भुवि\n",
+      "ur": "rūpeṇāpratimo loke nakulaḥ patito bhuvi\n",
+      "ascii": "rUpeNApratimo loke nakulaH patito bhuvi\n"
+    }
+  },
+  "17002015a": {
+    "text": {
+      "ud": "इत्युक्तो भीमसेनेन प्रत्युवाच युधिष्ठिरः\n",
+      "ur": "ity ukto bhīmasenena pratyuvāca yudhiṣṭhiraḥ\n",
+      "ascii": "ity ukto bhImasenena pratyuvAca yudhiSThiraH\n"
+    }
+  },
+  "17002015c": {
+    "text": {
+      "ud": "नकुलं प्रति धर्मात्मा सर्वबुद्धिमतां वरः\n",
+      "ur": "nakulaṁ prati dharmātmā sarvabuddhimatāṁ varaḥ\n",
+      "ascii": "nakulaM prati dharmAtmA sarvabuddhimatAM varaH\n"
+    }
+  },
+  "17002016a": {
+    "text": {
+      "ud": "रूपेण मत्समो नास्ति कश्चिदित्यस्य दर्शनम्\n",
+      "ur": "rūpeṇa matsamo nāsti kaś cid ity asya darśanam\n",
+      "ascii": "rUpeNa matsamo nAsti kaz cid ity asya darzanam\n"
+    }
+  },
+  "17002016c": {
+    "text": {
+      "ud": "अधिकश्चाहमेवैक इत्यस्य मनसि स्थितम्\n",
+      "ur": "adhikaś cāham evaika ity asya manasi sthitam\n",
+      "ascii": "adhikaz cAham evaika ity asya manasi sthitam\n"
+    }
+  },
+  "17002017a": {
+    "text": {
+      "ud": "नकुलः पतितस्तस्मादागच्छ त्वं वृकोदर\n",
+      "ur": "nakulaḥ patitas tasmād āgaccha tvaṁ vr̥kodara\n",
+      "ascii": "nakulaH patitas tasmAd Agaccha tvaM vRkodara\n"
+    }
+  },
+  "17002017c": {
+    "text": {
+      "ud": "यस्य यद्विहितं वीर सोऽवश्यं तदुपाश्नुते\n",
+      "ur": "yasya yad vihitaṁ vīra so ’vaśyaṁ tad upāśnute\n",
+      "ascii": "yasya yad vihitaM vIra so 'vazyaM tad upAznute\n"
+    }
+  },
+  "17002018a": {
+    "text": {
+      "ud": "तांस्तु प्रपतितान्दृष्ट्वा पाण्डवः श्वेतवाहनः\n",
+      "ur": "tāṁs tu prapatitān dr̥ṣṭvā pāṇḍavaḥ śvetavāhanaḥ\n",
+      "ascii": "tAMs tu prapatitAn dRSTvA pANDavaH zvetavAhanaH\n"
+    }
+  },
+  "17002018c": {
+    "text": {
+      "ud": "पपात शोकसंतप्तस्ततोऽनु परवीरहा\n",
+      "ur": "papāta śokasaṁtaptas tato ’nu paravīrahā\n",
+      "ascii": "papAta zokasaMtaptas tato 'nu paravIrahA\n"
+    }
+  },
+  "17002019a": {
+    "text": {
+      "ud": "तस्मिंस्तु पुरुषव्याघ्रे पतिते शक्रतेजसि\n",
+      "ur": "tasmiṁs tu puruṣavyāghre patite śakratejasi\n",
+      "ascii": "tasmiMs tu puruSavyAghre patite zakratejasi\n"
+    }
+  },
+  "17002019c": {
+    "text": {
+      "ud": "म्रियमाणे दुराधर्षे भीमो राजानमब्रवीत्\n",
+      "ur": "mriyamāṇe durādharṣe bhīmo rājānam abravīt\n",
+      "ascii": "mriyamANe durAdharSe bhImo rAjAnam abravIt\n"
+    }
+  },
+  "17002020a": {
+    "text": {
+      "ud": "अनृतं न स्मराम्यस्य स्वैरेष्वपि महात्मनः\n",
+      "ur": "anr̥taṁ na smarāmy asya svaireṣv api mahātmanaḥ\n",
+      "ascii": "anRtaM na smarAmy asya svaireSv api mahAtmanaH\n"
+    }
+  },
+  "17002020c": {
+    "text": {
+      "ud": "अथ कस्य विकारोऽयं येनायं पतितो भुवि\n",
+      "ur": "atha kasya vikāro ’yaṁ yenāyaṁ patito bhuvi\n",
+      "ascii": "atha kasya vikAro 'yaM yenAyaM patito bhuvi\n"
+    }
+  },
+  "17002021": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17002021a": {
+    "text": {
+      "ud": "एकाह्ना निर्दहेयं वै शत्रूनित्यर्जुनोऽब्रवीत्\n",
+      "ur": "ekāhnā nirdaheyaṁ vai śatrūn ity arjuno ’bravīt\n",
+      "ascii": "ekAhnA nirdaheyaM vai zatrUn ity arjuno 'bravIt\n"
+    }
+  },
+  "17002021c": {
+    "text": {
+      "ud": "न च तत्कृतवानेष शूरमानी ततोऽपतत्\n",
+      "ur": "na ca tat kr̥tavān eṣa śūramānī tato ’patat\n",
+      "ascii": "na ca tat kRtavAn eSa zUramAnI tato 'patat\n"
+    }
+  },
+  "17002022a": {
+    "text": {
+      "ud": "अवमेने धनुर्ग्राहानेष सर्वांश्च फल्गुनः\n",
+      "ur": "avamene dhanurgrāhān eṣa sarvāṁś ca phalgunaḥ\n",
+      "ascii": "avamene dhanurgrAhAn eSa sarvAMz ca phalgunaH\n"
+    }
+  },
+  "17002022c": {
+    "text": {
+      "ud": "यथा चोक्तं तथा चैव कर्तव्यं भूतिमिच्छता\n",
+      "ur": "yathā coktaṁ tathā caiva kartavyaṁ bhūtim icchatā\n",
+      "ascii": "yathA coktaM tathA caiva kartavyaM bhUtim icchatA\n"
+    }
+  },
+  "17002023": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17002023a": {
+    "text": {
+      "ud": "इत्युक्त्वा प्रस्थितो राजा भीमोऽथ निपपात ह\n",
+      "ur": "ity uktvā prasthito rājā bhīmo ’tha nipapāta ha\n",
+      "ascii": "ity uktvA prasthito rAjA bhImo 'tha nipapAta ha\n"
+    }
+  },
+  "17002023c": {
+    "text": {
+      "ud": "पतितश्चाब्रवीद्भीमो धर्मराजं युधिष्ठिरम्\n",
+      "ur": "patitaś cābravīd bhīmo dharmarājaṁ yudhiṣṭhiram\n",
+      "ascii": "patitaz cAbravId bhImo dharmarAjaM yudhiSThiram\n"
+    }
+  },
+  "17002024a": {
+    "text": {
+      "ud": "भो भो राजन्नवेक्षस्व पतितोऽहं प्रियस्तव\n",
+      "ur": "bho bho rājann avekṣasva patito ’haṁ priyas tava\n",
+      "ascii": "bho bho rAjann avekSasva patito 'haM priyas tava\n"
+    }
+  },
+  "17002024c": {
+    "text": {
+      "ud": "किंनिमित्तं च पतनं ब्रूहि मे यदि वेत्थ ह\n",
+      "ur": "kiṁnimittaṁ ca patanaṁ brūhi me yadi vettha ha\n",
+      "ascii": "kiMnimittaM ca patanaM brUhi me yadi vettha ha\n"
+    }
+  },
+  "17002025": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17002025a": {
+    "text": {
+      "ud": "अतिभुक्तं च भवता प्राणेन च विकत्थसे\n",
+      "ur": "atibhuktaṁ ca bhavatā prāṇena ca vikatthase\n",
+      "ascii": "atibhuktaM ca bhavatA prANena ca vikatthase\n"
+    }
+  },
+  "17002025c": {
+    "text": {
+      "ud": "अनवेक्ष्य परं पार्थ तेनासि पतितः क्षितौ\n",
+      "ur": "anavekṣya paraṁ pārtha tenāsi patitaḥ kṣitau\n",
+      "ascii": "anavekSya paraM pArtha tenAsi patitaH kSitau\n"
+    }
+  },
+  "17002026": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17002026a": {
+    "text": {
+      "ud": "इत्युक्त्वा तं महाबाहुर्जगामानवलोकयन्\n",
+      "ur": "ity uktvā taṁ mahābāhur jagāmānavalokayan\n",
+      "ascii": "ity uktvA taM mahAbAhur jagAmAnavalokayan\n"
+    }
+  },
+  "17002026c": {
+    "text": {
+      "ud": "श्वा त्वेकोऽनुययौ यस्ते बहुशः कीर्तितो मया\n",
+      "ur": "śvā tv eko ’nuyayau yas te bahuśaḥ kīrtito mayā\n",
+      "ascii": "zvA tv eko 'nuyayau yas te bahuzaH kIrtito mayA\n"
+    }
+  },
+  "17003001": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17003001a": {
+    "text": {
+      "ud": "ततः संनादयञ्शक्रो दिवं भूमिं च सर्वशः\n",
+      "ur": "tataḥ saṁnādayañ śakro divaṁ bhūmiṁ ca sarvaśaḥ\n",
+      "ascii": "tataH saMnAdayaJ zakro divaM bhUmiM ca sarvazaH\n"
+    }
+  },
+  "17003001c": {
+    "text": {
+      "ud": "रथेनोपययौ पार्थमारोहेत्यब्रवीच्च तम्\n",
+      "ur": "rathenopayayau pārtham ārohety abravīc ca tam\n",
+      "ascii": "rathenopayayau pArtham Arohety abravIc ca tam\n"
+    }
+  },
+  "17003002a": {
+    "text": {
+      "ud": "स भ्रातॄन्पतितान्दृष्ट्वा धर्मराजो युधिष्ठिरः\n",
+      "ur": "sa bhrātr̥̄n patitān dr̥ṣṭvā dharmarājo yudhiṣṭhiraḥ\n",
+      "ascii": "sa bhrAtqn patitAn dRSTvA dharmarAjo yudhiSThiraH\n"
+    }
+  },
+  "17003002c": {
+    "text": {
+      "ud": "अब्रवीच्छोकसंतप्तः सहस्राक्षमिदं वचः\n",
+      "ur": "abravīc chokasaṁtaptaḥ sahasrākṣam idaṁ vacaḥ\n",
+      "ascii": "abravIc chokasaMtaptaH sahasrAkSam idaM vacaH\n"
+    }
+  },
+  "17003003a": {
+    "text": {
+      "ud": "भ्रातरः पतिता मेऽत्र आगच्छेयुर्मया सह\n",
+      "ur": "bhrātaraḥ patitā me ’tra āgaccheyur mayā saha\n",
+      "ascii": "bhrAtaraH patitA me 'tra Agaccheyur mayA saha\n"
+    }
+  },
+  "17003003c": {
+    "text": {
+      "ud": "न विना भ्रातृभिः स्वर्गमिच्छे गन्तुं सुरेश्वर\n",
+      "ur": "na vinā bhrātr̥bhiḥ svargam icche gantuṁ sureśvara\n",
+      "ascii": "na vinA bhrAtRbhiH svargam icche gantuM surezvara\n"
+    }
+  },
+  "17003004a": {
+    "text": {
+      "ud": "सुकुमारी सुखार्हा च राजपुत्री पुरंदर\n",
+      "ur": "sukumārī sukhārhā ca rājaputrī puraṁdara\n",
+      "ascii": "sukumArI sukhArhA ca rAjaputrI puraMdara\n"
+    }
+  },
+  "17003004c": {
+    "text": {
+      "ud": "सास्माभिः सह गच्छेत तद्भवाननुमन्यताम्\n",
+      "ur": "sāsmābhiḥ saha gaccheta tad bhavān anumanyatām\n",
+      "ascii": "sAsmAbhiH saha gaccheta tad bhavAn anumanyatAm\n"
+    }
+  },
+  "17003005": {
+    "text": {
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n",
+      "ascii": "indra uvAca\n"
+    }
+  },
+  "17003005a": {
+    "text": {
+      "ud": "भ्रातॄन्द्रक्ष्यसि पुत्रांस्त्वमग्रतस्त्रिदिवं गतान्\n",
+      "ur": "bhrātr̥̄n drakṣyasi putrāṁs tvam agratas tridivaṁ gatān\n",
+      "ascii": "bhrAtqn drakSyasi putrAMs tvam agratas tridivaM gatAn\n"
+    }
+  },
+  "17003005c": {
+    "text": {
+      "ud": "कृष्णया सहितान्सर्वान्मा शुचो भरतर्षभ\n",
+      "ur": "kr̥ṣṇayā sahitān sarvān mā śuco bharatarṣabha\n",
+      "ascii": "kRSNayA sahitAn sarvAn mA zuco bharatarSabha\n"
+    }
+  },
+  "17003006a": {
+    "text": {
+      "ud": "निक्षिप्य मानुषं देहं गतास्ते भरतर्षभ\n",
+      "ur": "nikṣipya mānuṣaṁ dehaṁ gatās te bharatarṣabha\n",
+      "ascii": "nikSipya mAnuSaM dehaM gatAs te bharatarSabha\n"
+    }
+  },
+  "17003006c": {
+    "text": {
+      "ud": "अनेन त्वं शरीरेण स्वर्गं गन्ता न संशयः\n",
+      "ur": "anena tvaṁ śarīreṇa svargaṁ gantā na saṁśayaḥ\n",
+      "ascii": "anena tvaM zarIreNa svargaM gantA na saMzayaH\n"
+    }
+  },
+  "17003007": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17003007a": {
+    "text": {
+      "ud": "अयं श्वा भूतभव्येश भक्तो मां नित्यमेव ह\n",
+      "ur": "ayaṁ śvā bhūtabhavyeśa bhakto māṁ nityam eva ha\n",
+      "ascii": "ayaM zvA bhUtabhavyeza bhakto mAM nityam eva ha\n"
+    }
+  },
+  "17003007c": {
+    "text": {
+      "ud": "स गच्छेत मया सार्धमानृशंस्या हि मे मतिः\n",
+      "ur": "sa gaccheta mayā sārdham ānr̥śaṁsyā hi me matiḥ\n",
+      "ascii": "sa gaccheta mayA sArdham AnRzaMsyA hi me matiH\n"
+    }
+  },
+  "17003008": {
+    "text": {
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n",
+      "ascii": "indra uvAca\n"
+    }
+  },
+  "17003008a": {
+    "text": {
+      "ud": "अमर्त्यत्वं मत्समत्वं च राज;ञ्श्रियं कृत्स्नां महतीं चैव कीर्तिम्\n",
+      "ur": "amartyatvaṁ matsamatvaṁ ca rājañ; śriyaṁ kr̥tsnāṁ mahatīṁ caiva kīrtim\n",
+      "ascii": "amartyatvaM matsamatvaM ca rAjaJ; zriyaM kRtsnAM mahatIM caiva kIrtim\n"
+    }
+  },
+  "17003008c": {
+    "text": {
+      "ud": "संप्राप्तोऽद्य स्वर्गसुखानि च त्वं; त्यज श्वानं नात्र नृशंसमस्ति\n",
+      "ur": "saṁprāpto ’dya svargasukhāni ca tvaṁ; tyaja śvānaṁ nātra nr̥śaṁsam asti\n",
+      "ascii": "saMprApto 'dya svargasukhAni ca tvaM; tyaja zvAnaM nAtra nRzaMsam asti\n"
+    }
+  },
+  "17003009": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17003009a": {
+    "text": {
+      "ud": "अनार्यमार्येण सहस्रनेत्र; शक्यं कर्तुं दुष्करमेतदार्य\n",
+      "ur": "anāryam āryeṇa sahasranetra; śakyaṁ kartuṁ duṣkaram etad ārya\n",
+      "ascii": "anAryam AryeNa sahasranetra; zakyaM kartuM duSkaram etad Arya\n"
+    }
+  },
+  "17003009c": {
+    "text": {
+      "ud": "मा मे श्रिया संगमनं तयास्तु; यस्याः कृते भक्तजनं त्यजेयम्\n",
+      "ur": "mā me śriyā saṁgamanaṁ tayāstu; yasyāḥ kr̥te bhaktajanaṁ tyajeyam\n",
+      "ascii": "mA me zriyA saMgamanaM tayAstu; yasyAH kRte bhaktajanaM tyajeyam\n"
+    }
+  },
+  "17003010": {
+    "text": {
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n",
+      "ascii": "indra uvAca\n"
+    }
+  },
+  "17003010a": {
+    "text": {
+      "ud": "स्वर्गे लोके श्ववतां नास्ति धिष्ण्य;मिष्टापूर्तं क्रोधवशा हरन्ति\n",
+      "ur": "svarge loke śvavatāṁ nāsti dhiṣṇyam; iṣṭāpūrtaṁ krodhavaśā haranti\n",
+      "ascii": "svarge loke zvavatAM nAsti dhiSNyam; iSTApUrtaM krodhavazA haranti\n"
+    }
+  },
+  "17003010c": {
+    "text": {
+      "ud": "ततो विचार्य क्रियतां धर्मराज; त्यज श्वानं नात्र नृशंसमस्ति\n",
+      "ur": "tato vicārya kriyatāṁ dharmarāja; tyaja śvānaṁ nātra nr̥śaṁsam asti\n",
+      "ascii": "tato vicArya kriyatAM dharmarAja; tyaja zvAnaM nAtra nRzaMsam asti\n"
+    }
+  },
+  "17003011": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17003011a": {
+    "text": {
+      "ud": "भक्तत्यागं प्राहुरत्यन्तपापं; तुल्यं लोके ब्रह्मवध्याकृतेन\n",
+      "ur": "bhaktatyāgaṁ prāhur atyantapāpaṁ; tulyaṁ loke brahmavadhyākr̥tena\n",
+      "ascii": "bhaktatyAgaM prAhur atyantapApaM; tulyaM loke brahmavadhyAkRtena\n"
+    }
+  },
+  "17003011c": {
+    "text": {
+      "ud": "तस्मान्नाहं जातु कथंचनाद्य; त्यक्ष्याम्येनं स्वसुखार्थी महेन्द्र\n",
+      "ur": "tasmān nāhaṁ jātu kathaṁ canādya; tyakṣyāmy enaṁ svasukhārthī mahendra\n",
+      "ascii": "tasmAn nAhaM jAtu kathaM canAdya; tyakSyAmy enaM svasukhArthI mahendra\n"
+    }
+  },
+  "17003012": {
+    "text": {
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n",
+      "ascii": "indra uvAca\n"
+    }
+  },
+  "17003012a": {
+    "text": {
+      "ud": "शुना दृष्टं क्रोधवशा हरन्ति; यद्दत्तमिष्टं विवृतमथो हुतं च\n",
+      "ur": "śunā dr̥ṣṭaṁ krodhavaśā haranti; yad dattam iṣṭaṁ vivr̥tam atho hutaṁ ca\n",
+      "ascii": "zunA dRSTaM krodhavazA haranti; yad dattam iSTaM vivRtam atho hutaM ca\n"
+    }
+  },
+  "17003012c": {
+    "text": {
+      "ud": "तस्माच्छुनस्त्यागमिमं कुरुष्व; शुनस्त्यागात्प्राप्स्यसे देवलोकम्\n",
+      "ur": "tasmāc chunas tyāgam imaṁ kuruṣva; śunas tyāgāt prāpsyase devalokam\n",
+      "ascii": "tasmAc chunas tyAgam imaM kuruSva; zunas tyAgAt prApsyase devalokam\n"
+    }
+  },
+  "17003013a": {
+    "text": {
+      "ud": "त्यक्त्वा भ्रातॄन्दयितां चापि कृष्णां; प्राप्तो लोकः कर्मणा स्वेन वीर\n",
+      "ur": "tyaktvā bhrātr̥̄n dayitāṁ cāpi kr̥ṣṇāṁ; prāpto lokaḥ karmaṇā svena vīra\n",
+      "ascii": "tyaktvA bhrAtqn dayitAM cApi kRSNAM; prApto lokaH karmaNA svena vIra\n"
+    }
+  },
+  "17003013c": {
+    "text": {
+      "ud": "श्वानं चैनं न त्यजसे कथं नु; त्यागं कृत्स्नं चास्थितो मुह्यसेऽद्य\n",
+      "ur": "śvānaṁ cainaṁ na tyajase kathaṁ nu; tyāgaṁ kr̥tsnaṁ cāsthito muhyase ’dya\n",
+      "ascii": "zvAnaM cainaM na tyajase kathaM nu; tyAgaM kRtsnaM cAsthito muhyase 'dya\n"
+    }
+  },
+  "17003014": {
+    "text": {
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n",
+      "ascii": "yudhiSThira uvAca\n"
+    }
+  },
+  "17003014a": {
+    "text": {
+      "ud": "न विद्यते संधिरथापि विग्रहो; मृतैर्मर्त्यैरिति लोकेषु निष्ठा\n",
+      "ur": "na vidyate saṁdhir athāpi vigraho; mr̥tair martyair iti lokeṣu niṣṭhā\n",
+      "ascii": "na vidyate saMdhir athApi vigraho; mRtair martyair iti lokeSu niSThA\n"
+    }
+  },
+  "17003014c": {
+    "text": {
+      "ud": "न ते मया जीवयितुं हि शक्या; तस्मात्त्यागस्तेषु कृतो न जीवताम्\n",
+      "ur": "na te mayā jīvayituṁ hi śakyā; tasmāt tyāgas teṣu kr̥to na jīvatām\n",
+      "ascii": "na te mayA jIvayituM hi zakyA; tasmAt tyAgas teSu kRto na jIvatAm\n"
+    }
+  },
+  "17003015a": {
+    "text": {
+      "ud": "प्रतिप्रदानं शरणागतस्य; स्त्रिया वधो ब्राह्मणस्वापहारः\n",
+      "ur": "pratipradānaṁ śaraṇāgatasya; striyā vadho brāhmaṇasvāpahāraḥ\n",
+      "ascii": "pratipradAnaM zaraNAgatasya; striyA vadho brAhmaNasvApahAraH\n"
+    }
+  },
+  "17003015c": {
+    "text": {
+      "ud": "मित्रद्रोहस्तानि चत्वारि शक्र; भक्तत्यागश्चैव समो मतो मे\n",
+      "ur": "mitradrohas tāni catvāri śakra; bhaktatyāgaś caiva samo mato me\n",
+      "ascii": "mitradrohas tAni catvAri zakra; bhaktatyAgaz caiva samo mato me\n"
+    }
+  },
+  "17003016": {
+    "text": {
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n",
+      "ascii": "vaizaMpAyana uvAca\n"
+    }
+  },
+  "17003016a": {
+    "text": {
+      "ud": "तद्धर्मराजस्य वचो निशम्य; धर्मस्वरूपी भगवानुवाच\n",
+      "ur": "tad dharmarājasya vaco niśamya; dharmasvarūpī bhagavān uvāca\n",
+      "ascii": "tad dharmarAjasya vaco nizamya; dharmasvarUpI bhagavAn uvAca\n"
+    }
+  },
+  "17003016c": {
+    "text": {
+      "ud": "युधिष्ठिरं प्रीतियुक्तो नरेन्द्रं; श्लक्ष्णैर्वाक्यैः संस्तवसंप्रयुक्तैः\n",
+      "ur": "yudhiṣṭhiraṁ prītiyukto narendraṁ; ślakṣṇair vākyaiḥ saṁstavasaṁprayuktaiḥ\n",
+      "ascii": "yudhiSThiraM prItiyukto narendraM; zlakSNair vAkyaiH saMstavasaMprayuktaiH\n"
+    }
+  },
+  "17003017a": {
+    "text": {
+      "ud": "अभिजातोऽसि राजेन्द्र पितुर्वृत्तेन मेधया\n",
+      "ur": "abhijāto ’si rājendra pitur vr̥ttena medhayā\n",
+      "ascii": "abhijAto 'si rAjendra pitur vRttena medhayA\n"
+    }
+  },
+  "17003017c": {
+    "text": {
+      "ud": "अनुक्रोशेन चानेन सर्वभूतेषु भारत\n",
+      "ur": "anukrośena cānena sarvabhūteṣu bhārata\n",
+      "ascii": "anukrozena cAnena sarvabhUteSu bhArata\n"
+    }
+  },
+  "17003018a": {
+    "text": {
+      "ud": "पुरा द्वैतवने चासि मया पुत्र परीक्षितः\n",
+      "ur": "purā dvaitavane cāsi mayā putra parīkṣitaḥ\n",
+      "ascii": "purA dvaitavane cAsi mayA putra parIkSitaH\n"
+    }
+  },
+  "17003018c": {
+    "text": {
+      "ud": "पानीयार्थे पराक्रान्ता यत्र ते भ्रातरो हताः\n",
+      "ur": "pānīyārthe parākrāntā yatra te bhrātaro hatāḥ\n",
+      "ascii": "pAnIyArthe parAkrAntA yatra te bhrAtaro hatAH\n"
+    }
+  },
+  "17003019a": {
+    "text": {
+      "ud": "भीमार्जुनौ परित्यज्य यत्र त्वं भ्रातरावुभौ\n",
+      "ur": "bhīmārjunau parityajya yatra tvaṁ bhrātarāv ubhau\n",
+      "ascii": "bhImArjunau parityajya yatra tvaM bhrAtarAv ubhau\n"
+    }
+  },
+  "17003019c": {
+    "text": {
+      "ud": "मात्रोः साम्यमभीप्सन्वै नकुलं जीवमिच्छसि\n",
+      "ur": "mātroḥ sāmyam abhīpsan vai nakulaṁ jīvam icchasi\n",
+      "ascii": "mAtroH sAmyam abhIpsan vai nakulaM jIvam icchasi\n"
+    }
+  },
+  "17003020a": {
+    "text": {
+      "ud": "अयं श्वा भक्त इत्येव त्यक्तो देवरथस्त्वया\n",
+      "ur": "ayaṁ śvā bhakta ity eva tyakto devarathas tvayā\n",
+      "ascii": "ayaM zvA bhakta ity eva tyakto devarathas tvayA\n"
+    }
+  },
+  "17003020c": {
+    "text": {
+      "ud": "तस्मात्स्वर्गे न ते तुल्यः कश्चिदस्ति नराधिप\n",
+      "ur": "tasmāt svarge na te tulyaḥ kaś cid asti narādhipa\n",
+      "ascii": "tasmAt svarge na te tulyaH kaz cid asti narAdhipa\n"
+    }
+  },
+  "17003021a": {
+    "text": {
+      "ud": "अतस्तवाक्षया लोकाः स्वशरीरेण भारत\n",
+      "ur": "atas tavākṣayā lokāḥ svaśarīreṇa bhārata\n",
+      "ascii": "atas tavAkSayA lokAH svazarIreNa bhArata\n"
+    }
+  },
+  "17003021c": {
+    "text": {
+      "ud": "प्राप्तोऽसि भरतश्रेष्ठ दिव्यां गतिमनुत्तमाम्\n",
+      "ur": "prāpto ’si bharataśreṣṭha divyāṁ gatim anuttamām\n",
+      "ascii": "prApto 'si bharatazreSTha divyAM gatim anuttamAm\n"
+    }
+  },
+  "17003022a": {
+    "text": {
+      "ud": "ततो धर्मश्च शक्रश्च मरुतश्चाश्विनावपि\n",
+      "ur": "tato dharmaś ca śakraś ca marutaś cāśvināv api\n",
+      "ascii": "tato dharmaz ca zakraz ca marutaz cAzvinAv api\n"
+    }
+  },
+  "17003022c": {
+    "text": {
+      "ud": "देवा देवर्षयश्चैव रथमारोप्य पाण्डवम्\n",
+      "ur": "devā devarṣayaś caiva ratham āropya pāṇḍavam\n",
+      "ascii": "devA devarSayaz caiva ratham Aropya pANDavam\n"
+    }
+  },
+  "17003023a": {
+    "text": {
+      "ud": "प्रययुः स्वैर्विमानैस्ते सिद्धाः कामविहारिणः\n",
+      "ur": "prayayuḥ svair vimānais te siddhāḥ kāmavihāriṇaḥ\n",
+      "ascii": "prayayuH svair vimAnais te siddhAH kAmavihAriNaH\n"
+    }
+  },
+  "17003023c": {
+    "text": {
+      "ud": "सर्वे विरजसः पुण्याः पुण्यवाग्बुद्धिकर्मिणः\n",
+      "ur": "sarve virajasaḥ puṇyāḥ puṇyavāgbuddhikarmiṇaḥ\n",
+      "ascii": "sarve virajasaH puNyAH puNyavAgbuddhikarmiNaH\n"
+    }
+  },
+  "17003024a": {
+    "text": {
+      "ud": "स तं रथं समास्थाय राजा कुरुकुलोद्वहः\n",
+      "ur": "sa taṁ rathaṁ samāsthāya rājā kurukulodvahaḥ\n",
+      "ascii": "sa taM rathaM samAsthAya rAjA kurukulodvahaH\n"
+    }
+  },
+  "17003024c": {
+    "text": {
+      "ud": "ऊर्ध्वमाचक्रमे शीघ्रं तेजसावृत्य रोदसी\n",
+      "ur": "ūrdhvam ācakrame śīghraṁ tejasāvr̥tya rodasī\n",
+      "ascii": "Urdhvam Acakrame zIghraM tejasAvRtya rodasI\n"
+    }
+  },
+  "17003025a": {
+    "text": {
+      "ud": "ततो देवनिकायस्थो नारदः सर्वलोकवित्\n",
+      "ur": "tato devanikāyastho nāradaḥ sarvalokavit\n",
+      "ascii": "tato devanikAyastho nAradaH sarvalokavit\n"
+    }
+  },
+  "17003025c": {
+    "text": {
+      "ud": "उवाचोच्चैस्तदा वाक्यं बृहद्वादी बृहत्तपाः\n",
+      "ur": "uvācoccais tadā vākyaṁ br̥hadvādī br̥hattapāḥ\n",
+      "ascii": "uvAcoccais tadA vAkyaM bRhadvAdI bRhattapAH\n"
+    }
+  },
+  "17003026a": {
+    "text": {
+      "ud": "येऽपि राजर्षयः सर्वे ते चापि समुपस्थिताः\n",
+      "ur": "ye ’pi rājarṣayaḥ sarve te cāpi samupasthitāḥ\n",
+      "ascii": "ye 'pi rAjarSayaH sarve te cApi samupasthitAH\n"
+    }
+  },
+  "17003026c": {
+    "text": {
+      "ud": "कीर्तिं प्रच्छाद्य तेषां वै कुरुराजोऽधितिष्ठति\n",
+      "ur": "kīrtiṁ pracchādya teṣāṁ vai kururājo ’dhitiṣṭhati\n",
+      "ascii": "kIrtiM pracchAdya teSAM vai kururAjo 'dhitiSThati\n"
+    }
+  },
+  "17003027a": {
+    "text": {
+      "ud": "लोकानावृत्य यशसा तेजसा वृत्तसंपदा\n",
+      "ur": "lokān āvr̥tya yaśasā tejasā vr̥ttasaṁpadā\n",
+      "ascii": "lokAn AvRtya yazasA tejasA vRttasaMpadA\n"
+    }
+  },
+  "17003027c": {
+    "text": {
+      "ud": "स्वशरीरेण संप्राप्तं नान्यं शुश्रुम पाण्डवात्\n",
+      "ur": "svaśarīreṇa saṁprāptaṁ nānyaṁ śuśruma pāṇḍavāt\n",
+      "ascii": "svazarIreNa saMprAptaM nAnyaM zuzruma pANDavAt\n"
+    }
+  },
+  "17003028a": {
+    "text": {
+      "ud": "नारदस्य वचः श्रुत्वा राजा वचनमब्रवीत्\n",
+      "ur": "nāradasya vacaḥ śrutvā rājā vacanam abravīt\n",
+      "ascii": "nAradasya vacaH zrutvA rAjA vacanam abravIt\n"
+    }
+  },
+  "17003028c": {
+    "text": {
+      "ud": "देवानामन्त्र्य धर्मात्मा स्वपक्षांश्चैव पार्थिवान्\n",
+      "ur": "devān āmantrya dharmātmā svapakṣāṁś caiva pārthivān\n",
+      "ascii": "devAn Amantrya dharmAtmA svapakSAMz caiva pArthivAn\n"
+    }
+  },
+  "17003029a": {
+    "text": {
+      "ud": "शुभं वा यदि वा पापं भ्रातॄणां स्थानमद्य मे\n",
+      "ur": "śubhaṁ vā yadi vā pāpaṁ bhrātr̥̄ṇāṁ sthānam adya me\n",
+      "ascii": "zubhaM vA yadi vA pApaM bhrAtqNAM sthAnam adya me\n"
+    }
+  },
+  "17003029c": {
+    "text": {
+      "ud": "तदेव प्राप्तुमिच्छामि लोकानन्यान्न कामये\n",
+      "ur": "tad eva prāptum icchāmi lokān anyān na kāmaye\n",
+      "ascii": "tad eva prAptum icchAmi lokAn anyAn na kAmaye\n"
+    }
+  },
+  "17003030a": {
+    "text": {
+      "ud": "राज्ञस्तु वचनं श्रुत्वा देवराजः पुरंदरः\n",
+      "ur": "rājñas tu vacanaṁ śrutvā devarājaḥ puraṁdaraḥ\n",
+      "ascii": "rAjJas tu vacanaM zrutvA devarAjaH puraMdaraH\n"
+    }
+  },
+  "17003030c": {
+    "text": {
+      "ud": "आनृशंस्यसमायुक्तं प्रत्युवाच युधिष्ठिरम्\n",
+      "ur": "ānr̥śaṁsyasamāyuktaṁ pratyuvāca yudhiṣṭhiram\n",
+      "ascii": "AnRzaMsyasamAyuktaM pratyuvAca yudhiSThiram\n"
+    }
+  },
+  "17003031a": {
+    "text": {
+      "ud": "स्थानेऽस्मिन्वस राजेन्द्र कर्मभिर्निर्जिते शुभैः\n",
+      "ur": "sthāne ’smin vasa rājendra karmabhir nirjite śubhaiḥ\n",
+      "ascii": "sthAne 'smin vasa rAjendra karmabhir nirjite zubhaiH\n"
+    }
+  },
+  "17003031c": {
+    "text": {
+      "ud": "किं त्वं मानुष्यकं स्नेहमद्यापि परिकर्षसि\n",
+      "ur": "kiṁ tvaṁ mānuṣyakaṁ sneham adyāpi parikarṣasi\n",
+      "ascii": "kiM tvaM mAnuSyakaM sneham adyApi parikarSasi\n"
+    }
+  },
+  "17003032a": {
+    "text": {
+      "ud": "सिद्धिं प्राप्तोऽसि परमां यथा नान्यः पुमान्क्वचित्\n",
+      "ur": "siddhiṁ prāpto ’si paramāṁ yathā nānyaḥ pumān kva cit\n",
+      "ascii": "siddhiM prApto 'si paramAM yathA nAnyaH pumAn kva cit\n"
+    }
+  },
+  "17003032c": {
+    "text": {
+      "ud": "नैव ते भ्रातरः स्थानं संप्राप्ताः कुरुनन्दन\n",
+      "ur": "naiva te bhrātaraḥ sthānaṁ saṁprāptāḥ kurunandana\n",
+      "ascii": "naiva te bhrAtaraH sthAnaM saMprAptAH kurunandana\n"
+    }
+  },
+  "17003033a": {
+    "text": {
+      "ud": "अद्यापि मानुषो भावः स्पृशते त्वां नराधिप\n",
+      "ur": "adyāpi mānuṣo bhāvaḥ spr̥śate tvāṁ narādhipa\n",
+      "ascii": "adyApi mAnuSo bhAvaH spRzate tvAM narAdhipa\n"
+    }
+  },
+  "17003033c": {
+    "text": {
+      "ud": "स्वर्गोऽयं पश्य देवर्षीन्सिद्धांश्च त्रिदिवालयान्\n",
+      "ur": "svargo ’yaṁ paśya devarṣīn siddhāṁś ca tridivālayān\n",
+      "ascii": "svargo 'yaM pazya devarSIn siddhAMz ca tridivAlayAn\n"
+    }
+  },
+  "17003034a": {
+    "text": {
+      "ud": "युधिष्ठिरस्तु देवेन्द्रमेवंवादिनमीश्वरम्\n",
+      "ur": "yudhiṣṭhiras tu devendram evaṁvādinam īśvaram\n",
+      "ascii": "yudhiSThiras tu devendram evaMvAdinam Izvaram\n"
+    }
+  },
+  "17003034c": {
+    "text": {
+      "ud": "पुनरेवाब्रवीद्धीमानिदं वचनमर्थवत्\n",
+      "ur": "punar evābravīd dhīmān idaṁ vacanam arthavat\n",
+      "ascii": "punar evAbravId dhImAn idaM vacanam arthavat\n"
+    }
+  },
+  "17003035a": {
+    "text": {
+      "ud": "तैर्विना नोत्सहे वस्तुमिह दैत्यनिबर्हण\n",
+      "ur": "tair vinā notsahe vastum iha daityanibarhaṇa\n",
+      "ascii": "tair vinA notsahe vastum iha daityanibarhaNa\n"
+    }
+  },
+  "17003035c": {
+    "text": {
+      "ud": "गन्तुमिच्छामि तत्राहं यत्र मे भ्रातरो गताः\n",
+      "ur": "gantum icchāmi tatrāhaṁ yatra me bhrātaro gatāḥ\n",
+      "ascii": "gantum icchAmi tatrAhaM yatra me bhrAtaro gatAH\n"
+    }
+  },
+  "17003036a": {
+    "text": {
+      "ud": "यत्र सा बृहती श्यामा बुद्धिसत्त्वगुणान्विता\n",
+      "ur": "yatra sā br̥hatī śyāmā buddhisattvaguṇānvitā\n",
+      "ascii": "yatra sA bRhatI zyAmA buddhisattvaguNAnvitA\n"
+    }
+  },
+  "17003036c": {
+    "text": {
+      "ud": "द्रौपदी योषितां श्रेष्ठा यत्र चैव प्रिया मम\n",
+      "ur": "draupadī yoṣitāṁ śreṣṭhā yatra caiva priyā mama\n",
+      "ascii": "draupadI yoSitAM zreSThA yatra caiva priyA mama\n"
+    }
+  }
 }
