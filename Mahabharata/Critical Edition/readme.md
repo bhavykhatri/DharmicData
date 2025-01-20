@@ -171,7 +171,9 @@ Top Speakers:
 : 21093 Lines
 
 
-# Speaker Line Counts
+# Counts of Lines-attributed to Each and Every Speaker
+
+Meter-less prose lines is considered as a speaker here.
 
 | Rank | Speaker | Number of Lines | Percentage |
 |------|---------|------------|------------|
