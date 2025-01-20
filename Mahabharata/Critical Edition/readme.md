@@ -3,6 +3,13 @@ The Mahābhārata states that it contains 1,00,000 verses.
 The BORI Critical Edition contains about 85,000 verses corresponding to about ~1,70,000.    
 The actual number of lines in the CE comes out to be 17,44,295 after accounting for prose lines and lines attributing the subsequent lines to a speaker. eg. "Suta said", ...    
 
+
+Each line of each verse is tagged by a key of the form: 01234567c    
+Where 01 is the name of the book from Ādi (01) to Svargārohaṇa (18) parva.   
+234 is the chapter number.    
+567 is the verse number.   
+The letter, usually a or c denotes the first or second half of the the śloka, in other words ślokārdha.    
+
 Below is the lines attributed to each author.    
 Drawback of this table is that śrībhagavān, śrīkr̥ṣṇa, vāsudeva and kr̥ṣṇa are the same person but have lines attributed to them separately. This may as well be the case with other speakers.    
 Another drawback is that prose lines or lines which cannot be attributed to any speaker have been considered as speaker in and of themselves.    
@@ -613,10 +620,3 @@ Meter-less prose lines is considered as a speaker here.
 
 **Total Lines:** 1744295
 
-Each line of each verse is tagged by a key of the form: 01234567c    
-
-Where 01 is the name of the book from Ādi (01) to Svargārohaṇa (18) parva.   
-234 is the chapter number.    
-567 is the verse number.   
-The letter, usually a or c denotes the first or second half of the the śloka, in other words ślokārdha.    
-`
