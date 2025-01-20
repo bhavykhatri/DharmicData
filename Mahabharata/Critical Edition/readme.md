@@ -1,6 +1,7 @@
 This is the Critical Edition of the Mahābhārata curated by Bhandarkar Oriental Research Institute, Pune.   
 The Mahābhārata states that it contains 1,00,000 verses.   
-The BORI Critical Edition contains about 85,000.    
+The BORI Critical Edition contains about 85,000 verses corresponding to about ~1,70,000.    
+The actual number of lines in the CE comes out to be 17,44,295 after accounting for prose lines and lines attributing the subsequent lines to a speaker. eg. "Suta said", ...    
 
 Below is the lines attributed to each author.    
 Drawback of this table is that śrībhagavān, śrīkr̥ṣṇa, vāsudeva and kr̥ṣṇa are the same person but have lines attributed to them separately. This may as well be the case with other speakers.    
