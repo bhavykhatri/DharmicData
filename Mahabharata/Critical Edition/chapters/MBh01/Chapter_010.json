@@ -1,0 +1,212 @@
+{
+  "01010001": {
+    "text": {
+      "ascii": "rurur uvAca\n",
+      "ud": "रुरुरुवाच\n",
+      "ur": "rurur uvāca\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 1
+  },
+  "01010001a": {
+    "text": {
+      "ascii": "mama prANasamA bhAryA daSTAsId bhujagena ha\n",
+      "ud": "मम प्राणसमा भार्या दष्टासीद्भुजगेन ह\n",
+      "ur": "mama prāṇasamā bhāryā daṣṭāsīd bhujagena ha\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 1
+  },
+  "01010001c": {
+    "text": {
+      "ascii": "tatra me samayo ghora Atmanoraga vai kRtaH\n",
+      "ud": "तत्र मे समयो घोर आत्मनोरग वै कृतः\n",
+      "ur": "tatra me samayo ghora ātmanoraga vai kr̥taḥ\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 1
+  },
+  "01010002a": {
+    "text": {
+      "ascii": "hanyAM sadaiva bhujagaM yaM yaM pazyeyam ity uta\n",
+      "ud": "हन्यां सदैव भुजगं यं यं पश्येयमित्युत\n",
+      "ur": "hanyāṁ sadaiva bhujagaṁ yaṁ yaṁ paśyeyam ity uta\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 2
+  },
+  "01010002c": {
+    "text": {
+      "ascii": "tato 'haM tvAM jighAMsAmi jIvitena vimokSyase\n",
+      "ud": "ततोऽहं त्वां जिघांसामि जीवितेन विमोक्ष्यसे\n",
+      "ur": "tato ’haṁ tvāṁ jighāṁsāmi jīvitena vimokṣyase\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 2
+  },
+  "01010003": {
+    "text": {
+      "ascii": "DuNDubha uvAca\n",
+      "ud": "डुण्डुभ उवाच\n",
+      "ur": "ḍuṇḍubha uvāca\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 3
+  },
+  "01010003a": {
+    "text": {
+      "ascii": "anye te bhujagA vipra ye dazantIha mAnavAn\n",
+      "ud": "अन्ये ते भुजगा विप्र ये दशन्तीह मानवान्\n",
+      "ur": "anye te bhujagā vipra ye daśantīha mānavān\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 3
+  },
+  "01010003c": {
+    "text": {
+      "ascii": "DuNDubhAn ahigandhena na tvaM hiMsitum arhasi\n",
+      "ud": "डुण्डुभानहिगन्धेन न त्वं हिंसितुमर्हसि\n",
+      "ur": "ḍuṇḍubhān ahigandhena na tvaṁ hiṁsitum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 3
+  },
+  "01010004a": {
+    "text": {
+      "ascii": "ekAnarthAn pRthagarthAn ekaduHkhAn pRthaksukhAn\n",
+      "ud": "एकानर्थान्पृथगर्थानेकदुःखान्पृथक्सुखान्\n",
+      "ur": "ekānarthān pr̥thagarthān ekaduḥkhān pr̥thaksukhān\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 4
+  },
+  "01010004c": {
+    "text": {
+      "ascii": "DuNDubhAn dharmavid bhUtvA na tvaM hiMsitum arhasi\n",
+      "ud": "डुण्डुभान्धर्मविद्भूत्वा न त्वं हिंसितुमर्हसि\n",
+      "ur": "ḍuṇḍubhān dharmavid bhūtvā na tvaṁ hiṁsitum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 4
+  },
+  "01010005": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 5
+  },
+  "01010005a": {
+    "text": {
+      "ascii": "iti zrutvA vacas tasya bhujagasya rurus tadA\n",
+      "ud": "इति श्रुत्वा वचस्तस्य भुजगस्य रुरुस्तदा\n",
+      "ur": "iti śrutvā vacas tasya bhujagasya rurus tadā\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 5
+  },
+  "01010005c": {
+    "text": {
+      "ascii": "nAvadhId bhayasaMvigna RSiM matvAtha DuNDubham\n",
+      "ud": "नावधीद्भयसंविग्न ऋषिं मत्वाथ डुण्डुभम्\n",
+      "ur": "nāvadhīd bhayasaṁvigna r̥ṣiṁ matvātha ḍuṇḍubham\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 5
+  },
+  "01010006a": {
+    "text": {
+      "ascii": "uvAca cainaM bhagavAn ruruH saMzamayann iva\n",
+      "ud": "उवाच चैनं भगवान्रुरुः संशमयन्निव\n",
+      "ur": "uvāca cainaṁ bhagavān ruruḥ saṁśamayann iva\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 6
+  },
+  "01010006c": {
+    "text": {
+      "ascii": "kAmayA bhujaga brUhi ko 'sImAM vikriyAM gataH\n",
+      "ud": "कामया भुजग ब्रूहि कोऽसीमां विक्रियां गतः\n",
+      "ur": "kāmayā bhujaga brūhi ko ’sīmāṁ vikriyāṁ gataḥ\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 6
+  },
+  "01010007": {
+    "text": {
+      "ascii": "DuNDubha uvAca\n",
+      "ud": "डुण्डुभ उवाच\n",
+      "ur": "ḍuṇḍubha uvāca\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 7
+  },
+  "01010007a": {
+    "text": {
+      "ascii": "ahaM purA ruro nAmnA RSir AsaM sahasrapAt\n",
+      "ud": "अहं पुरा रुरो नाम्ना ऋषिरासं सहस्रपात्\n",
+      "ur": "ahaṁ purā ruro nāmnā r̥ṣir āsaṁ sahasrapāt\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 7
+  },
+  "01010007c": {
+    "text": {
+      "ascii": "so 'haM zApena viprasya bhujagatvam upAgataH\n",
+      "ud": "सोऽहं शापेन विप्रस्य भुजगत्वमुपागतः\n",
+      "ur": "so ’haṁ śāpena viprasya bhujagatvam upāgataḥ\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 7
+  },
+  "01010008": {
+    "text": {
+      "ascii": "rurur uvAca\n",
+      "ud": "रुरुरुवाच\n",
+      "ur": "rurur uvāca\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 8
+  },
+  "01010008a": {
+    "text": {
+      "ascii": "kimarthaM zaptavAn kruddho dvijas tvAM bhujagottama\n",
+      "ud": "किमर्थं शप्तवान्क्रुद्धो द्विजस्त्वां भुजगोत्तम\n",
+      "ur": "kimarthaṁ śaptavān kruddho dvijas tvāṁ bhujagottama\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 8
+  },
+  "01010008c": {
+    "text": {
+      "ascii": "kiyantaM caiva kAlaM te vapur etad bhaviSyati\n",
+      "ud": "कियन्तं चैव कालं ते वपुरेतद्भविष्यति\n",
+      "ur": "kiyantaṁ caiva kālaṁ te vapur etad bhaviṣyati\n"
+    },
+    "book": 1,
+    "chapter": 10,
+    "verse": 8
+  }
+}

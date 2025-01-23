@@ -1,0 +1,692 @@
+{
+  "01098001": {
+    "text": {
+      "ascii": "bhISma uvAca\n",
+      "ud": "भीष्म उवाच\n",
+      "ur": "bhīṣma uvāca\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 1
+  },
+  "01098001a": {
+    "text": {
+      "ascii": "jAmadagnyena rAmeNa pitur vadham amRSyatA\n",
+      "ud": "जामदग्न्येन रामेण पितुर्वधममृष्यता\n",
+      "ur": "jāmadagnyena rāmeṇa pitur vadham amr̥ṣyatā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 1
+  },
+  "01098001c": {
+    "text": {
+      "ascii": "kruddhena ca mahAbhAge haihayAdhipatir hataH\n",
+      "ud": "क्रुद्धेन च महाभागे हैहयाधिपतिर्हतः\n",
+      "ur": "kruddhena ca mahābhāge haihayādhipatir hataḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 1
+  },
+  "01098001e": {
+    "text": {
+      "ascii": "zatAni daza bAhUnAM nikRttAny arjunasya vai\n",
+      "ud": "शतानि दश बाहूनां निकृत्तान्यर्जुनस्य वै\n",
+      "ur": "śatāni daśa bāhūnāṁ nikr̥ttāny arjunasya vai\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 1
+  },
+  "01098002a": {
+    "text": {
+      "ascii": "punaz ca dhanur AdAya mahAstrANi pramuJcatA\n",
+      "ud": "पुनश्च धनुरादाय महास्त्राणि प्रमुञ्चता\n",
+      "ur": "punaś ca dhanur ādāya mahāstrāṇi pramuñcatā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 2
+  },
+  "01098002c": {
+    "text": {
+      "ascii": "nirdagdhaM kSatram asakRd rathena jayatA mahIm\n",
+      "ud": "निर्दग्धं क्षत्रमसकृद्रथेन जयता महीम्\n",
+      "ur": "nirdagdhaṁ kṣatram asakr̥d rathena jayatā mahīm\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 2
+  },
+  "01098003a": {
+    "text": {
+      "ascii": "evam uccAvacair astrair bhArgaveNa mahAtmanA\n",
+      "ud": "एवमुच्चावचैरस्त्रैर्भार्गवेण महात्मना\n",
+      "ur": "evam uccāvacair astrair bhārgaveṇa mahātmanā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 3
+  },
+  "01098003c": {
+    "text": {
+      "ascii": "triHsaptakRtvaH pRthivI kRtA niHkSatriyA purA\n",
+      "ud": "त्रिःसप्तकृत्वः पृथिवी कृता निःक्षत्रिया पुरा\n",
+      "ur": "triḥsaptakr̥tvaḥ pr̥thivī kr̥tā niḥkṣatriyā purā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 3
+  },
+  "01098004a": {
+    "text": {
+      "ascii": "tataH saMbhUya sarvAbhiH kSatriyAbhiH samantataH\n",
+      "ud": "ततः संभूय सर्वाभिः क्षत्रियाभिः समन्ततः\n",
+      "ur": "tataḥ saṁbhūya sarvābhiḥ kṣatriyābhiḥ samantataḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 4
+  },
+  "01098004c": {
+    "text": {
+      "ascii": "utpAditAny apatyAni brAhmaNair niyatAtmabhiH\n",
+      "ud": "उत्पादितान्यपत्यानि ब्राह्मणैर्नियतात्मभिः\n",
+      "ur": "utpāditāny apatyāni brāhmaṇair niyatātmabhiḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 4
+  },
+  "01098005a": {
+    "text": {
+      "ascii": "pANigrAhasya tanaya iti vedeSu nizcitam\n",
+      "ud": "पाणिग्राहस्य तनय इति वेदेषु निश्चितम्\n",
+      "ur": "pāṇigrāhasya tanaya iti vedeṣu niścitam\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 5
+  },
+  "01098005c": {
+    "text": {
+      "ascii": "dharmaM manasi saMsthApya brAhmaNAMs tAH samabhyayuH\n",
+      "ud": "धर्मं मनसि संस्थाप्य ब्राह्मणांस्ताः समभ्ययुः\n",
+      "ur": "dharmaṁ manasi saṁsthāpya brāhmaṇāṁs tāḥ samabhyayuḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 5
+  },
+  "01098005e": {
+    "text": {
+      "ascii": "loke 'py Acarito dRSTaH kSatriyANAM punarbhavaH\n",
+      "ud": "लोकेऽप्याचरितो दृष्टः क्षत्रियाणां पुनर्भवः\n",
+      "ur": "loke ’py ācarito dr̥ṣṭaḥ kṣatriyāṇāṁ punarbhavaḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 5
+  },
+  "01098006a": {
+    "text": {
+      "ascii": "athotathya iti khyAta AsId dhImAn RSiH purA\n",
+      "ud": "अथोतथ्य इति ख्यात आसीद्धीमानृषिः पुरा\n",
+      "ur": "athotathya iti khyāta āsīd dhīmān r̥ṣiḥ purā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 6
+  },
+  "01098006c": {
+    "text": {
+      "ascii": "mamatA nAma tasyAsId bhAryA paramasaMmatA\n",
+      "ud": "ममता नाम तस्यासीद्भार्या परमसंमता\n",
+      "ur": "mamatā nāma tasyāsīd bhāryā paramasaṁmatā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 6
+  },
+  "01098007a": {
+    "text": {
+      "ascii": "utathyasya yavIyAMs tu purodhAs tridivaukasAm\n",
+      "ud": "उतथ्यस्य यवीयांस्तु पुरोधास्त्रिदिवौकसाम्\n",
+      "ur": "utathyasya yavīyāṁs tu purodhās tridivaukasām\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 7
+  },
+  "01098007c": {
+    "text": {
+      "ascii": "bRhaspatir bRhattejA mamatAM so 'nvapadyata\n",
+      "ud": "बृहस्पतिर्बृहत्तेजा ममतां सोऽन्वपद्यत\n",
+      "ur": "br̥haspatir br̥hattejā mamatāṁ so ’nvapadyata\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 7
+  },
+  "01098008a": {
+    "text": {
+      "ascii": "uvAca mamatA taM tu devaraM vadatAM varam\n",
+      "ud": "उवाच ममता तं तु देवरं वदतां वरम्\n",
+      "ur": "uvāca mamatā taṁ tu devaraṁ vadatāṁ varam\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 8
+  },
+  "01098008c": {
+    "text": {
+      "ascii": "antarvatnI ahaM bhrAtrA jyeSThenAramyatAm iti\n",
+      "ud": "अन्तर्वत्नी अहं भ्रात्रा ज्येष्ठेनारम्यतामिति\n",
+      "ur": "antarvatnī ahaṁ bhrātrā jyeṣṭhenāramyatām iti\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 8
+  },
+  "01098009a": {
+    "text": {
+      "ascii": "ayaM ca me mahAbhAga kukSAv eva bRhaspate\n",
+      "ud": "अयं च मे महाभाग कुक्षावेव बृहस्पते\n",
+      "ur": "ayaṁ ca me mahābhāga kukṣāv eva br̥haspate\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 9
+  },
+  "01098009c": {
+    "text": {
+      "ascii": "autathyo vedam atraiva SaDaGgaM pratyadhIyata\n",
+      "ud": "औतथ्यो वेदमत्रैव षडङ्गं प्रत्यधीयत\n",
+      "ur": "autathyo vedam atraiva ṣaḍaṅgaṁ pratyadhīyata\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 9
+  },
+  "01098010a": {
+    "text": {
+      "ascii": "amogharetAs tvaM cApi nUnaM bhavitum arhasi\n",
+      "ud": "अमोघरेतास्त्वं चापि नूनं भवितुमर्हसि\n",
+      "ur": "amogharetās tvaṁ cāpi nūnaṁ bhavitum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 10
+  },
+  "01098010c": {
+    "text": {
+      "ascii": "tasmAd evaMgate 'dya tvam upAramitum arhasi\n",
+      "ud": "तस्मादेवंगतेऽद्य त्वमुपारमितुमर्हसि\n",
+      "ur": "tasmād evaṁgate ’dya tvam upāramitum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 10
+  },
+  "01098011a": {
+    "text": {
+      "ascii": "evam uktas tayA samyag bRhattejA bRhaspatiH\n",
+      "ud": "एवमुक्तस्तया सम्यग्बृहत्तेजा बृहस्पतिः\n",
+      "ur": "evam uktas tayā samyag br̥hattejā br̥haspatiḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 11
+  },
+  "01098011c": {
+    "text": {
+      "ascii": "kAmAtmAnaM tadAtmAnaM na zazAka niyacchitum\n",
+      "ud": "कामात्मानं तदात्मानं न शशाक नियच्छितुम्\n",
+      "ur": "kāmātmānaṁ tadātmānaṁ na śaśāka niyacchitum\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 11
+  },
+  "01098012a": {
+    "text": {
+      "ascii": "saMbabhUva tataH kAmI tayA sArdham akAmayA\n",
+      "ud": "संबभूव ततः कामी तया सार्धमकामया\n",
+      "ur": "saṁbabhūva tataḥ kāmī tayā sārdham akāmayā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 12
+  },
+  "01098012c": {
+    "text": {
+      "ascii": "utsRjantaM tu taM retaH sa garbhastho 'bhyabhASata\n",
+      "ud": "उत्सृजन्तं तु तं रेतः स गर्भस्थोऽभ्यभाषत\n",
+      "ur": "utsr̥jantaṁ tu taṁ retaḥ sa garbhastho ’bhyabhāṣata\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 12
+  },
+  "01098013a": {
+    "text": {
+      "ascii": "bhos tAta kanyasa vade dvayor nAsty atra saMbhavaH\n",
+      "ud": "भोस्तात कन्यस वदे द्वयोर्नास्त्यत्र संभवः\n",
+      "ur": "bhos tāta kanyasa vade dvayor nāsty atra saṁbhavaḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 13
+  },
+  "01098013c": {
+    "text": {
+      "ascii": "amoghazukraz ca bhavAn pUrvaM cAham ihAgataH\n",
+      "ud": "अमोघशुक्रश्च भवान्पूर्वं चाहमिहागतः\n",
+      "ur": "amoghaśukraś ca bhavān pūrvaṁ cāham ihāgataḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 13
+  },
+  "01098014a": {
+    "text": {
+      "ascii": "zazApa taM tataH kruddha evam ukto bRhaspatiH\n",
+      "ud": "शशाप तं ततः क्रुद्ध एवमुक्तो बृहस्पतिः\n",
+      "ur": "śaśāpa taṁ tataḥ kruddha evam ukto br̥haspatiḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 14
+  },
+  "01098014c": {
+    "text": {
+      "ascii": "utathyaputraM garbhasthaM nirbhartsya bhagavAn RSiH\n",
+      "ud": "उतथ्यपुत्रं गर्भस्थं निर्भर्त्स्य भगवानृषिः\n",
+      "ur": "utathyaputraṁ garbhasthaṁ nirbhartsya bhagavān r̥ṣiḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 14
+  },
+  "01098015a": {
+    "text": {
+      "ascii": "yasmAt tvam IdRze kAle sarvabhUtepsite sati\n",
+      "ud": "यस्मात्त्वमीदृशे काले सर्वभूतेप्सिते सति\n",
+      "ur": "yasmāt tvam īdr̥śe kāle sarvabhūtepsite sati\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 15
+  },
+  "01098015c": {
+    "text": {
+      "ascii": "evam Attha vacas tasmAt tamo dIrghaM pravekSyasi\n",
+      "ud": "एवमात्थ वचस्तस्मात्तमो दीर्घं प्रवेक्ष्यसि\n",
+      "ur": "evam āttha vacas tasmāt tamo dīrghaṁ pravekṣyasi\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 15
+  },
+  "01098016a": {
+    "text": {
+      "ascii": "sa vai dIrghatamA nAma zApAd RSir ajAyata\n",
+      "ud": "स वै दीर्घतमा नाम शापादृषिरजायत\n",
+      "ur": "sa vai dīrghatamā nāma śāpād r̥ṣir ajāyata\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 16
+  },
+  "01098016c": {
+    "text": {
+      "ascii": "bRhaspater bRhatkIrter bRhaspatir ivaujasA\n",
+      "ud": "बृहस्पतेर्बृहत्कीर्तेर्बृहस्पतिरिवौजसा\n",
+      "ur": "br̥haspater br̥hatkīrter br̥haspatir ivaujasā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 16
+  },
+  "01098017a": {
+    "text": {
+      "ascii": "sa putrAJ janayAm Asa gautamAdIn mahAyazAH\n",
+      "ud": "स पुत्राञ्जनयामास गौतमादीन्महायशाः\n",
+      "ur": "sa putrāñ janayām āsa gautamādīn mahāyaśāḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 17
+  },
+  "01098017c": {
+    "text": {
+      "ascii": "RSer utathyasya tadA saMtAnakulavRddhaye\n",
+      "ud": "ऋषेरुतथ्यस्य तदा संतानकुलवृद्धये\n",
+      "ur": "r̥ṣer utathyasya tadā saṁtānakulavr̥ddhaye\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 17
+  },
+  "01098018a": {
+    "text": {
+      "ascii": "lobhamohAbhibhUtAs te putrAs taM gautamAdayaH\n",
+      "ud": "लोभमोहाभिभूतास्ते पुत्रास्तं गौतमादयः\n",
+      "ur": "lobhamohābhibhūtās te putrās taṁ gautamādayaḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 18
+  },
+  "01098018c": {
+    "text": {
+      "ascii": "kASThe samudge prakSipya gaGgAyAM samavAsRjan\n",
+      "ud": "काष्ठे समुद्गे प्रक्षिप्य गङ्गायां समवासृजन्\n",
+      "ur": "kāṣṭhe samudge prakṣipya gaṅgāyāṁ samavāsr̥jan\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 18
+  },
+  "01098019a": {
+    "text": {
+      "ascii": "na syAd andhaz ca vRddhaz ca bhartavyo 'yam iti sma te\n",
+      "ud": "न स्यादन्धश्च वृद्धश्च भर्तव्योऽयमिति स्म ते\n",
+      "ur": "na syād andhaś ca vr̥ddhaś ca bhartavyo ’yam iti sma te\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 19
+  },
+  "01098019c": {
+    "text": {
+      "ascii": "cintayitvA tataH krUrAH pratijagmur atho gRhAn\n",
+      "ud": "चिन्तयित्वा ततः क्रूराः प्रतिजग्मुरथो गृहान्\n",
+      "ur": "cintayitvā tataḥ krūrāḥ pratijagmur atho gr̥hān\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 19
+  },
+  "01098020a": {
+    "text": {
+      "ascii": "so 'nusrotas tadA rAjan plavamAna RSis tataH\n",
+      "ud": "सोऽनुस्रोतस्तदा राजन्प्लवमान ऋषिस्ततः\n",
+      "ur": "so ’nusrotas tadā rājan plavamāna r̥ṣis tataḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 20
+  },
+  "01098020c": {
+    "text": {
+      "ascii": "jagAma subahUn dezAn andhas tenoDupena ha\n",
+      "ud": "जगाम सुबहून्देशानन्धस्तेनोडुपेन ह\n",
+      "ur": "jagāma subahūn deśān andhas tenoḍupena ha\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 20
+  },
+  "01098021a": {
+    "text": {
+      "ascii": "taM tu rAjA balir nAma sarvadharmavizAradaH\n",
+      "ud": "तं तु राजा बलिर्नाम सर्वधर्मविशारदः\n",
+      "ur": "taṁ tu rājā balir nāma sarvadharmaviśāradaḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 21
+  },
+  "01098021c": {
+    "text": {
+      "ascii": "apazyan majjanagataH srotasAbhyAzam Agatam\n",
+      "ud": "अपश्यन्मज्जनगतः स्रोतसाभ्याशमागतम्\n",
+      "ur": "apaśyan majjanagataḥ srotasābhyāśam āgatam\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 21
+  },
+  "01098022a": {
+    "text": {
+      "ascii": "jagrAha cainaM dharmAtmA baliH satyaparAkramaH\n",
+      "ud": "जग्राह चैनं धर्मात्मा बलिः सत्यपराक्रमः\n",
+      "ur": "jagrāha cainaṁ dharmātmā baliḥ satyaparākramaḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 22
+  },
+  "01098022c": {
+    "text": {
+      "ascii": "jJAtvA cainaM sa vavre 'tha putrArthaM manujarSabha\n",
+      "ud": "ज्ञात्वा चैनं स वव्रेऽथ पुत्रार्थं मनुजर्षभ\n",
+      "ur": "jñātvā cainaṁ sa vavre ’tha putrārthaṁ manujarṣabha\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 22
+  },
+  "01098023a": {
+    "text": {
+      "ascii": "saMtAnArthaM mahAbhAga bhAryAsu mama mAnada\n",
+      "ud": "संतानार्थं महाभाग भार्यासु मम मानद\n",
+      "ur": "saṁtānārthaṁ mahābhāga bhāryāsu mama mānada\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 23
+  },
+  "01098023c": {
+    "text": {
+      "ascii": "putrAn dharmArthakuzalAn utpAdayitum arhasi\n",
+      "ud": "पुत्रान्धर्मार्थकुशलानुत्पादयितुमर्हसि\n",
+      "ur": "putrān dharmārthakuśalān utpādayitum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 23
+  },
+  "01098024a": {
+    "text": {
+      "ascii": "evam uktaH sa tejasvI taM tathety uktavAn RSiH\n",
+      "ud": "एवमुक्तः स तेजस्वी तं तथेत्युक्तवानृषिः\n",
+      "ur": "evam uktaḥ sa tejasvī taṁ tathety uktavān r̥ṣiḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 24
+  },
+  "01098024c": {
+    "text": {
+      "ascii": "tasmai sa rAjA svAM bhAryAM sudeSNAM prAhiNot tadA\n",
+      "ud": "तस्मै स राजा स्वां भार्यां सुदेष्णां प्राहिणोत्तदा\n",
+      "ur": "tasmai sa rājā svāṁ bhāryāṁ sudeṣṇāṁ prāhiṇot tadā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 24
+  },
+  "01098025a": {
+    "text": {
+      "ascii": "andhaM vRddhaM ca taM matvA na sA devI jagAma ha\n",
+      "ud": "अन्धं वृद्धं च तं मत्वा न सा देवी जगाम ह\n",
+      "ur": "andhaṁ vr̥ddhaṁ ca taṁ matvā na sā devī jagāma ha\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 25
+  },
+  "01098025c": {
+    "text": {
+      "ascii": "svAM tu dhAtreyikAM tasmai vRddhAya prAhiNot tadA\n",
+      "ud": "स्वां तु धात्रेयिकां तस्मै वृद्धाय प्राहिणोत्तदा\n",
+      "ur": "svāṁ tu dhātreyikāṁ tasmai vr̥ddhāya prāhiṇot tadā\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 25
+  },
+  "01098026a": {
+    "text": {
+      "ascii": "tasyAM kAkSIvadAdIn sa zUdrayonAv RSir vazI\n",
+      "ud": "तस्यां काक्षीवदादीन्स शूद्रयोनावृषिर्वशी\n",
+      "ur": "tasyāṁ kākṣīvadādīn sa śūdrayonāv r̥ṣir vaśī\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 26
+  },
+  "01098026c": {
+    "text": {
+      "ascii": "janayAm Asa dharmAtmA putrAn ekAdazaiva tu\n",
+      "ud": "जनयामास धर्मात्मा पुत्रानेकादशैव तु\n",
+      "ur": "janayām āsa dharmātmā putrān ekādaśaiva tu\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 26
+  },
+  "01098027a": {
+    "text": {
+      "ascii": "kAkSIvadAdIn putrAMs tAn dRSTvA sarvAn adhIyataH\n",
+      "ud": "काक्षीवदादीन्पुत्रांस्तान्दृष्ट्वा सर्वानधीयतः\n",
+      "ur": "kākṣīvadādīn putrāṁs tān dr̥ṣṭvā sarvān adhīyataḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 27
+  },
+  "01098027c": {
+    "text": {
+      "ascii": "uvAca tam RSiM rAjA mamaita iti vIryavAn\n",
+      "ud": "उवाच तमृषिं राजा ममैत इति वीर्यवान्\n",
+      "ur": "uvāca tam r̥ṣiṁ rājā mamaita iti vīryavān\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 27
+  },
+  "01098028a": {
+    "text": {
+      "ascii": "nety uvAca maharSis taM mamaivaita iti bruvan\n",
+      "ud": "नेत्युवाच महर्षिस्तं ममैवैत इति ब्रुवन्\n",
+      "ur": "nety uvāca maharṣis taṁ mamaivaita iti bruvan\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 28
+  },
+  "01098028c": {
+    "text": {
+      "ascii": "zUdrayonau mayA hIme jAtAH kAkSIvadAdayaH\n",
+      "ud": "शूद्रयोनौ मया हीमे जाताः काक्षीवदादयः\n",
+      "ur": "śūdrayonau mayā hīme jātāḥ kākṣīvadādayaḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 28
+  },
+  "01098029a": {
+    "text": {
+      "ascii": "andhaM vRddhaM ca mAM matvA sudeSNA mahiSI tava\n",
+      "ud": "अन्धं वृद्धं च मां मत्वा सुदेष्णा महिषी तव\n",
+      "ur": "andhaṁ vr̥ddhaṁ ca māṁ matvā sudeṣṇā mahiṣī tava\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 29
+  },
+  "01098029c": {
+    "text": {
+      "ascii": "avamanya dadau mUDhA zUdrAM dhAtreyikAM hi me\n",
+      "ud": "अवमन्य ददौ मूढा शूद्रां धात्रेयिकां हि मे\n",
+      "ur": "avamanya dadau mūḍhā śūdrāṁ dhātreyikāṁ hi me\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 29
+  },
+  "01098030a": {
+    "text": {
+      "ascii": "tataH prasAdayAm Asa punas tam RSisattamam\n",
+      "ud": "ततः प्रसादयामास पुनस्तमृषिसत्तमम्\n",
+      "ur": "tataḥ prasādayām āsa punas tam r̥ṣisattamam\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 30
+  },
+  "01098030c": {
+    "text": {
+      "ascii": "baliH sudeSNAM bhAryAM ca tasmai tAM prAhiNot punaH\n",
+      "ud": "बलिः सुदेष्णां भार्यां च तस्मै तां प्राहिणोत्पुनः\n",
+      "ur": "baliḥ sudeṣṇāṁ bhāryāṁ ca tasmai tāṁ prāhiṇot punaḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 30
+  },
+  "01098031a": {
+    "text": {
+      "ascii": "tAM sa dIrghatamAGgeSu spRSTvA devIm athAbravIt\n",
+      "ud": "तां स दीर्घतमाङ्गेषु स्पृष्ट्वा देवीमथाब्रवीत्\n",
+      "ur": "tāṁ sa dīrghatamāṅgeṣu spr̥ṣṭvā devīm athābravīt\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 31
+  },
+  "01098031c": {
+    "text": {
+      "ascii": "bhaviSyati kumAras te tejasvI satyavAg iti\n",
+      "ud": "भविष्यति कुमारस्ते तेजस्वी सत्यवागिति\n",
+      "ur": "bhaviṣyati kumāras te tejasvī satyavāg iti\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 31
+  },
+  "01098032a": {
+    "text": {
+      "ascii": "tatrAGgo nAma rAjarSiH sudeSNAyAm ajAyata\n",
+      "ud": "तत्राङ्गो नाम राजर्षिः सुदेष्णायामजायत\n",
+      "ur": "tatrāṅgo nāma rājarṣiḥ sudeṣṇāyām ajāyata\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 32
+  },
+  "01098032c": {
+    "text": {
+      "ascii": "evam anye maheSvAsA brAhmaNaiH kSatriyA bhuvi\n",
+      "ud": "एवमन्ये महेष्वासा ब्राह्मणैः क्षत्रिया भुवि\n",
+      "ur": "evam anye maheṣvāsā brāhmaṇaiḥ kṣatriyā bhuvi\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 32
+  },
+  "01098033a": {
+    "text": {
+      "ascii": "jAtAH paramadharmajJA vIryavanto mahAbalAH\n",
+      "ud": "जाताः परमधर्मज्ञा वीर्यवन्तो महाबलाः\n",
+      "ur": "jātāḥ paramadharmajñā vīryavanto mahābalāḥ\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 33
+  },
+  "01098033c": {
+    "text": {
+      "ascii": "etac chrutvA tvam apy atra mAtaH kuru yathepsitam\n",
+      "ud": "एतच्छ्रुत्वा त्वमप्यत्र मातः कुरु यथेप्सितम्\n",
+      "ur": "etac chrutvā tvam apy atra mātaḥ kuru yathepsitam\n"
+    },
+    "book": 1,
+    "chapter": 98,
+    "verse": 33
+  }
+}

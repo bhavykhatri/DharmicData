@@ -1,0 +1,442 @@
+{
+  "01042001": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 1
+  },
+  "01042001a": {
+    "text": {
+      "ascii": "etac chrutvA jaratkArur duHkhazokaparAyaNaH\n",
+      "ud": "एतच्छ्रुत्वा जरत्कारुर्दुःखशोकपरायणः\n",
+      "ur": "etac chrutvā jaratkārur duḥkhaśokaparāyaṇaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 1
+  },
+  "01042001c": {
+    "text": {
+      "ascii": "uvAca svAn pitqn duHkhAd bASpasaMdigdhayA girA\n",
+      "ud": "उवाच स्वान्पितॄन्दुःखाद्बाष्पसंदिग्धया गिरा\n",
+      "ur": "uvāca svān pitr̥̄n duḥkhād bāṣpasaṁdigdhayā girā\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 1
+  },
+  "01042002a": {
+    "text": {
+      "ascii": "aham eva jaratkAruH kilbiSI bhavatAM sutaH\n",
+      "ud": "अहमेव जरत्कारुः किल्बिषी भवतां सुतः\n",
+      "ur": "aham eva jaratkāruḥ kilbiṣī bhavatāṁ sutaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 2
+  },
+  "01042002c": {
+    "text": {
+      "ascii": "tad daNDaM dhArayata me duSkRter akRtAtmanaH\n",
+      "ud": "तद्दण्डं धारयत मे दुष्कृतेरकृतात्मनः\n",
+      "ur": "tad daṇḍaṁ dhārayata me duṣkr̥ter akr̥tātmanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 2
+  },
+  "01042003": {
+    "text": {
+      "ascii": "pitara UcuH\n",
+      "ud": "पितर ऊचुः\n",
+      "ur": "pitara ūcuḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 3
+  },
+  "01042003a": {
+    "text": {
+      "ascii": "putra diSTyAsi saMprApta imaM dezaM yadRcchayA\n",
+      "ud": "पुत्र दिष्ट्यासि संप्राप्त इमं देशं यदृच्छया\n",
+      "ur": "putra diṣṭyāsi saṁprāpta imaṁ deśaṁ yadr̥cchayā\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 3
+  },
+  "01042003c": {
+    "text": {
+      "ascii": "kimarthaM ca tvayA brahman na kRto dArasaMgrahaH\n",
+      "ud": "किमर्थं च त्वया ब्रह्मन्न कृतो दारसंग्रहः\n",
+      "ur": "kimarthaṁ ca tvayā brahman na kr̥to dārasaṁgrahaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 3
+  },
+  "01042004": {
+    "text": {
+      "ascii": "jaratkArur uvAca\n",
+      "ud": "जरत्कारुरुवाच\n",
+      "ur": "jaratkārur uvāca\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 4
+  },
+  "01042004a": {
+    "text": {
+      "ascii": "mamAyaM pitaro nityaM hRdy arthaH parivartate\n",
+      "ud": "ममायं पितरो नित्यं हृद्यर्थः परिवर्तते\n",
+      "ur": "mamāyaṁ pitaro nityaṁ hr̥dy arthaḥ parivartate\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 4
+  },
+  "01042004c": {
+    "text": {
+      "ascii": "UrdhvaretAH zarIraM vai prApayeyam amutra vai\n",
+      "ud": "ऊर्ध्वरेताः शरीरं वै प्रापयेयममुत्र वै\n",
+      "ur": "ūrdhvaretāḥ śarīraṁ vai prāpayeyam amutra vai\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 4
+  },
+  "01042005a": {
+    "text": {
+      "ascii": "evaM dRSTvA tu bhavataH zakuntAn iva lambataH\n",
+      "ud": "एवं दृष्ट्वा तु भवतः शकुन्तानिव लम्बतः\n",
+      "ur": "evaṁ dr̥ṣṭvā tu bhavataḥ śakuntān iva lambataḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 5
+  },
+  "01042005c": {
+    "text": {
+      "ascii": "mayA nivartitA buddhir brahmacaryAt pitAmahAH\n",
+      "ud": "मया निवर्तिता बुद्धिर्ब्रह्मचर्यात्पितामहाः\n",
+      "ur": "mayā nivartitā buddhir brahmacaryāt pitāmahāḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 5
+  },
+  "01042006a": {
+    "text": {
+      "ascii": "kariSye vaH priyaM kAmaM nivekSye nAtra saMzayaH\n",
+      "ud": "करिष्ये वः प्रियं कामं निवेक्ष्ये नात्र संशयः\n",
+      "ur": "kariṣye vaḥ priyaṁ kāmaṁ nivekṣye nātra saṁśayaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 6
+  },
+  "01042006c": {
+    "text": {
+      "ascii": "sanAmnIM yady ahaM kanyAm upalapsye kadA cana\n",
+      "ud": "सनाम्नीं यद्यहं कन्यामुपलप्स्ये कदाचन\n",
+      "ur": "sanāmnīṁ yady ahaṁ kanyām upalapsye kadā cana\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 6
+  },
+  "01042007a": {
+    "text": {
+      "ascii": "bhaviSyati ca yA kA cid bhaikSavat svayam udyatA\n",
+      "ud": "भविष्यति च या काचिद्भैक्षवत्स्वयमुद्यता\n",
+      "ur": "bhaviṣyati ca yā kā cid bhaikṣavat svayam udyatā\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 7
+  },
+  "01042007c": {
+    "text": {
+      "ascii": "pratigrahItA tAm asmi na bhareyaM ca yAm aham\n",
+      "ud": "प्रतिग्रहीता तामस्मि न भरेयं च यामहम्\n",
+      "ur": "pratigrahītā tām asmi na bhareyaṁ ca yām aham\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 7
+  },
+  "01042008a": {
+    "text": {
+      "ascii": "evaMvidham ahaM kuryAM nivezaM prApnuyAM yadi\n",
+      "ud": "एवंविधमहं कुर्यां निवेशं प्राप्नुयां यदि\n",
+      "ur": "evaṁvidham ahaṁ kuryāṁ niveśaṁ prāpnuyāṁ yadi\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 8
+  },
+  "01042008c": {
+    "text": {
+      "ascii": "anyathA na kariSye tu satyam etat pitAmahAH\n",
+      "ud": "अन्यथा न करिष्ये तु सत्यमेतत्पितामहाः\n",
+      "ur": "anyathā na kariṣye tu satyam etat pitāmahāḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 8
+  },
+  "01042009": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 9
+  },
+  "01042009a": {
+    "text": {
+      "ascii": "evam uktvA tu sa pitqMz cacAra pRthivIM muniH\n",
+      "ud": "एवमुक्त्वा तु स पितॄंश्चचार पृथिवीं मुनिः\n",
+      "ur": "evam uktvā tu sa pitr̥̄ṁś cacāra pr̥thivīṁ muniḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 9
+  },
+  "01042009c": {
+    "text": {
+      "ascii": "na ca sma labhate bhAryAM vRddho 'yam iti zaunaka\n",
+      "ud": "न च स्म लभते भार्यां वृद्धोऽयमिति शौनक\n",
+      "ur": "na ca sma labhate bhāryāṁ vr̥ddho ’yam iti śaunaka\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 9
+  },
+  "01042010a": {
+    "text": {
+      "ascii": "yadA nirvedam ApannaH pitRbhiz coditas tathA\n",
+      "ud": "यदा निर्वेदमापन्नः पितृभिश्चोदितस्तथा\n",
+      "ur": "yadā nirvedam āpannaḥ pitr̥bhiś coditas tathā\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 10
+  },
+  "01042010c": {
+    "text": {
+      "ascii": "tadAraNyaM sa gatvoccaiz cukroza bhRzaduHkhitaH\n",
+      "ud": "तदारण्यं स गत्वोच्चैश्चुक्रोश भृशदुःखितः\n",
+      "ur": "tadāraṇyaṁ sa gatvoccaiś cukrośa bhr̥śaduḥkhitaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 10
+  },
+  "01042011a": {
+    "text": {
+      "ascii": "yAni bhUtAni santIha sthAvarANi carANi ca\n",
+      "ud": "यानि भूतानि सन्तीह स्थावराणि चराणि च\n",
+      "ur": "yāni bhūtāni santīha sthāvarāṇi carāṇi ca\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 11
+  },
+  "01042011c": {
+    "text": {
+      "ascii": "antarhitAni vA yAni tAni zRNvantu me vacaH\n",
+      "ud": "अन्तर्हितानि वा यानि तानि शृण्वन्तु मे वचः\n",
+      "ur": "antarhitāni vā yāni tāni śr̥ṇvantu me vacaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 11
+  },
+  "01042012a": {
+    "text": {
+      "ascii": "ugre tapasi vartantaM pitaraz codayanti mAm\n",
+      "ud": "उग्रे तपसि वर्तन्तं पितरश्चोदयन्ति माम्\n",
+      "ur": "ugre tapasi vartantaṁ pitaraś codayanti mām\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 12
+  },
+  "01042012c": {
+    "text": {
+      "ascii": "nivizasveti duHkhArtAs teSAM priyacikIrSayA\n",
+      "ud": "निविशस्वेति दुःखार्तास्तेषां प्रियचिकीर्षया\n",
+      "ur": "niviśasveti duḥkhārtās teṣāṁ priyacikīrṣayā\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 12
+  },
+  "01042013a": {
+    "text": {
+      "ascii": "nivezArthy akhilAM bhUmiM kanyAbhaikSaM carAmi bhoH\n",
+      "ud": "निवेशार्थ्यखिलां भूमिं कन्याभैक्षं चरामि भोः\n",
+      "ur": "niveśārthy akhilāṁ bhūmiṁ kanyābhaikṣaṁ carāmi bhoḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 13
+  },
+  "01042013c": {
+    "text": {
+      "ascii": "daridro duHkhazIlaz ca pitRbhiH saMniyojitaH\n",
+      "ud": "दरिद्रो दुःखशीलश्च पितृभिः संनियोजितः\n",
+      "ur": "daridro duḥkhaśīlaś ca pitr̥bhiḥ saṁniyojitaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 13
+  },
+  "01042014a": {
+    "text": {
+      "ascii": "yasya kanyAsti bhUtasya ye mayeha prakIrtitAH\n",
+      "ud": "यस्य कन्यास्ति भूतस्य ये मयेह प्रकीर्तिताः\n",
+      "ur": "yasya kanyāsti bhūtasya ye mayeha prakīrtitāḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 14
+  },
+  "01042014c": {
+    "text": {
+      "ascii": "te me kanyAM prayacchantu carataH sarvatodizam\n",
+      "ud": "ते मे कन्यां प्रयच्छन्तु चरतः सर्वतोदिशम्\n",
+      "ur": "te me kanyāṁ prayacchantu carataḥ sarvatodiśam\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 14
+  },
+  "01042015a": {
+    "text": {
+      "ascii": "mama kanyA sanAmnI yA bhaikSavac codyatA bhavet\n",
+      "ud": "मम कन्या सनाम्नी या भैक्षवच्चोद्यता भवेत्\n",
+      "ur": "mama kanyā sanāmnī yā bhaikṣavac codyatā bhavet\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 15
+  },
+  "01042015c": {
+    "text": {
+      "ascii": "bhareyaM caiva yAM nAhaM tAM me kanyAM prayacchata\n",
+      "ud": "भरेयं चैव यां नाहं तां मे कन्यां प्रयच्छत\n",
+      "ur": "bhareyaṁ caiva yāṁ nāhaṁ tāṁ me kanyāṁ prayacchata\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 15
+  },
+  "01042016a": {
+    "text": {
+      "ascii": "tatas te pannagA ye vai jaratkArau samAhitAH\n",
+      "ud": "ततस्ते पन्नगा ये वै जरत्कारौ समाहिताः\n",
+      "ur": "tatas te pannagā ye vai jaratkārau samāhitāḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 16
+  },
+  "01042016c": {
+    "text": {
+      "ascii": "tAm AdAya pravRttiM te vAsukeH pratyavedayan\n",
+      "ud": "तामादाय प्रवृत्तिं ते वासुकेः प्रत्यवेदयन्\n",
+      "ur": "tām ādāya pravr̥ttiṁ te vāsukeḥ pratyavedayan\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 16
+  },
+  "01042017a": {
+    "text": {
+      "ascii": "teSAM zrutvA sa nAgendraH kanyAM tAM samalaMkRtAm\n",
+      "ud": "तेषां श्रुत्वा स नागेन्द्रः कन्यां तां समलंकृताम्\n",
+      "ur": "teṣāṁ śrutvā sa nāgendraḥ kanyāṁ tāṁ samalaṁkr̥tām\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 17
+  },
+  "01042017c": {
+    "text": {
+      "ascii": "pragRhyAraNyam agamat samIpaM tasya pannagaH\n",
+      "ud": "प्रगृह्यारण्यमगमत्समीपं तस्य पन्नगः\n",
+      "ur": "pragr̥hyāraṇyam agamat samīpaṁ tasya pannagaḥ\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 17
+  },
+  "01042018a": {
+    "text": {
+      "ascii": "tatra tAM bhaikSavat kanyAM prAdAt tasmai mahAtmane\n",
+      "ud": "तत्र तां भैक्षवत्कन्यां प्रादात्तस्मै महात्मने\n",
+      "ur": "tatra tāṁ bhaikṣavat kanyāṁ prādāt tasmai mahātmane\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 18
+  },
+  "01042018c": {
+    "text": {
+      "ascii": "nAgendro vAsukir brahman na sa tAM pratyagRhNata\n",
+      "ud": "नागेन्द्रो वासुकिर्ब्रह्मन्न स तां प्रत्यगृह्णत\n",
+      "ur": "nāgendro vāsukir brahman na sa tāṁ pratyagr̥hṇata\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 18
+  },
+  "01042019a": {
+    "text": {
+      "ascii": "asanAmeti vai matvA bharaNe cAvicArite\n",
+      "ud": "असनामेति वै मत्वा भरणे चाविचारिते\n",
+      "ur": "asanāmeti vai matvā bharaṇe cāvicārite\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 19
+  },
+  "01042019c": {
+    "text": {
+      "ascii": "mokSabhAve sthitaz cApi dvandvIbhUtaH parigrahe\n",
+      "ud": "मोक्षभावे स्थितश्चापि द्वन्द्वीभूतः परिग्रहे\n",
+      "ur": "mokṣabhāve sthitaś cāpi dvandvībhūtaḥ parigrahe\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 19
+  },
+  "01042020a": {
+    "text": {
+      "ascii": "tato nAma sa kanyAyAH papraccha bhRgunandana\n",
+      "ud": "ततो नाम स कन्यायाः पप्रच्छ भृगुनन्दन\n",
+      "ur": "tato nāma sa kanyāyāḥ papraccha bhr̥gunandana\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 20
+  },
+  "01042020c": {
+    "text": {
+      "ascii": "vAsuke bharaNaM cAsyA na kuryAm ity uvAca ha\n",
+      "ud": "वासुके भरणं चास्या न कुर्यामित्युवाच ह\n",
+      "ur": "vāsuke bharaṇaṁ cāsyā na kuryām ity uvāca ha\n"
+    },
+    "book": 1,
+    "chapter": 42,
+    "verse": 20
+  }
+}

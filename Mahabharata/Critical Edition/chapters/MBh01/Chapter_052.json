@@ -1,0 +1,462 @@
+{
+  "01052001": {
+    "text": {
+      "ascii": "zaunaka uvAca\n",
+      "ud": "शौनक उवाच\n",
+      "ur": "śaunaka uvāca\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 1
+  },
+  "01052001a": {
+    "text": {
+      "ascii": "ye sarpAH sarpasatre 'smin patitA havyavAhane\n",
+      "ud": "ये सर्पाः सर्पसत्रेऽस्मिन्पतिता हव्यवाहने\n",
+      "ur": "ye sarpāḥ sarpasatre ’smin patitā havyavāhane\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 1
+  },
+  "01052001c": {
+    "text": {
+      "ascii": "teSAM nAmAni sarveSAM zrotum icchAmi sUtaja\n",
+      "ud": "तेषां नामानि सर्वेषां श्रोतुमिच्छामि सूतज\n",
+      "ur": "teṣāṁ nāmāni sarveṣāṁ śrotum icchāmi sūtaja\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 1
+  },
+  "01052002": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 2
+  },
+  "01052002a": {
+    "text": {
+      "ascii": "sahasrANi bahUny asmin prayutAny arbudAni ca\n",
+      "ud": "सहस्राणि बहून्यस्मिन्प्रयुतान्यर्बुदानि च\n",
+      "ur": "sahasrāṇi bahūny asmin prayutāny arbudāni ca\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 2
+  },
+  "01052002c": {
+    "text": {
+      "ascii": "na zakyaM parisaMkhyAtuM bahutvAd vedavittama\n",
+      "ud": "न शक्यं परिसंख्यातुं बहुत्वाद्वेदवित्तम\n",
+      "ur": "na śakyaṁ parisaṁkhyātuṁ bahutvād vedavittama\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 2
+  },
+  "01052003a": {
+    "text": {
+      "ascii": "yathAsmRti tu nAmAni pannagAnAM nibodha me\n",
+      "ud": "यथास्मृति तु नामानि पन्नगानां निबोध मे\n",
+      "ur": "yathāsmr̥ti tu nāmāni pannagānāṁ nibodha me\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 3
+  },
+  "01052003c": {
+    "text": {
+      "ascii": "ucyamAnAni mukhyAnAM hutAnAM jAtavedasi\n",
+      "ud": "उच्यमानानि मुख्यानां हुतानां जातवेदसि\n",
+      "ur": "ucyamānāni mukhyānāṁ hutānāṁ jātavedasi\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 3
+  },
+  "01052004a": {
+    "text": {
+      "ascii": "vAsukeH kulajAMs tAvat prAdhAnyena nibodha me\n",
+      "ud": "वासुकेः कुलजांस्तावत्प्राधान्येन निबोध मे\n",
+      "ur": "vāsukeḥ kulajāṁs tāvat prādhānyena nibodha me\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 4
+  },
+  "01052004c": {
+    "text": {
+      "ascii": "nIlaraktAn sitAn ghorAn mahAkAyAn viSolbaNAn\n",
+      "ud": "नीलरक्तान्सितान्घोरान्महाकायान्विषोल्बणान्\n",
+      "ur": "nīlaraktān sitān ghorān mahākāyān viṣolbaṇān\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 4
+  },
+  "01052005a": {
+    "text": {
+      "ascii": "koTiko mAnasaH pUrNaH sahaH pailo halIsakaH\n",
+      "ud": "कोटिको मानसः पूर्णः सहः पैलो हलीसकः\n",
+      "ur": "koṭiko mānasaḥ pūrṇaḥ sahaḥ pailo halīsakaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 5
+  },
+  "01052005c": {
+    "text": {
+      "ascii": "picchilaH koNapaz cakraH koNavegaH prakAlanaH\n",
+      "ud": "पिच्छिलः कोणपश्चक्रः कोणवेगः प्रकालनः\n",
+      "ur": "picchilaḥ koṇapaś cakraḥ koṇavegaḥ prakālanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 5
+  },
+  "01052006a": {
+    "text": {
+      "ascii": "hiraNyavAhaH zaraNaH kakSakaH kAladantakaH\n",
+      "ud": "हिरण्यवाहः शरणः कक्षकः कालदन्तकः\n",
+      "ur": "hiraṇyavāhaḥ śaraṇaḥ kakṣakaḥ kāladantakaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 6
+  },
+  "01052006c": {
+    "text": {
+      "ascii": "ete vAsukijA nAgAH praviSTA havyavAhanam\n",
+      "ud": "एते वासुकिजा नागाः प्रविष्टा हव्यवाहनम्\n",
+      "ur": "ete vāsukijā nāgāḥ praviṣṭā havyavāhanam\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 6
+  },
+  "01052007a": {
+    "text": {
+      "ascii": "takSakasya kule jAtAn pravakSyAmi nibodha tAn\n",
+      "ud": "तक्षकस्य कुले जातान्प्रवक्ष्यामि निबोध तान्\n",
+      "ur": "takṣakasya kule jātān pravakṣyāmi nibodha tān\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 7
+  },
+  "01052007c": {
+    "text": {
+      "ascii": "pucchaNDako maNDalakaH piNDabhettA rabheNakaH\n",
+      "ud": "पुच्छण्डको मण्डलकः पिण्डभेत्ता रभेणकः\n",
+      "ur": "pucchaṇḍako maṇḍalakaḥ piṇḍabhettā rabheṇakaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 7
+  },
+  "01052008a": {
+    "text": {
+      "ascii": "ucchikhaH suraso draGgo balaheDo virohaNaH\n",
+      "ud": "उच्छिखः सुरसो द्रङ्गो बलहेडो विरोहणः\n",
+      "ur": "ucchikhaḥ suraso draṅgo balaheḍo virohaṇaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 8
+  },
+  "01052008c": {
+    "text": {
+      "ascii": "zilIzalakaro mUkaH sukumAraH pravepanaH\n",
+      "ud": "शिलीशलकरो मूकः सुकुमारः प्रवेपनः\n",
+      "ur": "śilīśalakaro mūkaḥ sukumāraḥ pravepanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 8
+  },
+  "01052009a": {
+    "text": {
+      "ascii": "mudgaraH zazaromA ca sumanA vegavAhanaH\n",
+      "ud": "मुद्गरः शशरोमा च सुमना वेगवाहनः\n",
+      "ur": "mudgaraḥ śaśaromā ca sumanā vegavāhanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 9
+  },
+  "01052009c": {
+    "text": {
+      "ascii": "ete takSakajA nAgAH praviSTA havyavAhanam\n",
+      "ud": "एते तक्षकजा नागाः प्रविष्टा हव्यवाहनम्\n",
+      "ur": "ete takṣakajā nāgāḥ praviṣṭā havyavāhanam\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 9
+  },
+  "01052010a": {
+    "text": {
+      "ascii": "pArAvataH pAriyAtraH pANDaro hariNaH kRzaH\n",
+      "ud": "पारावतः पारियात्रः पाण्डरो हरिणः कृशः\n",
+      "ur": "pārāvataḥ pāriyātraḥ pāṇḍaro hariṇaḥ kr̥śaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 10
+  },
+  "01052010c": {
+    "text": {
+      "ascii": "vihaMgaH zarabho modaH pramodaH saMhatAGgadaH\n",
+      "ud": "विहंगः शरभो मोदः प्रमोदः संहताङ्गदः\n",
+      "ur": "vihaṁgaḥ śarabho modaḥ pramodaḥ saṁhatāṅgadaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 10
+  },
+  "01052011a": {
+    "text": {
+      "ascii": "airAvatakulAd ete praviSTA havyavAhanam\n",
+      "ud": "ऐरावतकुलादेते प्रविष्टा हव्यवाहनम्\n",
+      "ur": "airāvatakulād ete praviṣṭā havyavāhanam\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 11
+  },
+  "01052011c": {
+    "text": {
+      "ascii": "kauravyakulajAn nAgAJ zRNu me dvijasattama\n",
+      "ud": "कौरव्यकुलजान्नागाञ्शृणु मे द्विजसत्तम\n",
+      "ur": "kauravyakulajān nāgāñ śr̥ṇu me dvijasattama\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 11
+  },
+  "01052012a": {
+    "text": {
+      "ascii": "aiNDilaH kuNDalo muNDo veNiskandhaH kumArakaH\n",
+      "ud": "ऐण्डिलः कुण्डलो मुण्डो वेणिस्कन्धः कुमारकः\n",
+      "ur": "aiṇḍilaḥ kuṇḍalo muṇḍo veṇiskandhaḥ kumārakaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 12
+  },
+  "01052012c": {
+    "text": {
+      "ascii": "bAhukaH zRGgavegaz ca dhUrtakaH pAtapAtarau\n",
+      "ud": "बाहुकः शृङ्गवेगश्च धूर्तकः पातपातरौ\n",
+      "ur": "bāhukaḥ śr̥ṅgavegaś ca dhūrtakaḥ pātapātarau\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 12
+  },
+  "01052013a": {
+    "text": {
+      "ascii": "dhRtarASTrakule jAtAJ zRNu nAgAn yathAtatham\n",
+      "ud": "धृतराष्ट्रकुले जाताञ्शृणु नागान्यथातथम्\n",
+      "ur": "dhr̥tarāṣṭrakule jātāñ śr̥ṇu nāgān yathātatham\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 13
+  },
+  "01052013c": {
+    "text": {
+      "ascii": "kIrtyamAnAn mayA brahman vAtavegAn viSolbaNAn\n",
+      "ud": "कीर्त्यमानान्मया ब्रह्मन्वातवेगान्विषोल्बणान्\n",
+      "ur": "kīrtyamānān mayā brahman vātavegān viṣolbaṇān\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 13
+  },
+  "01052014a": {
+    "text": {
+      "ascii": "zaGkukarNaH piGgalakaH kuThAramukhamecakau\n",
+      "ud": "शङ्कुकर्णः पिङ्गलकः कुठारमुखमेचकौ\n",
+      "ur": "śaṅkukarṇaḥ piṅgalakaḥ kuṭhāramukhamecakau\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 14
+  },
+  "01052014c": {
+    "text": {
+      "ascii": "pUrNAGgadaH pUrNamukhaH prahasaH zakunir hariH\n",
+      "ud": "पूर्णाङ्गदः पूर्णमुखः प्रहसः शकुनिर्हरिः\n",
+      "ur": "pūrṇāṅgadaḥ pūrṇamukhaḥ prahasaḥ śakunir hariḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 14
+  },
+  "01052015a": {
+    "text": {
+      "ascii": "AmAhaThaH komaThakaH zvasano mAnavo vaTaH\n",
+      "ud": "आमाहठः कोमठकः श्वसनो मानवो वटः\n",
+      "ur": "āmāhaṭhaḥ komaṭhakaḥ śvasano mānavo vaṭaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 15
+  },
+  "01052015c": {
+    "text": {
+      "ascii": "bhairavo muNDavedAGgaH pizaGgaz codrapAragaH\n",
+      "ud": "भैरवो मुण्डवेदाङ्गः पिशङ्गश्चोद्रपारगः\n",
+      "ur": "bhairavo muṇḍavedāṅgaḥ piśaṅgaś codrapāragaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 15
+  },
+  "01052016a": {
+    "text": {
+      "ascii": "RSabho vegavAn nAma piNDArakamahAhanU\n",
+      "ud": "ऋषभो वेगवान्नाम पिण्डारकमहाहनू\n",
+      "ur": "r̥ṣabho vegavān nāma piṇḍārakamahāhanū\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 16
+  },
+  "01052016c": {
+    "text": {
+      "ascii": "raktAGgaH sarvasAraGgaH samRddhaH pATarAkSasau\n",
+      "ud": "रक्ताङ्गः सर्वसारङ्गः समृद्धः पाटराक्षसौ\n",
+      "ur": "raktāṅgaḥ sarvasāraṅgaḥ samr̥ddhaḥ pāṭarākṣasau\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 16
+  },
+  "01052017a": {
+    "text": {
+      "ascii": "varAhako vAraNakaH sumitraz citravedikaH\n",
+      "ud": "वराहको वारणकः सुमित्रश्चित्रवेदिकः\n",
+      "ur": "varāhako vāraṇakaḥ sumitraś citravedikaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 17
+  },
+  "01052017c": {
+    "text": {
+      "ascii": "parAzaras taruNako maNiskandhas tathAruNiH\n",
+      "ud": "पराशरस्तरुणको मणिस्कन्धस्तथारुणिः\n",
+      "ur": "parāśaras taruṇako maṇiskandhas tathāruṇiḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 17
+  },
+  "01052018a": {
+    "text": {
+      "ascii": "iti nAgA mayA brahman kIrtitAH kIrtivardhanAH\n",
+      "ud": "इति नागा मया ब्रह्मन्कीर्तिताः कीर्तिवर्धनाः\n",
+      "ur": "iti nāgā mayā brahman kīrtitāḥ kīrtivardhanāḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 18
+  },
+  "01052018c": {
+    "text": {
+      "ascii": "prAdhAnyena bahutvAt tu na sarve parikIrtitAH\n",
+      "ud": "प्राधान्येन बहुत्वात्तु न सर्वे परिकीर्तिताः\n",
+      "ur": "prādhānyena bahutvāt tu na sarve parikīrtitāḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 18
+  },
+  "01052019a": {
+    "text": {
+      "ascii": "eteSAM putrapautrAs tu prasavasya ca saMtatiH\n",
+      "ud": "एतेषां पुत्रपौत्रास्तु प्रसवस्य च संततिः\n",
+      "ur": "eteṣāṁ putrapautrās tu prasavasya ca saṁtatiḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 19
+  },
+  "01052019c": {
+    "text": {
+      "ascii": "na zakyAH parisaMkhyAtuM ye dIptaM pAvakaM gatAH\n",
+      "ud": "न शक्याः परिसंख्यातुं ये दीप्तं पावकं गताः\n",
+      "ur": "na śakyāḥ parisaṁkhyātuṁ ye dīptaṁ pāvakaṁ gatāḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 19
+  },
+  "01052020a": {
+    "text": {
+      "ascii": "saptazIrSA dvizIrSAz ca paJcazIrSAs tathApare\n",
+      "ud": "सप्तशीर्षा द्विशीर्षाश्च पञ्चशीर्षास्तथापरे\n",
+      "ur": "saptaśīrṣā dviśīrṣāś ca pañcaśīrṣās tathāpare\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 20
+  },
+  "01052020c": {
+    "text": {
+      "ascii": "kAlAnalaviSA ghorA hutAH zatasahasrazaH\n",
+      "ud": "कालानलविषा घोरा हुताः शतसहस्रशः\n",
+      "ur": "kālānalaviṣā ghorā hutāḥ śatasahasraśaḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 20
+  },
+  "01052021a": {
+    "text": {
+      "ascii": "mahAkAyA mahAvIryAH zailazRGgasamucchrayAH\n",
+      "ud": "महाकाया महावीर्याः शैलशृङ्गसमुच्छ्रयाः\n",
+      "ur": "mahākāyā mahāvīryāḥ śailaśr̥ṅgasamucchrayāḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 21
+  },
+  "01052021c": {
+    "text": {
+      "ascii": "yojanAyAmavistArA dviyojanasamAyatAH\n",
+      "ud": "योजनायामविस्तारा द्वियोजनसमायताः\n",
+      "ur": "yojanāyāmavistārā dviyojanasamāyatāḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 21
+  },
+  "01052022a": {
+    "text": {
+      "ascii": "kAmarUpAH kAmagamA dIptAnalaviSolbaNAH\n",
+      "ud": "कामरूपाः कामगमा दीप्तानलविषोल्बणाः\n",
+      "ur": "kāmarūpāḥ kāmagamā dīptānalaviṣolbaṇāḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 22
+  },
+  "01052022c": {
+    "text": {
+      "ascii": "dagdhAs tatra mahAsatre brahmadaNDanipIDitAH\n",
+      "ud": "दग्धास्तत्र महासत्रे ब्रह्मदण्डनिपीडिताः\n",
+      "ur": "dagdhās tatra mahāsatre brahmadaṇḍanipīḍitāḥ\n"
+    },
+    "book": 1,
+    "chapter": 52,
+    "verse": 22
+  }
+}

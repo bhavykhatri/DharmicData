@@ -1,0 +1,582 @@
+{
+  "01007001": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 1
+  },
+  "01007001a": {
+    "text": {
+      "ascii": "zaptas tu bhRguNA vahniH kruddho vAkyam athAbravIt\n",
+      "ud": "शप्तस्तु भृगुणा वह्निः क्रुद्धो वाक्यमथाब्रवीत्\n",
+      "ur": "śaptas tu bhr̥guṇā vahniḥ kruddho vākyam athābravīt\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 1
+  },
+  "01007001c": {
+    "text": {
+      "ascii": "kim idaM sAhasaM brahman kRtavAn asi sAMpratam\n",
+      "ud": "किमिदं साहसं ब्रह्मन्कृतवानसि सांप्रतम्\n",
+      "ur": "kim idaṁ sāhasaṁ brahman kr̥tavān asi sāṁpratam\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 1
+  },
+  "01007002a": {
+    "text": {
+      "ascii": "dharme prayatamAnasya satyaM ca vadataH samam\n",
+      "ud": "धर्मे प्रयतमानस्य सत्यं च वदतः समम्\n",
+      "ur": "dharme prayatamānasya satyaṁ ca vadataḥ samam\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 2
+  },
+  "01007002c": {
+    "text": {
+      "ascii": "pRSTo yad abruvaM satyaM vyabhicAro 'tra ko mama\n",
+      "ud": "पृष्टो यदब्रुवं सत्यं व्यभिचारोऽत्र को मम\n",
+      "ur": "pr̥ṣṭo yad abruvaṁ satyaṁ vyabhicāro ’tra ko mama\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 2
+  },
+  "01007003a": {
+    "text": {
+      "ascii": "pRSTo hi sAkSI yaH sAkSyaM jAnamAno 'nyathA vadet\n",
+      "ud": "पृष्टो हि साक्षी यः साक्ष्यं जानमानोऽन्यथा वदेत्\n",
+      "ur": "pr̥ṣṭo hi sākṣī yaḥ sākṣyaṁ jānamāno ’nyathā vadet\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 3
+  },
+  "01007003c": {
+    "text": {
+      "ascii": "sa pUrvAn AtmanaH sapta kule hanyAt tathA parAn\n",
+      "ud": "स पूर्वानात्मनः सप्त कुले हन्यात्तथा परान्\n",
+      "ur": "sa pūrvān ātmanaḥ sapta kule hanyāt tathā parān\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 3
+  },
+  "01007004a": {
+    "text": {
+      "ascii": "yaz ca kAryArthatattvajJo jAnamAno na bhASate\n",
+      "ud": "यश्च कार्यार्थतत्त्वज्ञो जानमानो न भाषते\n",
+      "ur": "yaś ca kāryārthatattvajño jānamāno na bhāṣate\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 4
+  },
+  "01007004c": {
+    "text": {
+      "ascii": "so 'pi tenaiva pApena lipyate nAtra saMzayaH\n",
+      "ud": "सोऽपि तेनैव पापेन लिप्यते नात्र संशयः\n",
+      "ur": "so ’pi tenaiva pāpena lipyate nātra saṁśayaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 4
+  },
+  "01007005a": {
+    "text": {
+      "ascii": "zakto 'ham api zaptuM tvAM mAnyAs tu brAhmaNA mama\n",
+      "ud": "शक्तोऽहमपि शप्तुं त्वां मान्यास्तु ब्राह्मणा मम\n",
+      "ur": "śakto ’ham api śaptuṁ tvāṁ mānyās tu brāhmaṇā mama\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 5
+  },
+  "01007005c": {
+    "text": {
+      "ascii": "jAnato 'pi ca te vyaktaM kathayiSye nibodha tat\n",
+      "ud": "जानतोऽपि च ते व्यक्तं कथयिष्ये निबोध तत्\n",
+      "ur": "jānato ’pi ca te vyaktaṁ kathayiṣye nibodha tat\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 5
+  },
+  "01007006a": {
+    "text": {
+      "ascii": "yogena bahudhAtmAnaM kRtvA tiSThAmi mUrtiSu\n",
+      "ud": "योगेन बहुधात्मानं कृत्वा तिष्ठामि मूर्तिषु\n",
+      "ur": "yogena bahudhātmānaṁ kr̥tvā tiṣṭhāmi mūrtiṣu\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 6
+  },
+  "01007006c": {
+    "text": {
+      "ascii": "agnihotreSu satreSu kriyAsv atha makheSu ca\n",
+      "ud": "अग्निहोत्रेषु सत्रेषु क्रियास्वथ मखेषु च\n",
+      "ur": "agnihotreṣu satreṣu kriyāsv atha makheṣu ca\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 6
+  },
+  "01007007a": {
+    "text": {
+      "ascii": "vedoktena vidhAnena mayi yad dhUyate haviH\n",
+      "ud": "वेदोक्तेन विधानेन मयि यद्धूयते हविः\n",
+      "ur": "vedoktena vidhānena mayi yad dhūyate haviḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 7
+  },
+  "01007007c": {
+    "text": {
+      "ascii": "devatAH pitaraz caiva tena tRptA bhavanti vai\n",
+      "ud": "देवताः पितरश्चैव तेन तृप्ता भवन्ति वै\n",
+      "ur": "devatāḥ pitaraś caiva tena tr̥ptā bhavanti vai\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 7
+  },
+  "01007008a": {
+    "text": {
+      "ascii": "Apo devagaNAH sarve ApaH pitRgaNAs tathA\n",
+      "ud": "आपो देवगणाः सर्वे आपः पितृगणास्तथा\n",
+      "ur": "āpo devagaṇāḥ sarve āpaḥ pitr̥gaṇās tathā\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 8
+  },
+  "01007008c": {
+    "text": {
+      "ascii": "darzaz ca paurNamAsaz ca devAnAM pitRbhiH saha\n",
+      "ud": "दर्शश्च पौर्णमासश्च देवानां पितृभिः सह\n",
+      "ur": "darśaś ca paurṇamāsaś ca devānāṁ pitr̥bhiḥ saha\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 8
+  },
+  "01007009a": {
+    "text": {
+      "ascii": "devatAH pitaras tasmAt pitaraz cApi devatAH\n",
+      "ud": "देवताः पितरस्तस्मात्पितरश्चापि देवताः\n",
+      "ur": "devatāḥ pitaras tasmāt pitaraś cāpi devatāḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 9
+  },
+  "01007009c": {
+    "text": {
+      "ascii": "ekIbhUtAz ca pUjyante pRthaktvena ca parvasu\n",
+      "ud": "एकीभूताश्च पूज्यन्ते पृथक्त्वेन च पर्वसु\n",
+      "ur": "ekībhūtāś ca pūjyante pr̥thaktvena ca parvasu\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 9
+  },
+  "01007010a": {
+    "text": {
+      "ascii": "devatAH pitaraz caiva juhvate mayi yat sadA\n",
+      "ud": "देवताः पितरश्चैव जुह्वते मयि यत्सदा\n",
+      "ur": "devatāḥ pitaraś caiva juhvate mayi yat sadā\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 10
+  },
+  "01007010c": {
+    "text": {
+      "ascii": "tridazAnAM pitqNAM ca mukham evam ahaM smRtaH\n",
+      "ud": "त्रिदशानां पितॄणां च मुखमेवमहं स्मृतः\n",
+      "ur": "tridaśānāṁ pitr̥̄ṇāṁ ca mukham evam ahaṁ smr̥taḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 10
+  },
+  "01007011a": {
+    "text": {
+      "ascii": "amAvAsyAM ca pitaraH paurNamAsyAM ca devatAH\n",
+      "ud": "अमावास्यां च पितरः पौर्णमास्यां च देवताः\n",
+      "ur": "amāvāsyāṁ ca pitaraḥ paurṇamāsyāṁ ca devatāḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 11
+  },
+  "01007011c": {
+    "text": {
+      "ascii": "manmukhenaiva hUyante bhuJjate ca hutaM haviH\n",
+      "ud": "मन्मुखेनैव हूयन्ते भुञ्जते च हुतं हविः\n",
+      "ur": "manmukhenaiva hūyante bhuñjate ca hutaṁ haviḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 11
+  },
+  "01007011e": {
+    "text": {
+      "ascii": "sarvabhakSaH kathaM teSAM bhaviSyAmi mukhaM tv aham\n",
+      "ud": "सर्वभक्षः कथं तेषां भविष्यामि मुखं त्वहम्\n",
+      "ur": "sarvabhakṣaḥ kathaṁ teṣāṁ bhaviṣyāmi mukhaṁ tv aham\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 11
+  },
+  "01007012a": {
+    "text": {
+      "ascii": "cintayitvA tato vahniz cakre saMhAram AtmanaH\n",
+      "ud": "चिन्तयित्वा ततो वह्निश्चक्रे संहारमात्मनः\n",
+      "ur": "cintayitvā tato vahniś cakre saṁhāram ātmanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 12
+  },
+  "01007012c": {
+    "text": {
+      "ascii": "dvijAnAm agnihotreSu yajJasatrakriyAsu ca\n",
+      "ud": "द्विजानामग्निहोत्रेषु यज्ञसत्रक्रियासु च\n",
+      "ur": "dvijānām agnihotreṣu yajñasatrakriyāsu ca\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 12
+  },
+  "01007013a": {
+    "text": {
+      "ascii": "niroMkAravaSaTkArAH svadhAsvAhAvivarjitAH\n",
+      "ud": "निरोंकारवषट्काराः स्वधास्वाहाविवर्जिताः\n",
+      "ur": "niroṁkāravaṣaṭkārāḥ svadhāsvāhāvivarjitāḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 13
+  },
+  "01007013c": {
+    "text": {
+      "ascii": "vinAgninA prajAH sarvAs tata Asan suduHkhitAH\n",
+      "ud": "विनाग्निना प्रजाः सर्वास्तत आसन्सुदुःखिताः\n",
+      "ur": "vināgninā prajāḥ sarvās tata āsan suduḥkhitāḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 13
+  },
+  "01007014a": {
+    "text": {
+      "ascii": "atharSayaH samudvignA devAn gatvAbruvan vacaH\n",
+      "ud": "अथर्षयः समुद्विग्ना देवान्गत्वाब्रुवन्वचः\n",
+      "ur": "atharṣayaḥ samudvignā devān gatvābruvan vacaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 14
+  },
+  "01007014c": {
+    "text": {
+      "ascii": "agninAzAt kriyAbhraMzAd bhrAntA lokAs trayo 'naghAH\n",
+      "ud": "अग्निनाशात्क्रियाभ्रंशाद्भ्रान्ता लोकास्त्रयोऽनघाः\n",
+      "ur": "agnināśāt kriyābhraṁśād bhrāntā lokās trayo ’naghāḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 14
+  },
+  "01007014e": {
+    "text": {
+      "ascii": "vidhadhvam atra yat kAryaM na syAt kAlAtyayo yathA\n",
+      "ud": "विधध्वमत्र यत्कार्यं न स्यात्कालात्ययो यथा\n",
+      "ur": "vidhadhvam atra yat kāryaṁ na syāt kālātyayo yathā\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 14
+  },
+  "01007015a": {
+    "text": {
+      "ascii": "atharSayaz ca devAz ca brahmANam upagamya tu\n",
+      "ud": "अथर्षयश्च देवाश्च ब्रह्माणमुपगम्य तु\n",
+      "ur": "atharṣayaś ca devāś ca brahmāṇam upagamya tu\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 15
+  },
+  "01007015c": {
+    "text": {
+      "ascii": "agner AvedayaJ zApaM kriyAsaMhAram eva ca\n",
+      "ud": "अग्नेरावेदयञ्शापं क्रियासंहारमेव च\n",
+      "ur": "agner āvedayañ śāpaṁ kriyāsaṁhāram eva ca\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 15
+  },
+  "01007016a": {
+    "text": {
+      "ascii": "bhRguNA vai mahAbhAga zapto 'gniH kAraNAntare\n",
+      "ud": "भृगुणा वै महाभाग शप्तोऽग्निः कारणान्तरे\n",
+      "ur": "bhr̥guṇā vai mahābhāga śapto ’gniḥ kāraṇāntare\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 16
+  },
+  "01007016c": {
+    "text": {
+      "ascii": "kathaM devamukho bhUtvA yajJabhAgAgrabhuk tathA\n",
+      "ud": "कथं देवमुखो भूत्वा यज्ञभागाग्रभुक्तथा\n",
+      "ur": "kathaṁ devamukho bhūtvā yajñabhāgāgrabhuk tathā\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 16
+  },
+  "01007016e": {
+    "text": {
+      "ascii": "hutabhuk sarvalokeSu sarvabhakSatvam eSyati\n",
+      "ud": "हुतभुक्सर्वलोकेषु सर्वभक्षत्वमेष्यति\n",
+      "ur": "hutabhuk sarvalokeṣu sarvabhakṣatvam eṣyati\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 16
+  },
+  "01007017a": {
+    "text": {
+      "ascii": "zrutvA tu tad vacas teSAm agnim AhUya lokakRt\n",
+      "ud": "श्रुत्वा तु तद्वचस्तेषामग्निमाहूय लोककृत्\n",
+      "ur": "śrutvā tu tad vacas teṣām agnim āhūya lokakr̥t\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 17
+  },
+  "01007017c": {
+    "text": {
+      "ascii": "uvAca vacanaM zlakSNaM bhUtabhAvanam avyayam\n",
+      "ud": "उवाच वचनं श्लक्ष्णं भूतभावनमव्ययम्\n",
+      "ur": "uvāca vacanaṁ ślakṣṇaṁ bhūtabhāvanam avyayam\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 17
+  },
+  "01007018a": {
+    "text": {
+      "ascii": "lokAnAm iha sarveSAM tvaM kartA cAnta eva ca\n",
+      "ud": "लोकानामिह सर्वेषां त्वं कर्ता चान्त एव च\n",
+      "ur": "lokānām iha sarveṣāṁ tvaṁ kartā cānta eva ca\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 18
+  },
+  "01007018c": {
+    "text": {
+      "ascii": "tvaM dhArayasi lokAMs trIn kriyANAM ca pravartakaH\n",
+      "ud": "त्वं धारयसि लोकांस्त्रीन्क्रियाणां च प्रवर्तकः\n",
+      "ur": "tvaṁ dhārayasi lokāṁs trīn kriyāṇāṁ ca pravartakaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 18
+  },
+  "01007018e": {
+    "text": {
+      "ascii": "sa tathA kuru lokeza nocchidyeran kriyA yathA\n",
+      "ud": "स तथा कुरु लोकेश नोच्छिद्येरन्क्रिया यथा\n",
+      "ur": "sa tathā kuru lokeśa nocchidyeran kriyā yathā\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 18
+  },
+  "01007019a": {
+    "text": {
+      "ascii": "kasmAd evaM vimUDhas tvam IzvaraH san hutAzanaH\n",
+      "ud": "कस्मादेवं विमूढस्त्वमीश्वरः सन्हुताशनः\n",
+      "ur": "kasmād evaṁ vimūḍhas tvam īśvaraḥ san hutāśanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 19
+  },
+  "01007019c": {
+    "text": {
+      "ascii": "tvaM pavitraM yadA loke sarvabhUtagataz ca ha\n",
+      "ud": "त्वं पवित्रं यदा लोके सर्वभूतगतश्च ह\n",
+      "ur": "tvaṁ pavitraṁ yadā loke sarvabhūtagataś ca ha\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 19
+  },
+  "01007020a": {
+    "text": {
+      "ascii": "na tvaM sarvazarIreNa sarvabhakSatvam eSyasi\n",
+      "ud": "न त्वं सर्वशरीरेण सर्वभक्षत्वमेष्यसि\n",
+      "ur": "na tvaṁ sarvaśarīreṇa sarvabhakṣatvam eṣyasi\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 20
+  },
+  "01007020c": {
+    "text": {
+      "ascii": "upAdAne 'rciSo yAs te sarvaM dhakSyanti tAH zikhin\n",
+      "ud": "उपादानेऽर्चिषो यास्ते सर्वं धक्ष्यन्ति ताः शिखिन्\n",
+      "ur": "upādāne ’rciṣo yās te sarvaṁ dhakṣyanti tāḥ śikhin\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 20
+  },
+  "01007021a": {
+    "text": {
+      "ascii": "yathA sUryAMzubhiH spRSTaM sarvaM zuci vibhAvyate\n",
+      "ud": "यथा सूर्यांशुभिः स्पृष्टं सर्वं शुचि विभाव्यते\n",
+      "ur": "yathā sūryāṁśubhiḥ spr̥ṣṭaṁ sarvaṁ śuci vibhāvyate\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 21
+  },
+  "01007021c": {
+    "text": {
+      "ascii": "tathA tvadarcirnirdagdhaM sarvaM zuci bhaviSyati\n",
+      "ud": "तथा त्वदर्चिर्निर्दग्धं सर्वं शुचि भविष्यति\n",
+      "ur": "tathā tvadarcirnirdagdhaṁ sarvaṁ śuci bhaviṣyati\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 21
+  },
+  "01007022a": {
+    "text": {
+      "ascii": "tad agne tvaM mahat tejaH svaprabhAvAd vinirgatam\n",
+      "ud": "तदग्ने त्वं महत्तेजः स्वप्रभावाद्विनिर्गतम्\n",
+      "ur": "tad agne tvaṁ mahat tejaḥ svaprabhāvād vinirgatam\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 22
+  },
+  "01007022c": {
+    "text": {
+      "ascii": "svatejasaiva taM zApaM kuru satyam RSer vibho\n",
+      "ud": "स्वतेजसैव तं शापं कुरु सत्यमृषेर्विभो\n",
+      "ur": "svatejasaiva taṁ śāpaṁ kuru satyam r̥ṣer vibho\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 22
+  },
+  "01007022e": {
+    "text": {
+      "ascii": "devAnAM cAtmano bhAgaM gRhANa tvaM mukhe hutam\n",
+      "ud": "देवानां चात्मनो भागं गृहाण त्वं मुखे हुतम्\n",
+      "ur": "devānāṁ cātmano bhāgaṁ gr̥hāṇa tvaṁ mukhe hutam\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 22
+  },
+  "01007023a": {
+    "text": {
+      "ascii": "evam astv iti taM vahniH pratyuvAca pitAmaham\n",
+      "ud": "एवमस्त्विति तं वह्निः प्रत्युवाच पितामहम्\n",
+      "ur": "evam astv iti taṁ vahniḥ pratyuvāca pitāmaham\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 23
+  },
+  "01007023c": {
+    "text": {
+      "ascii": "jagAma zAsanaM kartuM devasya parameSThinaH\n",
+      "ud": "जगाम शासनं कर्तुं देवस्य परमेष्ठिनः\n",
+      "ur": "jagāma śāsanaṁ kartuṁ devasya parameṣṭhinaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 23
+  },
+  "01007024a": {
+    "text": {
+      "ascii": "devarSayaz ca muditAs tato jagmur yathAgatam\n",
+      "ud": "देवर्षयश्च मुदितास्ततो जग्मुर्यथागतम्\n",
+      "ur": "devarṣayaś ca muditās tato jagmur yathāgatam\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 24
+  },
+  "01007024c": {
+    "text": {
+      "ascii": "RSayaz ca yathApUrvaM kriyAH sarvAH pracakrire\n",
+      "ud": "ऋषयश्च यथापूर्वं क्रियाः सर्वाः प्रचक्रिरे\n",
+      "ur": "r̥ṣayaś ca yathāpūrvaṁ kriyāḥ sarvāḥ pracakrire\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 24
+  },
+  "01007025a": {
+    "text": {
+      "ascii": "divi devA mumudire bhUtasaMghAz ca laukikAH\n",
+      "ud": "दिवि देवा मुमुदिरे भूतसंघाश्च लौकिकाः\n",
+      "ur": "divi devā mumudire bhūtasaṁghāś ca laukikāḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 25
+  },
+  "01007025c": {
+    "text": {
+      "ascii": "agniz ca paramAM prItim avApa hatakalmaSaH\n",
+      "ud": "अग्निश्च परमां प्रीतिमवाप हतकल्मषः\n",
+      "ur": "agniś ca paramāṁ prītim avāpa hatakalmaṣaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 25
+  },
+  "01007026a": {
+    "text": {
+      "ascii": "evam eSa purAvRtta itihAso 'gnizApajaH\n",
+      "ud": "एवमेष पुरावृत्त इतिहासोऽग्निशापजः\n",
+      "ur": "evam eṣa purāvr̥tta itihāso ’gniśāpajaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 26
+  },
+  "01007026c": {
+    "text": {
+      "ascii": "pulomasya vinAzaz ca cyavanasya ca saMbhavaH\n",
+      "ud": "पुलोमस्य विनाशश्च च्यवनस्य च संभवः\n",
+      "ur": "pulomasya vināśaś ca cyavanasya ca saṁbhavaḥ\n"
+    },
+    "book": 1,
+    "chapter": 7,
+    "verse": 26
+  }
+}

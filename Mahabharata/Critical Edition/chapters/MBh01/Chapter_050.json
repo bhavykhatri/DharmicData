@@ -1,0 +1,362 @@
+{
+  "01050001": {
+    "text": {
+      "ascii": "AstIka uvAca\n",
+      "ud": "आस्तीक उवाच\n",
+      "ur": "āstīka uvāca\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 1
+  },
+  "01050001a": {
+    "text": {
+      "ascii": "somasya yajJo varuNasya yajJaH; prajApater yajJa AsIt prayAge\n",
+      "ud": "सोमस्य यज्ञो वरुणस्य यज्ञः; प्रजापतेर्यज्ञ आसीत्प्रयागे\n",
+      "ur": "somasya yajño varuṇasya yajñaḥ; prajāpater yajña āsīt prayāge\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 1
+  },
+  "01050001c": {
+    "text": {
+      "ascii": "tathA yajJo 'yaM tava bhAratAgrya; pArikSita svasti no 'stu priyebhyaH\n",
+      "ud": "तथा यज्ञोऽयं तव भारताग्र्य; पारिक्षित स्वस्ति नोऽस्तु प्रियेभ्यः\n",
+      "ur": "tathā yajño ’yaṁ tava bhāratāgrya; pārikṣita svasti no ’stu priyebhyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 1
+  },
+  "01050002a": {
+    "text": {
+      "ascii": "zakrasya yajJaH zatasaMkhya uktas; tathAparas tulyasaMkhyaH zataM vai\n",
+      "ud": "शक्रस्य यज्ञः शतसंख्य उक्त;स्तथापरस्तुल्यसंख्यः शतं वै\n",
+      "ur": "śakrasya yajñaḥ śatasaṁkhya uktas; tathāparas tulyasaṁkhyaḥ śataṁ vai\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 2
+  },
+  "01050002c": {
+    "text": {
+      "ascii": "tathA yajJo 'yaM tava bhAratAgrya; pArikSita svasti no 'stu priyebhyaH\n",
+      "ud": "तथा यज्ञोऽयं तव भारताग्र्य; पारिक्षित स्वस्ति नोऽस्तु प्रियेभ्यः\n",
+      "ur": "tathā yajño ’yaṁ tava bhāratāgrya; pārikṣita svasti no ’stu priyebhyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 2
+  },
+  "01050003a": {
+    "text": {
+      "ascii": "yamasya yajJo harimedhasaz ca; yathA yajJo rantidevasya rAjJaH\n",
+      "ud": "यमस्य यज्ञो हरिमेधसश्च; यथा यज्ञो रन्तिदेवस्य राज्ञः\n",
+      "ur": "yamasya yajño harimedhasaś ca; yathā yajño rantidevasya rājñaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 3
+  },
+  "01050003c": {
+    "text": {
+      "ascii": "tathA yajJo 'yaM tava bhAratAgrya; pArikSita svasti no 'stu priyebhyaH\n",
+      "ud": "तथा यज्ञोऽयं तव भारताग्र्य; पारिक्षित स्वस्ति नोऽस्तु प्रियेभ्यः\n",
+      "ur": "tathā yajño ’yaṁ tava bhāratāgrya; pārikṣita svasti no ’stu priyebhyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 3
+  },
+  "01050004a": {
+    "text": {
+      "ascii": "gayasya yajJaH zazabindoz ca rAjJo; yajJas tathA vaizravaNasya rAjJaH\n",
+      "ud": "गयस्य यज्ञः शशबिन्दोश्च राज्ञो; यज्ञस्तथा वैश्रवणस्य राज्ञः\n",
+      "ur": "gayasya yajñaḥ śaśabindoś ca rājño; yajñas tathā vaiśravaṇasya rājñaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 4
+  },
+  "01050004c": {
+    "text": {
+      "ascii": "tathA yajJo 'yaM tava bhAratAgrya; pArikSita svasti no 'stu priyebhyaH\n",
+      "ud": "तथा यज्ञोऽयं तव भारताग्र्य; पारिक्षित स्वस्ति नोऽस्तु प्रियेभ्यः\n",
+      "ur": "tathā yajño ’yaṁ tava bhāratāgrya; pārikṣita svasti no ’stu priyebhyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 4
+  },
+  "01050005a": {
+    "text": {
+      "ascii": "nRgasya yajJas tv ajamIDhasya cAsId; yathA yajJo dAzarathez ca rAjJaH\n",
+      "ud": "नृगस्य यज्ञस्त्वजमीढस्य चासी;द्यथा यज्ञो दाशरथेश्च राज्ञः\n",
+      "ur": "nr̥gasya yajñas tv ajamīḍhasya cāsīd; yathā yajño dāśaratheś ca rājñaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 5
+  },
+  "01050005c": {
+    "text": {
+      "ascii": "tathA yajJo 'yaM tava bhAratAgrya; pArikSita svasti no 'stu priyebhyaH\n",
+      "ud": "तथा यज्ञोऽयं तव भारताग्र्य; पारिक्षित स्वस्ति नोऽस्तु प्रियेभ्यः\n",
+      "ur": "tathā yajño ’yaṁ tava bhāratāgrya; pārikṣita svasti no ’stu priyebhyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 5
+  },
+  "01050006a": {
+    "text": {
+      "ascii": "yajJaH zruto no divi devasUnor; yudhiSThirasyAjamIDhasya rAjJaH\n",
+      "ud": "यज्ञः श्रुतो नो दिवि देवसूनो;र्युधिष्ठिरस्याजमीढस्य राज्ञः\n",
+      "ur": "yajñaḥ śruto no divi devasūnor; yudhiṣṭhirasyājamīḍhasya rājñaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 6
+  },
+  "01050006c": {
+    "text": {
+      "ascii": "tathA yajJo 'yaM tava bhAratAgrya; pArikSita svasti no 'stu priyebhyaH\n",
+      "ud": "तथा यज्ञोऽयं तव भारताग्र्य; पारिक्षित स्वस्ति नोऽस्तु प्रियेभ्यः\n",
+      "ur": "tathā yajño ’yaṁ tava bhāratāgrya; pārikṣita svasti no ’stu priyebhyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 6
+  },
+  "01050007a": {
+    "text": {
+      "ascii": "kRSNasya yajJaH satyavatyAH sutasya; svayaM ca karma pracakAra yatra\n",
+      "ud": "कृष्णस्य यज्ञः सत्यवत्याः सुतस्य; स्वयं च कर्म प्रचकार यत्र\n",
+      "ur": "kr̥ṣṇasya yajñaḥ satyavatyāḥ sutasya; svayaṁ ca karma pracakāra yatra\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 7
+  },
+  "01050007c": {
+    "text": {
+      "ascii": "tathA yajJo 'yaM tava bhAratAgrya; pArikSita svasti no 'stu priyebhyaH\n",
+      "ud": "तथा यज्ञोऽयं तव भारताग्र्य; पारिक्षित स्वस्ति नोऽस्तु प्रियेभ्यः\n",
+      "ur": "tathā yajño ’yaṁ tava bhāratāgrya; pārikṣita svasti no ’stu priyebhyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 7
+  },
+  "01050008a": {
+    "text": {
+      "ascii": "ime hi te sUryahutAzavarcasaH; samAsate vRtrahaNaH kratuM yathA\n",
+      "ud": "इमे हि ते सूर्यहुताशवर्चसः; समासते वृत्रहणः क्रतुं यथा\n",
+      "ur": "ime hi te sūryahutāśavarcasaḥ; samāsate vr̥trahaṇaḥ kratuṁ yathā\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 8
+  },
+  "01050008c": {
+    "text": {
+      "ascii": "naiSAM jJAnaM vidyate jJAtum adya; dattaM yebhyo na praNazyet kathaM cit\n",
+      "ud": "नैषां ज्ञानं विद्यते ज्ञातुमद्य; दत्तं येभ्यो न प्रणश्येत्कथंचित्\n",
+      "ur": "naiṣāṁ jñānaṁ vidyate jñātum adya; dattaṁ yebhyo na praṇaśyet kathaṁ cit\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 8
+  },
+  "01050009a": {
+    "text": {
+      "ascii": "Rtviksamo nAsti lokeSu caiva; dvaipAyaneneti vinizcitaM me\n",
+      "ud": "ऋत्विक्समो नास्ति लोकेषु चैव; द्वैपायनेनेति विनिश्चितं मे\n",
+      "ur": "r̥tviksamo nāsti lokeṣu caiva; dvaipāyaneneti viniścitaṁ me\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 9
+  },
+  "01050009c": {
+    "text": {
+      "ascii": "etasya ziSyA hi kSitiM caranti; sarvartvijaH karmasu sveSu dakSAH\n",
+      "ud": "एतस्य शिष्या हि क्षितिं चरन्ति; सर्वर्त्विजः कर्मसु स्वेषु दक्षाः\n",
+      "ur": "etasya śiṣyā hi kṣitiṁ caranti; sarvartvijaḥ karmasu sveṣu dakṣāḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 9
+  },
+  "01050010a": {
+    "text": {
+      "ascii": "vibhAvasuz citrabhAnur mahAtmA; hiraNyaretA vizvabhuk kRSNavartmA\n",
+      "ud": "विभावसुश्चित्रभानुर्महात्मा; हिरण्यरेता विश्वभुक्कृष्णवर्त्मा\n",
+      "ur": "vibhāvasuś citrabhānur mahātmā; hiraṇyaretā viśvabhuk kr̥ṣṇavartmā\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 10
+  },
+  "01050010c": {
+    "text": {
+      "ascii": "pradakSiNAvartazikhaH pradIpto; havyaM tavedaM hutabhug vaSTi devaH\n",
+      "ud": "प्रदक्षिणावर्तशिखः प्रदीप्तो; हव्यं तवेदं हुतभुग्वष्टि देवः\n",
+      "ur": "pradakṣiṇāvartaśikhaḥ pradīpto; havyaṁ tavedaṁ hutabhug vaṣṭi devaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 10
+  },
+  "01050011a": {
+    "text": {
+      "ascii": "neha tvad anyo vidyate jIvaloke; samo nRpaH pAlayitA prajAnAm\n",
+      "ud": "नेह त्वदन्यो विद्यते जीवलोके; समो नृपः पालयिता प्रजानाम्\n",
+      "ur": "neha tvad anyo vidyate jīvaloke; samo nr̥paḥ pālayitā prajānām\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 11
+  },
+  "01050011c": {
+    "text": {
+      "ascii": "dhRtyA ca te prItamanAH sadAhaM; tvaM vA rAjA dharmarAjo yamo vA\n",
+      "ud": "धृत्या च ते प्रीतमनाः सदाहं; त्वं वा राजा धर्मराजो यमो वा\n",
+      "ur": "dhr̥tyā ca te prītamanāḥ sadāhaṁ; tvaṁ vā rājā dharmarājo yamo vā\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 11
+  },
+  "01050012a": {
+    "text": {
+      "ascii": "zakraH sAkSAd vajrapANir yatheha; trAtA loke 'smiMs tvaM tatheha prajAnAm\n",
+      "ud": "शक्रः साक्षाद्वज्रपाणिर्यथेह; त्राता लोकेऽस्मिंस्त्वं तथेह प्रजानाम्\n",
+      "ur": "śakraḥ sākṣād vajrapāṇir yatheha; trātā loke ’smiṁs tvaṁ tatheha prajānām\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 12
+  },
+  "01050012c": {
+    "text": {
+      "ascii": "matas tvaM naH puruSendreha loke; na ca tvad anyo gRhapatir asti yajJe\n",
+      "ud": "मतस्त्वं नः पुरुषेन्द्रेह लोके; न च त्वदन्यो गृहपतिरस्ति यज्ञे\n",
+      "ur": "matas tvaṁ naḥ puruṣendreha loke; na ca tvad anyo gr̥hapatir asti yajñe\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 12
+  },
+  "01050013a": {
+    "text": {
+      "ascii": "khaTvAGganAbhAgadilIpakalpo; yayAtimAndhAtRsamaprabhAvaH\n",
+      "ud": "खट्वाङ्गनाभागदिलीपकल्पो; ययातिमान्धातृसमप्रभावः\n",
+      "ur": "khaṭvāṅganābhāgadilīpakalpo; yayātimāndhātr̥samaprabhāvaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 13
+  },
+  "01050013c": {
+    "text": {
+      "ascii": "AdityatejaHpratimAnatejA; bhISmo yathA bhrAjasi suvratas tvam\n",
+      "ud": "आदित्यतेजःप्रतिमानतेजा; भीष्मो यथा भ्राजसि सुव्रतस्त्वम्\n",
+      "ur": "ādityatejaḥpratimānatejā; bhīṣmo yathā bhrājasi suvratas tvam\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 13
+  },
+  "01050014a": {
+    "text": {
+      "ascii": "vAlmIkivat te nibhRtaM sudhairyaM; vasiSThavat te niyataz ca kopaH\n",
+      "ud": "वाल्मीकिवत्ते निभृतं सुधैर्यं; वसिष्ठवत्ते नियतश्च कोपः\n",
+      "ur": "vālmīkivat te nibhr̥taṁ sudhairyaṁ; vasiṣṭhavat te niyataś ca kopaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 14
+  },
+  "01050014c": {
+    "text": {
+      "ascii": "prabhutvam indreNa samaM mataM me; dyutiz ca nArAyaNavad vibhAti\n",
+      "ud": "प्रभुत्वमिन्द्रेण समं मतं मे; द्युतिश्च नारायणवद्विभाति\n",
+      "ur": "prabhutvam indreṇa samaṁ mataṁ me; dyutiś ca nārāyaṇavad vibhāti\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 14
+  },
+  "01050015a": {
+    "text": {
+      "ascii": "yamo yathA dharmavinizcayajJaH; kRSNo yathA sarvaguNopapannaH\n",
+      "ud": "यमो यथा धर्मविनिश्चयज्ञः; कृष्णो यथा सर्वगुणोपपन्नः\n",
+      "ur": "yamo yathā dharmaviniścayajñaḥ; kr̥ṣṇo yathā sarvaguṇopapannaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 15
+  },
+  "01050015c": {
+    "text": {
+      "ascii": "zriyAM nivAso 'si yathA vasUnAM; nidhAnabhUto 'si tathA kratUnAm\n",
+      "ud": "श्रियां निवासोऽसि यथा वसूनां; निधानभूतोऽसि तथा क्रतूनाम्\n",
+      "ur": "śriyāṁ nivāso ’si yathā vasūnāṁ; nidhānabhūto ’si tathā kratūnām\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 15
+  },
+  "01050016a": {
+    "text": {
+      "ascii": "dambhodbhavenAsi samo balena; rAmo yathA zastravid astravic ca\n",
+      "ud": "दम्भोद्भवेनासि समो बलेन; रामो यथा शस्त्रविदस्त्रविच्च\n",
+      "ur": "dambhodbhavenāsi samo balena; rāmo yathā śastravid astravic ca\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 16
+  },
+  "01050016c": {
+    "text": {
+      "ascii": "aurvatritAbhyAm asi tulyatejA; duSprekSaNIyo 'si bhagIratho vA\n",
+      "ud": "और्वत्रिताभ्यामसि तुल्यतेजा; दुष्प्रेक्षणीयोऽसि भगीरथो वा\n",
+      "ur": "aurvatritābhyām asi tulyatejā; duṣprekṣaṇīyo ’si bhagīratho vā\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 16
+  },
+  "01050017": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 17
+  },
+  "01050017a": {
+    "text": {
+      "ascii": "evaM stutAH sarva eva prasannA; rAjA sadasyA Rtvijo havyavAhaH\n",
+      "ud": "एवं स्तुताः सर्व एव प्रसन्ना; राजा सदस्या ऋत्विजो हव्यवाहः\n",
+      "ur": "evaṁ stutāḥ sarva eva prasannā; rājā sadasyā r̥tvijo havyavāhaḥ\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 17
+  },
+  "01050017c": {
+    "text": {
+      "ascii": "teSAM dRSTvA bhAvitAnIGgitAni; provAca rAjA janamejayo 'tha\n",
+      "ud": "तेषां दृष्ट्वा भावितानीङ्गितानि; प्रोवाच राजा जनमेजयोऽथ\n",
+      "ur": "teṣāṁ dr̥ṣṭvā bhāvitānīṅgitāni; provāca rājā janamejayo ’tha\n"
+    },
+    "book": 1,
+    "chapter": 50,
+    "verse": 17
+  }
+}

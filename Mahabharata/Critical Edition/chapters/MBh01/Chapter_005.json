@@ -1,0 +1,582 @@
+{
+  "01005001": {
+    "text": {
+      "ascii": "zaunaka uvAca\n",
+      "ud": "शौनक उवाच\n",
+      "ur": "śaunaka uvāca\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 1
+  },
+  "01005001a": {
+    "text": {
+      "ascii": "purANam akhilaM tAta pitA te 'dhItavAn purA\n",
+      "ud": "पुराणमखिलं तात पिता तेऽधीतवान्पुरा\n",
+      "ur": "purāṇam akhilaṁ tāta pitā te ’dhītavān purā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 1
+  },
+  "01005001c": {
+    "text": {
+      "ascii": "kaccit tvam api tat sarvam adhISe lomaharSaNe\n",
+      "ud": "कच्चित्त्वमपि तत्सर्वमधीषे लोमहर्षणे\n",
+      "ur": "kaccit tvam api tat sarvam adhīṣe lomaharṣaṇe\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 1
+  },
+  "01005002a": {
+    "text": {
+      "ascii": "purANe hi kathA divyA AdivaMzAz ca dhImatAm\n",
+      "ud": "पुराणे हि कथा दिव्या आदिवंशाश्च धीमताम्\n",
+      "ur": "purāṇe hi kathā divyā ādivaṁśāś ca dhīmatām\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 2
+  },
+  "01005002c": {
+    "text": {
+      "ascii": "kathyante tAH purAsmAbhiH zrutAH pUrvaM pitus tava\n",
+      "ud": "कथ्यन्ते ताः पुरास्माभिः श्रुताः पूर्वं पितुस्तव\n",
+      "ur": "kathyante tāḥ purāsmābhiḥ śrutāḥ pūrvaṁ pitus tava\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 2
+  },
+  "01005003a": {
+    "text": {
+      "ascii": "tatra vaMzam ahaM pUrvaM zrotum icchAmi bhArgavam\n",
+      "ud": "तत्र वंशमहं पूर्वं श्रोतुमिच्छामि भार्गवम्\n",
+      "ur": "tatra vaṁśam ahaṁ pūrvaṁ śrotum icchāmi bhārgavam\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 3
+  },
+  "01005003c": {
+    "text": {
+      "ascii": "kathayasva kathAm etAM kalyAH sma zravaNe tava\n",
+      "ud": "कथयस्व कथामेतां कल्याः स्म श्रवणे तव\n",
+      "ur": "kathayasva kathām etāṁ kalyāḥ sma śravaṇe tava\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 3
+  },
+  "01005004": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 4
+  },
+  "01005004a": {
+    "text": {
+      "ascii": "yad adhItaM purA samyag dvijazreSTha mahAtmabhiH\n",
+      "ud": "यदधीतं पुरा सम्यग्द्विजश्रेष्ठ महात्मभिः\n",
+      "ur": "yad adhītaṁ purā samyag dvijaśreṣṭha mahātmabhiḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 4
+  },
+  "01005004c": {
+    "text": {
+      "ascii": "vaizaMpAyanaviprAdyais taiz cApi kathitaM purA\n",
+      "ud": "वैशंपायनविप्राद्यैस्तैश्चापि कथितं पुरा\n",
+      "ur": "vaiśaṁpāyanaviprādyais taiś cāpi kathitaṁ purā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 4
+  },
+  "01005005a": {
+    "text": {
+      "ascii": "yad adhItaM ca pitrA me samyak caiva tato mayA\n",
+      "ud": "यदधीतं च पित्रा मे सम्यक्चैव ततो मया\n",
+      "ur": "yad adhītaṁ ca pitrā me samyak caiva tato mayā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 5
+  },
+  "01005005c": {
+    "text": {
+      "ascii": "tat tAvac chRNu yo devaiH sendraiH sAgnimarudgaNaiH\n",
+      "ud": "तत्तावच्छृणु यो देवैः सेन्द्रैः साग्निमरुद्गणैः\n",
+      "ur": "tat tāvac chr̥ṇu yo devaiḥ sendraiḥ sāgnimarudgaṇaiḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 5
+  },
+  "01005005e": {
+    "text": {
+      "ascii": "pUjitaH pravaro vaMzo bhRgUNAM bhRgunandana\n",
+      "ud": "पूजितः प्रवरो वंशो भृगूणां भृगुनन्दन\n",
+      "ur": "pūjitaḥ pravaro vaṁśo bhr̥gūṇāṁ bhr̥gunandana\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 5
+  },
+  "01005006a": {
+    "text": {
+      "ascii": "imaM vaMzam ahaM brahman bhArgavaM te mahAmune\n",
+      "ud": "इमं वंशमहं ब्रह्मन्भार्गवं ते महामुने\n",
+      "ur": "imaṁ vaṁśam ahaṁ brahman bhārgavaṁ te mahāmune\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 6
+  },
+  "01005006c": {
+    "text": {
+      "ascii": "nigadAmi kathAyuktaM purANAzrayasaMyutam\n",
+      "ud": "निगदामि कथायुक्तं पुराणाश्रयसंयुतम्\n",
+      "ur": "nigadāmi kathāyuktaṁ purāṇāśrayasaṁyutam\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 6
+  },
+  "01005007a": {
+    "text": {
+      "ascii": "bhRgoH sudayitaH putraz cyavano nAma bhArgavaH\n",
+      "ud": "भृगोः सुदयितः पुत्रश्च्यवनो नाम भार्गवः\n",
+      "ur": "bhr̥goḥ sudayitaḥ putraś cyavano nāma bhārgavaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 7
+  },
+  "01005007c": {
+    "text": {
+      "ascii": "cyavanasyApi dAyAdaH pramatir nAma dhArmikaH\n",
+      "ud": "च्यवनस्यापि दायादः प्रमतिर्नाम धार्मिकः\n",
+      "ur": "cyavanasyāpi dāyādaḥ pramatir nāma dhārmikaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 7
+  },
+  "01005007e": {
+    "text": {
+      "ascii": "pramater apy abhUt putro ghRtAcyAM rurur ity uta\n",
+      "ud": "प्रमतेरप्यभूत्पुत्रो घृताच्यां रुरुरित्युत\n",
+      "ur": "pramater apy abhūt putro ghr̥tācyāṁ rurur ity uta\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 7
+  },
+  "01005008a": {
+    "text": {
+      "ascii": "ruror api suto jajJe zunako vedapAragaH\n",
+      "ud": "रुरोरपि सुतो जज्ञे शुनको वेदपारगः\n",
+      "ur": "ruror api suto jajñe śunako vedapāragaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 8
+  },
+  "01005008c": {
+    "text": {
+      "ascii": "pramadvarAyAM dharmAtmA tava pUrvapitAmahAt\n",
+      "ud": "प्रमद्वरायां धर्मात्मा तव पूर्वपितामहात्\n",
+      "ur": "pramadvarāyāṁ dharmātmā tava pūrvapitāmahāt\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 8
+  },
+  "01005009a": {
+    "text": {
+      "ascii": "tapasvI ca yazasvI ca zrutavAn brahmavittamaH\n",
+      "ud": "तपस्वी च यशस्वी च श्रुतवान्ब्रह्मवित्तमः\n",
+      "ur": "tapasvī ca yaśasvī ca śrutavān brahmavittamaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 9
+  },
+  "01005009c": {
+    "text": {
+      "ascii": "dharmiSThaH satyavAdI ca niyato niyatendriyaH\n",
+      "ud": "धर्मिष्ठः सत्यवादी च नियतो नियतेन्द्रियः\n",
+      "ur": "dharmiṣṭhaḥ satyavādī ca niyato niyatendriyaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 9
+  },
+  "01005010": {
+    "text": {
+      "ascii": "zaunaka uvAca\n",
+      "ud": "शौनक उवाच\n",
+      "ur": "śaunaka uvāca\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 10
+  },
+  "01005010a": {
+    "text": {
+      "ascii": "sUtaputra yathA tasya bhArgavasya mahAtmanaH\n",
+      "ud": "सूतपुत्र यथा तस्य भार्गवस्य महात्मनः\n",
+      "ur": "sūtaputra yathā tasya bhārgavasya mahātmanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 10
+  },
+  "01005010c": {
+    "text": {
+      "ascii": "cyavanatvaM parikhyAtaM tan mamAcakSva pRcchataH\n",
+      "ud": "च्यवनत्वं परिख्यातं तन्ममाचक्ष्व पृच्छतः\n",
+      "ur": "cyavanatvaṁ parikhyātaṁ tan mamācakṣva pr̥cchataḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 10
+  },
+  "01005011": {
+    "text": {
+      "ascii": "sUta uvAca\n",
+      "ud": "सूत उवाच\n",
+      "ur": "sūta uvāca\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 11
+  },
+  "01005011a": {
+    "text": {
+      "ascii": "bhRgoH sudayitA bhAryA pulomety abhivizrutA\n",
+      "ud": "भृगोः सुदयिता भार्या पुलोमेत्यभिविश्रुता\n",
+      "ur": "bhr̥goḥ sudayitā bhāryā pulomety abhiviśrutā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 11
+  },
+  "01005011c": {
+    "text": {
+      "ascii": "tasyAM garbhaH samabhavad bhRgor vIryasamudbhavaH\n",
+      "ud": "तस्यां गर्भः समभवद्भृगोर्वीर्यसमुद्भवः\n",
+      "ur": "tasyāṁ garbhaḥ samabhavad bhr̥gor vīryasamudbhavaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 11
+  },
+  "01005012a": {
+    "text": {
+      "ascii": "tasmin garbhe saMbhRte 'tha pulomAyAM bhRgUdvaha\n",
+      "ud": "तस्मिन्गर्भे संभृतेऽथ पुलोमायां भृगूद्वह\n",
+      "ur": "tasmin garbhe saṁbhr̥te ’tha pulomāyāṁ bhr̥gūdvaha\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 12
+  },
+  "01005012c": {
+    "text": {
+      "ascii": "samaye samazIlinyAM dharmapatnyAM yazasvinaH\n",
+      "ud": "समये समशीलिन्यां धर्मपत्न्यां यशस्विनः\n",
+      "ur": "samaye samaśīlinyāṁ dharmapatnyāṁ yaśasvinaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 12
+  },
+  "01005013a": {
+    "text": {
+      "ascii": "abhiSekAya niSkrAnte bhRgau dharmabhRtAM vare\n",
+      "ud": "अभिषेकाय निष्क्रान्ते भृगौ धर्मभृतां वरे\n",
+      "ur": "abhiṣekāya niṣkrānte bhr̥gau dharmabhr̥tāṁ vare\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 13
+  },
+  "01005013c": {
+    "text": {
+      "ascii": "AzramaM tasya rakSo 'tha pulomAbhyAjagAma ha\n",
+      "ud": "आश्रमं तस्य रक्षोऽथ पुलोमाभ्याजगाम ह\n",
+      "ur": "āśramaṁ tasya rakṣo ’tha pulomābhyājagāma ha\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 13
+  },
+  "01005014a": {
+    "text": {
+      "ascii": "taM pravizyAzramaM dRSTvA bhRgor bhAryAm aninditAm\n",
+      "ud": "तं प्रविश्याश्रमं दृष्ट्वा भृगोर्भार्यामनिन्दिताम्\n",
+      "ur": "taṁ praviśyāśramaṁ dr̥ṣṭvā bhr̥gor bhāryām aninditām\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 14
+  },
+  "01005014c": {
+    "text": {
+      "ascii": "hRcchayena samAviSTo vicetAH samapadyata\n",
+      "ud": "हृच्छयेन समाविष्टो विचेताः समपद्यत\n",
+      "ur": "hr̥cchayena samāviṣṭo vicetāḥ samapadyata\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 14
+  },
+  "01005015a": {
+    "text": {
+      "ascii": "abhyAgataM tu tad rakSaH pulomA cArudarzanA\n",
+      "ud": "अभ्यागतं तु तद्रक्षः पुलोमा चारुदर्शना\n",
+      "ur": "abhyāgataṁ tu tad rakṣaḥ pulomā cārudarśanā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 15
+  },
+  "01005015c": {
+    "text": {
+      "ascii": "nyamantrayata vanyena phalamUlAdinA tadA\n",
+      "ud": "न्यमन्त्रयत वन्येन फलमूलादिना तदा\n",
+      "ur": "nyamantrayata vanyena phalamūlādinā tadā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 15
+  },
+  "01005016a": {
+    "text": {
+      "ascii": "tAM tu rakSas tato brahman hRcchayenAbhipIDitam\n",
+      "ud": "तां तु रक्षस्ततो ब्रह्मन्हृच्छयेनाभिपीडितम्\n",
+      "ur": "tāṁ tu rakṣas tato brahman hr̥cchayenābhipīḍitam\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 16
+  },
+  "01005016c": {
+    "text": {
+      "ascii": "dRSTvA hRSTam abhUt tatra jihIrSus tAm aninditAm\n",
+      "ud": "दृष्ट्वा हृष्टमभूत्तत्र जिहीर्षुस्तामनिन्दिताम्\n",
+      "ur": "dr̥ṣṭvā hr̥ṣṭam abhūt tatra jihīrṣus tām aninditām\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 16
+  },
+  "01005017a": {
+    "text": {
+      "ascii": "athAgnizaraNe 'pazyaj jvalitaM jAtavedasam\n",
+      "ud": "अथाग्निशरणेऽपश्यज्ज्वलितं जातवेदसम्\n",
+      "ur": "athāgniśaraṇe ’paśyaj jvalitaṁ jātavedasam\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 17
+  },
+  "01005017c": {
+    "text": {
+      "ascii": "tam apRcchat tato rakSaH pAvakaM jvalitaM tadA\n",
+      "ud": "तमपृच्छत्ततो रक्षः पावकं ज्वलितं तदा\n",
+      "ur": "tam apr̥cchat tato rakṣaḥ pāvakaṁ jvalitaṁ tadā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 17
+  },
+  "01005018a": {
+    "text": {
+      "ascii": "zaMsa me kasya bhAryeyam agne pRSTa Rtena vai\n",
+      "ud": "शंस मे कस्य भार्येयमग्ने पृष्ट ऋतेन वै\n",
+      "ur": "śaṁsa me kasya bhāryeyam agne pr̥ṣṭa r̥tena vai\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 18
+  },
+  "01005018c": {
+    "text": {
+      "ascii": "satyas tvam asi satyaM me vada pAvaka pRcchate\n",
+      "ud": "सत्यस्त्वमसि सत्यं मे वद पावक पृच्छते\n",
+      "ur": "satyas tvam asi satyaṁ me vada pāvaka pr̥cchate\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 18
+  },
+  "01005019a": {
+    "text": {
+      "ascii": "mayA hIyaM pUrvavRtA bhAryArthe varavarNinI\n",
+      "ud": "मया हीयं पूर्ववृता भार्यार्थे वरवर्णिनी\n",
+      "ur": "mayā hīyaṁ pūrvavr̥tā bhāryārthe varavarṇinī\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 19
+  },
+  "01005019c": {
+    "text": {
+      "ascii": "pazcAt tv imAM pitA prAdAd bhRgave 'nRtakAriNe\n",
+      "ud": "पश्चात्त्विमां पिता प्रादाद्भृगवेऽनृतकारिणे\n",
+      "ur": "paścāt tv imāṁ pitā prādād bhr̥gave ’nr̥takāriṇe\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 19
+  },
+  "01005020a": {
+    "text": {
+      "ascii": "seyaM yadi varArohA bhRgor bhAryA rahogatA\n",
+      "ud": "सेयं यदि वरारोहा भृगोर्भार्या रहोगता\n",
+      "ur": "seyaṁ yadi varārohā bhr̥gor bhāryā rahogatā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 20
+  },
+  "01005020c": {
+    "text": {
+      "ascii": "tathA satyaM samAkhyAhi jihIrSAmy AzramAd imAm\n",
+      "ud": "तथा सत्यं समाख्याहि जिहीर्षाम्याश्रमादिमाम्\n",
+      "ur": "tathā satyaṁ samākhyāhi jihīrṣāmy āśramād imām\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 20
+  },
+  "01005021a": {
+    "text": {
+      "ascii": "manyur hi hRdayaM me 'dya pradahann iva tiSThati\n",
+      "ud": "मन्युर्हि हृदयं मेऽद्य प्रदहन्निव तिष्ठति\n",
+      "ur": "manyur hi hr̥dayaṁ me ’dya pradahann iva tiṣṭhati\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 21
+  },
+  "01005021c": {
+    "text": {
+      "ascii": "matpUrvabhAryAM yad imAM bhRguH prApa sumadhyamAm\n",
+      "ud": "मत्पूर्वभार्यां यदिमां भृगुः प्राप सुमध्यमाम्\n",
+      "ur": "matpūrvabhāryāṁ yad imāṁ bhr̥guḥ prāpa sumadhyamām\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 21
+  },
+  "01005022a": {
+    "text": {
+      "ascii": "tad rakSa evam Amantrya jvalitaM jAtavedasam\n",
+      "ud": "तद्रक्ष एवमामन्त्र्य ज्वलितं जातवेदसम्\n",
+      "ur": "tad rakṣa evam āmantrya jvalitaṁ jātavedasam\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 22
+  },
+  "01005022c": {
+    "text": {
+      "ascii": "zaGkamAno bhRgor bhAryAM punaH punar apRcchata\n",
+      "ud": "शङ्कमानो भृगोर्भार्यां पुनः पुनरपृच्छत\n",
+      "ur": "śaṅkamāno bhr̥gor bhāryāṁ punaḥ punar apr̥cchata\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 22
+  },
+  "01005023a": {
+    "text": {
+      "ascii": "tvam agne sarvabhUtAnAm antaz carasi nityadA\n",
+      "ud": "त्वमग्ने सर्वभूतानामन्तश्चरसि नित्यदा\n",
+      "ur": "tvam agne sarvabhūtānām antaś carasi nityadā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 23
+  },
+  "01005023c": {
+    "text": {
+      "ascii": "sAkSivat puNyapApeSu satyaM brUhi kave vacaH\n",
+      "ud": "साक्षिवत्पुण्यपापेषु सत्यं ब्रूहि कवे वचः\n",
+      "ur": "sākṣivat puṇyapāpeṣu satyaṁ brūhi kave vacaḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 23
+  },
+  "01005024a": {
+    "text": {
+      "ascii": "matpUrvabhAryApahRtA bhRguNAnRtakAriNA\n",
+      "ud": "मत्पूर्वभार्यापहृता भृगुणानृतकारिणा\n",
+      "ur": "matpūrvabhāryāpahr̥tā bhr̥guṇānr̥takāriṇā\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 24
+  },
+  "01005024c": {
+    "text": {
+      "ascii": "seyaM yadi tathA me tvaM satyam AkhyAtum arhasi\n",
+      "ud": "सेयं यदि तथा मे त्वं सत्यमाख्यातुमर्हसि\n",
+      "ur": "seyaṁ yadi tathā me tvaṁ satyam ākhyātum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 24
+  },
+  "01005025a": {
+    "text": {
+      "ascii": "zrutvA tvatto bhRgor bhAryAM hariSyAmy aham AzramAt\n",
+      "ud": "श्रुत्वा त्वत्तो भृगोर्भार्यां हरिष्याम्यहमाश्रमात्\n",
+      "ur": "śrutvā tvatto bhr̥gor bhāryāṁ hariṣyāmy aham āśramāt\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 25
+  },
+  "01005025c": {
+    "text": {
+      "ascii": "jAtavedaH pazyatas te vada satyAM giraM mama\n",
+      "ud": "जातवेदः पश्यतस्ते वद सत्यां गिरं मम\n",
+      "ur": "jātavedaḥ paśyatas te vada satyāṁ giraṁ mama\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 25
+  },
+  "01005026a": {
+    "text": {
+      "ascii": "tasya tad vacanaM zrutvA saptArcir duHkhito bhRzam\n",
+      "ud": "तस्य तद्वचनं श्रुत्वा सप्तार्चिर्दुःखितो भृशम्\n",
+      "ur": "tasya tad vacanaṁ śrutvā saptārcir duḥkhito bhr̥śam\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 26
+  },
+  "01005026c": {
+    "text": {
+      "ascii": "bhIto 'nRtAc ca zApAc ca bhRgor ity abravIc chanaiH\n",
+      "ud": "भीतोऽनृताच्च शापाच्च भृगोरित्यब्रवीच्छनैः\n",
+      "ur": "bhīto ’nr̥tāc ca śāpāc ca bhr̥gor ity abravīc chanaiḥ\n"
+    },
+    "book": 1,
+    "chapter": 5,
+    "verse": 26
+  }
+}

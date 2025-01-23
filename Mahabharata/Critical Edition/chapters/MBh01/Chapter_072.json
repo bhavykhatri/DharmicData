@@ -1,0 +1,542 @@
+{
+  "01072001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 1
+  },
+  "01072001a": {
+    "text": {
+      "ascii": "samAvRttavrataM taM tu visRSTaM guruNA tadA\n",
+      "ud": "समावृत्तव्रतं तं तु विसृष्टं गुरुणा तदा\n",
+      "ur": "samāvr̥ttavrataṁ taṁ tu visr̥ṣṭaṁ guruṇā tadā\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 1
+  },
+  "01072001c": {
+    "text": {
+      "ascii": "prasthitaM tridazAvAsaM devayAny abravId idam\n",
+      "ud": "प्रस्थितं त्रिदशावासं देवयान्यब्रवीदिदम्\n",
+      "ur": "prasthitaṁ tridaśāvāsaṁ devayāny abravīd idam\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 1
+  },
+  "01072002a": {
+    "text": {
+      "ascii": "RSer aGgirasaH pautra vRttenAbhijanena ca\n",
+      "ud": "ऋषेरङ्गिरसः पौत्र वृत्तेनाभिजनेन च\n",
+      "ur": "r̥ṣer aṅgirasaḥ pautra vr̥ttenābhijanena ca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 2
+  },
+  "01072002c": {
+    "text": {
+      "ascii": "bhrAjase vidyayA caiva tapasA ca damena ca\n",
+      "ud": "भ्राजसे विद्यया चैव तपसा च दमेन च\n",
+      "ur": "bhrājase vidyayā caiva tapasā ca damena ca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 2
+  },
+  "01072003a": {
+    "text": {
+      "ascii": "RSir yathAGgirA mAnyaH pitur mama mahAyazAH\n",
+      "ud": "ऋषिर्यथाङ्गिरा मान्यः पितुर्मम महायशाः\n",
+      "ur": "r̥ṣir yathāṅgirā mānyaḥ pitur mama mahāyaśāḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 3
+  },
+  "01072003c": {
+    "text": {
+      "ascii": "tathA mAnyaz ca pUjyaz ca bhUyo mama bRhaspatiH\n",
+      "ud": "तथा मान्यश्च पूज्यश्च भूयो मम बृहस्पतिः\n",
+      "ur": "tathā mānyaś ca pūjyaś ca bhūyo mama br̥haspatiḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 3
+  },
+  "01072004a": {
+    "text": {
+      "ascii": "evaM jJAtvA vijAnIhi yad bravImi tapodhana\n",
+      "ud": "एवं ज्ञात्वा विजानीहि यद्ब्रवीमि तपोधन\n",
+      "ur": "evaṁ jñātvā vijānīhi yad bravīmi tapodhana\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 4
+  },
+  "01072004c": {
+    "text": {
+      "ascii": "vratasthe niyamopete yathA vartAmy ahaM tvayi\n",
+      "ud": "व्रतस्थे नियमोपेते यथा वर्ताम्यहं त्वयि\n",
+      "ur": "vratasthe niyamopete yathā vartāmy ahaṁ tvayi\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 4
+  },
+  "01072005a": {
+    "text": {
+      "ascii": "sa samAvRttavidyo mAM bhaktAM bhajitum arhasi\n",
+      "ud": "स समावृत्तविद्यो मां भक्तां भजितुमर्हसि\n",
+      "ur": "sa samāvr̥ttavidyo māṁ bhaktāṁ bhajitum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 5
+  },
+  "01072005c": {
+    "text": {
+      "ascii": "gRhANa pANiM vidhivan mama mantrapuraskRtam\n",
+      "ud": "गृहाण पाणिं विधिवन्मम मन्त्रपुरस्कृतम्\n",
+      "ur": "gr̥hāṇa pāṇiṁ vidhivan mama mantrapuraskr̥tam\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 5
+  },
+  "01072006": {
+    "text": {
+      "ascii": "kaca uvAca\n",
+      "ud": "कच उवाच\n",
+      "ur": "kaca uvāca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 6
+  },
+  "01072006a": {
+    "text": {
+      "ascii": "pUjyo mAnyaz ca bhagavAn yathA tava pitA mama\n",
+      "ud": "पूज्यो मान्यश्च भगवान्यथा तव पिता मम\n",
+      "ur": "pūjyo mānyaś ca bhagavān yathā tava pitā mama\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 6
+  },
+  "01072006c": {
+    "text": {
+      "ascii": "tathA tvam anavadyAGgi pUjanIyatarA mama\n",
+      "ud": "तथा त्वमनवद्याङ्गि पूजनीयतरा मम\n",
+      "ur": "tathā tvam anavadyāṅgi pūjanīyatarā mama\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 6
+  },
+  "01072007a": {
+    "text": {
+      "ascii": "AtmaprANaiH priyatamA bhArgavasya mahAtmanaH\n",
+      "ud": "आत्मप्राणैः प्रियतमा भार्गवस्य महात्मनः\n",
+      "ur": "ātmaprāṇaiḥ priyatamā bhārgavasya mahātmanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 7
+  },
+  "01072007c": {
+    "text": {
+      "ascii": "tvaM bhadre dharmataH pUjyA guruputrI sadA mama\n",
+      "ud": "त्वं भद्रे धर्मतः पूज्या गुरुपुत्री सदा मम\n",
+      "ur": "tvaṁ bhadre dharmataḥ pūjyā guruputrī sadā mama\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 7
+  },
+  "01072008a": {
+    "text": {
+      "ascii": "yathA mama gurur nityaM mAnyaH zukraH pitA tava\n",
+      "ud": "यथा मम गुरुर्नित्यं मान्यः शुक्रः पिता तव\n",
+      "ur": "yathā mama gurur nityaṁ mānyaḥ śukraḥ pitā tava\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 8
+  },
+  "01072008c": {
+    "text": {
+      "ascii": "devayAni tathaiva tvaM naivaM mAM vaktum arhasi\n",
+      "ud": "देवयानि तथैव त्वं नैवं मां वक्तुमर्हसि\n",
+      "ur": "devayāni tathaiva tvaṁ naivaṁ māṁ vaktum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 8
+  },
+  "01072009": {
+    "text": {
+      "ascii": "devayAny uvAca\n",
+      "ud": "देवयान्युवाच\n",
+      "ur": "devayāny uvāca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 9
+  },
+  "01072009a": {
+    "text": {
+      "ascii": "guruputrasya putro vai na tu tvam asi me pituH\n",
+      "ud": "गुरुपुत्रस्य पुत्रो वै न तु त्वमसि मे पितुः\n",
+      "ur": "guruputrasya putro vai na tu tvam asi me pituḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 9
+  },
+  "01072009c": {
+    "text": {
+      "ascii": "tasmAn mAnyaz ca pUjyaz ca mamApi tvaM dvijottama\n",
+      "ud": "तस्मान्मान्यश्च पूज्यश्च ममापि त्वं द्विजोत्तम\n",
+      "ur": "tasmān mānyaś ca pūjyaś ca mamāpi tvaṁ dvijottama\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 9
+  },
+  "01072010a": {
+    "text": {
+      "ascii": "asurair hanyamAne ca kaca tvayi punaH punaH\n",
+      "ud": "असुरैर्हन्यमाने च कच त्वयि पुनः पुनः\n",
+      "ur": "asurair hanyamāne ca kaca tvayi punaḥ punaḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 10
+  },
+  "01072010c": {
+    "text": {
+      "ascii": "tadA prabhRti yA prItis tAM tvam eva smarasva me\n",
+      "ud": "तदा प्रभृति या प्रीतिस्तां त्वमेव स्मरस्व मे\n",
+      "ur": "tadā prabhr̥ti yā prītis tāṁ tvam eva smarasva me\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 10
+  },
+  "01072011a": {
+    "text": {
+      "ascii": "sauhArde cAnurAge ca vettha me bhaktim uttamAm\n",
+      "ud": "सौहार्दे चानुरागे च वेत्थ मे भक्तिमुत्तमाम्\n",
+      "ur": "sauhārde cānurāge ca vettha me bhaktim uttamām\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 11
+  },
+  "01072011c": {
+    "text": {
+      "ascii": "na mAm arhasi dharmajJa tyaktuM bhaktAm anAgasam\n",
+      "ud": "न मामर्हसि धर्मज्ञ त्यक्तुं भक्तामनागसम्\n",
+      "ur": "na mām arhasi dharmajña tyaktuṁ bhaktām anāgasam\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 11
+  },
+  "01072012": {
+    "text": {
+      "ascii": "kaca uvAca\n",
+      "ud": "कच उवाच\n",
+      "ur": "kaca uvāca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 12
+  },
+  "01072012a": {
+    "text": {
+      "ascii": "aniyojye niyoge mAM niyunakSi zubhavrate\n",
+      "ud": "अनियोज्ये नियोगे मां नियुनक्षि शुभव्रते\n",
+      "ur": "aniyojye niyoge māṁ niyunakṣi śubhavrate\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 12
+  },
+  "01072012c": {
+    "text": {
+      "ascii": "prasIda subhru tvaM mahyaM guror gurutarI zubhe\n",
+      "ud": "प्रसीद सुभ्रु त्वं मह्यं गुरोर्गुरुतरी शुभे\n",
+      "ur": "prasīda subhru tvaṁ mahyaṁ guror gurutarī śubhe\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 12
+  },
+  "01072013a": {
+    "text": {
+      "ascii": "yatroSitaM vizAlAkSi tvayA candranibhAnane\n",
+      "ud": "यत्रोषितं विशालाक्षि त्वया चन्द्रनिभानने\n",
+      "ur": "yatroṣitaṁ viśālākṣi tvayā candranibhānane\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 13
+  },
+  "01072013c": {
+    "text": {
+      "ascii": "tatrAham uSito bhadre kukSau kAvyasya bhAmini\n",
+      "ud": "तत्राहमुषितो भद्रे कुक्षौ काव्यस्य भामिनि\n",
+      "ur": "tatrāham uṣito bhadre kukṣau kāvyasya bhāmini\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 13
+  },
+  "01072014a": {
+    "text": {
+      "ascii": "bhaginI dharmato me tvaM maivaM vocaH zubhAnane\n",
+      "ud": "भगिनी धर्मतो मे त्वं मैवं वोचः शुभानने\n",
+      "ur": "bhaginī dharmato me tvaṁ maivaṁ vocaḥ śubhānane\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 14
+  },
+  "01072014c": {
+    "text": {
+      "ascii": "sukham asmy uSito bhadre na manyur vidyate mama\n",
+      "ud": "सुखमस्म्युषितो भद्रे न मन्युर्विद्यते मम\n",
+      "ur": "sukham asmy uṣito bhadre na manyur vidyate mama\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 14
+  },
+  "01072015a": {
+    "text": {
+      "ascii": "ApRcche tvAM gamiSyAmi zivam AzaMsa me pathi\n",
+      "ud": "आपृच्छे त्वां गमिष्यामि शिवमाशंस मे पथि\n",
+      "ur": "āpr̥cche tvāṁ gamiṣyāmi śivam āśaṁsa me pathi\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 15
+  },
+  "01072015c": {
+    "text": {
+      "ascii": "avirodhena dharmasya smartavyo 'smi kathAntare\n",
+      "ud": "अविरोधेन धर्मस्य स्मर्तव्योऽस्मि कथान्तरे\n",
+      "ur": "avirodhena dharmasya smartavyo ’smi kathāntare\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 15
+  },
+  "01072015e": {
+    "text": {
+      "ascii": "apramattotthitA nityam ArAdhaya guruM mama\n",
+      "ud": "अप्रमत्तोत्थिता नित्यमाराधय गुरुं मम\n",
+      "ur": "apramattotthitā nityam ārādhaya guruṁ mama\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 15
+  },
+  "01072016": {
+    "text": {
+      "ascii": "devayAny uvAca\n",
+      "ud": "देवयान्युवाच\n",
+      "ur": "devayāny uvāca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 16
+  },
+  "01072016a": {
+    "text": {
+      "ascii": "yadi mAM dharmakAmArthe pratyAkhyAsyasi coditaH\n",
+      "ud": "यदि मां धर्मकामार्थे प्रत्याख्यास्यसि चोदितः\n",
+      "ur": "yadi māṁ dharmakāmārthe pratyākhyāsyasi coditaḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 16
+  },
+  "01072016c": {
+    "text": {
+      "ascii": "tataH kaca na te vidyA siddhim eSA gamiSyati\n",
+      "ud": "ततः कच न ते विद्या सिद्धिमेषा गमिष्यति\n",
+      "ur": "tataḥ kaca na te vidyā siddhim eṣā gamiṣyati\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 16
+  },
+  "01072017": {
+    "text": {
+      "ascii": "kaca uvAca\n",
+      "ud": "कच उवाच\n",
+      "ur": "kaca uvāca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 17
+  },
+  "01072017a": {
+    "text": {
+      "ascii": "guruputrIti kRtvAhaM pratyAcakSe na doSataH\n",
+      "ud": "गुरुपुत्रीति कृत्वाहं प्रत्याचक्षे न दोषतः\n",
+      "ur": "guruputrīti kr̥tvāhaṁ pratyācakṣe na doṣataḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 17
+  },
+  "01072017c": {
+    "text": {
+      "ascii": "guruNA cAbhyanujJAtaH kAmam evaM zapasva mAm\n",
+      "ud": "गुरुणा चाभ्यनुज्ञातः काममेवं शपस्व माम्\n",
+      "ur": "guruṇā cābhyanujñātaḥ kāmam evaṁ śapasva mām\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 17
+  },
+  "01072018a": {
+    "text": {
+      "ascii": "ArSaM dharmaM bruvANo 'haM devayAni yathA tvayA\n",
+      "ud": "आर्षं धर्मं ब्रुवाणोऽहं देवयानि यथा त्वया\n",
+      "ur": "ārṣaṁ dharmaṁ bruvāṇo ’haṁ devayāni yathā tvayā\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 18
+  },
+  "01072018c": {
+    "text": {
+      "ascii": "zapto nArho 'smi zApasya kAmato 'dya na dharmataH\n",
+      "ud": "शप्तो नार्होऽस्मि शापस्य कामतोऽद्य न धर्मतः\n",
+      "ur": "śapto nārho ’smi śāpasya kāmato ’dya na dharmataḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 18
+  },
+  "01072019a": {
+    "text": {
+      "ascii": "tasmAd bhavatyA yaH kAmo na tathA sa bhaviSyati\n",
+      "ud": "तस्माद्भवत्या यः कामो न तथा स भविष्यति\n",
+      "ur": "tasmād bhavatyā yaḥ kāmo na tathā sa bhaviṣyati\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 19
+  },
+  "01072019c": {
+    "text": {
+      "ascii": "RSiputro na te kaz cij jAtu pANiM grahISyati\n",
+      "ud": "ऋषिपुत्रो न ते कश्चिज्जातु पाणिं ग्रहीष्यति\n",
+      "ur": "r̥ṣiputro na te kaś cij jātu pāṇiṁ grahīṣyati\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 19
+  },
+  "01072020a": {
+    "text": {
+      "ascii": "phaliSyati na te vidyA yat tvaM mAm Attha tat tathA\n",
+      "ud": "फलिष्यति न ते विद्या यत्त्वं मामात्थ तत्तथा\n",
+      "ur": "phaliṣyati na te vidyā yat tvaṁ mām āttha tat tathā\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 20
+  },
+  "01072020c": {
+    "text": {
+      "ascii": "adhyApayiSyAmi tu yaM tasya vidyA phaliSyati\n",
+      "ud": "अध्यापयिष्यामि तु यं तस्य विद्या फलिष्यति\n",
+      "ur": "adhyāpayiṣyāmi tu yaṁ tasya vidyā phaliṣyati\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 20
+  },
+  "01072021": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 21
+  },
+  "01072021a": {
+    "text": {
+      "ascii": "evam uktvA dvijazreSTho devayAnIM kacas tadA\n",
+      "ud": "एवमुक्त्वा द्विजश्रेष्ठो देवयानीं कचस्तदा\n",
+      "ur": "evam uktvā dvijaśreṣṭho devayānīṁ kacas tadā\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 21
+  },
+  "01072021c": {
+    "text": {
+      "ascii": "tridazezAlayaM zIghraM jagAma dvijasattamaH\n",
+      "ud": "त्रिदशेशालयं शीघ्रं जगाम द्विजसत्तमः\n",
+      "ur": "tridaśeśālayaṁ śīghraṁ jagāma dvijasattamaḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 21
+  },
+  "01072022a": {
+    "text": {
+      "ascii": "tam Agatam abhiprekSya devA indrapurogamAH\n",
+      "ud": "तमागतमभिप्रेक्ष्य देवा इन्द्रपुरोगमाः\n",
+      "ur": "tam āgatam abhiprekṣya devā indrapurogamāḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 22
+  },
+  "01072022c": {
+    "text": {
+      "ascii": "bRhaspatiM sabhAjyedaM kacam Ahur mudAnvitAH\n",
+      "ud": "बृहस्पतिं सभाज्येदं कचमाहुर्मुदान्विताः\n",
+      "ur": "br̥haspatiṁ sabhājyedaṁ kacam āhur mudānvitāḥ\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 22
+  },
+  "01072023a": {
+    "text": {
+      "ascii": "yat tvam asmaddhitaM karma cakartha paramAdbhutam\n",
+      "ud": "यत्त्वमस्मद्धितं कर्म चकर्थ परमाद्भुतम्\n",
+      "ur": "yat tvam asmaddhitaṁ karma cakartha paramādbhutam\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 23
+  },
+  "01072023c": {
+    "text": {
+      "ascii": "na te yazaH praNazitA bhAgabhAG no bhaviSyasi\n",
+      "ud": "न ते यशः प्रणशिता भागभाङ्नो भविष्यसि\n",
+      "ur": "na te yaśaḥ praṇaśitā bhāgabhāṅ no bhaviṣyasi\n"
+    },
+    "book": 1,
+    "chapter": 72,
+    "verse": 23
+  }
+}

@@ -1,0 +1,1932 @@
+{
+  "01090001": {
+    "text": {
+      "ascii": "janamejaya uvAca\n",
+      "ud": "जनमेजय उवाच\n",
+      "ur": "janamejaya uvāca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 1
+  },
+  "01090001a": {
+    "text": {
+      "ascii": "zrutas tvatto mayA vipra pUrveSAM saMbhavo mahAn\n",
+      "ud": "श्रुतस्त्वत्तो मया विप्र पूर्वेषां संभवो महान्\n",
+      "ur": "śrutas tvatto mayā vipra pūrveṣāṁ saṁbhavo mahān\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 1
+  },
+  "01090001c": {
+    "text": {
+      "ascii": "udArAz cApi vaMze 'smin rAjAno me parizrutAH\n",
+      "ud": "उदाराश्चापि वंशेऽस्मिन्राजानो मे परिश्रुताः\n",
+      "ur": "udārāś cāpi vaṁśe ’smin rājāno me pariśrutāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 1
+  },
+  "01090002a": {
+    "text": {
+      "ascii": "kiM tu laghvarthasaMyuktaM priyAkhyAnaM na mAm ati\n",
+      "ud": "किं तु लघ्वर्थसंयुक्तं प्रियाख्यानं न मामति\n",
+      "ur": "kiṁ tu laghvarthasaṁyuktaṁ priyākhyānaṁ na mām ati\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 2
+  },
+  "01090002c": {
+    "text": {
+      "ascii": "prINAty ato bhavAn bhUyo vistareNa bravItu me\n",
+      "ud": "प्रीणात्यतो भवान्भूयो विस्तरेण ब्रवीतु मे\n",
+      "ur": "prīṇāty ato bhavān bhūyo vistareṇa bravītu me\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 2
+  },
+  "01090003a": {
+    "text": {
+      "ascii": "etAm eva kathAM divyAm A prajApatito manoH\n",
+      "ud": "एतामेव कथां दिव्यामा प्रजापतितो मनोः\n",
+      "ur": "etām eva kathāṁ divyām ā prajāpatito manoḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 3
+  },
+  "01090003c": {
+    "text": {
+      "ascii": "teSAm AjananaM puNyaM kasya na prItim Avahet\n",
+      "ud": "तेषामाजननं पुण्यं कस्य न प्रीतिमावहेत्\n",
+      "ur": "teṣām ājananaṁ puṇyaṁ kasya na prītim āvahet\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 3
+  },
+  "01090004a": {
+    "text": {
+      "ascii": "saddharmaguNamAhAtmyair abhivardhitam uttamam\n",
+      "ud": "सद्धर्मगुणमाहात्म्यैरभिवर्धितमुत्तमम्\n",
+      "ur": "saddharmaguṇamāhātmyair abhivardhitam uttamam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 4
+  },
+  "01090004c": {
+    "text": {
+      "ascii": "viSTabhya lokAMs trIn eSAM yazaH sphItam avasthitam\n",
+      "ud": "विष्टभ्य लोकांस्त्रीनेषां यशः स्फीतमवस्थितम्\n",
+      "ur": "viṣṭabhya lokāṁs trīn eṣāṁ yaśaḥ sphītam avasthitam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 4
+  },
+  "01090005a": {
+    "text": {
+      "ascii": "guNaprabhAvavIryaujaHsattvotsAhavatAm aham\n",
+      "ud": "गुणप्रभाववीर्यौजःसत्त्वोत्साहवतामहम्\n",
+      "ur": "guṇaprabhāvavīryaujaḥsattvotsāhavatām aham\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 5
+  },
+  "01090005c": {
+    "text": {
+      "ascii": "na tRpyAmi kathAM zRNvann amRtAsvAdasaMmitAm\n",
+      "ud": "न तृप्यामि कथां शृण्वन्नमृतास्वादसंमिताम्\n",
+      "ur": "na tr̥pyāmi kathāṁ śr̥ṇvann amr̥tāsvādasaṁmitām\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 5
+  },
+  "01090006": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 6
+  },
+  "01090006a": {
+    "text": {
+      "ascii": "zRNu rAjan purA samyaG mayA dvaipAyanAc chrutam\n",
+      "ud": "शृणु राजन्पुरा सम्यङ्मया द्वैपायनाच्छ्रुतम्\n",
+      "ur": "śr̥ṇu rājan purā samyaṅ mayā dvaipāyanāc chrutam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 6
+  },
+  "01090006c": {
+    "text": {
+      "ascii": "procyamAnam idaM kRtsnaM svavaMzajananaM zubham\n",
+      "ud": "प्रोच्यमानमिदं कृत्स्नं स्ववंशजननं शुभम्\n",
+      "ur": "procyamānam idaṁ kr̥tsnaṁ svavaṁśajananaṁ śubham\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 6
+  },
+  "01090007A": {
+    "text": {
+      "ascii": "dakSasyAditiH\n",
+      "ud": "दक्षस्यादितिः\n",
+      "ur": "dakṣasyāditiḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090007B": {
+    "text": {
+      "ascii": "aditer vivasvAn\n",
+      "ud": "अदितेर्विवस्वान्\n",
+      "ur": "aditer vivasvān\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090007C": {
+    "text": {
+      "ascii": "vivasvato manuH\n",
+      "ud": "विवस्वतो मनुः\n",
+      "ur": "vivasvato manuḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090007D": {
+    "text": {
+      "ascii": "manor ilA\n",
+      "ud": "मनोरिला\n",
+      "ur": "manor ilā\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090007E": {
+    "text": {
+      "ascii": "ilAyAH purUravAH\n",
+      "ud": "इलायाः पुरूरवाः\n",
+      "ur": "ilāyāḥ purūravāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090007F": {
+    "text": {
+      "ascii": "purUravasa AyuH\n",
+      "ud": "पुरूरवस आयुः\n",
+      "ur": "purūravasa āyuḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090007G": {
+    "text": {
+      "ascii": "AyuSo nahuSaH\n",
+      "ud": "आयुषो नहुषः\n",
+      "ur": "āyuṣo nahuṣaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090007H": {
+    "text": {
+      "ascii": "nahuSasya yayAtiH\n",
+      "ud": "नहुषस्य ययातिः\n",
+      "ur": "nahuṣasya yayātiḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 7
+  },
+  "01090008A": {
+    "text": {
+      "ascii": "yayAter dve bhArye babhUvatuH\n",
+      "ud": "ययातेर्द्वे भार्ये बभूवतुः\n",
+      "ur": "yayāter dve bhārye babhūvatuḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 8
+  },
+  "01090008B": {
+    "text": {
+      "ascii": "uzanaso duhitA devayAnI vRSaparvaNaz ca duhitA zarmiSThA nAma\n",
+      "ud": "उशनसो दुहिता देवयानी वृषपर्वणश्च दुहिता शर्मिष्ठा नाम\n",
+      "ur": "uśanaso duhitā devayānī vr̥ṣaparvaṇaś ca duhitā śarmiṣṭhā nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 8
+  },
+  "01090008C": {
+    "text": {
+      "ascii": "atrAnuvaMzo bhavati\n",
+      "ud": "अत्रानुवंशो भवति\n",
+      "ur": "atrānuvaṁśo bhavati\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 8
+  },
+  "01090009a": {
+    "text": {
+      "ascii": "yaduM ca turvasuM caiva devayAnI vyajAyata\n",
+      "ud": "यदुं च तुर्वसुं चैव देवयानी व्यजायत\n",
+      "ur": "yaduṁ ca turvasuṁ caiva devayānī vyajāyata\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 9
+  },
+  "01090009c": {
+    "text": {
+      "ascii": "druhyuM cAnuM ca pUruM ca zarmiSThA vArSaparvaNI\n",
+      "ud": "द्रुह्युं चानुं च पूरुं च शर्मिष्ठा वार्षपर्वणी\n",
+      "ur": "druhyuṁ cānuṁ ca pūruṁ ca śarmiṣṭhā vārṣaparvaṇī\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 9
+  },
+  "01090010A": {
+    "text": {
+      "ascii": "tatra yador yAdavAH\n",
+      "ud": "तत्र यदोर्यादवाः\n",
+      "ur": "tatra yador yādavāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 10
+  },
+  "01090010B": {
+    "text": {
+      "ascii": "pUroH pauravAH\n",
+      "ud": "पूरोः पौरवाः\n",
+      "ur": "pūroḥ pauravāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 10
+  },
+  "01090011A": {
+    "text": {
+      "ascii": "pUror bhAryA kausalyA nAma\n",
+      "ud": "पूरोर्भार्या कौसल्या नाम\n",
+      "ur": "pūror bhāryā kausalyā nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 11
+  },
+  "01090011B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe janamejayo nAma\n",
+      "ud": "तस्यामस्य जज्ञे जनमेजयो नाम\n",
+      "ur": "tasyām asya jajñe janamejayo nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 11
+  },
+  "01090011C": {
+    "text": {
+      "ascii": "yas trIn azvamedhAn AjahAra\n",
+      "ud": "यस्त्रीनश्वमेधानाजहार\n",
+      "ur": "yas trīn aśvamedhān ājahāra\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 11
+  },
+  "01090011D": {
+    "text": {
+      "ascii": "vizvajitA ceSTvA vanaM praviveza\n",
+      "ud": "विश्वजिता चेष्ट्वा वनं प्रविवेश\n",
+      "ur": "viśvajitā ceṣṭvā vanaṁ praviveśa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 11
+  },
+  "01090012A": {
+    "text": {
+      "ascii": "janamejayaH khalv anantAM nAmopayeme mAdhavIm\n",
+      "ud": "जनमेजयः खल्वनन्तां नामोपयेमे माधवीम्\n",
+      "ur": "janamejayaḥ khalv anantāṁ nāmopayeme mādhavīm\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 12
+  },
+  "01090012B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe prAcinvAn\n",
+      "ud": "तस्यामस्य जज्ञे प्राचिन्वान्\n",
+      "ur": "tasyām asya jajñe prācinvān\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 12
+  },
+  "01090012C": {
+    "text": {
+      "ascii": "yaH prAcIM dizaM jigAya yAvat sUryodayAt\n",
+      "ud": "यः प्राचीं दिशं जिगाय यावत्सूर्योदयात्\n",
+      "ur": "yaḥ prācīṁ diśaṁ jigāya yāvat sūryodayāt\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 12
+  },
+  "01090012D": {
+    "text": {
+      "ascii": "tatas tasya prAcinvatvam\n",
+      "ud": "ततस्तस्य प्राचिन्वत्वम्\n",
+      "ur": "tatas tasya prācinvatvam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 12
+  },
+  "01090013A": {
+    "text": {
+      "ascii": "prAcinvAn khalv azmakIm upayeme\n",
+      "ud": "प्राचिन्वान्खल्वश्मकीमुपयेमे\n",
+      "ur": "prācinvān khalv aśmakīm upayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 13
+  },
+  "01090013B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe saMyAtiH\n",
+      "ud": "तस्यामस्य जज्ञे संयातिः\n",
+      "ur": "tasyām asya jajñe saṁyātiḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 13
+  },
+  "01090014A": {
+    "text": {
+      "ascii": "saMyAtiH khalu dRSadvato duhitaraM varAGgIM nAmopayeme\n",
+      "ud": "संयातिः खलु दृषद्वतो दुहितरं वराङ्गीं नामोपयेमे\n",
+      "ur": "saṁyātiḥ khalu dr̥ṣadvato duhitaraṁ varāṅgīṁ nāmopayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 14
+  },
+  "01090014B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe ahaMpAtiH\n",
+      "ud": "तस्यामस्य जज्ञे अहंपातिः\n",
+      "ur": "tasyām asya jajñe ahaṁpātiḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 14
+  },
+  "01090015A": {
+    "text": {
+      "ascii": "ahaMpAtis tu khalu kRtavIryaduhitaram upayeme bhAnumatIM nAma\n",
+      "ud": "अहंपातिस्तु खलु कृतवीर्यदुहितरमुपयेमे भानुमतीं नाम\n",
+      "ur": "ahaṁpātis tu khalu kr̥tavīryaduhitaram upayeme bhānumatīṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 15
+  },
+  "01090015B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe sArvabhaumaH\n",
+      "ud": "तस्यामस्य जज्ञे सार्वभौमः\n",
+      "ur": "tasyām asya jajñe sārvabhaumaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 15
+  },
+  "01090016A": {
+    "text": {
+      "ascii": "sArvabhaumaH khalu jitvAjahAra kaikeyIM sunandAM nAma\n",
+      "ud": "सार्वभौमः खलु जित्वाजहार कैकेयीं सुनन्दां नाम\n",
+      "ur": "sārvabhaumaḥ khalu jitvājahāra kaikeyīṁ sunandāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 16
+  },
+  "01090016B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe jayatsenaH\n",
+      "ud": "तस्यामस्य जज्ञे जयत्सेनः\n",
+      "ur": "tasyām asya jajñe jayatsenaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 16
+  },
+  "01090017A": {
+    "text": {
+      "ascii": "jayatsenaH khalu vaidarbhIm upayeme suSuvAM nAma\n",
+      "ud": "जयत्सेनः खलु वैदर्भीमुपयेमे सुषुवां नाम\n",
+      "ur": "jayatsenaḥ khalu vaidarbhīm upayeme suṣuvāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 17
+  },
+  "01090017B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe arAcInaH\n",
+      "ud": "तस्यामस्य जज्ञे अराचीनः\n",
+      "ur": "tasyām asya jajñe arācīnaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 17
+  },
+  "01090018A": {
+    "text": {
+      "ascii": "arAcIno 'pi vaidarbhIm evAparAm upayeme maryAdAM nAma\n",
+      "ud": "अराचीनोऽपि वैदर्भीमेवापरामुपयेमे मर्यादां नाम\n",
+      "ur": "arācīno ’pi vaidarbhīm evāparām upayeme maryādāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 18
+  },
+  "01090018B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe mahAbhaumaH\n",
+      "ud": "तस्यामस्य जज्ञे महाभौमः\n",
+      "ur": "tasyām asya jajñe mahābhaumaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 18
+  },
+  "01090019A": {
+    "text": {
+      "ascii": "mahAbhaumaH khalu prAsenajitIm upayeme suyajJAM nAma\n",
+      "ud": "महाभौमः खलु प्रासेनजितीमुपयेमे सुयज्ञां नाम\n",
+      "ur": "mahābhaumaḥ khalu prāsenajitīm upayeme suyajñāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 19
+  },
+  "01090019B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe ayutanAyI\n",
+      "ud": "तस्यामस्य जज्ञे अयुतनायी\n",
+      "ur": "tasyām asya jajñe ayutanāyī\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 19
+  },
+  "01090019C": {
+    "text": {
+      "ascii": "yaH puruSamedhAnAm ayutam Anayat\n",
+      "ud": "यः पुरुषमेधानामयुतमानयत्\n",
+      "ur": "yaḥ puruṣamedhānām ayutam ānayat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 19
+  },
+  "01090019D": {
+    "text": {
+      "ascii": "tad asyAyutanAyitvam\n",
+      "ud": "तदस्यायुतनायित्वम्\n",
+      "ur": "tad asyāyutanāyitvam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 19
+  },
+  "01090020A": {
+    "text": {
+      "ascii": "ayutanAyI khalu pRthuzravaso duhitaram upayeme bhAsAM nAma\n",
+      "ud": "अयुतनायी खलु पृथुश्रवसो दुहितरमुपयेमे भासां नाम\n",
+      "ur": "ayutanāyī khalu pr̥thuśravaso duhitaram upayeme bhāsāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 20
+  },
+  "01090020B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe akrodhanaH\n",
+      "ud": "तस्यामस्य जज्ञे अक्रोधनः\n",
+      "ur": "tasyām asya jajñe akrodhanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 20
+  },
+  "01090021A": {
+    "text": {
+      "ascii": "akrodhanaH khalu kAliGgIM karaNDuM nAmopayeme\n",
+      "ud": "अक्रोधनः खलु कालिङ्गीं करण्डुं नामोपयेमे\n",
+      "ur": "akrodhanaḥ khalu kāliṅgīṁ karaṇḍuṁ nāmopayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 21
+  },
+  "01090021B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe devAtithiH\n",
+      "ud": "तस्यामस्य जज्ञे देवातिथिः\n",
+      "ur": "tasyām asya jajñe devātithiḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 21
+  },
+  "01090022A": {
+    "text": {
+      "ascii": "devAtithiH khalu vaidehIm upayeme maryAdAM nAma\n",
+      "ud": "देवातिथिः खलु वैदेहीमुपयेमे मर्यादां नाम\n",
+      "ur": "devātithiḥ khalu vaidehīm upayeme maryādāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 22
+  },
+  "01090022B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe RcaH\n",
+      "ud": "तस्यामस्य जज्ञे ऋचः\n",
+      "ur": "tasyām asya jajñe r̥caḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 22
+  },
+  "01090023A": {
+    "text": {
+      "ascii": "RcaH khalv AGgeyIm upayeme sudevAM nAma\n",
+      "ud": "ऋचः खल्वाङ्गेयीमुपयेमे सुदेवां नाम\n",
+      "ur": "r̥caḥ khalv āṅgeyīm upayeme sudevāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 23
+  },
+  "01090023B": {
+    "text": {
+      "ascii": "tasyAM putram ajanayad RkSam\n",
+      "ud": "तस्यां पुत्रमजनयदृक्षम्\n",
+      "ur": "tasyāṁ putram ajanayad r̥kṣam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 23
+  },
+  "01090024A": {
+    "text": {
+      "ascii": "RkSaH khalu takSakaduhitaram upayeme jvAlAM nAma\n",
+      "ud": "ऋक्षः खलु तक्षकदुहितरमुपयेमे ज्वालां नाम\n",
+      "ur": "r̥kṣaḥ khalu takṣakaduhitaram upayeme jvālāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 24
+  },
+  "01090024B": {
+    "text": {
+      "ascii": "tasyAM putraM matinAraM nAmotpAdayAm Asa\n",
+      "ud": "तस्यां पुत्रं मतिनारं नामोत्पादयामास\n",
+      "ur": "tasyāṁ putraṁ matināraṁ nāmotpādayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 24
+  },
+  "01090025A": {
+    "text": {
+      "ascii": "matinAraH khalu sarasvatyAM dvAdazavArSikaM satram AjahAra\n",
+      "ud": "मतिनारः खलु सरस्वत्यां द्वादशवार्षिकं सत्रमाजहार\n",
+      "ur": "matināraḥ khalu sarasvatyāṁ dvādaśavārṣikaṁ satram ājahāra\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 25
+  },
+  "01090026A": {
+    "text": {
+      "ascii": "nivRtte ca satre sarasvaty abhigamya taM bhartAraM varayAm Asa\n",
+      "ud": "निवृत्ते च सत्रे सरस्वत्यभिगम्य तं भर्तारं वरयामास\n",
+      "ur": "nivr̥tte ca satre sarasvaty abhigamya taṁ bhartāraṁ varayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 26
+  },
+  "01090026B": {
+    "text": {
+      "ascii": "tasyAM putram ajanayat taMsuM nAma\n",
+      "ud": "तस्यां पुत्रमजनयत्तंसुं नाम\n",
+      "ur": "tasyāṁ putram ajanayat taṁsuṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 26
+  },
+  "01090027A": {
+    "text": {
+      "ascii": "atrAnuvaMzo bhavati\n",
+      "ud": "अत्रानुवंशो भवति\n",
+      "ur": "atrānuvaṁśo bhavati\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 27
+  },
+  "01090028a": {
+    "text": {
+      "ascii": "taMsuM sarasvatI putraM matinArAd ajIjanat\n",
+      "ud": "तंसुं सरस्वती पुत्रं मतिनारादजीजनत्\n",
+      "ur": "taṁsuṁ sarasvatī putraṁ matinārād ajījanat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 28
+  },
+  "01090028c": {
+    "text": {
+      "ascii": "ilinaM janayAm Asa kAlindyAM taMsur Atmajam\n",
+      "ud": "इलिनं जनयामास कालिन्द्यां तंसुरात्मजम्\n",
+      "ur": "ilinaṁ janayām āsa kālindyāṁ taṁsur ātmajam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 28
+  },
+  "01090029A": {
+    "text": {
+      "ascii": "ilinas tu rathaMtaryAM duHSantAdyAn paJca putrAn ajanayat\n",
+      "ud": "इलिनस्तु रथंतर्यां दुःषन्ताद्यान्पञ्च पुत्रानजनयत्\n",
+      "ur": "ilinas tu rathaṁtaryāṁ duḥṣantādyān pañca putrān ajanayat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 29
+  },
+  "01090030A": {
+    "text": {
+      "ascii": "duHSantaH khalu vizvAmitraduhitaraM zakuntalAM nAmopayeme\n",
+      "ud": "दुःषन्तः खलु विश्वामित्रदुहितरं शकुन्तलां नामोपयेमे\n",
+      "ur": "duḥṣantaḥ khalu viśvāmitraduhitaraṁ śakuntalāṁ nāmopayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 30
+  },
+  "01090030B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe bharataH\n",
+      "ud": "तस्यामस्य जज्ञे भरतः\n",
+      "ur": "tasyām asya jajñe bharataḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 30
+  },
+  "01090030C": {
+    "text": {
+      "ascii": "tatra zlokau bhavataH\n",
+      "ud": "तत्र श्लोकौ भवतः\n",
+      "ur": "tatra ślokau bhavataḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 30
+  },
+  "01090031a": {
+    "text": {
+      "ascii": "mAtA bhastrA pituH putro yena jAtaH sa eva saH\n",
+      "ud": "माता भस्त्रा पितुः पुत्रो येन जातः स एव सः\n",
+      "ur": "mātā bhastrā pituḥ putro yena jātaḥ sa eva saḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 31
+  },
+  "01090031c": {
+    "text": {
+      "ascii": "bharasva putraM duHSanta mAvamaMsthAH zakuntalAm\n",
+      "ud": "भरस्व पुत्रं दुःषन्त मावमंस्थाः शकुन्तलाम्\n",
+      "ur": "bharasva putraṁ duḥṣanta māvamaṁsthāḥ śakuntalām\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 31
+  },
+  "01090032a": {
+    "text": {
+      "ascii": "retodhAH putra unnayati naradeva yamakSayAt\n",
+      "ud": "रेतोधाः पुत्र उन्नयति नरदेव यमक्षयात्\n",
+      "ur": "retodhāḥ putra unnayati naradeva yamakṣayāt\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 32
+  },
+  "01090032c": {
+    "text": {
+      "ascii": "tvaM cAsya dhAtA garbhasya satyam Aha zakuntalA\n",
+      "ud": "त्वं चास्य धाता गर्भस्य सत्यमाह शकुन्तला\n",
+      "ur": "tvaṁ cāsya dhātā garbhasya satyam āha śakuntalā\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 32
+  },
+  "01090033A": {
+    "text": {
+      "ascii": "tato 'sya bharatatvam\n",
+      "ud": "ततोऽस्य भरतत्वम्\n",
+      "ur": "tato ’sya bharatatvam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 33
+  },
+  "01090034A": {
+    "text": {
+      "ascii": "bharataH khalu kAzeyIm upayeme sArvasenIM sunandAM nAma\n",
+      "ud": "भरतः खलु काशेयीमुपयेमे सार्वसेनीं सुनन्दां नाम\n",
+      "ur": "bharataḥ khalu kāśeyīm upayeme sārvasenīṁ sunandāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 34
+  },
+  "01090034B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe bhumanyuH\n",
+      "ud": "तस्यामस्य जज्ञे भुमन्युः\n",
+      "ur": "tasyām asya jajñe bhumanyuḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 34
+  },
+  "01090035A": {
+    "text": {
+      "ascii": "bhumanyuH khalu dAzArhIm upayeme jayAM nAma\n",
+      "ud": "भुमन्युः खलु दाशार्हीमुपयेमे जयां नाम\n",
+      "ur": "bhumanyuḥ khalu dāśārhīm upayeme jayāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 35
+  },
+  "01090035B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe suhotraH\n",
+      "ud": "तस्यामस्य जज्ञे सुहोत्रः\n",
+      "ur": "tasyām asya jajñe suhotraḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 35
+  },
+  "01090036A": {
+    "text": {
+      "ascii": "suhotraH khalv ikSvAkukanyAm upayeme suvarNAM nAma\n",
+      "ud": "सुहोत्रः खल्विक्ष्वाकुकन्यामुपयेमे सुवर्णां नाम\n",
+      "ur": "suhotraḥ khalv ikṣvākukanyām upayeme suvarṇāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 36
+  },
+  "01090036B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe hastI\n",
+      "ud": "तस्यामस्य जज्ञे हस्ती\n",
+      "ur": "tasyām asya jajñe hastī\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 36
+  },
+  "01090036C": {
+    "text": {
+      "ascii": "ya idaM hAstinapuraM mApayAm Asa\n",
+      "ud": "य इदं हास्तिनपुरं मापयामास\n",
+      "ur": "ya idaṁ hāstinapuraṁ māpayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 36
+  },
+  "01090036D": {
+    "text": {
+      "ascii": "etad asya hAstinapuratvam\n",
+      "ud": "एतदस्य हास्तिनपुरत्वम्\n",
+      "ur": "etad asya hāstinapuratvam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 36
+  },
+  "01090037A": {
+    "text": {
+      "ascii": "hastI khalu traigartIm upayeme yazodharAM nAma\n",
+      "ud": "हस्ती खलु त्रैगर्तीमुपयेमे यशोधरां नाम\n",
+      "ur": "hastī khalu traigartīm upayeme yaśodharāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 37
+  },
+  "01090037B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe vikuNThanaH\n",
+      "ud": "तस्यामस्य जज्ञे विकुण्ठनः\n",
+      "ur": "tasyām asya jajñe vikuṇṭhanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 37
+  },
+  "01090038A": {
+    "text": {
+      "ascii": "vikuNThanaH khalu dAzArhIm upayeme sudevAM nAma\n",
+      "ud": "विकुण्ठनः खलु दाशार्हीमुपयेमे सुदेवां नाम\n",
+      "ur": "vikuṇṭhanaḥ khalu dāśārhīm upayeme sudevāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 38
+  },
+  "01090038B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe 'jamIDhaH\n",
+      "ud": "तस्यामस्य जज्ञेऽजमीढः\n",
+      "ur": "tasyām asya jajñe ’jamīḍhaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 38
+  },
+  "01090039A": {
+    "text": {
+      "ascii": "ajamIDhasya caturviMzaM putrazataM babhUva kaikeyyAM nAgAyAM gAndhAryAM vimalAyAm RkSAyAM ceti\n",
+      "ud": "अजमीढस्य चतुर्विंशं पुत्रशतं बभूव कैकेय्यां नागायां गान्धार्यां विमलायामृक्षायां चेति\n",
+      "ur": "ajamīḍhasya caturviṁśaṁ putraśataṁ babhūva kaikeyyāṁ nāgāyāṁ gāndhāryāṁ vimalāyām r̥kṣāyāṁ ceti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 39
+  },
+  "01090039B": {
+    "text": {
+      "ascii": "pRthak pRthag vaMzakarA nRpatayaH\n",
+      "ud": "पृथक्पृथग्वंशकरा नृपतयः\n",
+      "ur": "pr̥thak pr̥thag vaṁśakarā nr̥patayaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 39
+  },
+  "01090039C": {
+    "text": {
+      "ascii": "tatra vaMzakaraH saMvaraNaH\n",
+      "ud": "तत्र वंशकरः संवरणः\n",
+      "ur": "tatra vaṁśakaraḥ saṁvaraṇaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 39
+  },
+  "01090040A": {
+    "text": {
+      "ascii": "saMvaraNaH khalu vaivasvatIM tapatIM nAmopayeme\n",
+      "ud": "संवरणः खलु वैवस्वतीं तपतीं नामोपयेमे\n",
+      "ur": "saṁvaraṇaḥ khalu vaivasvatīṁ tapatīṁ nāmopayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 40
+  },
+  "01090040B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe kuruH\n",
+      "ud": "तस्यामस्य जज्ञे कुरुः\n",
+      "ur": "tasyām asya jajñe kuruḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 40
+  },
+  "01090041A": {
+    "text": {
+      "ascii": "kuruH khalu dAzArhIm upayeme zubhAGgIM nAma\n",
+      "ud": "कुरुः खलु दाशार्हीमुपयेमे शुभाङ्गीं नाम\n",
+      "ur": "kuruḥ khalu dāśārhīm upayeme śubhāṅgīṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 41
+  },
+  "01090041B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe viDUrathaH\n",
+      "ud": "तस्यामस्य जज्ञे विडूरथः\n",
+      "ur": "tasyām asya jajñe viḍūrathaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 41
+  },
+  "01090042A": {
+    "text": {
+      "ascii": "viDUrathas tu mAgadhIm upayeme saMpriyAM nAma\n",
+      "ud": "विडूरथस्तु मागधीमुपयेमे संप्रियां नाम\n",
+      "ur": "viḍūrathas tu māgadhīm upayeme saṁpriyāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 42
+  },
+  "01090042B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe 'rugvAn nAma\n",
+      "ud": "तस्यामस्य जज्ञेऽरुग्वान्नाम\n",
+      "ur": "tasyām asya jajñe ’rugvān nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 42
+  },
+  "01090043A": {
+    "text": {
+      "ascii": "arugvAn khalu mAgadhIm upayeme 'mRtAM nAma\n",
+      "ud": "अरुग्वान्खलु मागधीमुपयेमेऽमृतां नाम\n",
+      "ur": "arugvān khalu māgadhīm upayeme ’mr̥tāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 43
+  },
+  "01090043B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe parikSit\n",
+      "ud": "तस्यामस्य जज्ञे परिक्षित्\n",
+      "ur": "tasyām asya jajñe parikṣit\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 43
+  },
+  "01090044A": {
+    "text": {
+      "ascii": "parikSit khalu bAhudAm upayeme suyazAM nAma\n",
+      "ud": "परिक्षित्खलु बाहुदामुपयेमे सुयशां नाम\n",
+      "ur": "parikṣit khalu bāhudām upayeme suyaśāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 44
+  },
+  "01090044B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe bhImasenaH\n",
+      "ud": "तस्यामस्य जज्ञे भीमसेनः\n",
+      "ur": "tasyām asya jajñe bhīmasenaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 44
+  },
+  "01090045A": {
+    "text": {
+      "ascii": "bhImasenaH khalu kaikeyIm upayeme sukumArIM nAma\n",
+      "ud": "भीमसेनः खलु कैकेयीमुपयेमे सुकुमारीं नाम\n",
+      "ur": "bhīmasenaḥ khalu kaikeyīm upayeme sukumārīṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 45
+  },
+  "01090045B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe paryazravAH\n",
+      "ud": "तस्यामस्य जज्ञे पर्यश्रवाः\n",
+      "ur": "tasyām asya jajñe paryaśravāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 45
+  },
+  "01090045C": {
+    "text": {
+      "ascii": "yam AhuH pratIpaM nAma\n",
+      "ud": "यमाहुः प्रतीपं नाम\n",
+      "ur": "yam āhuḥ pratīpaṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 45
+  },
+  "01090046A": {
+    "text": {
+      "ascii": "pratIpaH khalu zaibyAm upayeme sunandAM nAma\n",
+      "ud": "प्रतीपः खलु शैब्यामुपयेमे सुनन्दां नाम\n",
+      "ur": "pratīpaḥ khalu śaibyām upayeme sunandāṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 46
+  },
+  "01090046B": {
+    "text": {
+      "ascii": "tasyAM putrAn utpAdayAm Asa devApiM zaMtanuM bAhlIkaM ceti\n",
+      "ud": "तस्यां पुत्रानुत्पादयामास देवापिं शंतनुं बाह्लीकं चेति\n",
+      "ur": "tasyāṁ putrān utpādayām āsa devāpiṁ śaṁtanuṁ bāhlīkaṁ ceti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 46
+  },
+  "01090047A": {
+    "text": {
+      "ascii": "devApiH khalu bAla evAraNyaM praviveza\n",
+      "ud": "देवापिः खलु बाल एवारण्यं प्रविवेश\n",
+      "ur": "devāpiḥ khalu bāla evāraṇyaṁ praviveśa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 47
+  },
+  "01090047B": {
+    "text": {
+      "ascii": "zaMtanus tu mahIpAlo 'bhavat\n",
+      "ud": "शंतनुस्तु महीपालोऽभवत्\n",
+      "ur": "śaṁtanus tu mahīpālo ’bhavat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 47
+  },
+  "01090047C": {
+    "text": {
+      "ascii": "atrAnuvaMzo bhavati\n",
+      "ud": "अत्रानुवंशो भवति\n",
+      "ur": "atrānuvaṁśo bhavati\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 47
+  },
+  "01090048a": {
+    "text": {
+      "ascii": "yaM yaM karAbhyAM spRzati jIrNaM sa sukham aznute\n",
+      "ud": "यं यं कराभ्यां स्पृशति जीर्णं स सुखमश्नुते\n",
+      "ur": "yaṁ yaṁ karābhyāṁ spr̥śati jīrṇaṁ sa sukham aśnute\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 48
+  },
+  "01090048c": {
+    "text": {
+      "ascii": "punar yuvA ca bhavati tasmAt taM zaMtanuM viduH\n",
+      "ud": "पुनर्युवा च भवति तस्मात्तं शंतनुं विदुः\n",
+      "ur": "punar yuvā ca bhavati tasmāt taṁ śaṁtanuṁ viduḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 48
+  },
+  "01090049A": {
+    "text": {
+      "ascii": "tad asya zaMtanutvam\n",
+      "ud": "तदस्य शंतनुत्वम्\n",
+      "ur": "tad asya śaṁtanutvam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 49
+  },
+  "01090050A": {
+    "text": {
+      "ascii": "zaMtanuH khalu gaGgAM bhAgIrathIm upayeme\n",
+      "ud": "शंतनुः खलु गङ्गां भागीरथीमुपयेमे\n",
+      "ur": "śaṁtanuḥ khalu gaṅgāṁ bhāgīrathīm upayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 50
+  },
+  "01090050B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe devavrataH\n",
+      "ud": "तस्यामस्य जज्ञे देवव्रतः\n",
+      "ur": "tasyām asya jajñe devavrataḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 50
+  },
+  "01090050C": {
+    "text": {
+      "ascii": "yam Ahur bhISma iti\n",
+      "ud": "यमाहुर्भीष्म इति\n",
+      "ur": "yam āhur bhīṣma iti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 50
+  },
+  "01090051A": {
+    "text": {
+      "ascii": "bhISmaH khalu pituH priyacikIrSayA satyavatIm udavahan mAtaram\n",
+      "ud": "भीष्मः खलु पितुः प्रियचिकीर्षया सत्यवतीमुदवहन्मातरम्\n",
+      "ur": "bhīṣmaḥ khalu pituḥ priyacikīrṣayā satyavatīm udavahan mātaram\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 51
+  },
+  "01090051B": {
+    "text": {
+      "ascii": "yAm Ahur gandhakAlIti\n",
+      "ud": "यामाहुर्गन्धकालीति\n",
+      "ur": "yām āhur gandhakālīti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 51
+  },
+  "01090052A": {
+    "text": {
+      "ascii": "tasyAM kAnIno garbhaH parAzarAd dvaipAyanaH\n",
+      "ud": "तस्यां कानीनो गर्भः पराशराद्द्वैपायनः\n",
+      "ur": "tasyāṁ kānīno garbhaḥ parāśarād dvaipāyanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 52
+  },
+  "01090052B": {
+    "text": {
+      "ascii": "tasyAm eva zaMtanor dvau putrau babhUvatuH\n",
+      "ud": "तस्यामेव शंतनोर्द्वौ पुत्रौ बभूवतुः\n",
+      "ur": "tasyām eva śaṁtanor dvau putrau babhūvatuḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 52
+  },
+  "01090052C": {
+    "text": {
+      "ascii": "citrAGgado vicitravIryaz ca\n",
+      "ud": "चित्राङ्गदो विचित्रवीर्यश्च\n",
+      "ur": "citrāṅgado vicitravīryaś ca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 52
+  },
+  "01090053A": {
+    "text": {
+      "ascii": "tayor aprAptayauvana eva citrAGgado gandharveNa hataH\n",
+      "ud": "तयोरप्राप्तयौवन एव चित्राङ्गदो गन्धर्वेण हतः\n",
+      "ur": "tayor aprāptayauvana eva citrāṅgado gandharveṇa hataḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 53
+  },
+  "01090053B": {
+    "text": {
+      "ascii": "vicitravIryas tu rAjA samabhavat\n",
+      "ud": "विचित्रवीर्यस्तु राजा समभवत्\n",
+      "ur": "vicitravīryas tu rājā samabhavat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 53
+  },
+  "01090054A": {
+    "text": {
+      "ascii": "vicitravIryaH khalu kausalyAtmaje 'mbikAmbAlike kAzirAjaduhitarAv upayeme\n",
+      "ud": "विचित्रवीर्यः खलु कौसल्यात्मजेऽम्बिकाम्बालिके काशिराजदुहितरावुपयेमे\n",
+      "ur": "vicitravīryaḥ khalu kausalyātmaje ’mbikāmbālike kāśirājaduhitarāv upayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 54
+  },
+  "01090055A": {
+    "text": {
+      "ascii": "vicitravIryas tv anapatya eva videhatvaM prAptaH\n",
+      "ud": "विचित्रवीर्यस्त्वनपत्य एव विदेहत्वं प्राप्तः\n",
+      "ur": "vicitravīryas tv anapatya eva videhatvaṁ prāptaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 55
+  },
+  "01090056A": {
+    "text": {
+      "ascii": "tataH satyavatI cintayAm Asa\n",
+      "ud": "ततः सत्यवती चिन्तयामास\n",
+      "ur": "tataḥ satyavatī cintayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 56
+  },
+  "01090056B": {
+    "text": {
+      "ascii": "dauHSanto vaMza ucchidyate iti\n",
+      "ud": "दौःषन्तो वंश उच्छिद्यते इति\n",
+      "ur": "dauḥṣanto vaṁśa ucchidyate iti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 56
+  },
+  "01090057A": {
+    "text": {
+      "ascii": "sA dvaipAyanam RSiM cintayAm Asa\n",
+      "ud": "सा द्वैपायनमृषिं चिन्तयामास\n",
+      "ur": "sā dvaipāyanam r̥ṣiṁ cintayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 57
+  },
+  "01090058A": {
+    "text": {
+      "ascii": "sa tasyAH purataH sthitaH kiM karavANIti\n",
+      "ud": "स तस्याः पुरतः स्थितः किं करवाणीति\n",
+      "ur": "sa tasyāḥ purataḥ sthitaḥ kiṁ karavāṇīti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 58
+  },
+  "01090059A": {
+    "text": {
+      "ascii": "sA tam uvAca\n",
+      "ud": "सा तमुवाच\n",
+      "ur": "sā tam uvāca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 59
+  },
+  "01090059B": {
+    "text": {
+      "ascii": "bhrAtA tavAnapatya eva svaryAto vicitravIryaH\n",
+      "ud": "भ्राता तवानपत्य एव स्वर्यातो विचित्रवीर्यः\n",
+      "ur": "bhrātā tavānapatya eva svaryāto vicitravīryaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 59
+  },
+  "01090059C": {
+    "text": {
+      "ascii": "sAdhv apatyaM tasyotpAdayeti\n",
+      "ud": "साध्वपत्यं तस्योत्पादयेति\n",
+      "ur": "sādhv apatyaṁ tasyotpādayeti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 59
+  },
+  "01090060A": {
+    "text": {
+      "ascii": "sa param ity uktvA trIn putrAn utpAdayAm Asa dhRtarASTraM pANDuM viduraM ceti\n",
+      "ud": "स परमित्युक्त्वा त्रीन्पुत्रानुत्पादयामास धृतराष्ट्रं पाण्डुं विदुरं चेति\n",
+      "ur": "sa param ity uktvā trīn putrān utpādayām āsa dhr̥tarāṣṭraṁ pāṇḍuṁ viduraṁ ceti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 60
+  },
+  "01090061A": {
+    "text": {
+      "ascii": "tatra dhRtarASTrasya rAjJaH putrazataM babhUva gAndhAryAM varadAnAd dvaipAyanasya\n",
+      "ud": "तत्र धृतराष्ट्रस्य राज्ञः पुत्रशतं बभूव गान्धार्यां वरदानाद्द्वैपायनस्य\n",
+      "ur": "tatra dhr̥tarāṣṭrasya rājñaḥ putraśataṁ babhūva gāndhāryāṁ varadānād dvaipāyanasya\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 61
+  },
+  "01090062A": {
+    "text": {
+      "ascii": "teSAM dhRtarASTrasya putrANAM catvAraH pradhAnA babhUvur duryodhano duHzAsano vikarNaz citrasena iti\n",
+      "ud": "तेषां धृतराष्ट्रस्य पुत्राणां चत्वारः प्रधाना बभूवुर्दुर्योधनो दुःशासनो विकर्णश्चित्रसेन इति\n",
+      "ur": "teṣāṁ dhr̥tarāṣṭrasya putrāṇāṁ catvāraḥ pradhānā babhūvur duryodhano duḥśāsano vikarṇaś citrasena iti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 62
+  },
+  "01090063A": {
+    "text": {
+      "ascii": "pANDos tu dve bhArye babhUvatuH kuntI mAdrI cety ubhe strIratne\n",
+      "ud": "पाण्डोस्तु द्वे भार्ये बभूवतुः कुन्ती माद्री चेत्युभे स्त्रीरत्ने\n",
+      "ur": "pāṇḍos tu dve bhārye babhūvatuḥ kuntī mādrī cety ubhe strīratne\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 63
+  },
+  "01090064A": {
+    "text": {
+      "ascii": "atha pANDur mRgayAM caran maithunagatam RSim apazyan mRgyAM vartamAnam\n",
+      "ud": "अथ पाण्डुर्मृगयां चरन्मैथुनगतमृषिमपश्यन्मृग्यां वर्तमानम्\n",
+      "ur": "atha pāṇḍur mr̥gayāṁ caran maithunagatam r̥ṣim apaśyan mr̥gyāṁ vartamānam\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 64
+  },
+  "01090064B": {
+    "text": {
+      "ascii": "tathaivAplutam anAsAditakAmarasam atRptaM bANenAbhijaghAna\n",
+      "ud": "तथैवाप्लुतमनासादितकामरसमतृप्तं बाणेनाभिजघान\n",
+      "ur": "tathaivāplutam anāsāditakāmarasam atr̥ptaṁ bāṇenābhijaghāna\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 64
+  },
+  "01090065A": {
+    "text": {
+      "ascii": "sa bANaviddha uvAca pANDum\n",
+      "ud": "स बाणविद्ध उवाच पाण्डुम्\n",
+      "ur": "sa bāṇaviddha uvāca pāṇḍum\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 65
+  },
+  "01090065B": {
+    "text": {
+      "ascii": "caratA dharmam imaM yena tvayAbhijJena kAmarasasyAham anavAptakAmaraso 'bhihatas tasmAt tvam apy etAm avasthAm AsAdyAnavAptakAmarasaH paJcatvam Apsyasi kSipram eveti\n",
+      "ud": "चरता धर्ममिमं येन त्वयाभिज्ञेन कामरसस्याहमनवाप्तकामरसोऽभिहतस्तस्मात्त्वमप्येतामवस्थामासाद्यानवाप्तकामरसः पञ्चत्वमाप्स्यसि क्षिप्रमेवेति\n",
+      "ur": "caratā dharmam imaṁ yena tvayābhijñena kāmarasasyāham anavāptakāmaraso ’bhihatas tasmāt tvam apy etām avasthām āsādyānavāptakāmarasaḥ pañcatvam āpsyasi kṣipram eveti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 65
+  },
+  "01090066A": {
+    "text": {
+      "ascii": "sa vivarNarUpaH pANDuH zApaM pariharamANo nopAsarpata bhArye\n",
+      "ud": "स विवर्णरूपः पाण्डुः शापं परिहरमाणो नोपासर्पत भार्ये\n",
+      "ur": "sa vivarṇarūpaḥ pāṇḍuḥ śāpaṁ pariharamāṇo nopāsarpata bhārye\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 66
+  },
+  "01090067A": {
+    "text": {
+      "ascii": "vAkyaM covAca\n",
+      "ud": "वाक्यं चोवाच\n",
+      "ur": "vākyaṁ covāca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 67
+  },
+  "01090067B": {
+    "text": {
+      "ascii": "svacApalyAd idaM prAptavAn aham\n",
+      "ud": "स्वचापल्यादिदं प्राप्तवानहम्\n",
+      "ur": "svacāpalyād idaṁ prāptavān aham\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 67
+  },
+  "01090067C": {
+    "text": {
+      "ascii": "zRNomi ca nAnapatyasya lokA santIti\n",
+      "ud": "शृणोमि च नानपत्यस्य लोका सन्तीति\n",
+      "ur": "śr̥ṇomi ca nānapatyasya lokā santīti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 67
+  },
+  "01090068A": {
+    "text": {
+      "ascii": "sA tvaM madarthe putrAn utpAdayeti kuntIm uvAca\n",
+      "ud": "सा त्वं मदर्थे पुत्रानुत्पादयेति कुन्तीमुवाच\n",
+      "ur": "sā tvaṁ madarthe putrān utpādayeti kuntīm uvāca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 68
+  },
+  "01090069A": {
+    "text": {
+      "ascii": "sA tatra putrAn utpAdayAm Asa dharmAd yudhiSThiraM mArutAd bhImasenaM zakrAd arjunam iti\n",
+      "ud": "सा तत्र पुत्रानुत्पादयामास धर्माद्युधिष्ठिरं मारुताद्भीमसेनं शक्रादर्जुनमिति\n",
+      "ur": "sā tatra putrān utpādayām āsa dharmād yudhiṣṭhiraṁ mārutād bhīmasenaṁ śakrād arjunam iti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 69
+  },
+  "01090070A": {
+    "text": {
+      "ascii": "sa tAM hRSTarUpaH pANDur uvAca\n",
+      "ud": "स तां हृष्टरूपः पाण्डुरुवाच\n",
+      "ur": "sa tāṁ hr̥ṣṭarūpaḥ pāṇḍur uvāca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 70
+  },
+  "01090070B": {
+    "text": {
+      "ascii": "iyaM te sapatnyanapatyA\n",
+      "ud": "इयं ते सपत्न्यनपत्या\n",
+      "ur": "iyaṁ te sapatnyanapatyā\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 70
+  },
+  "01090070C": {
+    "text": {
+      "ascii": "sAdhv asyAm apatyam utpAdyatAm iti\n",
+      "ud": "साध्वस्यामपत्यमुत्पाद्यतामिति\n",
+      "ur": "sādhv asyām apatyam utpādyatām iti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 70
+  },
+  "01090071A": {
+    "text": {
+      "ascii": "sa evam astv ity uktaH kuntyA\n",
+      "ud": "स एवमस्त्वित्युक्तः कुन्त्या\n",
+      "ur": "sa evam astv ity uktaḥ kuntyā\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 71
+  },
+  "01090072A": {
+    "text": {
+      "ascii": "tato mAdryAm azvibhyAM nakulasahadevAv utpAditau\n",
+      "ud": "ततो माद्र्यामश्विभ्यां नकुलसहदेवावुत्पादितौ\n",
+      "ur": "tato mādryām aśvibhyāṁ nakulasahadevāv utpāditau\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 72
+  },
+  "01090073A": {
+    "text": {
+      "ascii": "mAdrIM khalv alaMkRtAM dRSTvA pANDur bhAvaM cakre\n",
+      "ud": "माद्रीं खल्वलंकृतां दृष्ट्वा पाण्डुर्भावं चक्रे\n",
+      "ur": "mādrīṁ khalv alaṁkr̥tāṁ dr̥ṣṭvā pāṇḍur bhāvaṁ cakre\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 73
+  },
+  "01090074A": {
+    "text": {
+      "ascii": "sa tAM spRSTvaiva videhatvaM prAptaH\n",
+      "ud": "स तां स्पृष्ट्वैव विदेहत्वं प्राप्तः\n",
+      "ur": "sa tāṁ spr̥ṣṭvaiva videhatvaṁ prāptaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 74
+  },
+  "01090075A": {
+    "text": {
+      "ascii": "tatrainaM citAsthaM mAdrI samanvAruroha\n",
+      "ud": "तत्रैनं चितास्थं माद्री समन्वारुरोह\n",
+      "ur": "tatrainaṁ citāsthaṁ mādrī samanvāruroha\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 75
+  },
+  "01090076A": {
+    "text": {
+      "ascii": "uvAca kuntIm\n",
+      "ud": "उवाच कुन्तीम्\n",
+      "ur": "uvāca kuntīm\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 76
+  },
+  "01090076B": {
+    "text": {
+      "ascii": "yamayor AryayApramattayA bhavitavyam iti\n",
+      "ud": "यमयोरार्ययाप्रमत्तया भवितव्यमिति\n",
+      "ur": "yamayor āryayāpramattayā bhavitavyam iti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 76
+  },
+  "01090077A": {
+    "text": {
+      "ascii": "tatas te paJca pANDavAH kuntyA sahitA hAstinapuram AnIya tApasair bhISmasya vidurasya ca niveditAH\n",
+      "ud": "ततस्ते पञ्च पाण्डवाः कुन्त्या सहिता हास्तिनपुरमानीय तापसैर्भीष्मस्य विदुरस्य च निवेदिताः\n",
+      "ur": "tatas te pañca pāṇḍavāḥ kuntyā sahitā hāstinapuram ānīya tāpasair bhīṣmasya vidurasya ca niveditāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 77
+  },
+  "01090078A": {
+    "text": {
+      "ascii": "tatrApi jatugRhe dagdhuM samArabdhA na zakitA viduramantritena\n",
+      "ud": "तत्रापि जतुगृहे दग्धुं समारब्धा न शकिता विदुरमन्त्रितेन\n",
+      "ur": "tatrāpi jatugr̥he dagdhuṁ samārabdhā na śakitā viduramantritena\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 78
+  },
+  "01090079A": {
+    "text": {
+      "ascii": "tataz ca hiDimbam antarA hatvA ekacakrAM gatAH\n",
+      "ud": "ततश्च हिडिम्बमन्तरा हत्वा एकचक्रां गताः\n",
+      "ur": "tataś ca hiḍimbam antarā hatvā ekacakrāṁ gatāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 79
+  },
+  "01090080A": {
+    "text": {
+      "ascii": "tasyAm apy ekacakrAyAM bakaM nAma rAkSasaM hatvA pAJcAlanagaram abhigatAH\n",
+      "ud": "तस्यामप्येकचक्रायां बकं नाम राक्षसं हत्वा पाञ्चालनगरमभिगताः\n",
+      "ur": "tasyām apy ekacakrāyāṁ bakaṁ nāma rākṣasaṁ hatvā pāñcālanagaram abhigatāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 80
+  },
+  "01090081A": {
+    "text": {
+      "ascii": "tasmAd draupadIM bhAryAm avindan svaviSayaM cAjagmuH kuzalinaH\n",
+      "ud": "तस्माद्द्रौपदीं भार्यामविन्दन्स्वविषयं चाजग्मुः कुशलिनः\n",
+      "ur": "tasmād draupadīṁ bhāryām avindan svaviṣayaṁ cājagmuḥ kuśalinaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 81
+  },
+  "01090082A": {
+    "text": {
+      "ascii": "putrAMz cotpAdayAm AsuH\n",
+      "ud": "पुत्रांश्चोत्पादयामासुः\n",
+      "ur": "putrāṁś cotpādayām āsuḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 82
+  },
+  "01090082B": {
+    "text": {
+      "ascii": "prativindhyaM yudhiSThiraH\n",
+      "ud": "प्रतिविन्ध्यं युधिष्ठिरः\n",
+      "ur": "prativindhyaṁ yudhiṣṭhiraḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 82
+  },
+  "01090082C": {
+    "text": {
+      "ascii": "sutasomaM vRkodaraH\n",
+      "ud": "सुतसोमं वृकोदरः\n",
+      "ur": "sutasomaṁ vr̥kodaraḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 82
+  },
+  "01090082D": {
+    "text": {
+      "ascii": "zrutakIrtim arjunaH\n",
+      "ud": "श्रुतकीर्तिमर्जुनः\n",
+      "ur": "śrutakīrtim arjunaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 82
+  },
+  "01090082E": {
+    "text": {
+      "ascii": "zatAnIkaM nakulaH\n",
+      "ud": "शतानीकं नकुलः\n",
+      "ur": "śatānīkaṁ nakulaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 82
+  },
+  "01090082F": {
+    "text": {
+      "ascii": "zrutakarmANaM sahadeva iti\n",
+      "ud": "श्रुतकर्माणं सहदेव इति\n",
+      "ur": "śrutakarmāṇaṁ sahadeva iti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 82
+  },
+  "01090083A": {
+    "text": {
+      "ascii": "yudhiSThiras tu govAsanasya zaibyasya devikAM nAma kanyAM svayaMvare lebhe\n",
+      "ud": "युधिष्ठिरस्तु गोवासनस्य शैब्यस्य देविकां नाम कन्यां स्वयंवरे लेभे\n",
+      "ur": "yudhiṣṭhiras tu govāsanasya śaibyasya devikāṁ nāma kanyāṁ svayaṁvare lebhe\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 83
+  },
+  "01090083B": {
+    "text": {
+      "ascii": "tasyAM putraM janayAm Asa yaudheyaM nAma\n",
+      "ud": "तस्यां पुत्रं जनयामास यौधेयं नाम\n",
+      "ur": "tasyāṁ putraṁ janayām āsa yaudheyaṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 83
+  },
+  "01090084A": {
+    "text": {
+      "ascii": "bhImaseno 'pi kAzyAM baladharAM nAmopayeme vIryazulkAm\n",
+      "ud": "भीमसेनोऽपि काश्यां बलधरां नामोपयेमे वीर्यशुल्काम्\n",
+      "ur": "bhīmaseno ’pi kāśyāṁ baladharāṁ nāmopayeme vīryaśulkām\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 84
+  },
+  "01090084B": {
+    "text": {
+      "ascii": "tasyAM putraM sarvagaM nAmotpAdayAm Asa\n",
+      "ud": "तस्यां पुत्रं सर्वगं नामोत्पादयामास\n",
+      "ur": "tasyāṁ putraṁ sarvagaṁ nāmotpādayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 84
+  },
+  "01090085A": {
+    "text": {
+      "ascii": "arjunaH khalu dvAravatIM gatvA bhaginIM vAsudevasya subhadrAM nAma bhAryAm udavahat\n",
+      "ud": "अर्जुनः खलु द्वारवतीं गत्वा भगिनीं वासुदेवस्य सुभद्रां नाम भार्यामुदवहत्\n",
+      "ur": "arjunaḥ khalu dvāravatīṁ gatvā bhaginīṁ vāsudevasya subhadrāṁ nāma bhāryām udavahat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 85
+  },
+  "01090085B": {
+    "text": {
+      "ascii": "tasyAM putram abhimanyuM nAma janayAm Asa\n",
+      "ud": "तस्यां पुत्रमभिमन्युं नाम जनयामास\n",
+      "ur": "tasyāṁ putram abhimanyuṁ nāma janayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 85
+  },
+  "01090086A": {
+    "text": {
+      "ascii": "nakulas tu caidyAM kareNuvatIM nAma bhAryAm udavahat\n",
+      "ud": "नकुलस्तु चैद्यां करेणुवतीं नाम भार्यामुदवहत्\n",
+      "ur": "nakulas tu caidyāṁ kareṇuvatīṁ nāma bhāryām udavahat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 86
+  },
+  "01090086B": {
+    "text": {
+      "ascii": "tasyAM putraM niramitraM nAmAjanayat\n",
+      "ud": "तस्यां पुत्रं निरमित्रं नामाजनयत्\n",
+      "ur": "tasyāṁ putraṁ niramitraṁ nāmājanayat\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 86
+  },
+  "01090087A": {
+    "text": {
+      "ascii": "sahadevo 'pi mAdrIm eva svayaMvare vijayAM nAmopayeme\n",
+      "ud": "सहदेवोऽपि माद्रीमेव स्वयंवरे विजयां नामोपयेमे\n",
+      "ur": "sahadevo ’pi mādrīm eva svayaṁvare vijayāṁ nāmopayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 87
+  },
+  "01090087B": {
+    "text": {
+      "ascii": "tasyAM putram ajanayat suhotraM nAma\n",
+      "ud": "तस्यां पुत्रमजनयत्सुहोत्रं नाम\n",
+      "ur": "tasyāṁ putram ajanayat suhotraṁ nāma\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 87
+  },
+  "01090088A": {
+    "text": {
+      "ascii": "bhImasenas tu pUrvam eva hiDimbAyAM rAkSasyAM ghaTotkacaM nAma putraM janayAm Asa\n",
+      "ud": "भीमसेनस्तु पूर्वमेव हिडिम्बायां राक्षस्यां घटोत्कचं नाम पुत्रं जनयामास\n",
+      "ur": "bhīmasenas tu pūrvam eva hiḍimbāyāṁ rākṣasyāṁ ghaṭotkacaṁ nāma putraṁ janayām āsa\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 88
+  },
+  "01090089A": {
+    "text": {
+      "ascii": "ity ete ekAdaza pANDavAnAM putrAH\n",
+      "ud": "इत्येते एकादश पाण्डवानां पुत्राः\n",
+      "ur": "ity ete ekādaśa pāṇḍavānāṁ putrāḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 89
+  },
+  "01090090A": {
+    "text": {
+      "ascii": "virATasya duhitaram uttarAM nAmAbhimanyur upayeme\n",
+      "ud": "विराटस्य दुहितरमुत्तरां नामाभिमन्युरुपयेमे\n",
+      "ur": "virāṭasya duhitaram uttarāṁ nāmābhimanyur upayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 90
+  },
+  "01090090B": {
+    "text": {
+      "ascii": "tasyAm asya parAsur garbho 'jAyata\n",
+      "ud": "तस्यामस्य परासुर्गर्भोऽजायत\n",
+      "ur": "tasyām asya parāsur garbho ’jāyata\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 90
+  },
+  "01090091A": {
+    "text": {
+      "ascii": "tam utsaGgena pratijagrAha pRthA niyogAt puruSottamasya vAsudevasya\n",
+      "ud": "तमुत्सङ्गेन प्रतिजग्राह पृथा नियोगात्पुरुषोत्तमस्य वासुदेवस्य\n",
+      "ur": "tam utsaṅgena pratijagrāha pr̥thā niyogāt puruṣottamasya vāsudevasya\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 91
+  },
+  "01090091B": {
+    "text": {
+      "ascii": "SANmAsikaM garbham aham enaM jIvayiSyAmIti\n",
+      "ud": "षाण्मासिकं गर्भमहमेनं जीवयिष्यामीति\n",
+      "ur": "ṣāṇmāsikaṁ garbham aham enaṁ jīvayiṣyāmīti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 91
+  },
+  "01090092A": {
+    "text": {
+      "ascii": "saMjIvayitvA cainam uvAca\n",
+      "ud": "संजीवयित्वा चैनमुवाच\n",
+      "ur": "saṁjīvayitvā cainam uvāca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 92
+  },
+  "01090092B": {
+    "text": {
+      "ascii": "parikSINe kule jAto bhavatv ayaM parikSin nAmeti\n",
+      "ud": "परिक्षीणे कुले जातो भवत्वयं परिक्षिन्नामेति\n",
+      "ur": "parikṣīṇe kule jāto bhavatv ayaṁ parikṣin nāmeti\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 92
+  },
+  "01090093A": {
+    "text": {
+      "ascii": "parikSit tu khalu mAdravatIM nAmopayeme\n",
+      "ud": "परिक्षित्तु खलु माद्रवतीं नामोपयेमे\n",
+      "ur": "parikṣit tu khalu mādravatīṁ nāmopayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 93
+  },
+  "01090093B": {
+    "text": {
+      "ascii": "tasyAm asya janamejayaH\n",
+      "ud": "तस्यामस्य जनमेजयः\n",
+      "ur": "tasyām asya janamejayaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 93
+  },
+  "01090094A": {
+    "text": {
+      "ascii": "janamejayAt tu vapuSTamAyAM dvau putrau zatAnIkaH zaGkuz ca\n",
+      "ud": "जनमेजयात्तु वपुष्टमायां द्वौ पुत्रौ शतानीकः शङ्कुश्च\n",
+      "ur": "janamejayāt tu vapuṣṭamāyāṁ dvau putrau śatānīkaḥ śaṅkuś ca\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 94
+  },
+  "01090095A": {
+    "text": {
+      "ascii": "zatAnIkas tu khalu vaidehIm upayeme\n",
+      "ud": "शतानीकस्तु खलु वैदेहीमुपयेमे\n",
+      "ur": "śatānīkas tu khalu vaidehīm upayeme\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 95
+  },
+  "01090095B": {
+    "text": {
+      "ascii": "tasyAm asya jajJe putro 'zvamedhadattaH\n",
+      "ud": "तस्यामस्य जज्ञे पुत्रोऽश्वमेधदत्तः\n",
+      "ur": "tasyām asya jajñe putro ’śvamedhadattaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 95
+  },
+  "01090096a": {
+    "text": {
+      "ascii": "ity eSa pUror vaMzas tu pANDavAnAM ca kIrtitaH\n",
+      "ud": "इत्येष पूरोर्वंशस्तु पाण्डवानां च कीर्तितः\n",
+      "ur": "ity eṣa pūror vaṁśas tu pāṇḍavānāṁ ca kīrtitaḥ\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 96
+  },
+  "01090096c": {
+    "text": {
+      "ascii": "pUror vaMzam imaM zrutvA sarvapApaiH pramucyate\n",
+      "ud": "पूरोर्वंशमिमं श्रुत्वा सर्वपापैः प्रमुच्यते\n",
+      "ur": "pūror vaṁśam imaṁ śrutvā sarvapāpaiḥ pramucyate\n"
+    },
+    "book": 1,
+    "chapter": 90,
+    "verse": 96
+  }
+}

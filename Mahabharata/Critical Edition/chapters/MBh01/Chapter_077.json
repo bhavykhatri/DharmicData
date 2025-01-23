@@ -1,0 +1,622 @@
+{
+  "01077001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 1
+  },
+  "01077001a": {
+    "text": {
+      "ascii": "yayAtiH svapuraM prApya mahendrapurasaMnibham\n",
+      "ud": "ययातिः स्वपुरं प्राप्य महेन्द्रपुरसंनिभम्\n",
+      "ur": "yayātiḥ svapuraṁ prāpya mahendrapurasaṁnibham\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 1
+  },
+  "01077001c": {
+    "text": {
+      "ascii": "pravizyAntaHpuraM tatra devayAnIM nyavezayat\n",
+      "ud": "प्रविश्यान्तःपुरं तत्र देवयानीं न्यवेशयत्\n",
+      "ur": "praviśyāntaḥpuraṁ tatra devayānīṁ nyaveśayat\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 1
+  },
+  "01077002a": {
+    "text": {
+      "ascii": "devayAnyAz cAnumate tAM sutAM vRSaparvaNaH\n",
+      "ud": "देवयान्याश्चानुमते तां सुतां वृषपर्वणः\n",
+      "ur": "devayānyāś cānumate tāṁ sutāṁ vr̥ṣaparvaṇaḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 2
+  },
+  "01077002c": {
+    "text": {
+      "ascii": "azokavanikAbhyAze gRhaM kRtvA nyavezayat\n",
+      "ud": "अशोकवनिकाभ्याशे गृहं कृत्वा न्यवेशयत्\n",
+      "ur": "aśokavanikābhyāśe gr̥haṁ kr̥tvā nyaveśayat\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 2
+  },
+  "01077003a": {
+    "text": {
+      "ascii": "vRtAM dAsIsahasreNa zarmiSThAm AsurAyaNIm\n",
+      "ud": "वृतां दासीसहस्रेण शर्मिष्ठामासुरायणीम्\n",
+      "ur": "vr̥tāṁ dāsīsahasreṇa śarmiṣṭhām āsurāyaṇīm\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 3
+  },
+  "01077003c": {
+    "text": {
+      "ascii": "vAsobhir annapAnaiz ca saMvibhajya susatkRtAm\n",
+      "ud": "वासोभिरन्नपानैश्च संविभज्य सुसत्कृताम्\n",
+      "ur": "vāsobhir annapānaiś ca saṁvibhajya susatkr̥tām\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 3
+  },
+  "01077004a": {
+    "text": {
+      "ascii": "devayAnyA tu sahitaH sa nRpo nahuSAtmajaH\n",
+      "ud": "देवयान्या तु सहितः स नृपो नहुषात्मजः\n",
+      "ur": "devayānyā tu sahitaḥ sa nr̥po nahuṣātmajaḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 4
+  },
+  "01077004c": {
+    "text": {
+      "ascii": "vijahAra bahUn abdAn devavan mudito bhRzam\n",
+      "ud": "विजहार बहूनब्दान्देववन्मुदितो भृशम्\n",
+      "ur": "vijahāra bahūn abdān devavan mudito bhr̥śam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 4
+  },
+  "01077005a": {
+    "text": {
+      "ascii": "RtukAle tu saMprApte devayAnI varAGganA\n",
+      "ud": "ऋतुकाले तु संप्राप्ते देवयानी वराङ्गना\n",
+      "ur": "r̥tukāle tu saṁprāpte devayānī varāṅganā\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 5
+  },
+  "01077005c": {
+    "text": {
+      "ascii": "lebhe garbhaM prathamataH kumAraM ca vyajAyata\n",
+      "ud": "लेभे गर्भं प्रथमतः कुमारं च व्यजायत\n",
+      "ur": "lebhe garbhaṁ prathamataḥ kumāraṁ ca vyajāyata\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 5
+  },
+  "01077006a": {
+    "text": {
+      "ascii": "gate varSasahasre tu zarmiSThA vArSaparvaNI\n",
+      "ud": "गते वर्षसहस्रे तु शर्मिष्ठा वार्षपर्वणी\n",
+      "ur": "gate varṣasahasre tu śarmiṣṭhā vārṣaparvaṇī\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 6
+  },
+  "01077006c": {
+    "text": {
+      "ascii": "dadarza yauvanaM prAptA RtuM sA cAnvacintayat\n",
+      "ud": "ददर्श यौवनं प्राप्ता ऋतुं सा चान्वचिन्तयत्\n",
+      "ur": "dadarśa yauvanaṁ prāptā r̥tuṁ sā cānvacintayat\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 6
+  },
+  "01077007a": {
+    "text": {
+      "ascii": "RtukAlaz ca saMprApto na ca me 'sti patir vRtaH\n",
+      "ud": "ऋतुकालश्च संप्राप्तो न च मेऽस्ति पतिर्वृतः\n",
+      "ur": "r̥tukālaś ca saṁprāpto na ca me ’sti patir vr̥taḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 7
+  },
+  "01077007c": {
+    "text": {
+      "ascii": "kiM prAptaM kiM nu kartavyaM kiM vA kRtvA kRtaM bhavet\n",
+      "ud": "किं प्राप्तं किं नु कर्तव्यं किं वा कृत्वा कृतं भवेत्\n",
+      "ur": "kiṁ prāptaṁ kiṁ nu kartavyaṁ kiṁ vā kr̥tvā kr̥taṁ bhavet\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 7
+  },
+  "01077008a": {
+    "text": {
+      "ascii": "devayAnI prajAtAsau vRthAhaM prAptayauvanA\n",
+      "ud": "देवयानी प्रजातासौ वृथाहं प्राप्तयौवना\n",
+      "ur": "devayānī prajātāsau vr̥thāhaṁ prāptayauvanā\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 8
+  },
+  "01077008c": {
+    "text": {
+      "ascii": "yathA tayA vRto bhartA tathaivAhaM vRNomi tam\n",
+      "ud": "यथा तया वृतो भर्ता तथैवाहं वृणोमि तम्\n",
+      "ur": "yathā tayā vr̥to bhartā tathaivāhaṁ vr̥ṇomi tam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 8
+  },
+  "01077009a": {
+    "text": {
+      "ascii": "rAjJA putraphalaM deyam iti me nizcitA matiH\n",
+      "ud": "राज्ञा पुत्रफलं देयमिति मे निश्चिता मतिः\n",
+      "ur": "rājñā putraphalaṁ deyam iti me niścitā matiḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 9
+  },
+  "01077009c": {
+    "text": {
+      "ascii": "apIdAnIM sa dharmAtmA iyAn me darzanaM rahaH\n",
+      "ud": "अपीदानीं स धर्मात्मा इयान्मे दर्शनं रहः\n",
+      "ur": "apīdānīṁ sa dharmātmā iyān me darśanaṁ rahaḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 9
+  },
+  "01077010a": {
+    "text": {
+      "ascii": "atha niSkramya rAjAsau tasmin kAle yadRcchayA\n",
+      "ud": "अथ निष्क्रम्य राजासौ तस्मिन्काले यदृच्छया\n",
+      "ur": "atha niṣkramya rājāsau tasmin kāle yadr̥cchayā\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 10
+  },
+  "01077010c": {
+    "text": {
+      "ascii": "azokavanikAbhyAze zarmiSThAM prApya viSThitaH\n",
+      "ud": "अशोकवनिकाभ्याशे शर्मिष्ठां प्राप्य विष्ठितः\n",
+      "ur": "aśokavanikābhyāśe śarmiṣṭhāṁ prāpya viṣṭhitaḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 10
+  },
+  "01077011a": {
+    "text": {
+      "ascii": "tam ekaM rahite dRSTvA zarmiSThA cAruhAsinI\n",
+      "ud": "तमेकं रहिते दृष्ट्वा शर्मिष्ठा चारुहासिनी\n",
+      "ur": "tam ekaṁ rahite dr̥ṣṭvā śarmiṣṭhā cāruhāsinī\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 11
+  },
+  "01077011c": {
+    "text": {
+      "ascii": "pratyudgamyAJjaliM kRtvA rAjAnaM vAkyam abravIt\n",
+      "ud": "प्रत्युद्गम्याञ्जलिं कृत्वा राजानं वाक्यमब्रवीत्\n",
+      "ur": "pratyudgamyāñjaliṁ kr̥tvā rājānaṁ vākyam abravīt\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 11
+  },
+  "01077012a": {
+    "text": {
+      "ascii": "somasyendrasya viSNor vA yamasya varuNasya vA\n",
+      "ud": "सोमस्येन्द्रस्य विष्णोर्वा यमस्य वरुणस्य वा\n",
+      "ur": "somasyendrasya viṣṇor vā yamasya varuṇasya vā\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 12
+  },
+  "01077012c": {
+    "text": {
+      "ascii": "tava vA nAhuSa kule kaH striyaM spraSTum arhati\n",
+      "ud": "तव वा नाहुष कुले कः स्त्रियं स्प्रष्टुमर्हति\n",
+      "ur": "tava vā nāhuṣa kule kaḥ striyaṁ spraṣṭum arhati\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 12
+  },
+  "01077013a": {
+    "text": {
+      "ascii": "rUpAbhijanazIlair hi tvaM rAjan vettha mAM sadA\n",
+      "ud": "रूपाभिजनशीलैर्हि त्वं राजन्वेत्थ मां सदा\n",
+      "ur": "rūpābhijanaśīlair hi tvaṁ rājan vettha māṁ sadā\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 13
+  },
+  "01077013c": {
+    "text": {
+      "ascii": "sA tvAM yAce prasAdyAham RtuM dehi narAdhipa\n",
+      "ud": "सा त्वां याचे प्रसाद्याहमृतुं देहि नराधिप\n",
+      "ur": "sā tvāṁ yāce prasādyāham r̥tuṁ dehi narādhipa\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 13
+  },
+  "01077014": {
+    "text": {
+      "ascii": "yayAtir uvAca\n",
+      "ud": "ययातिरुवाच\n",
+      "ur": "yayātir uvāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 14
+  },
+  "01077014a": {
+    "text": {
+      "ascii": "vedmi tvAM zIlasaMpannAM daityakanyAm aninditAm\n",
+      "ud": "वेद्मि त्वां शीलसंपन्नां दैत्यकन्यामनिन्दिताम्\n",
+      "ur": "vedmi tvāṁ śīlasaṁpannāṁ daityakanyām aninditām\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 14
+  },
+  "01077014c": {
+    "text": {
+      "ascii": "rUpe ca te na pazyAmi sUcyagram api ninditam\n",
+      "ud": "रूपे च ते न पश्यामि सूच्यग्रमपि निन्दितम्\n",
+      "ur": "rūpe ca te na paśyāmi sūcyagram api ninditam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 14
+  },
+  "01077015a": {
+    "text": {
+      "ascii": "abravId uzanA kAvyo devayAnIM yadAvaham\n",
+      "ud": "अब्रवीदुशना काव्यो देवयानीं यदावहम्\n",
+      "ur": "abravīd uśanā kāvyo devayānīṁ yadāvaham\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 15
+  },
+  "01077015c": {
+    "text": {
+      "ascii": "neyam AhvayitavyA te zayane vArSaparvaNI\n",
+      "ud": "नेयमाह्वयितव्या ते शयने वार्षपर्वणी\n",
+      "ur": "neyam āhvayitavyā te śayane vārṣaparvaṇī\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 15
+  },
+  "01077016": {
+    "text": {
+      "ascii": "zarmiSThovAca\n",
+      "ud": "शर्मिष्ठोवाच\n",
+      "ur": "śarmiṣṭhovāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 16
+  },
+  "01077016a": {
+    "text": {
+      "ascii": "na narmayuktaM vacanaM hinasti; na strISu rAjan na vivAhakAle\n",
+      "ud": "न नर्मयुक्तं वचनं हिनस्ति; न स्त्रीषु राजन्न विवाहकाले\n",
+      "ur": "na narmayuktaṁ vacanaṁ hinasti; na strīṣu rājan na vivāhakāle\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 16
+  },
+  "01077016c": {
+    "text": {
+      "ascii": "prANAtyaye sarvadhanApahAre; paJcAnRtAny Ahur apAtakAni\n",
+      "ud": "प्राणात्यये सर्वधनापहारे; पञ्चानृतान्याहुरपातकानि\n",
+      "ur": "prāṇātyaye sarvadhanāpahāre; pañcānr̥tāny āhur apātakāni\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 16
+  },
+  "01077017a": {
+    "text": {
+      "ascii": "pRSTaM tu sAkSye pravadantam anyathA; vadanti mithyopahitaM narendra\n",
+      "ud": "पृष्टं तु साक्ष्ये प्रवदन्तमन्यथा; वदन्ति मिथ्योपहितं नरेन्द्र\n",
+      "ur": "pr̥ṣṭaṁ tu sākṣye pravadantam anyathā; vadanti mithyopahitaṁ narendra\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 17
+  },
+  "01077017c": {
+    "text": {
+      "ascii": "ekArthatAyAM tu samAhitAyAM; mithyA vadantam anRtaM hinasti\n",
+      "ud": "एकार्थतायां तु समाहितायां; मिथ्या वदन्तमनृतं हिनस्ति\n",
+      "ur": "ekārthatāyāṁ tu samāhitāyāṁ; mithyā vadantam anr̥taṁ hinasti\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 17
+  },
+  "01077018": {
+    "text": {
+      "ascii": "yayAtir uvAca\n",
+      "ud": "ययातिरुवाच\n",
+      "ur": "yayātir uvāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 18
+  },
+  "01077018a": {
+    "text": {
+      "ascii": "rAjA pramANaM bhUtAnAM sa nazyeta mRSA vadan\n",
+      "ud": "राजा प्रमाणं भूतानां स नश्येत मृषा वदन्\n",
+      "ur": "rājā pramāṇaṁ bhūtānāṁ sa naśyeta mr̥ṣā vadan\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 18
+  },
+  "01077018c": {
+    "text": {
+      "ascii": "arthakRcchram api prApya na mithyA kartum utsahe\n",
+      "ud": "अर्थकृच्छ्रमपि प्राप्य न मिथ्या कर्तुमुत्सहे\n",
+      "ur": "arthakr̥cchram api prāpya na mithyā kartum utsahe\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 18
+  },
+  "01077019": {
+    "text": {
+      "ascii": "zarmiSThovAca\n",
+      "ud": "शर्मिष्ठोवाच\n",
+      "ur": "śarmiṣṭhovāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 19
+  },
+  "01077019a": {
+    "text": {
+      "ascii": "samAv etau matau rAjan patiH sakhyAz ca yaH patiH\n",
+      "ud": "समावेतौ मतौ राजन्पतिः सख्याश्च यः पतिः\n",
+      "ur": "samāv etau matau rājan patiḥ sakhyāś ca yaḥ patiḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 19
+  },
+  "01077019c": {
+    "text": {
+      "ascii": "samaM vivAham ity AhuH sakhyA me 'si patir vRtaH\n",
+      "ud": "समं विवाहमित्याहुः सख्या मेऽसि पतिर्वृतः\n",
+      "ur": "samaṁ vivāham ity āhuḥ sakhyā me ’si patir vr̥taḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 19
+  },
+  "01077020": {
+    "text": {
+      "ascii": "yayAtir uvAca\n",
+      "ud": "ययातिरुवाच\n",
+      "ur": "yayātir uvāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 20
+  },
+  "01077020a": {
+    "text": {
+      "ascii": "dAtavyaM yAcamAnebhya iti me vratam Ahitam\n",
+      "ud": "दातव्यं याचमानेभ्य इति मे व्रतमाहितम्\n",
+      "ur": "dātavyaṁ yācamānebhya iti me vratam āhitam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 20
+  },
+  "01077020c": {
+    "text": {
+      "ascii": "tvaM ca yAcasi mAM kAmaM brUhi kiM karavANi te\n",
+      "ud": "त्वं च याचसि मां कामं ब्रूहि किं करवाणि ते\n",
+      "ur": "tvaṁ ca yācasi māṁ kāmaṁ brūhi kiṁ karavāṇi te\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 20
+  },
+  "01077021": {
+    "text": {
+      "ascii": "zarmiSThovAca\n",
+      "ud": "शर्मिष्ठोवाच\n",
+      "ur": "śarmiṣṭhovāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 21
+  },
+  "01077021a": {
+    "text": {
+      "ascii": "adharmAt trAhi mAM rAjan dharmaM ca pratipAdaya\n",
+      "ud": "अधर्मात्त्राहि मां राजन्धर्मं च प्रतिपादय\n",
+      "ur": "adharmāt trāhi māṁ rājan dharmaṁ ca pratipādaya\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 21
+  },
+  "01077021c": {
+    "text": {
+      "ascii": "tvatto 'patyavatI loke careyaM dharmam uttamam\n",
+      "ud": "त्वत्तोऽपत्यवती लोके चरेयं धर्ममुत्तमम्\n",
+      "ur": "tvatto ’patyavatī loke careyaṁ dharmam uttamam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 21
+  },
+  "01077022a": {
+    "text": {
+      "ascii": "traya evAdhanA rAjan bhAryA dAsas tathA sutaH\n",
+      "ud": "त्रय एवाधना राजन्भार्या दासस्तथा सुतः\n",
+      "ur": "traya evādhanā rājan bhāryā dāsas tathā sutaḥ\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 22
+  },
+  "01077022c": {
+    "text": {
+      "ascii": "yat te samadhigacchanti yasya te tasya tad dhanam\n",
+      "ud": "यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम्\n",
+      "ur": "yat te samadhigacchanti yasya te tasya tad dhanam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 22
+  },
+  "01077023a": {
+    "text": {
+      "ascii": "devayAnyA bhujiSyAsmi vazyA ca tava bhArgavI\n",
+      "ud": "देवयान्या भुजिष्यास्मि वश्या च तव भार्गवी\n",
+      "ur": "devayānyā bhujiṣyāsmi vaśyā ca tava bhārgavī\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 23
+  },
+  "01077023c": {
+    "text": {
+      "ascii": "sA cAhaM ca tvayA rAjan bharaNIye bhajasva mAm\n",
+      "ud": "सा चाहं च त्वया राजन्भरणीये भजस्व माम्\n",
+      "ur": "sā cāhaṁ ca tvayā rājan bharaṇīye bhajasva mām\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 23
+  },
+  "01077024": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 24
+  },
+  "01077024a": {
+    "text": {
+      "ascii": "evam uktas tu rAjA sa tathyam ity eva jajJivAn\n",
+      "ud": "एवमुक्तस्तु राजा स तथ्यमित्येव जज्ञिवान्\n",
+      "ur": "evam uktas tu rājā sa tathyam ity eva jajñivān\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 24
+  },
+  "01077024c": {
+    "text": {
+      "ascii": "pUjayAm Asa zarmiSThAM dharmaM ca pratyapAdayat\n",
+      "ud": "पूजयामास शर्मिष्ठां धर्मं च प्रत्यपादयत्\n",
+      "ur": "pūjayām āsa śarmiṣṭhāṁ dharmaṁ ca pratyapādayat\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 24
+  },
+  "01077025a": {
+    "text": {
+      "ascii": "samAgamya ca zarmiSThAM yathAkAmam avApya ca\n",
+      "ud": "समागम्य च शर्मिष्ठां यथाकाममवाप्य च\n",
+      "ur": "samāgamya ca śarmiṣṭhāṁ yathākāmam avāpya ca\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 25
+  },
+  "01077025c": {
+    "text": {
+      "ascii": "anyonyam abhisaMpUjya jagmatus tau yathAgatam\n",
+      "ud": "अन्योन्यमभिसंपूज्य जग्मतुस्तौ यथागतम्\n",
+      "ur": "anyonyam abhisaṁpūjya jagmatus tau yathāgatam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 25
+  },
+  "01077026a": {
+    "text": {
+      "ascii": "tasmin samAgame subhrUH zarmiSThA cAruhAsinI\n",
+      "ud": "तस्मिन्समागमे सुभ्रूः शर्मिष्ठा चारुहासिनी\n",
+      "ur": "tasmin samāgame subhrūḥ śarmiṣṭhā cāruhāsinī\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 26
+  },
+  "01077026c": {
+    "text": {
+      "ascii": "lebhe garbhaM prathamatas tasmAn nRpatisattamAt\n",
+      "ud": "लेभे गर्भं प्रथमतस्तस्मान्नृपतिसत्तमात्\n",
+      "ur": "lebhe garbhaṁ prathamatas tasmān nr̥patisattamāt\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 26
+  },
+  "01077027a": {
+    "text": {
+      "ascii": "prajajJe ca tataH kAle rAjan rAjIvalocanA\n",
+      "ud": "प्रजज्ञे च ततः काले राजन्राजीवलोचना\n",
+      "ur": "prajajñe ca tataḥ kāle rājan rājīvalocanā\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 27
+  },
+  "01077027c": {
+    "text": {
+      "ascii": "kumAraM devagarbhAbhaM rAjIvanibhalocanam\n",
+      "ud": "कुमारं देवगर्भाभं राजीवनिभलोचनम्\n",
+      "ur": "kumāraṁ devagarbhābhaṁ rājīvanibhalocanam\n"
+    },
+    "book": 1,
+    "chapter": 77,
+    "verse": 27
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "01097001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 1
+  },
+  "01097001a": {
+    "text": {
+      "ascii": "tataH satyavatI dInA kRpaNA putragRddhinI\n",
+      "ud": "ततः सत्यवती दीना कृपणा पुत्रगृद्धिनी\n",
+      "ur": "tataḥ satyavatī dīnā kr̥paṇā putragr̥ddhinī\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 1
+  },
+  "01097001c": {
+    "text": {
+      "ascii": "putrasya kRtvA kAryANi snuSAbhyAM saha bhArata\n",
+      "ud": "पुत्रस्य कृत्वा कार्याणि स्नुषाभ्यां सह भारत\n",
+      "ur": "putrasya kr̥tvā kāryāṇi snuṣābhyāṁ saha bhārata\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 1
+  },
+  "01097002a": {
+    "text": {
+      "ascii": "dharmaM ca pitRvaMzaM ca mAtRvaMzaM ca mAninI\n",
+      "ud": "धर्मं च पितृवंशं च मातृवंशं च मानिनी\n",
+      "ur": "dharmaṁ ca pitr̥vaṁśaṁ ca mātr̥vaṁśaṁ ca māninī\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 2
+  },
+  "01097002c": {
+    "text": {
+      "ascii": "prasamIkSya mahAbhAgA gAGgeyaM vAkyam abravIt\n",
+      "ud": "प्रसमीक्ष्य महाभागा गाङ्गेयं वाक्यमब्रवीत्\n",
+      "ur": "prasamīkṣya mahābhāgā gāṅgeyaṁ vākyam abravīt\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 2
+  },
+  "01097003a": {
+    "text": {
+      "ascii": "zaMtanor dharmanityasya kauravyasya yazasvinaH\n",
+      "ud": "शंतनोर्धर्मनित्यस्य कौरव्यस्य यशस्विनः\n",
+      "ur": "śaṁtanor dharmanityasya kauravyasya yaśasvinaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 3
+  },
+  "01097003c": {
+    "text": {
+      "ascii": "tvayi piNDaz ca kIrtiz ca saMtAnaM ca pratiSThitam\n",
+      "ud": "त्वयि पिण्डश्च कीर्तिश्च संतानं च प्रतिष्ठितम्\n",
+      "ur": "tvayi piṇḍaś ca kīrtiś ca saṁtānaṁ ca pratiṣṭhitam\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 3
+  },
+  "01097004a": {
+    "text": {
+      "ascii": "yathA karma zubhaM kRtvA svargopagamanaM dhruvam\n",
+      "ud": "यथा कर्म शुभं कृत्वा स्वर्गोपगमनं ध्रुवम्\n",
+      "ur": "yathā karma śubhaṁ kr̥tvā svargopagamanaṁ dhruvam\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 4
+  },
+  "01097004c": {
+    "text": {
+      "ascii": "yathA cAyur dhruvaM satye tvayi dharmas tathA dhruvaH\n",
+      "ud": "यथा चायुर्ध्रुवं सत्ये त्वयि धर्मस्तथा ध्रुवः\n",
+      "ur": "yathā cāyur dhruvaṁ satye tvayi dharmas tathā dhruvaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 4
+  },
+  "01097005a": {
+    "text": {
+      "ascii": "vettha dharmAMz ca dharmajJa samAsenetareNa ca\n",
+      "ud": "वेत्थ धर्मांश्च धर्मज्ञ समासेनेतरेण च\n",
+      "ur": "vettha dharmāṁś ca dharmajña samāsenetareṇa ca\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 5
+  },
+  "01097005c": {
+    "text": {
+      "ascii": "vividhAs tvaM zrutIr vettha vettha vedAMz ca sarvazaH\n",
+      "ud": "विविधास्त्वं श्रुतीर्वेत्थ वेत्थ वेदांश्च सर्वशः\n",
+      "ur": "vividhās tvaṁ śrutīr vettha vettha vedāṁś ca sarvaśaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 5
+  },
+  "01097006a": {
+    "text": {
+      "ascii": "vyavasthAnaM ca te dharme kulAcAraM ca lakSaye\n",
+      "ud": "व्यवस्थानं च ते धर्मे कुलाचारं च लक्षये\n",
+      "ur": "vyavasthānaṁ ca te dharme kulācāraṁ ca lakṣaye\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 6
+  },
+  "01097006c": {
+    "text": {
+      "ascii": "pratipattiM ca kRcchreSu zukrAGgirasayor iva\n",
+      "ud": "प्रतिपत्तिं च कृच्छ्रेषु शुक्राङ्गिरसयोरिव\n",
+      "ur": "pratipattiṁ ca kr̥cchreṣu śukrāṅgirasayor iva\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 6
+  },
+  "01097007a": {
+    "text": {
+      "ascii": "tasmAt subhRzam Azvasya tvayi dharmabhRtAM vara\n",
+      "ud": "तस्मात्सुभृशमाश्वस्य त्वयि धर्मभृतां वर\n",
+      "ur": "tasmāt subhr̥śam āśvasya tvayi dharmabhr̥tāṁ vara\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 7
+  },
+  "01097007c": {
+    "text": {
+      "ascii": "kArye tvAM viniyokSyAmi tac chrutvA kartum arhasi\n",
+      "ud": "कार्ये त्वां विनियोक्ष्यामि तच्छ्रुत्वा कर्तुमर्हसि\n",
+      "ur": "kārye tvāṁ viniyokṣyāmi tac chrutvā kartum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 7
+  },
+  "01097008a": {
+    "text": {
+      "ascii": "mama putras tava bhrAtA vIryavAn supriyaz ca te\n",
+      "ud": "मम पुत्रस्तव भ्राता वीर्यवान्सुप्रियश्च ते\n",
+      "ur": "mama putras tava bhrātā vīryavān supriyaś ca te\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 8
+  },
+  "01097008c": {
+    "text": {
+      "ascii": "bAla eva gataH svargam aputraH puruSarSabha\n",
+      "ud": "बाल एव गतः स्वर्गमपुत्रः पुरुषर्षभ\n",
+      "ur": "bāla eva gataḥ svargam aputraḥ puruṣarṣabha\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 8
+  },
+  "01097009a": {
+    "text": {
+      "ascii": "ime mahiSyau bhrAtus te kAzirAjasute zubhe\n",
+      "ud": "इमे महिष्यौ भ्रातुस्ते काशिराजसुते शुभे\n",
+      "ur": "ime mahiṣyau bhrātus te kāśirājasute śubhe\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 9
+  },
+  "01097009c": {
+    "text": {
+      "ascii": "rUpayauvanasaMpanne putrakAme ca bhArata\n",
+      "ud": "रूपयौवनसंपन्ने पुत्रकामे च भारत\n",
+      "ur": "rūpayauvanasaṁpanne putrakāme ca bhārata\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 9
+  },
+  "01097010a": {
+    "text": {
+      "ascii": "tayor utpAdayApatyaM saMtAnAya kulasya naH\n",
+      "ud": "तयोरुत्पादयापत्यं संतानाय कुलस्य नः\n",
+      "ur": "tayor utpādayāpatyaṁ saṁtānāya kulasya naḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 10
+  },
+  "01097010c": {
+    "text": {
+      "ascii": "manniyogAn mahAbhAga dharmaM kartum ihArhasi\n",
+      "ud": "मन्नियोगान्महाभाग धर्मं कर्तुमिहार्हसि\n",
+      "ur": "manniyogān mahābhāga dharmaṁ kartum ihārhasi\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 10
+  },
+  "01097011a": {
+    "text": {
+      "ascii": "rAjye caivAbhiSicyasva bhAratAn anuzAdhi ca\n",
+      "ud": "राज्ये चैवाभिषिच्यस्व भारताननुशाधि च\n",
+      "ur": "rājye caivābhiṣicyasva bhāratān anuśādhi ca\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 11
+  },
+  "01097011c": {
+    "text": {
+      "ascii": "dArAMz ca kuru dharmeNa mA nimajjIH pitAmahAn\n",
+      "ud": "दारांश्च कुरु धर्मेण मा निमज्जीः पितामहान्\n",
+      "ur": "dārāṁś ca kuru dharmeṇa mā nimajjīḥ pitāmahān\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 11
+  },
+  "01097012a": {
+    "text": {
+      "ascii": "tathocyamAno mAtrA ca suhRdbhiz ca paraMtapaH\n",
+      "ud": "तथोच्यमानो मात्रा च सुहृद्भिश्च परंतपः\n",
+      "ur": "tathocyamāno mātrā ca suhr̥dbhiś ca paraṁtapaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 12
+  },
+  "01097012c": {
+    "text": {
+      "ascii": "pratyuvAca sa dharmAtmA dharmyam evottaraM vacaH\n",
+      "ud": "प्रत्युवाच स धर्मात्मा धर्म्यमेवोत्तरं वचः\n",
+      "ur": "pratyuvāca sa dharmātmā dharmyam evottaraṁ vacaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 12
+  },
+  "01097013a": {
+    "text": {
+      "ascii": "asaMzayaM paro dharmas tvayA mAtar udAhRtaH\n",
+      "ud": "असंशयं परो धर्मस्त्वया मातरुदाहृतः\n",
+      "ur": "asaṁśayaṁ paro dharmas tvayā mātar udāhr̥taḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 13
+  },
+  "01097013c": {
+    "text": {
+      "ascii": "tvam apatyaM prati ca me pratijJAM vettha vai parAm\n",
+      "ud": "त्वमपत्यं प्रति च मे प्रतिज्ञां वेत्थ वै पराम्\n",
+      "ur": "tvam apatyaṁ prati ca me pratijñāṁ vettha vai parām\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 13
+  },
+  "01097014a": {
+    "text": {
+      "ascii": "jAnAsi ca yathAvRttaM zulkahetos tvadantare\n",
+      "ud": "जानासि च यथावृत्तं शुल्कहेतोस्त्वदन्तरे\n",
+      "ur": "jānāsi ca yathāvr̥ttaṁ śulkahetos tvadantare\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 14
+  },
+  "01097014c": {
+    "text": {
+      "ascii": "sa satyavati satyaM te pratijAnAmy ahaM punaH\n",
+      "ud": "स सत्यवति सत्यं ते प्रतिजानाम्यहं पुनः\n",
+      "ur": "sa satyavati satyaṁ te pratijānāmy ahaṁ punaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 14
+  },
+  "01097015a": {
+    "text": {
+      "ascii": "parityajeyaM trailokyaM rAjyaM deveSu vA punaH\n",
+      "ud": "परित्यजेयं त्रैलोक्यं राज्यं देवेषु वा पुनः\n",
+      "ur": "parityajeyaṁ trailokyaṁ rājyaṁ deveṣu vā punaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 15
+  },
+  "01097015c": {
+    "text": {
+      "ascii": "yad vApy adhikam etAbhyAM na tu satyaM kathaM cana\n",
+      "ud": "यद्वाप्यधिकमेताभ्यां न तु सत्यं कथंचन\n",
+      "ur": "yad vāpy adhikam etābhyāṁ na tu satyaṁ kathaṁ cana\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 15
+  },
+  "01097016a": {
+    "text": {
+      "ascii": "tyajec ca pRthivI gandham Apaz ca rasam AtmanaH\n",
+      "ud": "त्यजेच्च पृथिवी गन्धमापश्च रसमात्मनः\n",
+      "ur": "tyajec ca pr̥thivī gandham āpaś ca rasam ātmanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 16
+  },
+  "01097016c": {
+    "text": {
+      "ascii": "jyotis tathA tyajed rUpaM vAyuH sparzaguNaM tyajet\n",
+      "ud": "ज्योतिस्तथा त्यजेद्रूपं वायुः स्पर्शगुणं त्यजेत्\n",
+      "ur": "jyotis tathā tyajed rūpaṁ vāyuḥ sparśaguṇaṁ tyajet\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 16
+  },
+  "01097017a": {
+    "text": {
+      "ascii": "prabhAM samutsRjed arko dhUmaketus tathoSNatAm\n",
+      "ud": "प्रभां समुत्सृजेदर्को धूमकेतुस्तथोष्णताम्\n",
+      "ur": "prabhāṁ samutsr̥jed arko dhūmaketus tathoṣṇatām\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 17
+  },
+  "01097017c": {
+    "text": {
+      "ascii": "tyajec chabdaM tathAkAzaH somaH zItAMzutAM tyajet\n",
+      "ud": "त्यजेच्छब्दं तथाकाशः सोमः शीतांशुतां त्यजेत्\n",
+      "ur": "tyajec chabdaṁ tathākāśaḥ somaḥ śītāṁśutāṁ tyajet\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 17
+  },
+  "01097018a": {
+    "text": {
+      "ascii": "vikramaM vRtrahA jahyAd dharmaM jahyAc ca dharmarAT\n",
+      "ud": "विक्रमं वृत्रहा जह्याद्धर्मं जह्याच्च धर्मराट्\n",
+      "ur": "vikramaṁ vr̥trahā jahyād dharmaṁ jahyāc ca dharmarāṭ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 18
+  },
+  "01097018c": {
+    "text": {
+      "ascii": "na tv ahaM satyam utsraSTuM vyavaseyaM kathaM cana\n",
+      "ud": "न त्वहं सत्यमुत्स्रष्टुं व्यवसेयं कथंचन\n",
+      "ur": "na tv ahaṁ satyam utsraṣṭuṁ vyavaseyaṁ kathaṁ cana\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 18
+  },
+  "01097019a": {
+    "text": {
+      "ascii": "evam uktA tu putreNa bhUridraviNatejasA\n",
+      "ud": "एवमुक्ता तु पुत्रेण भूरिद्रविणतेजसा\n",
+      "ur": "evam uktā tu putreṇa bhūridraviṇatejasā\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 19
+  },
+  "01097019c": {
+    "text": {
+      "ascii": "mAtA satyavatI bhISmam uvAca tadanantaram\n",
+      "ud": "माता सत्यवती भीष्ममुवाच तदनन्तरम्\n",
+      "ur": "mātā satyavatī bhīṣmam uvāca tadanantaram\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 19
+  },
+  "01097020a": {
+    "text": {
+      "ascii": "jAnAmi te sthitiM satye parAM satyaparAkrama\n",
+      "ud": "जानामि ते स्थितिं सत्ये परां सत्यपराक्रम\n",
+      "ur": "jānāmi te sthitiṁ satye parāṁ satyaparākrama\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 20
+  },
+  "01097020c": {
+    "text": {
+      "ascii": "icchan sRjethAs trI\u0026l lokAn anyAMs tvaM svena tejasA\n",
+      "ud": "इच्छन्सृजेथास्त्रीँल्लोकानन्यांस्त्वं स्वेन तेजसा\n",
+      "ur": "icchan sr̥jethās trīm̐l lokān anyāṁs tvaṁ svena tejasā\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 20
+  },
+  "01097021a": {
+    "text": {
+      "ascii": "jAnAmi caiva satyaM tan madarthaM yad abhASathAH\n",
+      "ud": "जानामि चैव सत्यं तन्मदर्थं यदभाषथाः\n",
+      "ur": "jānāmi caiva satyaṁ tan madarthaṁ yad abhāṣathāḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 21
+  },
+  "01097021c": {
+    "text": {
+      "ascii": "Apaddharmam avekSasva vaha paitAmahIM dhuram\n",
+      "ud": "आपद्धर्ममवेक्षस्व वह पैतामहीं धुरम्\n",
+      "ur": "āpaddharmam avekṣasva vaha paitāmahīṁ dhuram\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 21
+  },
+  "01097022a": {
+    "text": {
+      "ascii": "yathA te kulatantuz ca dharmaz ca na parAbhavet\n",
+      "ud": "यथा ते कुलतन्तुश्च धर्मश्च न पराभवेत्\n",
+      "ur": "yathā te kulatantuś ca dharmaś ca na parābhavet\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 22
+  },
+  "01097022c": {
+    "text": {
+      "ascii": "suhRdaz ca prahRSyeraMs tathA kuru paraMtapa\n",
+      "ud": "सुहृदश्च प्रहृष्येरंस्तथा कुरु परंतप\n",
+      "ur": "suhr̥daś ca prahr̥ṣyeraṁs tathā kuru paraṁtapa\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 22
+  },
+  "01097023a": {
+    "text": {
+      "ascii": "lAlapyamAnAM tAm evaM kRpaNAM putragRddhinIm\n",
+      "ud": "लालप्यमानां तामेवं कृपणां पुत्रगृद्धिनीम्\n",
+      "ur": "lālapyamānāṁ tām evaṁ kr̥paṇāṁ putragr̥ddhinīm\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 23
+  },
+  "01097023c": {
+    "text": {
+      "ascii": "dharmAd apetaM bruvatIM bhISmo bhUyo 'bravId idam\n",
+      "ud": "धर्मादपेतं ब्रुवतीं भीष्मो भूयोऽब्रवीदिदम्\n",
+      "ur": "dharmād apetaṁ bruvatīṁ bhīṣmo bhūyo ’bravīd idam\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 23
+  },
+  "01097024a": {
+    "text": {
+      "ascii": "rAjJi dharmAn avekSasva mA naH sarvAn vyanInazaH\n",
+      "ud": "राज्ञि धर्मानवेक्षस्व मा नः सर्वान्व्यनीनशः\n",
+      "ur": "rājñi dharmān avekṣasva mā naḥ sarvān vyanīnaśaḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 24
+  },
+  "01097024c": {
+    "text": {
+      "ascii": "satyAc cyutiH kSatriyasya na dharmeSu prazasyate\n",
+      "ud": "सत्याच्च्युतिः क्षत्रियस्य न धर्मेषु प्रशस्यते\n",
+      "ur": "satyāc cyutiḥ kṣatriyasya na dharmeṣu praśasyate\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 24
+  },
+  "01097025a": {
+    "text": {
+      "ascii": "zaMtanor api saMtAnaM yathA syAd akSayaM bhuvi\n",
+      "ud": "शंतनोरपि संतानं यथा स्यादक्षयं भुवि\n",
+      "ur": "śaṁtanor api saṁtānaṁ yathā syād akṣayaṁ bhuvi\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 25
+  },
+  "01097025c": {
+    "text": {
+      "ascii": "tat te dharmaM pravakSyAmi kSAtraM rAjJi sanAtanam\n",
+      "ud": "तत्ते धर्मं प्रवक्ष्यामि क्षात्रं राज्ञि सनातनम्\n",
+      "ur": "tat te dharmaṁ pravakṣyāmi kṣātraṁ rājñi sanātanam\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 25
+  },
+  "01097026a": {
+    "text": {
+      "ascii": "zrutvA taM pratipadyethAH prAjJaiH saha purohitaiH\n",
+      "ud": "श्रुत्वा तं प्रतिपद्येथाः प्राज्ञैः सह पुरोहितैः\n",
+      "ur": "śrutvā taṁ pratipadyethāḥ prājñaiḥ saha purohitaiḥ\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 26
+  },
+  "01097026c": {
+    "text": {
+      "ascii": "ApaddharmArthakuzalair lokatantram avekSya ca\n",
+      "ud": "आपद्धर्मार्थकुशलैर्लोकतन्त्रमवेक्ष्य च\n",
+      "ur": "āpaddharmārthakuśalair lokatantram avekṣya ca\n"
+    },
+    "book": 1,
+    "chapter": 97,
+    "verse": 26
+  }
+}

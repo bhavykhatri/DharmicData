@@ -1,0 +1,682 @@
+{
+  "01101001": {
+    "text": {
+      "ascii": "janamejaya uvAca\n",
+      "ud": "जनमेजय उवाच\n",
+      "ur": "janamejaya uvāca\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 1
+  },
+  "01101001a": {
+    "text": {
+      "ascii": "kiM kRtaM karma dharmeNa yena zApam upeyivAn\n",
+      "ud": "किं कृतं कर्म धर्मेण येन शापमुपेयिवान्\n",
+      "ur": "kiṁ kr̥taṁ karma dharmeṇa yena śāpam upeyivān\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 1
+  },
+  "01101001c": {
+    "text": {
+      "ascii": "kasya zApAc ca brahmarSe zUdrayonAv ajAyata\n",
+      "ud": "कस्य शापाच्च ब्रह्मर्षे शूद्रयोनावजायत\n",
+      "ur": "kasya śāpāc ca brahmarṣe śūdrayonāv ajāyata\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 1
+  },
+  "01101002": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 2
+  },
+  "01101002a": {
+    "text": {
+      "ascii": "babhUva brAhmaNaH kaz cin mANDavya iti vizrutaH\n",
+      "ud": "बभूव ब्राह्मणः कश्चिन्माण्डव्य इति विश्रुतः\n",
+      "ur": "babhūva brāhmaṇaḥ kaś cin māṇḍavya iti viśrutaḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 2
+  },
+  "01101002c": {
+    "text": {
+      "ascii": "dhRtimAn sarvadharmajJaH satye tapasi ca sthitaH\n",
+      "ud": "धृतिमान्सर्वधर्मज्ञः सत्ये तपसि च स्थितः\n",
+      "ur": "dhr̥timān sarvadharmajñaḥ satye tapasi ca sthitaḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 2
+  },
+  "01101003a": {
+    "text": {
+      "ascii": "sa AzramapadadvAri vRkSamUle mahAtapAH\n",
+      "ud": "स आश्रमपदद्वारि वृक्षमूले महातपाः\n",
+      "ur": "sa āśramapadadvāri vr̥kṣamūle mahātapāḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 3
+  },
+  "01101003c": {
+    "text": {
+      "ascii": "UrdhvabAhur mahAyogI tasthau maunavratAnvitaH\n",
+      "ud": "ऊर्ध्वबाहुर्महायोगी तस्थौ मौनव्रतान्वितः\n",
+      "ur": "ūrdhvabāhur mahāyogī tasthau maunavratānvitaḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 3
+  },
+  "01101004a": {
+    "text": {
+      "ascii": "tasya kAlena mahatA tasmiMs tapasi tiSThataH\n",
+      "ud": "तस्य कालेन महता तस्मिंस्तपसि तिष्ठतः\n",
+      "ur": "tasya kālena mahatā tasmiṁs tapasi tiṣṭhataḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 4
+  },
+  "01101004c": {
+    "text": {
+      "ascii": "tam AzramapadaM prAptA dasyavo loptrahAriNaH\n",
+      "ud": "तमाश्रमपदं प्राप्ता दस्यवो लोप्त्रहारिणः\n",
+      "ur": "tam āśramapadaṁ prāptā dasyavo loptrahāriṇaḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 4
+  },
+  "01101004e": {
+    "text": {
+      "ascii": "anusAryamANA bahubhI rakSibhir bharatarSabha\n",
+      "ud": "अनुसार्यमाणा बहुभी रक्षिभिर्भरतर्षभ\n",
+      "ur": "anusāryamāṇā bahubhī rakṣibhir bharatarṣabha\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 4
+  },
+  "01101005a": {
+    "text": {
+      "ascii": "te tasyAvasathe loptraM nidadhuH kurusattama\n",
+      "ud": "ते तस्यावसथे लोप्त्रं निदधुः कुरुसत्तम\n",
+      "ur": "te tasyāvasathe loptraṁ nidadhuḥ kurusattama\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 5
+  },
+  "01101005c": {
+    "text": {
+      "ascii": "nidhAya ca bhayAl lInAs tatraivAnvAgate bale\n",
+      "ud": "निधाय च भयाल्लीनास्तत्रैवान्वागते बले\n",
+      "ur": "nidhāya ca bhayāl līnās tatraivānvāgate bale\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 5
+  },
+  "01101006a": {
+    "text": {
+      "ascii": "teSu lIneSv atho zIghraM tatas tad rakSiNAM balam\n",
+      "ud": "तेषु लीनेष्वथो शीघ्रं ततस्तद्रक्षिणां बलम्\n",
+      "ur": "teṣu līneṣv atho śīghraṁ tatas tad rakṣiṇāṁ balam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 6
+  },
+  "01101006c": {
+    "text": {
+      "ascii": "AjagAma tato 'pazyaMs tam RSiM taskarAnugAH\n",
+      "ud": "आजगाम ततोऽपश्यंस्तमृषिं तस्करानुगाः\n",
+      "ur": "ājagāma tato ’paśyaṁs tam r̥ṣiṁ taskarānugāḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 6
+  },
+  "01101007a": {
+    "text": {
+      "ascii": "tam apRcchaMs tato rAjaMs tathAvRttaM tapodhanam\n",
+      "ud": "तमपृच्छंस्ततो राजंस्तथावृत्तं तपोधनम्\n",
+      "ur": "tam apr̥cchaṁs tato rājaṁs tathāvr̥ttaṁ tapodhanam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 7
+  },
+  "01101007c": {
+    "text": {
+      "ascii": "katareNa pathA yAtA dasyavo dvijasattama\n",
+      "ud": "कतरेण पथा याता दस्यवो द्विजसत्तम\n",
+      "ur": "katareṇa pathā yātā dasyavo dvijasattama\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 7
+  },
+  "01101007e": {
+    "text": {
+      "ascii": "tena gacchAmahe brahman pathA zIghrataraM vayam\n",
+      "ud": "तेन गच्छामहे ब्रह्मन्पथा शीघ्रतरं वयम्\n",
+      "ur": "tena gacchāmahe brahman pathā śīghrataraṁ vayam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 7
+  },
+  "01101008a": {
+    "text": {
+      "ascii": "tathA tu rakSiNAM teSAM bruvatAM sa tapodhanaH\n",
+      "ud": "तथा तु रक्षिणां तेषां ब्रुवतां स तपोधनः\n",
+      "ur": "tathā tu rakṣiṇāṁ teṣāṁ bruvatāṁ sa tapodhanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 8
+  },
+  "01101008c": {
+    "text": {
+      "ascii": "na kiM cid vacanaM rAjann avadat sAdhv asAdhu vA\n",
+      "ud": "न किंचिद्वचनं राजन्नवदत्साध्वसाधु वा\n",
+      "ur": "na kiṁ cid vacanaṁ rājann avadat sādhv asādhu vā\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 8
+  },
+  "01101009a": {
+    "text": {
+      "ascii": "tatas te rAjapuruSA vicinvAnAs tadAzramam\n",
+      "ud": "ततस्ते राजपुरुषा विचिन्वानास्तदाश्रमम्\n",
+      "ur": "tatas te rājapuruṣā vicinvānās tadāśramam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 9
+  },
+  "01101009c": {
+    "text": {
+      "ascii": "dadRzus tatra saMlInAMs tAMz corAn dravyam eva ca\n",
+      "ud": "ददृशुस्तत्र संलीनांस्तांश्चोरान्द्रव्यमेव च\n",
+      "ur": "dadr̥śus tatra saṁlīnāṁs tāṁś corān dravyam eva ca\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 9
+  },
+  "01101010a": {
+    "text": {
+      "ascii": "tataH zaGkA samabhavad rakSiNAM taM muniM prati\n",
+      "ud": "ततः शङ्का समभवद्रक्षिणां तं मुनिं प्रति\n",
+      "ur": "tataḥ śaṅkā samabhavad rakṣiṇāṁ taṁ muniṁ prati\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 10
+  },
+  "01101010c": {
+    "text": {
+      "ascii": "saMyamyainaM tato rAjJe dasyUMz caiva nyavedayan\n",
+      "ud": "संयम्यैनं ततो राज्ञे दस्यूंश्चैव न्यवेदयन्\n",
+      "ur": "saṁyamyainaṁ tato rājñe dasyūṁś caiva nyavedayan\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 10
+  },
+  "01101011a": {
+    "text": {
+      "ascii": "taM rAjA saha taiz corair anvazAd vadhyatAm iti\n",
+      "ud": "तं राजा सह तैश्चोरैरन्वशाद्वध्यतामिति\n",
+      "ur": "taṁ rājā saha taiś corair anvaśād vadhyatām iti\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 11
+  },
+  "01101011c": {
+    "text": {
+      "ascii": "sa vadhyaghAtair ajJAtaH zUle proto mahAtapAH\n",
+      "ud": "स वध्यघातैरज्ञातः शूले प्रोतो महातपाः\n",
+      "ur": "sa vadhyaghātair ajñātaḥ śūle proto mahātapāḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 11
+  },
+  "01101012a": {
+    "text": {
+      "ascii": "tatas te zUlam Aropya taM muniM rakSiNas tadA\n",
+      "ud": "ततस्ते शूलमारोप्य तं मुनिं रक्षिणस्तदा\n",
+      "ur": "tatas te śūlam āropya taṁ muniṁ rakṣiṇas tadā\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 12
+  },
+  "01101012c": {
+    "text": {
+      "ascii": "pratijagmur mahIpAlaM dhanAny AdAya tAny atha\n",
+      "ud": "प्रतिजग्मुर्महीपालं धनान्यादाय तान्यथ\n",
+      "ur": "pratijagmur mahīpālaṁ dhanāny ādāya tāny atha\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 12
+  },
+  "01101013a": {
+    "text": {
+      "ascii": "zUlasthaH sa tu dharmAtmA kAlena mahatA tataH\n",
+      "ud": "शूलस्थः स तु धर्मात्मा कालेन महता ततः\n",
+      "ur": "śūlasthaḥ sa tu dharmātmā kālena mahatā tataḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 13
+  },
+  "01101013c": {
+    "text": {
+      "ascii": "nirAhAro 'pi viprarSir maraNaM nAbhyupAgamat\n",
+      "ud": "निराहारोऽपि विप्रर्षिर्मरणं नाभ्युपागमत्\n",
+      "ur": "nirāhāro ’pi viprarṣir maraṇaṁ nābhyupāgamat\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 13
+  },
+  "01101013e": {
+    "text": {
+      "ascii": "dhArayAm Asa ca prANAn RSIMz ca samupAnayat\n",
+      "ud": "धारयामास च प्राणानृषींश्च समुपानयत्\n",
+      "ur": "dhārayām āsa ca prāṇān r̥ṣīṁś ca samupānayat\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 13
+  },
+  "01101014a": {
+    "text": {
+      "ascii": "zUlAgre tapyamAnena tapas tena mahAtmanA\n",
+      "ud": "शूलाग्रे तप्यमानेन तपस्तेन महात्मना\n",
+      "ur": "śūlāgre tapyamānena tapas tena mahātmanā\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 14
+  },
+  "01101014c": {
+    "text": {
+      "ascii": "saMtApaM paramaM jagmur munayo 'tha paraMtapa\n",
+      "ud": "संतापं परमं जग्मुर्मुनयोऽथ परंतप\n",
+      "ur": "saṁtāpaṁ paramaṁ jagmur munayo ’tha paraṁtapa\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 14
+  },
+  "01101015a": {
+    "text": {
+      "ascii": "te rAtrau zakunA bhUtvA saMnyavartanta sarvataH\n",
+      "ud": "ते रात्रौ शकुना भूत्वा संन्यवर्तन्त सर्वतः\n",
+      "ur": "te rātrau śakunā bhūtvā saṁnyavartanta sarvataḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 15
+  },
+  "01101015c": {
+    "text": {
+      "ascii": "darzayanto yathAzakti tam apRcchan dvijottamam\n",
+      "ud": "दर्शयन्तो यथाशक्ति तमपृच्छन्द्विजोत्तमम्\n",
+      "ur": "darśayanto yathāśakti tam apr̥cchan dvijottamam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 15
+  },
+  "01101015e": {
+    "text": {
+      "ascii": "zrotum icchAmahe brahman kiM pApaM kRtavAn asi\n",
+      "ud": "श्रोतुमिच्छामहे ब्रह्मन्किं पापं कृतवानसि\n",
+      "ur": "śrotum icchāmahe brahman kiṁ pāpaṁ kr̥tavān asi\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 15
+  },
+  "01101016a": {
+    "text": {
+      "ascii": "tataH sa munizArdUlas tAn uvAca tapodhanAn\n",
+      "ud": "ततः स मुनिशार्दूलस्तानुवाच तपोधनान्\n",
+      "ur": "tataḥ sa muniśārdūlas tān uvāca tapodhanān\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 16
+  },
+  "01101016c": {
+    "text": {
+      "ascii": "doSataH kaM gamiSyAmi na hi me 'nyo 'parAdhyati\n",
+      "ud": "दोषतः कं गमिष्यामि न हि मेऽन्योऽपराध्यति\n",
+      "ur": "doṣataḥ kaṁ gamiṣyāmi na hi me ’nyo ’parādhyati\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 16
+  },
+  "01101017a": {
+    "text": {
+      "ascii": "rAjA ca tam RSiM zrutvA niSkramya saha mantribhiH\n",
+      "ud": "राजा च तमृषिं श्रुत्वा निष्क्रम्य सह मन्त्रिभिः\n",
+      "ur": "rājā ca tam r̥ṣiṁ śrutvā niṣkramya saha mantribhiḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 17
+  },
+  "01101017c": {
+    "text": {
+      "ascii": "prasAdayAm Asa tadA zUlastham RSisattamam\n",
+      "ud": "प्रसादयामास तदा शूलस्थमृषिसत्तमम्\n",
+      "ur": "prasādayām āsa tadā śūlastham r̥ṣisattamam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 17
+  },
+  "01101018a": {
+    "text": {
+      "ascii": "yan mayApakRtaM mohAd ajJAnAd RSisattama\n",
+      "ud": "यन्मयापकृतं मोहादज्ञानादृषिसत्तम\n",
+      "ur": "yan mayāpakr̥taṁ mohād ajñānād r̥ṣisattama\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 18
+  },
+  "01101018c": {
+    "text": {
+      "ascii": "prasAdaye tvAM tatrAhaM na me tvaM kroddhum arhasi\n",
+      "ud": "प्रसादये त्वां तत्राहं न मे त्वं क्रोद्धुमर्हसि\n",
+      "ur": "prasādaye tvāṁ tatrāhaṁ na me tvaṁ kroddhum arhasi\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 18
+  },
+  "01101019a": {
+    "text": {
+      "ascii": "evam uktas tato rAjJA prasAdam akaron muniH\n",
+      "ud": "एवमुक्तस्ततो राज्ञा प्रसादमकरोन्मुनिः\n",
+      "ur": "evam uktas tato rājñā prasādam akaron muniḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 19
+  },
+  "01101019c": {
+    "text": {
+      "ascii": "kRtaprasAdo rAjA taM tataH samavatArayat\n",
+      "ud": "कृतप्रसादो राजा तं ततः समवतारयत्\n",
+      "ur": "kr̥taprasādo rājā taṁ tataḥ samavatārayat\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 19
+  },
+  "01101020a": {
+    "text": {
+      "ascii": "avatArya ca zUlAgrAt tac chUlaM nizcakarSa ha\n",
+      "ud": "अवतार्य च शूलाग्रात्तच्छूलं निश्चकर्ष ह\n",
+      "ur": "avatārya ca śūlāgrāt tac chūlaṁ niścakarṣa ha\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 20
+  },
+  "01101020c": {
+    "text": {
+      "ascii": "azaknuvaMz ca niSkraSTuM zUlaM mUle sa cicchide\n",
+      "ud": "अशक्नुवंश्च निष्क्रष्टुं शूलं मूले स चिच्छिदे\n",
+      "ur": "aśaknuvaṁś ca niṣkraṣṭuṁ śūlaṁ mūle sa cicchide\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 20
+  },
+  "01101021a": {
+    "text": {
+      "ascii": "sa tathAntargatenaiva zUlena vyacaran muniH\n",
+      "ud": "स तथान्तर्गतेनैव शूलेन व्यचरन्मुनिः\n",
+      "ur": "sa tathāntargatenaiva śūlena vyacaran muniḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 21
+  },
+  "01101021c": {
+    "text": {
+      "ascii": "sa tena tapasA lokAn vijigye durlabhAn paraiH\n",
+      "ud": "स तेन तपसा लोकान्विजिग्ये दुर्लभान्परैः\n",
+      "ur": "sa tena tapasā lokān vijigye durlabhān paraiḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 21
+  },
+  "01101021e": {
+    "text": {
+      "ascii": "aNImANDavya iti ca tato lokeSu kathyate\n",
+      "ud": "अणीमाण्डव्य इति च ततो लोकेषु कथ्यते\n",
+      "ur": "aṇīmāṇḍavya iti ca tato lokeṣu kathyate\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 21
+  },
+  "01101022a": {
+    "text": {
+      "ascii": "sa gatvA sadanaM vipro dharmasya paramArthavit\n",
+      "ud": "स गत्वा सदनं विप्रो धर्मस्य परमार्थवित्\n",
+      "ur": "sa gatvā sadanaṁ vipro dharmasya paramārthavit\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 22
+  },
+  "01101022c": {
+    "text": {
+      "ascii": "AsanasthaM tato dharmaM dRSTvopAlabhata prabhuH\n",
+      "ud": "आसनस्थं ततो धर्मं दृष्ट्वोपालभत प्रभुः\n",
+      "ur": "āsanasthaṁ tato dharmaṁ dr̥ṣṭvopālabhata prabhuḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 22
+  },
+  "01101023a": {
+    "text": {
+      "ascii": "kiM nu tad duSkRtaM karma mayA kRtam ajAnatA\n",
+      "ud": "किं नु तद्दुष्कृतं कर्म मया कृतमजानता\n",
+      "ur": "kiṁ nu tad duṣkr̥taṁ karma mayā kr̥tam ajānatā\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 23
+  },
+  "01101023c": {
+    "text": {
+      "ascii": "yasyeyaM phalanirvRttir IdRzy AsAditA mayA\n",
+      "ud": "यस्येयं फलनिर्वृत्तिरीदृश्यासादिता मया\n",
+      "ur": "yasyeyaṁ phalanirvr̥ttir īdr̥śy āsāditā mayā\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 23
+  },
+  "01101023e": {
+    "text": {
+      "ascii": "zIghram AcakSva me tattvaM pazya me tapaso balam\n",
+      "ud": "शीघ्रमाचक्ष्व मे तत्त्वं पश्य मे तपसो बलम्\n",
+      "ur": "śīghram ācakṣva me tattvaṁ paśya me tapaso balam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 23
+  },
+  "01101024": {
+    "text": {
+      "ascii": "dharma uvAca\n",
+      "ud": "धर्म उवाच\n",
+      "ur": "dharma uvāca\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 24
+  },
+  "01101024a": {
+    "text": {
+      "ascii": "pataMgakAnAM puccheSu tvayeSIkA pravezitA\n",
+      "ud": "पतंगकानां पुच्छेषु त्वयेषीका प्रवेशिता\n",
+      "ur": "pataṁgakānāṁ puccheṣu tvayeṣīkā praveśitā\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 24
+  },
+  "01101024c": {
+    "text": {
+      "ascii": "karmaNas tasya te prAptaM phalam etat tapodhana\n",
+      "ud": "कर्मणस्तस्य ते प्राप्तं फलमेतत्तपोधन\n",
+      "ur": "karmaṇas tasya te prāptaṁ phalam etat tapodhana\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 24
+  },
+  "01101025": {
+    "text": {
+      "ascii": "aNImANDavya uvAca\n",
+      "ud": "अणीमाण्डव्य उवाच\n",
+      "ur": "aṇīmāṇḍavya uvāca\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 25
+  },
+  "01101025a": {
+    "text": {
+      "ascii": "alpe 'parAdhe vipulo mama daNDas tvayA kRtaH\n",
+      "ud": "अल्पेऽपराधे विपुलो मम दण्डस्त्वया कृतः\n",
+      "ur": "alpe ’parādhe vipulo mama daṇḍas tvayā kr̥taḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 25
+  },
+  "01101025c": {
+    "text": {
+      "ascii": "zUdrayonAv ato dharma mAnuSaH saMbhaviSyasi\n",
+      "ud": "शूद्रयोनावतो धर्म मानुषः संभविष्यसि\n",
+      "ur": "śūdrayonāv ato dharma mānuṣaḥ saṁbhaviṣyasi\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 25
+  },
+  "01101026a": {
+    "text": {
+      "ascii": "maryAdAM sthApayAmy adya loke dharmaphalodayAm\n",
+      "ud": "मर्यादां स्थापयाम्यद्य लोके धर्मफलोदयाम्\n",
+      "ur": "maryādāṁ sthāpayāmy adya loke dharmaphalodayām\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 26
+  },
+  "01101026c": {
+    "text": {
+      "ascii": "A caturdazamAd varSAn na bhaviSyati pAtakam\n",
+      "ud": "आ चतुर्दशमाद्वर्षान्न भविष्यति पातकम्\n",
+      "ur": "ā caturdaśamād varṣān na bhaviṣyati pātakam\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 26
+  },
+  "01101026e": {
+    "text": {
+      "ascii": "pareNa kurvatAm evaM doSa eva bhaviSyati\n",
+      "ud": "परेण कुर्वतामेवं दोष एव भविष्यति\n",
+      "ur": "pareṇa kurvatām evaṁ doṣa eva bhaviṣyati\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 26
+  },
+  "01101027": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 27
+  },
+  "01101027a": {
+    "text": {
+      "ascii": "etena tv aparAdhena zApAt tasya mahAtmanaH\n",
+      "ud": "एतेन त्वपराधेन शापात्तस्य महात्मनः\n",
+      "ur": "etena tv aparādhena śāpāt tasya mahātmanaḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 27
+  },
+  "01101027c": {
+    "text": {
+      "ascii": "dharmo vidurarUpeNa zUdrayonAv ajAyata\n",
+      "ud": "धर्मो विदुररूपेण शूद्रयोनावजायत\n",
+      "ur": "dharmo vidurarūpeṇa śūdrayonāv ajāyata\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 27
+  },
+  "01101028a": {
+    "text": {
+      "ascii": "dharme cArthe ca kuzalo lobhakrodhavivarjitaH\n",
+      "ud": "धर्मे चार्थे च कुशलो लोभक्रोधविवर्जितः\n",
+      "ur": "dharme cārthe ca kuśalo lobhakrodhavivarjitaḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 28
+  },
+  "01101028c": {
+    "text": {
+      "ascii": "dIrghadarzI zamaparaH kurUNAM ca hite rataH\n",
+      "ud": "दीर्घदर्शी शमपरः कुरूणां च हिते रतः\n",
+      "ur": "dīrghadarśī śamaparaḥ kurūṇāṁ ca hite rataḥ\n"
+    },
+    "book": 1,
+    "chapter": 101,
+    "verse": 28
+  }
+}
