@@ -1,0 +1,782 @@
+{
+  "03177001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 1
+  },
+  "03177001a": {
+    "text": {
+      "ascii": "yudhiSThiras tam AsAdya sarpabhogAbhiveSTitam\n",
+      "ud": "युधिष्ठिरस्तमासाद्य सर्पभोगाभिवेष्टितम्\n",
+      "ur": "yudhiṣṭhiras tam āsādya sarpabhogābhiveṣṭitam\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 1
+  },
+  "03177001c": {
+    "text": {
+      "ascii": "dayitaM bhrAtaraM vIram idaM vacanam abravIt\n",
+      "ud": "दयितं भ्रातरं वीरमिदं वचनमब्रवीत्\n",
+      "ur": "dayitaṁ bhrātaraṁ vīram idaṁ vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 1
+  },
+  "03177002a": {
+    "text": {
+      "ascii": "kuntImAtaH katham imAm ApadaM tvam avAptavAn\n",
+      "ud": "कुन्तीमातः कथमिमामापदं त्वमवाप्तवान्\n",
+      "ur": "kuntīmātaḥ katham imām āpadaṁ tvam avāptavān\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 2
+  },
+  "03177002c": {
+    "text": {
+      "ascii": "kaz cAyaM parvatAbhogapratimaH pannagottamaH\n",
+      "ud": "कश्चायं पर्वताभोगप्रतिमः पन्नगोत्तमः\n",
+      "ur": "kaś cāyaṁ parvatābhogapratimaḥ pannagottamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 2
+  },
+  "03177003a": {
+    "text": {
+      "ascii": "sa dharmarAjam AlakSya bhrAtA bhrAtaram agrajam\n",
+      "ud": "स धर्मराजमालक्ष्य भ्राता भ्रातरमग्रजम्\n",
+      "ur": "sa dharmarājam ālakṣya bhrātā bhrātaram agrajam\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 3
+  },
+  "03177003c": {
+    "text": {
+      "ascii": "kathayAm Asa tat sarvaM grahaNAdi viceSTitam\n",
+      "ud": "कथयामास तत्सर्वं ग्रहणादि विचेष्टितम्\n",
+      "ur": "kathayām āsa tat sarvaṁ grahaṇādi viceṣṭitam\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 3
+  },
+  "03177004": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 4
+  },
+  "03177004a": {
+    "text": {
+      "ascii": "devo vA yadi vA daitya urago vA bhavAn yadi\n",
+      "ud": "देवो वा यदि वा दैत्य उरगो वा भवान्यदि\n",
+      "ur": "devo vā yadi vā daitya urago vā bhavān yadi\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 4
+  },
+  "03177004c": {
+    "text": {
+      "ascii": "satyaM sarpa vaco brUhi pRcchati tvAM yudhiSThiraH\n",
+      "ud": "सत्यं सर्प वचो ब्रूहि पृच्छति त्वां युधिष्ठिरः\n",
+      "ur": "satyaṁ sarpa vaco brūhi pr̥cchati tvāṁ yudhiṣṭhiraḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 4
+  },
+  "03177005a": {
+    "text": {
+      "ascii": "kim AhRtya viditvA vA prItis te syAd bhujaMgama\n",
+      "ud": "किमाहृत्य विदित्वा वा प्रीतिस्ते स्याद्भुजंगम\n",
+      "ur": "kim āhr̥tya viditvā vā prītis te syād bhujaṁgama\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 5
+  },
+  "03177005c": {
+    "text": {
+      "ascii": "kim AhAraM prayacchAmi kathaM muJced bhavAn imam\n",
+      "ud": "किमाहारं प्रयच्छामि कथं मुञ्चेद्भवानिमम्\n",
+      "ur": "kim āhāraṁ prayacchāmi kathaṁ muñced bhavān imam\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 5
+  },
+  "03177006": {
+    "text": {
+      "ascii": "sarpa uvAca\n",
+      "ud": "सर्प उवाच\n",
+      "ur": "sarpa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 6
+  },
+  "03177006a": {
+    "text": {
+      "ascii": "nahuSo nAma rAjAham AsaM pUrvas tavAnagha\n",
+      "ud": "नहुषो नाम राजाहमासं पूर्वस्तवानघ\n",
+      "ur": "nahuṣo nāma rājāham āsaṁ pūrvas tavānagha\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 6
+  },
+  "03177006c": {
+    "text": {
+      "ascii": "prathitaH paJcamaH somAd AyoH putro narAdhipa\n",
+      "ud": "प्रथितः पञ्चमः सोमादायोः पुत्रो नराधिप\n",
+      "ur": "prathitaḥ pañcamaḥ somād āyoḥ putro narādhipa\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 6
+  },
+  "03177007a": {
+    "text": {
+      "ascii": "kratubhis tapasA caiva svAdhyAyena damena ca\n",
+      "ud": "क्रतुभिस्तपसा चैव स्वाध्यायेन दमेन च\n",
+      "ur": "kratubhis tapasā caiva svādhyāyena damena ca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 7
+  },
+  "03177007c": {
+    "text": {
+      "ascii": "trailokyaizvaryam avyagraM prApto vikramaNena ca\n",
+      "ud": "त्रैलोक्यैश्वर्यमव्यग्रं प्राप्तो विक्रमणेन च\n",
+      "ur": "trailokyaiśvaryam avyagraṁ prāpto vikramaṇena ca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 7
+  },
+  "03177008a": {
+    "text": {
+      "ascii": "tad aizvaryaM samAsAdya darpo mAm agamat tadA\n",
+      "ud": "तदैश्वर्यं समासाद्य दर्पो मामगमत्तदा\n",
+      "ur": "tad aiśvaryaṁ samāsādya darpo mām agamat tadā\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 8
+  },
+  "03177008c": {
+    "text": {
+      "ascii": "sahasraM hi dvijAtInAm uvAha zibikAM mama\n",
+      "ud": "सहस्रं हि द्विजातीनामुवाह शिबिकां मम\n",
+      "ur": "sahasraṁ hi dvijātīnām uvāha śibikāṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 8
+  },
+  "03177009a": {
+    "text": {
+      "ascii": "aizvaryamadamatto 'ham avamanya tato dvijAn\n",
+      "ud": "ऐश्वर्यमदमत्तोऽहमवमन्य ततो द्विजान्\n",
+      "ur": "aiśvaryamadamatto ’ham avamanya tato dvijān\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 9
+  },
+  "03177009c": {
+    "text": {
+      "ascii": "imAm agastyena dazAm AnItaH pRthivIpate\n",
+      "ud": "इमामगस्त्येन दशामानीतः पृथिवीपते\n",
+      "ur": "imām agastyena daśām ānītaḥ pr̥thivīpate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 9
+  },
+  "03177010a": {
+    "text": {
+      "ascii": "na tu mAm ajahAt prajJA yAvad adyeti pANDava\n",
+      "ud": "न तु मामजहात्प्रज्ञा यावदद्येति पाण्डव\n",
+      "ur": "na tu mām ajahāt prajñā yāvad adyeti pāṇḍava\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 10
+  },
+  "03177010c": {
+    "text": {
+      "ascii": "tasyaivAnugrahAd rAjann agastyasya mahAtmanaH\n",
+      "ud": "तस्यैवानुग्रहाद्राजन्नगस्त्यस्य महात्मनः\n",
+      "ur": "tasyaivānugrahād rājann agastyasya mahātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 10
+  },
+  "03177011a": {
+    "text": {
+      "ascii": "SaSThe kAle mamAhAraH prApto 'yam anujas tava\n",
+      "ud": "षष्ठे काले ममाहारः प्राप्तोऽयमनुजस्तव\n",
+      "ur": "ṣaṣṭhe kāle mamāhāraḥ prāpto ’yam anujas tava\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 11
+  },
+  "03177011c": {
+    "text": {
+      "ascii": "nAham enaM vimokSyAmi na cAnyam abhikAmaye\n",
+      "ud": "नाहमेनं विमोक्ष्यामि न चान्यमभिकामये\n",
+      "ur": "nāham enaṁ vimokṣyāmi na cānyam abhikāmaye\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 11
+  },
+  "03177012a": {
+    "text": {
+      "ascii": "praznAn uccAritAMs tu tvaM vyAhariSyasi cen mama\n",
+      "ud": "प्रश्नानुच्चारितांस्तु त्वं व्याहरिष्यसि चेन्मम\n",
+      "ur": "praśnān uccāritāṁs tu tvaṁ vyāhariṣyasi cen mama\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 12
+  },
+  "03177012c": {
+    "text": {
+      "ascii": "atha pazcAd vimokSyAmi bhrAtaraM te vRkodaram\n",
+      "ud": "अथ पश्चाद्विमोक्ष्यामि भ्रातरं ते वृकोदरम्\n",
+      "ur": "atha paścād vimokṣyāmi bhrātaraṁ te vr̥kodaram\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 12
+  },
+  "03177013": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 13
+  },
+  "03177013a": {
+    "text": {
+      "ascii": "brUhi sarpa yathAkAmaM prativakSyAmi te vacaH\n",
+      "ud": "ब्रूहि सर्प यथाकामं प्रतिवक्ष्यामि ते वचः\n",
+      "ur": "brūhi sarpa yathākāmaṁ prativakṣyāmi te vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 13
+  },
+  "03177013c": {
+    "text": {
+      "ascii": "api cec chaknuyAM prItim AhartuM te bhujaMgama\n",
+      "ud": "अपि चेच्छक्नुयां प्रीतिमाहर्तुं ते भुजंगम\n",
+      "ur": "api cec chaknuyāṁ prītim āhartuṁ te bhujaṁgama\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 13
+  },
+  "03177014a": {
+    "text": {
+      "ascii": "vedyaM yad brAhmaNeneha tad bhavAn vetti kevalam\n",
+      "ud": "वेद्यं यद्ब्राह्मणेनेह तद्भवान्वेत्ति केवलम्\n",
+      "ur": "vedyaṁ yad brāhmaṇeneha tad bhavān vetti kevalam\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 14
+  },
+  "03177014c": {
+    "text": {
+      "ascii": "sarparAja tataH zrutvA prativakSyAmi te vacaH\n",
+      "ud": "सर्पराज ततः श्रुत्वा प्रतिवक्ष्यामि ते वचः\n",
+      "ur": "sarparāja tataḥ śrutvā prativakṣyāmi te vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 14
+  },
+  "03177015": {
+    "text": {
+      "ascii": "sarpa uvAca\n",
+      "ud": "सर्प उवाच\n",
+      "ur": "sarpa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 15
+  },
+  "03177015a": {
+    "text": {
+      "ascii": "brAhmaNaH ko bhaved rAjan vedyaM kiM ca yudhiSThira\n",
+      "ud": "ब्राह्मणः को भवेद्राजन्वेद्यं किं च युधिष्ठिर\n",
+      "ur": "brāhmaṇaḥ ko bhaved rājan vedyaṁ kiṁ ca yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 15
+  },
+  "03177015c": {
+    "text": {
+      "ascii": "bravIhy atimatiM tvAM hi vAkyair anumimImahe\n",
+      "ud": "ब्रवीह्यतिमतिं त्वां हि वाक्यैरनुमिमीमहे\n",
+      "ur": "bravīhy atimatiṁ tvāṁ hi vākyair anumimīmahe\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 15
+  },
+  "03177016": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 16
+  },
+  "03177016a": {
+    "text": {
+      "ascii": "satyaM dAnaM kSamA zIlam AnRzaMsyaM damo ghRNA\n",
+      "ud": "सत्यं दानं क्षमा शीलमानृशंस्यं दमो घृणा\n",
+      "ur": "satyaṁ dānaṁ kṣamā śīlam ānr̥śaṁsyaṁ damo ghr̥ṇā\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 16
+  },
+  "03177016c": {
+    "text": {
+      "ascii": "dRzyante yatra nAgendra sa brAhmaNa iti smRtaH\n",
+      "ud": "दृश्यन्ते यत्र नागेन्द्र स ब्राह्मण इति स्मृतः\n",
+      "ur": "dr̥śyante yatra nāgendra sa brāhmaṇa iti smr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 16
+  },
+  "03177017a": {
+    "text": {
+      "ascii": "vedyaM sarpa paraM brahma nirduHkham asukhaM ca yat\n",
+      "ud": "वेद्यं सर्प परं ब्रह्म निर्दुःखमसुखं च यत्\n",
+      "ur": "vedyaṁ sarpa paraṁ brahma nirduḥkham asukhaṁ ca yat\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 17
+  },
+  "03177017c": {
+    "text": {
+      "ascii": "yatra gatvA na zocanti bhavataH kiM vivakSitam\n",
+      "ud": "यत्र गत्वा न शोचन्ति भवतः किं विवक्षितम्\n",
+      "ur": "yatra gatvā na śocanti bhavataḥ kiṁ vivakṣitam\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 17
+  },
+  "03177018": {
+    "text": {
+      "ascii": "sarpa uvAca\n",
+      "ud": "सर्प उवाच\n",
+      "ur": "sarpa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 18
+  },
+  "03177018a": {
+    "text": {
+      "ascii": "cAturvarNyaM pramANaM ca satyaM ca brahma caiva ha\n",
+      "ud": "चातुर्वर्ण्यं प्रमाणं च सत्यं च ब्रह्म चैव ह\n",
+      "ur": "cāturvarṇyaṁ pramāṇaṁ ca satyaṁ ca brahma caiva ha\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 18
+  },
+  "03177018c": {
+    "text": {
+      "ascii": "zUdreSv api ca satyaM ca dAnam akrodha eva ca\n",
+      "ud": "शूद्रेष्वपि च सत्यं च दानमक्रोध एव च\n",
+      "ur": "śūdreṣv api ca satyaṁ ca dānam akrodha eva ca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 18
+  },
+  "03177018e": {
+    "text": {
+      "ascii": "AnRzaMsyam ahiMsA ca ghRNA caiva yudhiSThira\n",
+      "ud": "आनृशंस्यमहिंसा च घृणा चैव युधिष्ठिर\n",
+      "ur": "ānr̥śaṁsyam ahiṁsā ca ghr̥ṇā caiva yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 18
+  },
+  "03177019a": {
+    "text": {
+      "ascii": "vedyaM yac cAttha nirduHkham asukhaM ca narAdhipa\n",
+      "ud": "वेद्यं यच्चात्थ निर्दुःखमसुखं च नराधिप\n",
+      "ur": "vedyaṁ yac cāttha nirduḥkham asukhaṁ ca narādhipa\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 19
+  },
+  "03177019c": {
+    "text": {
+      "ascii": "tAbhyAM hInaM padaM cAnyan na tad astIti lakSaye\n",
+      "ud": "ताभ्यां हीनं पदं चान्यन्न तदस्तीति लक्षये\n",
+      "ur": "tābhyāṁ hīnaṁ padaṁ cānyan na tad astīti lakṣaye\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 19
+  },
+  "03177020": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 20
+  },
+  "03177020a": {
+    "text": {
+      "ascii": "zUdre caitad bhavel lakSyaM dvije tac ca na vidyate\n",
+      "ud": "शूद्रे चैतद्भवेल्लक्ष्यं द्विजे तच्च न विद्यते\n",
+      "ur": "śūdre caitad bhavel lakṣyaṁ dvije tac ca na vidyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 20
+  },
+  "03177020c": {
+    "text": {
+      "ascii": "na vai zUdro bhavec chUdro brAhmaNo na ca brAhmaNaH\n",
+      "ud": "न वै शूद्रो भवेच्छूद्रो ब्राह्मणो न च ब्राह्मणः\n",
+      "ur": "na vai śūdro bhavec chūdro brāhmaṇo na ca brāhmaṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 20
+  },
+  "03177021a": {
+    "text": {
+      "ascii": "yatraital lakSyate sarpa vRttaM sa brAhmaNaH smRtaH\n",
+      "ud": "यत्रैतल्लक्ष्यते सर्प वृत्तं स ब्राह्मणः स्मृतः\n",
+      "ur": "yatraital lakṣyate sarpa vr̥ttaṁ sa brāhmaṇaḥ smr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 21
+  },
+  "03177021c": {
+    "text": {
+      "ascii": "yatraitan na bhavet sarpa taM zUdram iti nirdizet\n",
+      "ud": "यत्रैतन्न भवेत्सर्प तं शूद्रमिति निर्दिशेत्\n",
+      "ur": "yatraitan na bhavet sarpa taṁ śūdram iti nirdiśet\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 21
+  },
+  "03177022a": {
+    "text": {
+      "ascii": "yat punar bhavatA proktaM na vedyaM vidyateti ha\n",
+      "ud": "यत्पुनर्भवता प्रोक्तं न वेद्यं विद्यतेति ह\n",
+      "ur": "yat punar bhavatā proktaṁ na vedyaṁ vidyateti ha\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 22
+  },
+  "03177022c": {
+    "text": {
+      "ascii": "tAbhyAM hInam atItyAtra padaM nAstIti ced api\n",
+      "ud": "ताभ्यां हीनमतीत्यात्र पदं नास्तीति चेदपि\n",
+      "ur": "tābhyāṁ hīnam atītyātra padaṁ nāstīti ced api\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 22
+  },
+  "03177023a": {
+    "text": {
+      "ascii": "evam etan mataM sarpa tAbhyAM hInaM na vidyate\n",
+      "ud": "एवमेतन्मतं सर्प ताभ्यां हीनं न विद्यते\n",
+      "ur": "evam etan mataṁ sarpa tābhyāṁ hīnaṁ na vidyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 23
+  },
+  "03177023c": {
+    "text": {
+      "ascii": "yathA zItoSNayor madhye bhaven noSNaM na zItatA\n",
+      "ud": "यथा शीतोष्णयोर्मध्ये भवेन्नोष्णं न शीतता\n",
+      "ur": "yathā śītoṣṇayor madhye bhaven noṣṇaṁ na śītatā\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 23
+  },
+  "03177024a": {
+    "text": {
+      "ascii": "evaM vai sukhaduHkhAbhyAM hInam asti padaM kva cit\n",
+      "ud": "एवं वै सुखदुःखाभ्यां हीनमस्ति पदं क्वचित्\n",
+      "ur": "evaṁ vai sukhaduḥkhābhyāṁ hīnam asti padaṁ kva cit\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 24
+  },
+  "03177024c": {
+    "text": {
+      "ascii": "eSA mama matiH sarpa yathA vA manyate bhavAn\n",
+      "ud": "एषा मम मतिः सर्प यथा वा मन्यते भवान्\n",
+      "ur": "eṣā mama matiḥ sarpa yathā vā manyate bhavān\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 24
+  },
+  "03177025": {
+    "text": {
+      "ascii": "sarpa uvAca\n",
+      "ud": "सर्प उवाच\n",
+      "ur": "sarpa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 25
+  },
+  "03177025a": {
+    "text": {
+      "ascii": "yadi te vRttato rAjan brAhmaNaH prasamIkSitaH\n",
+      "ud": "यदि ते वृत्ततो राजन्ब्राह्मणः प्रसमीक्षितः\n",
+      "ur": "yadi te vr̥ttato rājan brāhmaṇaḥ prasamīkṣitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 25
+  },
+  "03177025c": {
+    "text": {
+      "ascii": "vyarthA jAtis tadAyuSman kRtir yAvan na dRzyate\n",
+      "ud": "व्यर्था जातिस्तदायुष्मन्कृतिर्यावन्न दृश्यते\n",
+      "ur": "vyarthā jātis tadāyuṣman kr̥tir yāvan na dr̥śyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 25
+  },
+  "03177026": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 26
+  },
+  "03177026a": {
+    "text": {
+      "ascii": "jAtir atra mahAsarpa manuSyatve mahAmate\n",
+      "ud": "जातिरत्र महासर्प मनुष्यत्वे महामते\n",
+      "ur": "jātir atra mahāsarpa manuṣyatve mahāmate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 26
+  },
+  "03177026c": {
+    "text": {
+      "ascii": "saMkarAt sarvavarNAnAM duSparIkSyeti me matiH\n",
+      "ud": "संकरात्सर्ववर्णानां दुष्परीक्ष्येति मे मतिः\n",
+      "ur": "saṁkarāt sarvavarṇānāṁ duṣparīkṣyeti me matiḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 26
+  },
+  "03177027a": {
+    "text": {
+      "ascii": "sarve sarvAsv apatyAni janayanti yadA narAH\n",
+      "ud": "सर्वे सर्वास्वपत्यानि जनयन्ति यदा नराः\n",
+      "ur": "sarve sarvāsv apatyāni janayanti yadā narāḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 27
+  },
+  "03177027c": {
+    "text": {
+      "ascii": "vAG maithunam atho janma maraNaM ca samaM nRNAm\n",
+      "ud": "वाङ्मैथुनमथो जन्म मरणं च समं नृणाम्\n",
+      "ur": "vāṅ maithunam atho janma maraṇaṁ ca samaṁ nr̥ṇām\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 27
+  },
+  "03177028a": {
+    "text": {
+      "ascii": "idam ArSaM pramANaM ca ye yajAmaha ity api\n",
+      "ud": "इदमार्षं प्रमाणं च ये यजामह इत्यपि\n",
+      "ur": "idam ārṣaṁ pramāṇaṁ ca ye yajāmaha ity api\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 28
+  },
+  "03177028c": {
+    "text": {
+      "ascii": "tasmAc chIlaM pradhAneSTaM vidur ye tattvadarzinaH\n",
+      "ud": "तस्माच्छीलं प्रधानेष्टं विदुर्ये तत्त्वदर्शिनः\n",
+      "ur": "tasmāc chīlaṁ pradhāneṣṭaṁ vidur ye tattvadarśinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 28
+  },
+  "03177029a": {
+    "text": {
+      "ascii": "prAG nAbhivardhanAt puMso jAtakarma vidhIyate\n",
+      "ud": "प्राङ्नाभिवर्धनात्पुंसो जातकर्म विधीयते\n",
+      "ur": "prāṅ nābhivardhanāt puṁso jātakarma vidhīyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 29
+  },
+  "03177029c": {
+    "text": {
+      "ascii": "tatrAsya mAtA sAvitrI pitA tv AcArya ucyate\n",
+      "ud": "तत्रास्य माता सावित्री पिता त्वाचार्य उच्यते\n",
+      "ur": "tatrāsya mātā sāvitrī pitā tv ācārya ucyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 29
+  },
+  "03177030a": {
+    "text": {
+      "ascii": "vRttyA zUdrasamo hy eSa yAvad vede na jAyate\n",
+      "ud": "वृत्त्या शूद्रसमो ह्येष यावद्वेदे न जायते\n",
+      "ur": "vr̥ttyā śūdrasamo hy eṣa yāvad vede na jāyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 30
+  },
+  "03177030c": {
+    "text": {
+      "ascii": "asminn evaM matidvaidhe manuH svAyambhuvo 'bravIt\n",
+      "ud": "अस्मिन्नेवं मतिद्वैधे मनुः स्वायम्भुवोऽब्रवीत्\n",
+      "ur": "asminn evaṁ matidvaidhe manuḥ svāyambhuvo ’bravīt\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 30
+  },
+  "03177031a": {
+    "text": {
+      "ascii": "kRtakRtyAH punar varNA yadi vRttaM na vidyate\n",
+      "ud": "कृतकृत्याः पुनर्वर्णा यदि वृत्तं न विद्यते\n",
+      "ur": "kr̥takr̥tyāḥ punar varṇā yadi vr̥ttaṁ na vidyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 31
+  },
+  "03177031c": {
+    "text": {
+      "ascii": "saMkaras tatra nAgendra balavAn prasamIkSitaH\n",
+      "ud": "संकरस्तत्र नागेन्द्र बलवान्प्रसमीक्षितः\n",
+      "ur": "saṁkaras tatra nāgendra balavān prasamīkṣitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 31
+  },
+  "03177032a": {
+    "text": {
+      "ascii": "yatredAnIM mahAsarpa saMskRtaM vRttam iSyate\n",
+      "ud": "यत्रेदानीं महासर्प संस्कृतं वृत्तमिष्यते\n",
+      "ur": "yatredānīṁ mahāsarpa saṁskr̥taṁ vr̥ttam iṣyate\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 32
+  },
+  "03177032c": {
+    "text": {
+      "ascii": "taM brAhmaNam ahaM pUrvam uktavAn bhujagottama\n",
+      "ud": "तं ब्राह्मणमहं पूर्वमुक्तवान्भुजगोत्तम\n",
+      "ur": "taṁ brāhmaṇam ahaṁ pūrvam uktavān bhujagottama\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 32
+  },
+  "03177033": {
+    "text": {
+      "ascii": "sarpa uvAca\n",
+      "ud": "सर्प उवाच\n",
+      "ur": "sarpa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 33
+  },
+  "03177033a": {
+    "text": {
+      "ascii": "zrutaM viditavedyasya tava vAkyaM yudhiSThira\n",
+      "ud": "श्रुतं विदितवेद्यस्य तव वाक्यं युधिष्ठिर\n",
+      "ur": "śrutaṁ viditavedyasya tava vākyaṁ yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 33
+  },
+  "03177033c": {
+    "text": {
+      "ascii": "bhakSayeyam ahaM kasmAd bhrAtaraM te vRkodaram\n",
+      "ud": "भक्षयेयमहं कस्माद्भ्रातरं ते वृकोदरम्\n",
+      "ur": "bhakṣayeyam ahaṁ kasmād bhrātaraṁ te vr̥kodaram\n"
+    },
+    "book": 3,
+    "chapter": 177,
+    "verse": 33
+  }
+}

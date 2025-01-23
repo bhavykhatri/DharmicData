@@ -1,0 +1,502 @@
+{
+  "03123001": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 1
+  },
+  "03123001a": {
+    "text": {
+      "ascii": "kasya cit tv atha kAlasya surANAm azvinau nRpa\n",
+      "ud": "कस्यचित्त्वथ कालस्य सुराणामश्विनौ नृप\n",
+      "ur": "kasya cit tv atha kālasya surāṇām aśvinau nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 1
+  },
+  "03123001c": {
+    "text": {
+      "ascii": "kRtAbhiSekAM vivRtAM sukanyAM tAm apazyatAm\n",
+      "ud": "कृताभिषेकां विवृतां सुकन्यां तामपश्यताम्\n",
+      "ur": "kr̥tābhiṣekāṁ vivr̥tāṁ sukanyāṁ tām apaśyatām\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 1
+  },
+  "03123002a": {
+    "text": {
+      "ascii": "tAM dRSTvA darzanIyAGgIM devarAjasutAm iva\n",
+      "ud": "तां दृष्ट्वा दर्शनीयाङ्गीं देवराजसुतामिव\n",
+      "ur": "tāṁ dr̥ṣṭvā darśanīyāṅgīṁ devarājasutām iva\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 2
+  },
+  "03123002c": {
+    "text": {
+      "ascii": "UcatuH samabhidrutya nAsatyAv azvinAv idam\n",
+      "ud": "ऊचतुः समभिद्रुत्य नासत्यावश्विनाविदम्\n",
+      "ur": "ūcatuḥ samabhidrutya nāsatyāv aśvināv idam\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 2
+  },
+  "03123003a": {
+    "text": {
+      "ascii": "kasya tvam asi vAmoru kiM vane vai karoSi ca\n",
+      "ud": "कस्य त्वमसि वामोरु किं वने वै करोषि च\n",
+      "ur": "kasya tvam asi vāmoru kiṁ vane vai karoṣi ca\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 3
+  },
+  "03123003c": {
+    "text": {
+      "ascii": "icchAva bhadre jJAtuM tvAM tat tvam AkhyAhi zobhane\n",
+      "ud": "इच्छाव भद्रे ज्ञातुं त्वां तत्त्वमाख्याहि शोभने\n",
+      "ur": "icchāva bhadre jñātuṁ tvāṁ tat tvam ākhyāhi śobhane\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 3
+  },
+  "03123004a": {
+    "text": {
+      "ascii": "tataH sukanyA saMvItA tAv uvAca surottamau\n",
+      "ud": "ततः सुकन्या संवीता तावुवाच सुरोत्तमौ\n",
+      "ur": "tataḥ sukanyā saṁvītā tāv uvāca surottamau\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 4
+  },
+  "03123004c": {
+    "text": {
+      "ascii": "zaryAtitanayAM vittaM bhAryAM ca cyavanasya mAm\n",
+      "ud": "शर्यातितनयां वित्तं भार्यां च च्यवनस्य माम्\n",
+      "ur": "śaryātitanayāṁ vittaṁ bhāryāṁ ca cyavanasya mām\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 4
+  },
+  "03123005a": {
+    "text": {
+      "ascii": "athAzvinau prahasyaitAm abrUtAM punar eva tu\n",
+      "ud": "अथाश्विनौ प्रहस्यैतामब्रूतां पुनरेव तु\n",
+      "ur": "athāśvinau prahasyaitām abrūtāṁ punar eva tu\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 5
+  },
+  "03123005c": {
+    "text": {
+      "ascii": "kathaM tvam asi kalyANi pitrA dattA gatAdhvane\n",
+      "ud": "कथं त्वमसि कल्याणि पित्रा दत्ता गताध्वने\n",
+      "ur": "kathaṁ tvam asi kalyāṇi pitrā dattā gatādhvane\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 5
+  },
+  "03123006a": {
+    "text": {
+      "ascii": "bhrAjase vanamadhye tvaM vidyut saudAminI yathA\n",
+      "ud": "भ्राजसे वनमध्ये त्वं विद्युत्सौदामिनी यथा\n",
+      "ur": "bhrājase vanamadhye tvaṁ vidyut saudāminī yathā\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 6
+  },
+  "03123006c": {
+    "text": {
+      "ascii": "na deveSv api tulyAM hi tvayA pazyAva bhAmini\n",
+      "ud": "न देवेष्वपि तुल्यां हि त्वया पश्याव भामिनि\n",
+      "ur": "na deveṣv api tulyāṁ hi tvayā paśyāva bhāmini\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 6
+  },
+  "03123007a": {
+    "text": {
+      "ascii": "sarvAbharaNasaMpannA paramAmbaradhAriNI\n",
+      "ud": "सर्वाभरणसंपन्ना परमाम्बरधारिणी\n",
+      "ur": "sarvābharaṇasaṁpannā paramāmbaradhāriṇī\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 7
+  },
+  "03123007c": {
+    "text": {
+      "ascii": "zobhethAs tv anavadyAGgi na tv evaM malapaGkinI\n",
+      "ud": "शोभेथास्त्वनवद्याङ्गि न त्वेवं मलपङ्किनी\n",
+      "ur": "śobhethās tv anavadyāṅgi na tv evaṁ malapaṅkinī\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 7
+  },
+  "03123008a": {
+    "text": {
+      "ascii": "kasmAd evaMvidhA bhUtvA jarAjarjaritaM patim\n",
+      "ud": "कस्मादेवंविधा भूत्वा जराजर्जरितं पतिम्\n",
+      "ur": "kasmād evaṁvidhā bhūtvā jarājarjaritaṁ patim\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 8
+  },
+  "03123008c": {
+    "text": {
+      "ascii": "tvam upAsse ha kalyANi kAmabhogabahiSkRtam\n",
+      "ud": "त्वमुपास्से ह कल्याणि कामभोगबहिष्कृतम्\n",
+      "ur": "tvam upāsse ha kalyāṇi kāmabhogabahiṣkr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 8
+  },
+  "03123009a": {
+    "text": {
+      "ascii": "asamarthaM paritrANe poSaNe ca zucismite\n",
+      "ud": "असमर्थं परित्राणे पोषणे च शुचिस्मिते\n",
+      "ur": "asamarthaṁ paritrāṇe poṣaṇe ca śucismite\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 9
+  },
+  "03123009c": {
+    "text": {
+      "ascii": "sAdhu cyavanam utsRjya varayasvaikam AvayoH\n",
+      "ud": "साधु च्यवनमुत्सृज्य वरयस्वैकमावयोः\n",
+      "ur": "sādhu cyavanam utsr̥jya varayasvaikam āvayoḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 9
+  },
+  "03123009e": {
+    "text": {
+      "ascii": "patyarthaM devagarbhAbhe mA vRthA yauvanaM kRthAH\n",
+      "ud": "पत्यर्थं देवगर्भाभे मा वृथा यौवनं कृथाः\n",
+      "ur": "patyarthaṁ devagarbhābhe mā vr̥thā yauvanaṁ kr̥thāḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 9
+  },
+  "03123010a": {
+    "text": {
+      "ascii": "evam uktA sukanyA tu surau tAv idam abravIt\n",
+      "ud": "एवमुक्ता सुकन्या तु सुरौ ताविदमब्रवीत्\n",
+      "ur": "evam uktā sukanyā tu surau tāv idam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 10
+  },
+  "03123010c": {
+    "text": {
+      "ascii": "ratAhaM cyavane patyau maivaM mA paryazaGkithAH\n",
+      "ud": "रताहं च्यवने पत्यौ मैवं मा पर्यशङ्किथाः\n",
+      "ur": "ratāhaṁ cyavane patyau maivaṁ mā paryaśaṅkithāḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 10
+  },
+  "03123011a": {
+    "text": {
+      "ascii": "tAv abrUtAM punas tv enAm AvAM devabhiSagvarau\n",
+      "ud": "तावब्रूतां पुनस्त्वेनामावां देवभिषग्वरौ\n",
+      "ur": "tāv abrūtāṁ punas tv enām āvāṁ devabhiṣagvarau\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 11
+  },
+  "03123011c": {
+    "text": {
+      "ascii": "yuvAnaM rUpasaMpannaM kariSyAvaH patiM tava\n",
+      "ud": "युवानं रूपसंपन्नं करिष्यावः पतिं तव\n",
+      "ur": "yuvānaṁ rūpasaṁpannaṁ kariṣyāvaḥ patiṁ tava\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 11
+  },
+  "03123012a": {
+    "text": {
+      "ascii": "tatas tasyAvayoz caiva patim ekatamaM vRNu\n",
+      "ud": "ततस्तस्यावयोश्चैव पतिमेकतमं वृणु\n",
+      "ur": "tatas tasyāvayoś caiva patim ekatamaṁ vr̥ṇu\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 12
+  },
+  "03123012c": {
+    "text": {
+      "ascii": "etena samayenainam Amantraya varAnane\n",
+      "ud": "एतेन समयेनैनमामन्त्रय वरानने\n",
+      "ur": "etena samayenainam āmantraya varānane\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 12
+  },
+  "03123013a": {
+    "text": {
+      "ascii": "sA tayor vacanAd rAjann upasaMgamya bhArgavam\n",
+      "ud": "सा तयोर्वचनाद्राजन्नुपसंगम्य भार्गवम्\n",
+      "ur": "sā tayor vacanād rājann upasaṁgamya bhārgavam\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 13
+  },
+  "03123013c": {
+    "text": {
+      "ascii": "uvAca vAkyaM yat tAbhyAm uktaM bhRgusutaM prati\n",
+      "ud": "उवाच वाक्यं यत्ताभ्यामुक्तं भृगुसुतं प्रति\n",
+      "ur": "uvāca vākyaṁ yat tābhyām uktaṁ bhr̥gusutaṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 13
+  },
+  "03123014a": {
+    "text": {
+      "ascii": "tac chrutvA cyavano bhAryAm uvAca kriyatAm iti\n",
+      "ud": "तच्छ्रुत्वा च्यवनो भार्यामुवाच क्रियतामिति\n",
+      "ur": "tac chrutvā cyavano bhāryām uvāca kriyatām iti\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 14
+  },
+  "03123014c": {
+    "text": {
+      "ascii": "bhartrA sA samanujJAtA kriyatAm ity athAbravIt\n",
+      "ud": "भर्त्रा सा समनुज्ञाता क्रियतामित्यथाब्रवीत्\n",
+      "ur": "bhartrā sā samanujñātā kriyatām ity athābravīt\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 14
+  },
+  "03123015a": {
+    "text": {
+      "ascii": "zrutvA tad azvinau vAkyaM tat tasyAH kriyatAm iti\n",
+      "ud": "श्रुत्वा तदश्विनौ वाक्यं तत्तस्याः क्रियतामिति\n",
+      "ur": "śrutvā tad aśvinau vākyaṁ tat tasyāḥ kriyatām iti\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 15
+  },
+  "03123015c": {
+    "text": {
+      "ascii": "UcatU rAjaputrIM tAM patis tava vizatv apaH\n",
+      "ud": "ऊचतू राजपुत्रीं तां पतिस्तव विशत्वपः\n",
+      "ur": "ūcatū rājaputrīṁ tāṁ patis tava viśatv apaḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 15
+  },
+  "03123016a": {
+    "text": {
+      "ascii": "tato 'mbhaz cyavanaH zIghraM rUpArthI praviveza ha\n",
+      "ud": "ततोऽम्भश्च्यवनः शीघ्रं रूपार्थी प्रविवेश ह\n",
+      "ur": "tato ’mbhaś cyavanaḥ śīghraṁ rūpārthī praviveśa ha\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 16
+  },
+  "03123016c": {
+    "text": {
+      "ascii": "azvinAv api tad rAjan saraH pravizatAM prabho\n",
+      "ud": "अश्विनावपि तद्राजन्सरः प्रविशतां प्रभो\n",
+      "ur": "aśvināv api tad rājan saraḥ praviśatāṁ prabho\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 16
+  },
+  "03123017a": {
+    "text": {
+      "ascii": "tato muhUrtAd uttIrNAH sarve te sarasas tataH\n",
+      "ud": "ततो मुहूर्तादुत्तीर्णाः सर्वे ते सरसस्ततः\n",
+      "ur": "tato muhūrtād uttīrṇāḥ sarve te sarasas tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 17
+  },
+  "03123017c": {
+    "text": {
+      "ascii": "divyarUpadharAH sarve yuvAno mRSTakuNDalAH\n",
+      "ud": "दिव्यरूपधराः सर्वे युवानो मृष्टकुण्डलाः\n",
+      "ur": "divyarūpadharāḥ sarve yuvāno mr̥ṣṭakuṇḍalāḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 17
+  },
+  "03123017e": {
+    "text": {
+      "ascii": "tulyarUpadharAz caiva manasaH prItivardhanAH\n",
+      "ud": "तुल्यरूपधराश्चैव मनसः प्रीतिवर्धनाः\n",
+      "ur": "tulyarūpadharāś caiva manasaḥ prītivardhanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 17
+  },
+  "03123018a": {
+    "text": {
+      "ascii": "te 'bruvan sahitAH sarve vRNISvAnyatamaM zubhe\n",
+      "ud": "तेऽब्रुवन्सहिताः सर्वे वृणीष्वान्यतमं शुभे\n",
+      "ur": "te ’bruvan sahitāḥ sarve vr̥ṇīṣvānyatamaṁ śubhe\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 18
+  },
+  "03123018c": {
+    "text": {
+      "ascii": "asmAkam IpsitaM bhadre patitve varavarNini\n",
+      "ud": "अस्माकमीप्सितं भद्रे पतित्वे वरवर्णिनि\n",
+      "ur": "asmākam īpsitaṁ bhadre patitve varavarṇini\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 18
+  },
+  "03123018e": {
+    "text": {
+      "ascii": "yatra vApy abhikAmAsi taM vRNISva suzobhane\n",
+      "ud": "यत्र वाप्यभिकामासि तं वृणीष्व सुशोभने\n",
+      "ur": "yatra vāpy abhikāmāsi taṁ vr̥ṇīṣva suśobhane\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 18
+  },
+  "03123019a": {
+    "text": {
+      "ascii": "sA samIkSya tu tAn sarvAMs tulyarUpadharAn sthitAn\n",
+      "ud": "सा समीक्ष्य तु तान्सर्वांस्तुल्यरूपधरान्स्थितान्\n",
+      "ur": "sā samīkṣya tu tān sarvāṁs tulyarūpadharān sthitān\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 19
+  },
+  "03123019c": {
+    "text": {
+      "ascii": "nizcitya manasA buddhyA devI vavre svakaM patim\n",
+      "ud": "निश्चित्य मनसा बुद्ध्या देवी वव्रे स्वकं पतिम्\n",
+      "ur": "niścitya manasā buddhyā devī vavre svakaṁ patim\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 19
+  },
+  "03123020a": {
+    "text": {
+      "ascii": "labdhvA tu cyavano bhAryAM vayorUpaM ca vAJchitam\n",
+      "ud": "लब्ध्वा तु च्यवनो भार्यां वयोरूपं च वाञ्छितम्\n",
+      "ur": "labdhvā tu cyavano bhāryāṁ vayorūpaṁ ca vāñchitam\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 20
+  },
+  "03123020c": {
+    "text": {
+      "ascii": "hRSTo 'bravIn mahAtejAs tau nAsatyAv idaM vacaH\n",
+      "ud": "हृष्टोऽब्रवीन्महातेजास्तौ नासत्याविदं वचः\n",
+      "ur": "hr̥ṣṭo ’bravīn mahātejās tau nāsatyāv idaṁ vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 20
+  },
+  "03123021a": {
+    "text": {
+      "ascii": "yathAhaM rUpasaMpanno vayasA ca samanvitaH\n",
+      "ud": "यथाहं रूपसंपन्नो वयसा च समन्वितः\n",
+      "ur": "yathāhaṁ rūpasaṁpanno vayasā ca samanvitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 21
+  },
+  "03123021c": {
+    "text": {
+      "ascii": "kRto bhavadbhyAM vRddhaH san bhAryAM ca prAptavAn imAm\n",
+      "ud": "कृतो भवद्भ्यां वृद्धः सन्भार्यां च प्राप्तवानिमाम्\n",
+      "ur": "kr̥to bhavadbhyāṁ vr̥ddhaḥ san bhāryāṁ ca prāptavān imām\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 21
+  },
+  "03123022a": {
+    "text": {
+      "ascii": "tasmAd yuvAM kariSyAmi prItyAhaM somapIthinau\n",
+      "ud": "तस्माद्युवां करिष्यामि प्रीत्याहं सोमपीथिनौ\n",
+      "ur": "tasmād yuvāṁ kariṣyāmi prītyāhaṁ somapīthinau\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 22
+  },
+  "03123022c": {
+    "text": {
+      "ascii": "miSato devarAjasya satyam etad bravImi vAm\n",
+      "ud": "मिषतो देवराजस्य सत्यमेतद्ब्रवीमि वाम्\n",
+      "ur": "miṣato devarājasya satyam etad bravīmi vām\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 22
+  },
+  "03123023a": {
+    "text": {
+      "ascii": "tac chrutvA hRSTamanasau divaM tau pratijagmatuH\n",
+      "ud": "तच्छ्रुत्वा हृष्टमनसौ दिवं तौ प्रतिजग्मतुः\n",
+      "ur": "tac chrutvā hr̥ṣṭamanasau divaṁ tau pratijagmatuḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 23
+  },
+  "03123023c": {
+    "text": {
+      "ascii": "cyavano 'pi sukanyA ca surAv iva vijahratuH\n",
+      "ud": "च्यवनोऽपि सुकन्या च सुराविव विजह्रतुः\n",
+      "ur": "cyavano ’pi sukanyā ca surāv iva vijahratuḥ\n"
+    },
+    "book": 3,
+    "chapter": 123,
+    "verse": 23
+  }
+}

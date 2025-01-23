@@ -1,0 +1,1162 @@
+{
+  "03185001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 1
+  },
+  "03185001a": {
+    "text": {
+      "ascii": "tataH sa pANDavo bhUyo mArkaNDeyam uvAca ha\n",
+      "ud": "ततः स पाण्डवो भूयो मार्कण्डेयमुवाच ह\n",
+      "ur": "tataḥ sa pāṇḍavo bhūyo mārkaṇḍeyam uvāca ha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 1
+  },
+  "03185001c": {
+    "text": {
+      "ascii": "kathayasveha caritaM manor vaivasvatasya me\n",
+      "ud": "कथयस्वेह चरितं मनोर्वैवस्वतस्य मे\n",
+      "ur": "kathayasveha caritaṁ manor vaivasvatasya me\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 1
+  },
+  "03185002": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 2
+  },
+  "03185002a": {
+    "text": {
+      "ascii": "vivasvataH suto rAjan paramarSiH pratApavAn\n",
+      "ud": "विवस्वतः सुतो राजन्परमर्षिः प्रतापवान्\n",
+      "ur": "vivasvataḥ suto rājan paramarṣiḥ pratāpavān\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 2
+  },
+  "03185002c": {
+    "text": {
+      "ascii": "babhUva narazArdUla prajApatisamadyutiH\n",
+      "ud": "बभूव नरशार्दूल प्रजापतिसमद्युतिः\n",
+      "ur": "babhūva naraśārdūla prajāpatisamadyutiḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 2
+  },
+  "03185003a": {
+    "text": {
+      "ascii": "ojasA tejasA lakSmyA tapasA ca vizeSataH\n",
+      "ud": "ओजसा तेजसा लक्ष्म्या तपसा च विशेषतः\n",
+      "ur": "ojasā tejasā lakṣmyā tapasā ca viśeṣataḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 3
+  },
+  "03185003c": {
+    "text": {
+      "ascii": "aticakrAma pitaraM manuH svaM ca pitAmaham\n",
+      "ud": "अतिचक्राम पितरं मनुः स्वं च पितामहम्\n",
+      "ur": "aticakrāma pitaraṁ manuḥ svaṁ ca pitāmaham\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 3
+  },
+  "03185004a": {
+    "text": {
+      "ascii": "UrdhvabAhur vizAlAyAM badaryAM sa narAdhipaH\n",
+      "ud": "ऊर्ध्वबाहुर्विशालायां बदर्यां स नराधिपः\n",
+      "ur": "ūrdhvabāhur viśālāyāṁ badaryāṁ sa narādhipaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 4
+  },
+  "03185004c": {
+    "text": {
+      "ascii": "ekapAdasthitas tIvraM cacAra sumahat tapaH\n",
+      "ud": "एकपादस्थितस्तीव्रं चचार सुमहत्तपः\n",
+      "ur": "ekapādasthitas tīvraṁ cacāra sumahat tapaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 4
+  },
+  "03185005a": {
+    "text": {
+      "ascii": "avAkzirAs tathA cApi netrair animiSair dRDham\n",
+      "ud": "अवाक्शिरास्तथा चापि नेत्रैरनिमिषैर्दृढम्\n",
+      "ur": "avākśirās tathā cāpi netrair animiṣair dr̥ḍham\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 5
+  },
+  "03185005c": {
+    "text": {
+      "ascii": "so 'tapyata tapo ghoraM varSANAm ayutaM tadA\n",
+      "ud": "सोऽतप्यत तपो घोरं वर्षाणामयुतं तदा\n",
+      "ur": "so ’tapyata tapo ghoraṁ varṣāṇām ayutaṁ tadā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 5
+  },
+  "03185006a": {
+    "text": {
+      "ascii": "taM kadA cit tapasyantam ArdracIrajaTAdharam\n",
+      "ud": "तं कदाचित्तपस्यन्तमार्द्रचीरजटाधरम्\n",
+      "ur": "taṁ kadā cit tapasyantam ārdracīrajaṭādharam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 6
+  },
+  "03185006c": {
+    "text": {
+      "ascii": "vIriNItIram Agamya matsyo vacanam abravIt\n",
+      "ud": "वीरिणीतीरमागम्य मत्स्यो वचनमब्रवीत्\n",
+      "ur": "vīriṇītīram āgamya matsyo vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 6
+  },
+  "03185007a": {
+    "text": {
+      "ascii": "bhagavan kSudramatsyo 'smi balavadbhyo bhayaM mama\n",
+      "ud": "भगवन्क्षुद्रमत्स्योऽस्मि बलवद्भ्यो भयं मम\n",
+      "ur": "bhagavan kṣudramatsyo ’smi balavadbhyo bhayaṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 7
+  },
+  "03185007c": {
+    "text": {
+      "ascii": "matsyebhyo hi tato mAM tvaM trAtum arhasi suvrata\n",
+      "ud": "मत्स्येभ्यो हि ततो मां त्वं त्रातुमर्हसि सुव्रत\n",
+      "ur": "matsyebhyo hi tato māṁ tvaṁ trātum arhasi suvrata\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 7
+  },
+  "03185008a": {
+    "text": {
+      "ascii": "durbalaM balavanto hi matsyaM matsyA vizeSataH\n",
+      "ud": "दुर्बलं बलवन्तो हि मत्स्यं मत्स्या विशेषतः\n",
+      "ur": "durbalaṁ balavanto hi matsyaṁ matsyā viśeṣataḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 8
+  },
+  "03185008c": {
+    "text": {
+      "ascii": "bhakSayanti yathA vRttir vihitA naH sanAtanI\n",
+      "ud": "भक्षयन्ति यथा वृत्तिर्विहिता नः सनातनी\n",
+      "ur": "bhakṣayanti yathā vr̥ttir vihitā naḥ sanātanī\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 8
+  },
+  "03185009a": {
+    "text": {
+      "ascii": "tasmAd bhayaughAn mahato majjantaM mAM vizeSataH\n",
+      "ud": "तस्माद्भयौघान्महतो मज्जन्तं मां विशेषतः\n",
+      "ur": "tasmād bhayaughān mahato majjantaṁ māṁ viśeṣataḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 9
+  },
+  "03185009c": {
+    "text": {
+      "ascii": "trAtum arhasi kartAsmi kRte pratikRtaM tava\n",
+      "ud": "त्रातुमर्हसि कर्तास्मि कृते प्रतिकृतं तव\n",
+      "ur": "trātum arhasi kartāsmi kr̥te pratikr̥taṁ tava\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 9
+  },
+  "03185010a": {
+    "text": {
+      "ascii": "sa matsyavacanaM zrutvA kRpayAbhipariplutaH\n",
+      "ud": "स मत्स्यवचनं श्रुत्वा कृपयाभिपरिप्लुतः\n",
+      "ur": "sa matsyavacanaṁ śrutvā kr̥payābhipariplutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 10
+  },
+  "03185010c": {
+    "text": {
+      "ascii": "manur vaivasvato 'gRhNAt taM matsyaM pANinA svayam\n",
+      "ud": "मनुर्वैवस्वतोऽगृह्णात्तं मत्स्यं पाणिना स्वयम्\n",
+      "ur": "manur vaivasvato ’gr̥hṇāt taṁ matsyaṁ pāṇinā svayam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 10
+  },
+  "03185011a": {
+    "text": {
+      "ascii": "udakAntam upAnIya matsyaM vaivasvato manuH\n",
+      "ud": "उदकान्तमुपानीय मत्स्यं वैवस्वतो मनुः\n",
+      "ur": "udakāntam upānīya matsyaṁ vaivasvato manuḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 11
+  },
+  "03185011c": {
+    "text": {
+      "ascii": "aliJjare prAkSipat sa candrAMzusadRzaprabham\n",
+      "ud": "अलिञ्जरे प्राक्षिपत्स चन्द्रांशुसदृशप्रभम्\n",
+      "ur": "aliñjare prākṣipat sa candrāṁśusadr̥śaprabham\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 11
+  },
+  "03185012a": {
+    "text": {
+      "ascii": "sa tatra vavRdhe rAjan matsyaH paramasatkRtaH\n",
+      "ud": "स तत्र ववृधे राजन्मत्स्यः परमसत्कृतः\n",
+      "ur": "sa tatra vavr̥dhe rājan matsyaḥ paramasatkr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 12
+  },
+  "03185012c": {
+    "text": {
+      "ascii": "putravac cAkarot tasmin manur bhAvaM vizeSataH\n",
+      "ud": "पुत्रवच्चाकरोत्तस्मिन्मनुर्भावं विशेषतः\n",
+      "ur": "putravac cākarot tasmin manur bhāvaṁ viśeṣataḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 12
+  },
+  "03185013a": {
+    "text": {
+      "ascii": "atha kAlena mahatA sa matsyaH sumahAn abhUt\n",
+      "ud": "अथ कालेन महता स मत्स्यः सुमहानभूत्\n",
+      "ur": "atha kālena mahatā sa matsyaḥ sumahān abhūt\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 13
+  },
+  "03185013c": {
+    "text": {
+      "ascii": "aliJjare jale caiva nAsau samabhavat kila\n",
+      "ud": "अलिञ्जरे जले चैव नासौ समभवत्किल\n",
+      "ur": "aliñjare jale caiva nāsau samabhavat kila\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 13
+  },
+  "03185014a": {
+    "text": {
+      "ascii": "atha matsyo manuM dRSTvA punar evAbhyabhASata\n",
+      "ud": "अथ मत्स्यो मनुं दृष्ट्वा पुनरेवाभ्यभाषत\n",
+      "ur": "atha matsyo manuṁ dr̥ṣṭvā punar evābhyabhāṣata\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 14
+  },
+  "03185014c": {
+    "text": {
+      "ascii": "bhagavan sAdhu me 'dyAnyat sthAnaM saMpratipAdaya\n",
+      "ud": "भगवन्साधु मेऽद्यान्यत्स्थानं संप्रतिपादय\n",
+      "ur": "bhagavan sādhu me ’dyānyat sthānaṁ saṁpratipādaya\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 14
+  },
+  "03185015a": {
+    "text": {
+      "ascii": "uddhRtyAliJjarAt tasmAt tataH sa bhagavAn muniH\n",
+      "ud": "उद्धृत्यालिञ्जरात्तस्मात्ततः स भगवान्मुनिः\n",
+      "ur": "uddhr̥tyāliñjarāt tasmāt tataḥ sa bhagavān muniḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 15
+  },
+  "03185015c": {
+    "text": {
+      "ascii": "taM matsyam anayad vApIM mahatIM sa manus tadA\n",
+      "ud": "तं मत्स्यमनयद्वापीं महतीं स मनुस्तदा\n",
+      "ur": "taṁ matsyam anayad vāpīṁ mahatīṁ sa manus tadā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 15
+  },
+  "03185016a": {
+    "text": {
+      "ascii": "tatra taM prAkSipac cApi manuH parapuraMjaya\n",
+      "ud": "तत्र तं प्राक्षिपच्चापि मनुः परपुरंजय\n",
+      "ur": "tatra taṁ prākṣipac cāpi manuḥ parapuraṁjaya\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 16
+  },
+  "03185016c": {
+    "text": {
+      "ascii": "athAvardhata matsyaH sa punar varSagaNAn bahUn\n",
+      "ud": "अथावर्धत मत्स्यः स पुनर्वर्षगणान्बहून्\n",
+      "ur": "athāvardhata matsyaḥ sa punar varṣagaṇān bahūn\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 16
+  },
+  "03185017a": {
+    "text": {
+      "ascii": "dviyojanAyatA vApI vistRtA cApi yojanam\n",
+      "ud": "द्वियोजनायता वापी विस्तृता चापि योजनम्\n",
+      "ur": "dviyojanāyatā vāpī vistr̥tā cāpi yojanam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 17
+  },
+  "03185017c": {
+    "text": {
+      "ascii": "tasyAM nAsau samabhavan matsyo rAjIvalocana\n",
+      "ud": "तस्यां नासौ समभवन्मत्स्यो राजीवलोचन\n",
+      "ur": "tasyāṁ nāsau samabhavan matsyo rājīvalocana\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 17
+  },
+  "03185017e": {
+    "text": {
+      "ascii": "viceSTituM vA kaunteya matsyo vApyAM vizAM pate\n",
+      "ud": "विचेष्टितुं वा कौन्तेय मत्स्यो वाप्यां विशां पते\n",
+      "ur": "viceṣṭituṁ vā kaunteya matsyo vāpyāṁ viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 17
+  },
+  "03185018a": {
+    "text": {
+      "ascii": "manuM matsyas tato dRSTvA punar evAbhyabhASata\n",
+      "ud": "मनुं मत्स्यस्ततो दृष्ट्वा पुनरेवाभ्यभाषत\n",
+      "ur": "manuṁ matsyas tato dr̥ṣṭvā punar evābhyabhāṣata\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 18
+  },
+  "03185018c": {
+    "text": {
+      "ascii": "naya mAM bhagavan sAdho samudramahiSIM prabho\n",
+      "ud": "नय मां भगवन्साधो समुद्रमहिषीं प्रभो\n",
+      "ur": "naya māṁ bhagavan sādho samudramahiṣīṁ prabho\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 18
+  },
+  "03185018e": {
+    "text": {
+      "ascii": "gaGgAM tatra nivatsyAmi yathA vA tAta manyase\n",
+      "ud": "गङ्गां तत्र निवत्स्यामि यथा वा तात मन्यसे\n",
+      "ur": "gaṅgāṁ tatra nivatsyāmi yathā vā tāta manyase\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 18
+  },
+  "03185019a": {
+    "text": {
+      "ascii": "evam ukto manur matsyam anayad bhagavAn vazI\n",
+      "ud": "एवमुक्तो मनुर्मत्स्यमनयद्भगवान्वशी\n",
+      "ur": "evam ukto manur matsyam anayad bhagavān vaśī\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 19
+  },
+  "03185019c": {
+    "text": {
+      "ascii": "nadIM gaGgAM tatra cainaM svayaM prAkSipad acyutaH\n",
+      "ud": "नदीं गङ्गां तत्र चैनं स्वयं प्राक्षिपदच्युतः\n",
+      "ur": "nadīṁ gaṅgāṁ tatra cainaṁ svayaṁ prākṣipad acyutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 19
+  },
+  "03185020a": {
+    "text": {
+      "ascii": "sa tatra vavRdhe matsyaH kiM cit kAlam ariMdama\n",
+      "ud": "स तत्र ववृधे मत्स्यः किंचित्कालमरिंदम\n",
+      "ur": "sa tatra vavr̥dhe matsyaḥ kiṁ cit kālam ariṁdama\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 20
+  },
+  "03185020c": {
+    "text": {
+      "ascii": "tataH punar manuM dRSTvA matsyo vacanam abravIt\n",
+      "ud": "ततः पुनर्मनुं दृष्ट्वा मत्स्यो वचनमब्रवीत्\n",
+      "ur": "tataḥ punar manuṁ dr̥ṣṭvā matsyo vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 20
+  },
+  "03185021a": {
+    "text": {
+      "ascii": "gaGgAyAM hi na zaknomi bRhattvAc ceSTituM prabho\n",
+      "ud": "गङ्गायां हि न शक्नोमि बृहत्त्वाच्चेष्टितुं प्रभो\n",
+      "ur": "gaṅgāyāṁ hi na śaknomi br̥hattvāc ceṣṭituṁ prabho\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 21
+  },
+  "03185021c": {
+    "text": {
+      "ascii": "samudraM naya mAm Azu prasIda bhagavann iti\n",
+      "ud": "समुद्रं नय मामाशु प्रसीद भगवन्निति\n",
+      "ur": "samudraṁ naya mām āśu prasīda bhagavann iti\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 21
+  },
+  "03185022a": {
+    "text": {
+      "ascii": "uddhRtya gaGgAsalilAt tato matsyaM manuH svayam\n",
+      "ud": "उद्धृत्य गङ्गासलिलात्ततो मत्स्यं मनुः स्वयम्\n",
+      "ur": "uddhr̥tya gaṅgāsalilāt tato matsyaṁ manuḥ svayam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 22
+  },
+  "03185022c": {
+    "text": {
+      "ascii": "samudram anayat pArtha tatra cainam avAsRjat\n",
+      "ud": "समुद्रमनयत्पार्थ तत्र चैनमवासृजत्\n",
+      "ur": "samudram anayat pārtha tatra cainam avāsr̥jat\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 22
+  },
+  "03185023a": {
+    "text": {
+      "ascii": "sumahAn api matsyaH san sa manor manasas tadA\n",
+      "ud": "सुमहानपि मत्स्यः सन्स मनोर्मनसस्तदा\n",
+      "ur": "sumahān api matsyaḥ san sa manor manasas tadā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 23
+  },
+  "03185023c": {
+    "text": {
+      "ascii": "AsId yatheSTahAryaz ca sparzagandhasukhaz ca vai\n",
+      "ud": "आसीद्यथेष्टहार्यश्च स्पर्शगन्धसुखश्च वै\n",
+      "ur": "āsīd yatheṣṭahāryaś ca sparśagandhasukhaś ca vai\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 23
+  },
+  "03185024a": {
+    "text": {
+      "ascii": "yadA samudre prakSiptaH sa matsyo manunA tadA\n",
+      "ud": "यदा समुद्रे प्रक्षिप्तः स मत्स्यो मनुना तदा\n",
+      "ur": "yadā samudre prakṣiptaḥ sa matsyo manunā tadā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 24
+  },
+  "03185024c": {
+    "text": {
+      "ascii": "tata enam idaM vAkyaM smayamAna ivAbravIt\n",
+      "ud": "तत एनमिदं वाक्यं स्मयमान इवाब्रवीत्\n",
+      "ur": "tata enam idaṁ vākyaṁ smayamāna ivābravīt\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 24
+  },
+  "03185025a": {
+    "text": {
+      "ascii": "bhagavan kRtA hi me rakSA tvayA sarvA vizeSataH\n",
+      "ud": "भगवन्कृता हि मे रक्षा त्वया सर्वा विशेषतः\n",
+      "ur": "bhagavan kr̥tā hi me rakṣā tvayā sarvā viśeṣataḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 25
+  },
+  "03185025c": {
+    "text": {
+      "ascii": "prAptakAlaM tu yat kAryaM tvayA tac chrUyatAM mama\n",
+      "ud": "प्राप्तकालं तु यत्कार्यं त्वया तच्छ्रूयतां मम\n",
+      "ur": "prāptakālaṁ tu yat kāryaṁ tvayā tac chrūyatāṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 25
+  },
+  "03185026a": {
+    "text": {
+      "ascii": "acirAd bhagavan bhaumam idaM sthAvarajaGgamam\n",
+      "ud": "अचिराद्भगवन्भौममिदं स्थावरजङ्गमम्\n",
+      "ur": "acirād bhagavan bhaumam idaṁ sthāvarajaṅgamam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 26
+  },
+  "03185026c": {
+    "text": {
+      "ascii": "sarvam eva mahAbhAga pralayaM vai gamiSyati\n",
+      "ud": "सर्वमेव महाभाग प्रलयं वै गमिष्यति\n",
+      "ur": "sarvam eva mahābhāga pralayaṁ vai gamiṣyati\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 26
+  },
+  "03185027a": {
+    "text": {
+      "ascii": "saMprakSAlanakAlo 'yaM lokAnAM samupasthitaH\n",
+      "ud": "संप्रक्षालनकालोऽयं लोकानां समुपस्थितः\n",
+      "ur": "saṁprakṣālanakālo ’yaṁ lokānāṁ samupasthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 27
+  },
+  "03185027c": {
+    "text": {
+      "ascii": "tasmAt tvAM bodhayAmy adya yat te hitam anuttamam\n",
+      "ud": "तस्मात्त्वां बोधयाम्यद्य यत्ते हितमनुत्तमम्\n",
+      "ur": "tasmāt tvāṁ bodhayāmy adya yat te hitam anuttamam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 27
+  },
+  "03185028a": {
+    "text": {
+      "ascii": "trasAnAM sthAvarANAM ca yac ceGgaM yac ca neGgati\n",
+      "ud": "त्रसानां स्थावराणां च यच्चेङ्गं यच्च नेङ्गति\n",
+      "ur": "trasānāṁ sthāvarāṇāṁ ca yac ceṅgaṁ yac ca neṅgati\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 28
+  },
+  "03185028c": {
+    "text": {
+      "ascii": "tasya sarvasya saMprAptaH kAlaH paramadAruNaH\n",
+      "ud": "तस्य सर्वस्य संप्राप्तः कालः परमदारुणः\n",
+      "ur": "tasya sarvasya saṁprāptaḥ kālaḥ paramadāruṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 28
+  },
+  "03185029a": {
+    "text": {
+      "ascii": "nauz ca kArayitavyA te dRDhA yuktavaTAkarA\n",
+      "ud": "नौश्च कारयितव्या ते दृढा युक्तवटाकरा\n",
+      "ur": "nauś ca kārayitavyā te dr̥ḍhā yuktavaṭākarā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 29
+  },
+  "03185029c": {
+    "text": {
+      "ascii": "tatra saptarSibhiH sArdham AruhethA mahAmune\n",
+      "ud": "तत्र सप्तर्षिभिः सार्धमारुहेथा महामुने\n",
+      "ur": "tatra saptarṣibhiḥ sārdham āruhethā mahāmune\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 29
+  },
+  "03185030a": {
+    "text": {
+      "ascii": "bIjAni caiva sarvANi yathoktAni mayA purA\n",
+      "ud": "बीजानि चैव सर्वाणि यथोक्तानि मया पुरा\n",
+      "ur": "bījāni caiva sarvāṇi yathoktāni mayā purā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 30
+  },
+  "03185030c": {
+    "text": {
+      "ascii": "tasyAm Arohayer nAvi susaMguptAni bhAgazaH\n",
+      "ud": "तस्यामारोहयेर्नावि सुसंगुप्तानि भागशः\n",
+      "ur": "tasyām ārohayer nāvi susaṁguptāni bhāgaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 30
+  },
+  "03185031a": {
+    "text": {
+      "ascii": "nausthaz ca mAM pratIkSethAs tadA munijanapriya\n",
+      "ud": "नौस्थश्च मां प्रतीक्षेथास्तदा मुनिजनप्रिय\n",
+      "ur": "nausthaś ca māṁ pratīkṣethās tadā munijanapriya\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 31
+  },
+  "03185031c": {
+    "text": {
+      "ascii": "AgamiSyAmy ahaM zRGgI vijJeyas tena tApasa\n",
+      "ud": "आगमिष्याम्यहं शृङ्गी विज्ञेयस्तेन तापस\n",
+      "ur": "āgamiṣyāmy ahaṁ śr̥ṅgī vijñeyas tena tāpasa\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 31
+  },
+  "03185032a": {
+    "text": {
+      "ascii": "evam etat tvayA kAryam ApRSTo 'si vrajAmy aham\n",
+      "ud": "एवमेतत्त्वया कार्यमापृष्टोऽसि व्रजाम्यहम्\n",
+      "ur": "evam etat tvayā kāryam āpr̥ṣṭo ’si vrajāmy aham\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 32
+  },
+  "03185032c": {
+    "text": {
+      "ascii": "nAtizaGkyam idaM cApi vacanaM te mamAbhibho\n",
+      "ud": "नातिशङ्क्यमिदं चापि वचनं ते ममाभिभो\n",
+      "ur": "nātiśaṅkyam idaṁ cāpi vacanaṁ te mamābhibho\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 32
+  },
+  "03185033a": {
+    "text": {
+      "ascii": "evaM kariSya iti taM sa matsyaM pratyabhASata\n",
+      "ud": "एवं करिष्य इति तं स मत्स्यं प्रत्यभाषत\n",
+      "ur": "evaṁ kariṣya iti taṁ sa matsyaṁ pratyabhāṣata\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 33
+  },
+  "03185033c": {
+    "text": {
+      "ascii": "jagmatuz ca yathAkAmam anujJApya parasparam\n",
+      "ud": "जग्मतुश्च यथाकाममनुज्ञाप्य परस्परम्\n",
+      "ur": "jagmatuś ca yathākāmam anujñāpya parasparam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 33
+  },
+  "03185034a": {
+    "text": {
+      "ascii": "tato manur mahArAja yathoktaM matsyakena ha\n",
+      "ud": "ततो मनुर्महाराज यथोक्तं मत्स्यकेन ह\n",
+      "ur": "tato manur mahārāja yathoktaṁ matsyakena ha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 34
+  },
+  "03185034c": {
+    "text": {
+      "ascii": "bIjAny AdAya sarvANi sAgaraM pupluve tadA\n",
+      "ud": "बीजान्यादाय सर्वाणि सागरं पुप्लुवे तदा\n",
+      "ur": "bījāny ādāya sarvāṇi sāgaraṁ pupluve tadā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 34
+  },
+  "03185034e": {
+    "text": {
+      "ascii": "nAvA tu zubhayA vIra mahormiNam ariMdama\n",
+      "ud": "नावा तु शुभया वीर महोर्मिणमरिंदम\n",
+      "ur": "nāvā tu śubhayā vīra mahormiṇam ariṁdama\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 34
+  },
+  "03185035a": {
+    "text": {
+      "ascii": "cintayAm Asa ca manus taM matsyaM pRthivIpate\n",
+      "ud": "चिन्तयामास च मनुस्तं मत्स्यं पृथिवीपते\n",
+      "ur": "cintayām āsa ca manus taṁ matsyaṁ pr̥thivīpate\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 35
+  },
+  "03185035c": {
+    "text": {
+      "ascii": "sa ca tac cintitaM jJAtvA matsyaH parapuraMjaya\n",
+      "ud": "स च तच्चिन्तितं ज्ञात्वा मत्स्यः परपुरंजय\n",
+      "ur": "sa ca tac cintitaṁ jñātvā matsyaḥ parapuraṁjaya\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 35
+  },
+  "03185035e": {
+    "text": {
+      "ascii": "zRGgI tatrAjagAmAzu tadA bharatasattama\n",
+      "ud": "शृङ्गी तत्राजगामाशु तदा भरतसत्तम\n",
+      "ur": "śr̥ṅgī tatrājagāmāśu tadā bharatasattama\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 35
+  },
+  "03185036a": {
+    "text": {
+      "ascii": "taM dRSTvA manujendrendra manur matsyaM jalArNave\n",
+      "ud": "तं दृष्ट्वा मनुजेन्द्रेन्द्र मनुर्मत्स्यं जलार्णवे\n",
+      "ur": "taṁ dr̥ṣṭvā manujendrendra manur matsyaṁ jalārṇave\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 36
+  },
+  "03185036c": {
+    "text": {
+      "ascii": "zRGgiNaM taM yathoktena rUpeNAdrim ivocchritam\n",
+      "ud": "शृङ्गिणं तं यथोक्तेन रूपेणाद्रिमिवोच्छ्रितम्\n",
+      "ur": "śr̥ṅgiṇaṁ taṁ yathoktena rūpeṇādrim ivocchritam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 36
+  },
+  "03185037a": {
+    "text": {
+      "ascii": "vaTAkaramayaM pAzam atha matsyasya mUrdhani\n",
+      "ud": "वटाकरमयं पाशमथ मत्स्यस्य मूर्धनि\n",
+      "ur": "vaṭākaramayaṁ pāśam atha matsyasya mūrdhani\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 37
+  },
+  "03185037c": {
+    "text": {
+      "ascii": "manur manujazArdUla tasmiJ zRGge nyavezayat\n",
+      "ud": "मनुर्मनुजशार्दूल तस्मिञ्शृङ्गे न्यवेशयत्\n",
+      "ur": "manur manujaśārdūla tasmiñ śr̥ṅge nyaveśayat\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 37
+  },
+  "03185038a": {
+    "text": {
+      "ascii": "saMyatas tena pAzena matsyaH parapuraMjaya\n",
+      "ud": "संयतस्तेन पाशेन मत्स्यः परपुरंजय\n",
+      "ur": "saṁyatas tena pāśena matsyaḥ parapuraṁjaya\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 38
+  },
+  "03185038c": {
+    "text": {
+      "ascii": "vegena mahatA nAvaM prAkarSal lavaNAmbhasi\n",
+      "ud": "वेगेन महता नावं प्राकर्षल्लवणाम्भसि\n",
+      "ur": "vegena mahatā nāvaṁ prākarṣal lavaṇāmbhasi\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 38
+  },
+  "03185039a": {
+    "text": {
+      "ascii": "sa tatAra tayA nAvA samudraM manujezvara\n",
+      "ud": "स ततार तया नावा समुद्रं मनुजेश्वर\n",
+      "ur": "sa tatāra tayā nāvā samudraṁ manujeśvara\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 39
+  },
+  "03185039c": {
+    "text": {
+      "ascii": "nRtyamAnam ivormIbhir garjamAnam ivAmbhasA\n",
+      "ud": "नृत्यमानमिवोर्मीभिर्गर्जमानमिवाम्भसा\n",
+      "ur": "nr̥tyamānam ivormībhir garjamānam ivāmbhasā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 39
+  },
+  "03185040a": {
+    "text": {
+      "ascii": "kSobhyamANA mahAvAtaiH sA naus tasmin mahodadhau\n",
+      "ud": "क्षोभ्यमाणा महावातैः सा नौस्तस्मिन्महोदधौ\n",
+      "ur": "kṣobhyamāṇā mahāvātaiḥ sā naus tasmin mahodadhau\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 40
+  },
+  "03185040c": {
+    "text": {
+      "ascii": "ghUrNate capaleva strI mattA parapuraMjaya\n",
+      "ud": "घूर्णते चपलेव स्त्री मत्ता परपुरंजय\n",
+      "ur": "ghūrṇate capaleva strī mattā parapuraṁjaya\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 40
+  },
+  "03185041a": {
+    "text": {
+      "ascii": "naiva bhUmir na ca dizaH pradizo vA cakAzire\n",
+      "ud": "नैव भूमिर्न च दिशः प्रदिशो वा चकाशिरे\n",
+      "ur": "naiva bhūmir na ca diśaḥ pradiśo vā cakāśire\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 41
+  },
+  "03185041c": {
+    "text": {
+      "ascii": "sarvam Ambhasam evAsIt khaM dyauz ca narapuMgava\n",
+      "ud": "सर्वमाम्भसमेवासीत्खं द्यौश्च नरपुंगव\n",
+      "ur": "sarvam āmbhasam evāsīt khaṁ dyauś ca narapuṁgava\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 41
+  },
+  "03185042a": {
+    "text": {
+      "ascii": "evaMbhUte tadA loke saMkule bharatarSabha\n",
+      "ud": "एवंभूते तदा लोके संकुले भरतर्षभ\n",
+      "ur": "evaṁbhūte tadā loke saṁkule bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 42
+  },
+  "03185042c": {
+    "text": {
+      "ascii": "adRzyanta saptarSayo manur matsyaH sahaiva ha\n",
+      "ud": "अदृश्यन्त सप्तर्षयो मनुर्मत्स्यः सहैव ह\n",
+      "ur": "adr̥śyanta saptarṣayo manur matsyaḥ sahaiva ha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 42
+  },
+  "03185043a": {
+    "text": {
+      "ascii": "evaM bahUn varSagaNAMs tAM nAvaM so 'tha matsyakaH\n",
+      "ud": "एवं बहून्वर्षगणांस्तां नावं सोऽथ मत्स्यकः\n",
+      "ur": "evaṁ bahūn varṣagaṇāṁs tāṁ nāvaṁ so ’tha matsyakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 43
+  },
+  "03185043c": {
+    "text": {
+      "ascii": "cakarSAtandrito rAjaMs tasmin salilasaMcaye\n",
+      "ud": "चकर्षातन्द्रितो राजंस्तस्मिन्सलिलसंचये\n",
+      "ur": "cakarṣātandrito rājaṁs tasmin salilasaṁcaye\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 43
+  },
+  "03185044a": {
+    "text": {
+      "ascii": "tato himavataH zRGgaM yat paraM puruSarSabha\n",
+      "ud": "ततो हिमवतः शृङ्गं यत्परं पुरुषर्षभ\n",
+      "ur": "tato himavataḥ śr̥ṅgaṁ yat paraṁ puruṣarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 44
+  },
+  "03185044c": {
+    "text": {
+      "ascii": "tatrAkarSat tato nAvaM sa matsyaH kurunandana\n",
+      "ud": "तत्राकर्षत्ततो नावं स मत्स्यः कुरुनन्दन\n",
+      "ur": "tatrākarṣat tato nāvaṁ sa matsyaḥ kurunandana\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 44
+  },
+  "03185045a": {
+    "text": {
+      "ascii": "tato 'bravIt tadA matsyas tAn RSIn prahasaJ zanaiH\n",
+      "ud": "ततोऽब्रवीत्तदा मत्स्यस्तानृषीन्प्रहसञ्शनैः\n",
+      "ur": "tato ’bravīt tadā matsyas tān r̥ṣīn prahasañ śanaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 45
+  },
+  "03185045c": {
+    "text": {
+      "ascii": "asmin himavataH zRGge nAvaM badhnIta mAciram\n",
+      "ud": "अस्मिन्हिमवतः शृङ्गे नावं बध्नीत माचिरम्\n",
+      "ur": "asmin himavataḥ śr̥ṅge nāvaṁ badhnīta māciram\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 45
+  },
+  "03185046a": {
+    "text": {
+      "ascii": "sA baddhA tatra tais tUrNam RSibhir bharatarSabha\n",
+      "ud": "सा बद्धा तत्र तैस्तूर्णमृषिभिर्भरतर्षभ\n",
+      "ur": "sā baddhā tatra tais tūrṇam r̥ṣibhir bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 46
+  },
+  "03185046c": {
+    "text": {
+      "ascii": "naur matsyasya vacaH zrutvA zRGge himavatas tadA\n",
+      "ud": "नौर्मत्स्यस्य वचः श्रुत्वा शृङ्गे हिमवतस्तदा\n",
+      "ur": "naur matsyasya vacaḥ śrutvā śr̥ṅge himavatas tadā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 46
+  },
+  "03185047a": {
+    "text": {
+      "ascii": "tac ca naubandhanaM nAma zRGgaM himavataH param\n",
+      "ud": "तच्च नौबन्धनं नाम शृङ्गं हिमवतः परम्\n",
+      "ur": "tac ca naubandhanaṁ nāma śr̥ṅgaṁ himavataḥ param\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 47
+  },
+  "03185047c": {
+    "text": {
+      "ascii": "khyAtam adyApi kaunteya tad viddhi bharatarSabha\n",
+      "ud": "ख्यातमद्यापि कौन्तेय तद्विद्धि भरतर्षभ\n",
+      "ur": "khyātam adyāpi kaunteya tad viddhi bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 47
+  },
+  "03185048a": {
+    "text": {
+      "ascii": "athAbravId animiSas tAn RSIn sahitAMs tadA\n",
+      "ud": "अथाब्रवीदनिमिषस्तानृषीन्सहितांस्तदा\n",
+      "ur": "athābravīd animiṣas tān r̥ṣīn sahitāṁs tadā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 48
+  },
+  "03185048c": {
+    "text": {
+      "ascii": "ahaM prajApatir brahmA matparaM nAdhigamyate\n",
+      "ud": "अहं प्रजापतिर्ब्रह्मा मत्परं नाधिगम्यते\n",
+      "ur": "ahaṁ prajāpatir brahmā matparaṁ nādhigamyate\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 48
+  },
+  "03185048e": {
+    "text": {
+      "ascii": "matsyarUpeNa yUyaM ca mayAsmAn mokSitA bhayAt\n",
+      "ud": "मत्स्यरूपेण यूयं च मयास्मान्मोक्षिता भयात्\n",
+      "ur": "matsyarūpeṇa yūyaṁ ca mayāsmān mokṣitā bhayāt\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 48
+  },
+  "03185049a": {
+    "text": {
+      "ascii": "manunA ca prajAH sarvAH sadevAsuramAnavAH\n",
+      "ud": "मनुना च प्रजाः सर्वाः सदेवासुरमानवाः\n",
+      "ur": "manunā ca prajāḥ sarvāḥ sadevāsuramānavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 49
+  },
+  "03185049c": {
+    "text": {
+      "ascii": "sraSTavyAH sarvalokAz ca yac ceGgaM yac ca neGgati\n",
+      "ud": "स्रष्टव्याः सर्वलोकाश्च यच्चेङ्गं यच्च नेङ्गति\n",
+      "ur": "sraṣṭavyāḥ sarvalokāś ca yac ceṅgaṁ yac ca neṅgati\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 49
+  },
+  "03185050a": {
+    "text": {
+      "ascii": "tapasA cAtitIvreNa pratibhAsya bhaviSyati\n",
+      "ud": "तपसा चातितीव्रेण प्रतिभास्य भविष्यति\n",
+      "ur": "tapasā cātitīvreṇa pratibhāsya bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 50
+  },
+  "03185050c": {
+    "text": {
+      "ascii": "matprasAdAt prajAsarge na ca mohaM gamiSyati\n",
+      "ud": "मत्प्रसादात्प्रजासर्गे न च मोहं गमिष्यति\n",
+      "ur": "matprasādāt prajāsarge na ca mohaṁ gamiṣyati\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 50
+  },
+  "03185051a": {
+    "text": {
+      "ascii": "ity uktvA vacanaM matsyaH kSaNenAdarzanaM gataH\n",
+      "ud": "इत्युक्त्वा वचनं मत्स्यः क्षणेनादर्शनं गतः\n",
+      "ur": "ity uktvā vacanaṁ matsyaḥ kṣaṇenādarśanaṁ gataḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 51
+  },
+  "03185051c": {
+    "text": {
+      "ascii": "sraSTukAmaH prajAz cApi manur vaivasvataH svayam\n",
+      "ud": "स्रष्टुकामः प्रजाश्चापि मनुर्वैवस्वतः स्वयम्\n",
+      "ur": "sraṣṭukāmaḥ prajāś cāpi manur vaivasvataḥ svayam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 51
+  },
+  "03185051e": {
+    "text": {
+      "ascii": "pramUDho 'bhUt prajAsarge tapas tepe mahat tataH\n",
+      "ud": "प्रमूढोऽभूत्प्रजासर्गे तपस्तेपे महत्ततः\n",
+      "ur": "pramūḍho ’bhūt prajāsarge tapas tepe mahat tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 51
+  },
+  "03185052a": {
+    "text": {
+      "ascii": "tapasA mahatA yuktaH so 'tha sraSTuM pracakrame\n",
+      "ud": "तपसा महता युक्तः सोऽथ स्रष्टुं प्रचक्रमे\n",
+      "ur": "tapasā mahatā yuktaḥ so ’tha sraṣṭuṁ pracakrame\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 52
+  },
+  "03185052c": {
+    "text": {
+      "ascii": "sarvAH prajA manuH sAkSAd yathAvad bharatarSabha\n",
+      "ud": "सर्वाः प्रजा मनुः साक्षाद्यथावद्भरतर्षभ\n",
+      "ur": "sarvāḥ prajā manuḥ sākṣād yathāvad bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 52
+  },
+  "03185053a": {
+    "text": {
+      "ascii": "ity etan mAtsyakaM nAma purANaM parikIrtitam\n",
+      "ud": "इत्येतन्मात्स्यकं नाम पुराणं परिकीर्तितम्\n",
+      "ur": "ity etan mātsyakaṁ nāma purāṇaṁ parikīrtitam\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 53
+  },
+  "03185053c": {
+    "text": {
+      "ascii": "AkhyAnam idam AkhyAtaM sarvapApaharaM mayA\n",
+      "ud": "आख्यानमिदमाख्यातं सर्वपापहरं मया\n",
+      "ur": "ākhyānam idam ākhyātaṁ sarvapāpaharaṁ mayā\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 53
+  },
+  "03185054a": {
+    "text": {
+      "ascii": "ya idaM zRNuyAn nityaM manoz caritam AditaH\n",
+      "ud": "य इदं शृणुयान्नित्यं मनोश्चरितमादितः\n",
+      "ur": "ya idaṁ śr̥ṇuyān nityaṁ manoś caritam āditaḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 54
+  },
+  "03185054c": {
+    "text": {
+      "ascii": "sa sukhI sarvasiddhArthaH svargalokam iyAn naraH\n",
+      "ud": "स सुखी सर्वसिद्धार्थः स्वर्गलोकमियान्नरः\n",
+      "ur": "sa sukhī sarvasiddhārthaḥ svargalokam iyān naraḥ\n"
+    },
+    "book": 3,
+    "chapter": 185,
+    "verse": 54
+  }
+}

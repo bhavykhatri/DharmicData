@@ -1,0 +1,552 @@
+{
+  "03124001": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 1
+  },
+  "03124001a": {
+    "text": {
+      "ascii": "tataH zrutvA tu zaryAtir vayaHsthaM cyavanaM kRtam\n",
+      "ud": "ततः श्रुत्वा तु शर्यातिर्वयःस्थं च्यवनं कृतम्\n",
+      "ur": "tataḥ śrutvā tu śaryātir vayaḥsthaṁ cyavanaṁ kr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 1
+  },
+  "03124001c": {
+    "text": {
+      "ascii": "saMhRSTaH senayA sArdham upAyAd bhArgavAzramam\n",
+      "ud": "संहृष्टः सेनया सार्धमुपायाद्भार्गवाश्रमम्\n",
+      "ur": "saṁhr̥ṣṭaḥ senayā sārdham upāyād bhārgavāśramam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 1
+  },
+  "03124002a": {
+    "text": {
+      "ascii": "cyavanaM ca sukanyAM ca dRSTvA devasutAv iva\n",
+      "ud": "च्यवनं च सुकन्यां च दृष्ट्वा देवसुताविव\n",
+      "ur": "cyavanaṁ ca sukanyāṁ ca dr̥ṣṭvā devasutāv iva\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 2
+  },
+  "03124002c": {
+    "text": {
+      "ascii": "reme mahIpaH zaryAtiH kRtsnAM prApya mahIm iva\n",
+      "ud": "रेमे महीपः शर्यातिः कृत्स्नां प्राप्य महीमिव\n",
+      "ur": "reme mahīpaḥ śaryātiḥ kr̥tsnāṁ prāpya mahīm iva\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 2
+  },
+  "03124003a": {
+    "text": {
+      "ascii": "RSiNA satkRtas tena sabhAryaH pRthivIpatiH\n",
+      "ud": "ऋषिणा सत्कृतस्तेन सभार्यः पृथिवीपतिः\n",
+      "ur": "r̥ṣiṇā satkr̥tas tena sabhāryaḥ pr̥thivīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 3
+  },
+  "03124003c": {
+    "text": {
+      "ascii": "upopaviSTaH kalyANIH kathAz cakre mahAmanAH\n",
+      "ud": "उपोपविष्टः कल्याणीः कथाश्चक्रे महामनाः\n",
+      "ur": "upopaviṣṭaḥ kalyāṇīḥ kathāś cakre mahāmanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 3
+  },
+  "03124004a": {
+    "text": {
+      "ascii": "athainaM bhArgavo rAjann uvAca parisAntvayan\n",
+      "ud": "अथैनं भार्गवो राजन्नुवाच परिसान्त्वयन्\n",
+      "ur": "athainaṁ bhārgavo rājann uvāca parisāntvayan\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 4
+  },
+  "03124004c": {
+    "text": {
+      "ascii": "yAjayiSyAmi rAjaMs tvAM saMbhArAn upakalpaya\n",
+      "ud": "याजयिष्यामि राजंस्त्वां संभारानुपकल्पय\n",
+      "ur": "yājayiṣyāmi rājaṁs tvāṁ saṁbhārān upakalpaya\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 4
+  },
+  "03124005a": {
+    "text": {
+      "ascii": "tataH paramasaMhRSTaH zaryAtiH pRthivIpatiH\n",
+      "ud": "ततः परमसंहृष्टः शर्यातिः पृथिवीपतिः\n",
+      "ur": "tataḥ paramasaṁhr̥ṣṭaḥ śaryātiḥ pr̥thivīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 5
+  },
+  "03124005c": {
+    "text": {
+      "ascii": "cyavanasya mahArAja tad vAkyaM pratyapUjayat\n",
+      "ud": "च्यवनस्य महाराज तद्वाक्यं प्रत्यपूजयत्\n",
+      "ur": "cyavanasya mahārāja tad vākyaṁ pratyapūjayat\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 5
+  },
+  "03124006a": {
+    "text": {
+      "ascii": "prazaste 'hani yajJIye sarvakAmasamRddhimat\n",
+      "ud": "प्रशस्तेऽहनि यज्ञीये सर्वकामसमृद्धिमत्\n",
+      "ur": "praśaste ’hani yajñīye sarvakāmasamr̥ddhimat\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 6
+  },
+  "03124006c": {
+    "text": {
+      "ascii": "kArayAm Asa zaryAtir yajJAyatanam uttamam\n",
+      "ud": "कारयामास शर्यातिर्यज्ञायतनमुत्तमम्\n",
+      "ur": "kārayām āsa śaryātir yajñāyatanam uttamam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 6
+  },
+  "03124007a": {
+    "text": {
+      "ascii": "tatrainaM cyavano rAjan yAjayAm Asa bhArgavaH\n",
+      "ud": "तत्रैनं च्यवनो राजन्याजयामास भार्गवः\n",
+      "ur": "tatrainaṁ cyavano rājan yājayām āsa bhārgavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 7
+  },
+  "03124007c": {
+    "text": {
+      "ascii": "adbhutAni ca tatrAsan yAni tAni nibodha me\n",
+      "ud": "अद्भुतानि च तत्रासन्यानि तानि निबोध मे\n",
+      "ur": "adbhutāni ca tatrāsan yāni tāni nibodha me\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 7
+  },
+  "03124008a": {
+    "text": {
+      "ascii": "agRhNAc cyavanaH somam azvinor devayos tadA\n",
+      "ud": "अगृह्णाच्च्यवनः सोममश्विनोर्देवयोस्तदा\n",
+      "ur": "agr̥hṇāc cyavanaḥ somam aśvinor devayos tadā\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 8
+  },
+  "03124008c": {
+    "text": {
+      "ascii": "tam indro vArayAm Asa gRhyamANaM tayor graham\n",
+      "ud": "तमिन्द्रो वारयामास गृह्यमाणं तयोर्ग्रहम्\n",
+      "ur": "tam indro vārayām āsa gr̥hyamāṇaṁ tayor graham\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 8
+  },
+  "03124009": {
+    "text": {
+      "ascii": "indra uvAca\n",
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 9
+  },
+  "03124009a": {
+    "text": {
+      "ascii": "ubhAv etau na somArhau nAsatyAv iti me matiH\n",
+      "ud": "उभावेतौ न सोमार्हौ नासत्याविति मे मतिः\n",
+      "ur": "ubhāv etau na somārhau nāsatyāv iti me matiḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 9
+  },
+  "03124009c": {
+    "text": {
+      "ascii": "bhiSajau devaputrANAM karmaNA naivam arhataH\n",
+      "ud": "भिषजौ देवपुत्राणां कर्मणा नैवमर्हतः\n",
+      "ur": "bhiṣajau devaputrāṇāṁ karmaṇā naivam arhataḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 9
+  },
+  "03124010": {
+    "text": {
+      "ascii": "cyavana uvAca\n",
+      "ud": "च्यवन उवाच\n",
+      "ur": "cyavana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 10
+  },
+  "03124010a": {
+    "text": {
+      "ascii": "mAvamaMsthA mahAtmAnau rUpadraviNavattarau\n",
+      "ud": "मावमंस्था महात्मानौ रूपद्रविणवत्तरौ\n",
+      "ur": "māvamaṁsthā mahātmānau rūpadraviṇavattarau\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 10
+  },
+  "03124010c": {
+    "text": {
+      "ascii": "yau cakratur mAM maghavan vRndArakam ivAjaram\n",
+      "ud": "यौ चक्रतुर्मां मघवन्वृन्दारकमिवाजरम्\n",
+      "ur": "yau cakratur māṁ maghavan vr̥ndārakam ivājaram\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 10
+  },
+  "03124011a": {
+    "text": {
+      "ascii": "Rte tvAM vibudhAMz cAnyAn kathaM vai nArhataH savam\n",
+      "ud": "ऋते त्वां विबुधांश्चान्यान्कथं वै नार्हतः सवम्\n",
+      "ur": "r̥te tvāṁ vibudhāṁś cānyān kathaṁ vai nārhataḥ savam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 11
+  },
+  "03124011c": {
+    "text": {
+      "ascii": "azvinAv api devendra devau viddhi puraMdara\n",
+      "ud": "अश्विनावपि देवेन्द्र देवौ विद्धि पुरंदर\n",
+      "ur": "aśvināv api devendra devau viddhi puraṁdara\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 11
+  },
+  "03124012": {
+    "text": {
+      "ascii": "indra uvAca\n",
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 12
+  },
+  "03124012a": {
+    "text": {
+      "ascii": "cikitsakau karmakarau kAmarUpasamanvitau\n",
+      "ud": "चिकित्सकौ कर्मकरौ कामरूपसमन्वितौ\n",
+      "ur": "cikitsakau karmakarau kāmarūpasamanvitau\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 12
+  },
+  "03124012c": {
+    "text": {
+      "ascii": "loke carantau martyAnAM kathaM somam ihArhataH\n",
+      "ud": "लोके चरन्तौ मर्त्यानां कथं सोममिहार्हतः\n",
+      "ur": "loke carantau martyānāṁ kathaṁ somam ihārhataḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 12
+  },
+  "03124013": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 13
+  },
+  "03124013a": {
+    "text": {
+      "ascii": "etad eva yadA vAkyam AmreDayati vAsavaH\n",
+      "ud": "एतदेव यदा वाक्यमाम्रेडयति वासवः\n",
+      "ur": "etad eva yadā vākyam āmreḍayati vāsavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 13
+  },
+  "03124013c": {
+    "text": {
+      "ascii": "anAdRtya tataH zakraM grahaM jagrAha bhArgavaH\n",
+      "ud": "अनादृत्य ततः शक्रं ग्रहं जग्राह भार्गवः\n",
+      "ur": "anādr̥tya tataḥ śakraṁ grahaṁ jagrāha bhārgavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 13
+  },
+  "03124014a": {
+    "text": {
+      "ascii": "grahISyantaM tu taM somam azvinor uttamaM tadA\n",
+      "ud": "ग्रहीष्यन्तं तु तं सोममश्विनोरुत्तमं तदा\n",
+      "ur": "grahīṣyantaṁ tu taṁ somam aśvinor uttamaṁ tadā\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 14
+  },
+  "03124014c": {
+    "text": {
+      "ascii": "samIkSya balabhid deva idaM vacanam abravIt\n",
+      "ud": "समीक्ष्य बलभिद्देव इदं वचनमब्रवीत्\n",
+      "ur": "samīkṣya balabhid deva idaṁ vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 14
+  },
+  "03124015a": {
+    "text": {
+      "ascii": "AbhyAm arthAya somaM tvaM grahISyasi yadi svayam\n",
+      "ud": "आभ्यामर्थाय सोमं त्वं ग्रहीष्यसि यदि स्वयम्\n",
+      "ur": "ābhyām arthāya somaṁ tvaṁ grahīṣyasi yadi svayam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 15
+  },
+  "03124015c": {
+    "text": {
+      "ascii": "vajraM te prahariSyAmi ghorarUpam anuttamam\n",
+      "ud": "वज्रं ते प्रहरिष्यामि घोररूपमनुत्तमम्\n",
+      "ur": "vajraṁ te prahariṣyāmi ghorarūpam anuttamam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 15
+  },
+  "03124016a": {
+    "text": {
+      "ascii": "evam uktaH smayann indram abhivIkSya sa bhArgavaH\n",
+      "ud": "एवमुक्तः स्मयन्निन्द्रमभिवीक्ष्य स भार्गवः\n",
+      "ur": "evam uktaḥ smayann indram abhivīkṣya sa bhārgavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 16
+  },
+  "03124016c": {
+    "text": {
+      "ascii": "jagrAha vidhivat somam azvibhyAm uttamaM graham\n",
+      "ud": "जग्राह विधिवत्सोममश्विभ्यामुत्तमं ग्रहम्\n",
+      "ur": "jagrāha vidhivat somam aśvibhyām uttamaṁ graham\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 16
+  },
+  "03124017a": {
+    "text": {
+      "ascii": "tato 'smai prAharad vajraM ghorarUpaM zacIpatiH\n",
+      "ud": "ततोऽस्मै प्राहरद्वज्रं घोररूपं शचीपतिः\n",
+      "ur": "tato ’smai prāharad vajraṁ ghorarūpaṁ śacīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 17
+  },
+  "03124017c": {
+    "text": {
+      "ascii": "tasya praharato bAhuM stambhayAm Asa bhArgavaH\n",
+      "ud": "तस्य प्रहरतो बाहुं स्तम्भयामास भार्गवः\n",
+      "ur": "tasya praharato bāhuṁ stambhayām āsa bhārgavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 17
+  },
+  "03124018a": {
+    "text": {
+      "ascii": "saMstambhayitvA cyavano juhuve mantrato 'nalam\n",
+      "ud": "संस्तम्भयित्वा च्यवनो जुहुवे मन्त्रतोऽनलम्\n",
+      "ur": "saṁstambhayitvā cyavano juhuve mantrato ’nalam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 18
+  },
+  "03124018c": {
+    "text": {
+      "ascii": "kRtyArthI sumahAtejA devaM hiMsitum udyataH\n",
+      "ud": "कृत्यार्थी सुमहातेजा देवं हिंसितुमुद्यतः\n",
+      "ur": "kr̥tyārthī sumahātejā devaṁ hiṁsitum udyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 18
+  },
+  "03124019a": {
+    "text": {
+      "ascii": "tataH kRtyA samabhavad RSes tasya tapobalAt\n",
+      "ud": "ततः कृत्या समभवदृषेस्तस्य तपोबलात्\n",
+      "ur": "tataḥ kr̥tyā samabhavad r̥ṣes tasya tapobalāt\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 19
+  },
+  "03124019c": {
+    "text": {
+      "ascii": "mado nAma mahAvIryo bRhatkAyo mahAsuraH\n",
+      "ud": "मदो नाम महावीर्यो बृहत्कायो महासुरः\n",
+      "ur": "mado nāma mahāvīryo br̥hatkāyo mahāsuraḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 19
+  },
+  "03124019e": {
+    "text": {
+      "ascii": "zarIraM yasya nirdeSTum azakyaM tu surAsuraiH\n",
+      "ud": "शरीरं यस्य निर्देष्टुमशक्यं तु सुरासुरैः\n",
+      "ur": "śarīraṁ yasya nirdeṣṭum aśakyaṁ tu surāsuraiḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 19
+  },
+  "03124020a": {
+    "text": {
+      "ascii": "tasyAsyam abhavad ghoraM tIkSNAgradazanaM mahat\n",
+      "ud": "तस्यास्यमभवद्घोरं तीक्ष्णाग्रदशनं महत्\n",
+      "ur": "tasyāsyam abhavad ghoraṁ tīkṣṇāgradaśanaṁ mahat\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 20
+  },
+  "03124020c": {
+    "text": {
+      "ascii": "hanur ekA sthitA tasya bhUmAv ekA divaM gatA\n",
+      "ud": "हनुरेका स्थिता तस्य भूमावेका दिवं गता\n",
+      "ur": "hanur ekā sthitā tasya bhūmāv ekā divaṁ gatā\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 20
+  },
+  "03124021a": {
+    "text": {
+      "ascii": "catasra AyatA daMSTrA yojanAnAM zataM zatam\n",
+      "ud": "चतस्र आयता दंष्ट्रा योजनानां शतं शतम्\n",
+      "ur": "catasra āyatā daṁṣṭrā yojanānāṁ śataṁ śatam\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 21
+  },
+  "03124021c": {
+    "text": {
+      "ascii": "itare tv asya dazanA babhUvur dazayojanAH\n",
+      "ud": "इतरे त्वस्य दशना बभूवुर्दशयोजनाः\n",
+      "ur": "itare tv asya daśanā babhūvur daśayojanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 21
+  },
+  "03124021e": {
+    "text": {
+      "ascii": "prAkArasadRzAkArAH zUlAgrasamadarzanAH\n",
+      "ud": "प्राकारसदृशाकाराः शूलाग्रसमदर्शनाः\n",
+      "ur": "prākārasadr̥śākārāḥ śūlāgrasamadarśanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 21
+  },
+  "03124022a": {
+    "text": {
+      "ascii": "bAhU parvatasaMkAzAv AyatAv ayutaM samau\n",
+      "ud": "बाहू पर्वतसंकाशावायतावयुतं समौ\n",
+      "ur": "bāhū parvatasaṁkāśāv āyatāv ayutaṁ samau\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 22
+  },
+  "03124022c": {
+    "text": {
+      "ascii": "netre ravizaziprakhye vaktram antakasaMnibham\n",
+      "ud": "नेत्रे रविशशिप्रख्ये वक्त्रमन्तकसंनिभम्\n",
+      "ur": "netre raviśaśiprakhye vaktram antakasaṁnibham\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 22
+  },
+  "03124023a": {
+    "text": {
+      "ascii": "lelihaJ jihvayA vaktraM vidyuccapalalolayA\n",
+      "ud": "लेलिहञ्जिह्वया वक्त्रं विद्युच्चपललोलया\n",
+      "ur": "lelihañ jihvayā vaktraṁ vidyuccapalalolayā\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 23
+  },
+  "03124023c": {
+    "text": {
+      "ascii": "vyAttAnano ghoradRSTir grasann iva jagad balAt\n",
+      "ud": "व्यात्ताननो घोरदृष्टिर्ग्रसन्निव जगद्बलात्\n",
+      "ur": "vyāttānano ghoradr̥ṣṭir grasann iva jagad balāt\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 23
+  },
+  "03124024a": {
+    "text": {
+      "ascii": "sa bhakSayiSyan saMkruddhaH zatakratum upAdravat\n",
+      "ud": "स भक्षयिष्यन्संक्रुद्धः शतक्रतुमुपाद्रवत्\n",
+      "ur": "sa bhakṣayiṣyan saṁkruddhaḥ śatakratum upādravat\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 24
+  },
+  "03124024c": {
+    "text": {
+      "ascii": "mahatA ghorarUpeNa lokAJ zabdena nAdayan\n",
+      "ud": "महता घोररूपेण लोकाञ्शब्देन नादयन्\n",
+      "ur": "mahatā ghorarūpeṇa lokāñ śabdena nādayan\n"
+    },
+    "book": 3,
+    "chapter": 124,
+    "verse": 24
+  }
+}

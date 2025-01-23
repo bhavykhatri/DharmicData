@@ -1,0 +1,382 @@
+{
+  "03171001": {
+    "text": {
+      "ascii": "arjuna uvAca\n",
+      "ud": "अर्जुन उवाच\n",
+      "ur": "arjuna uvāca\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 1
+  },
+  "03171001a": {
+    "text": {
+      "ascii": "tato mAm abhivizvastaM saMrUDhazaravikSatam\n",
+      "ud": "ततो मामभिविश्वस्तं संरूढशरविक्षतम्\n",
+      "ur": "tato mām abhiviśvastaṁ saṁrūḍhaśaravikṣatam\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 1
+  },
+  "03171001c": {
+    "text": {
+      "ascii": "devarAjo 'nugRhyedaM kAle vacanam abravIt\n",
+      "ud": "देवराजोऽनुगृह्येदं काले वचनमब्रवीत्\n",
+      "ur": "devarājo ’nugr̥hyedaṁ kāle vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 1
+  },
+  "03171002a": {
+    "text": {
+      "ascii": "divyAny astrANi sarvANi tvayi tiSThanti bhArata\n",
+      "ud": "दिव्यान्यस्त्राणि सर्वाणि त्वयि तिष्ठन्ति भारत\n",
+      "ur": "divyāny astrāṇi sarvāṇi tvayi tiṣṭhanti bhārata\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 2
+  },
+  "03171002c": {
+    "text": {
+      "ascii": "na tvAbhibhavituM zakto mAnuSo bhuvi kaz cana\n",
+      "ud": "न त्वाभिभवितुं शक्तो मानुषो भुवि कश्चन\n",
+      "ur": "na tvābhibhavituṁ śakto mānuṣo bhuvi kaś cana\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 2
+  },
+  "03171003a": {
+    "text": {
+      "ascii": "bhISmo droNaH kRpaH karNaH zakuniH saha rAjabhiH\n",
+      "ud": "भीष्मो द्रोणः कृपः कर्णः शकुनिः सह राजभिः\n",
+      "ur": "bhīṣmo droṇaḥ kr̥paḥ karṇaḥ śakuniḥ saha rājabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 3
+  },
+  "03171003c": {
+    "text": {
+      "ascii": "saMgrAmasthasya te putra kalAM nArhanti SoDazIm\n",
+      "ud": "संग्रामस्थस्य ते पुत्र कलां नार्हन्ति षोडशीम्\n",
+      "ur": "saṁgrāmasthasya te putra kalāṁ nārhanti ṣoḍaśīm\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 3
+  },
+  "03171004a": {
+    "text": {
+      "ascii": "idaM ca me tanutrANaM prAyacchan maghavAn prabhuH\n",
+      "ud": "इदं च मे तनुत्राणं प्रायच्छन्मघवान्प्रभुः\n",
+      "ur": "idaṁ ca me tanutrāṇaṁ prāyacchan maghavān prabhuḥ\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 4
+  },
+  "03171004c": {
+    "text": {
+      "ascii": "abhedyaM kavacaM divyaM srajaM caiva hiraNmayIm\n",
+      "ud": "अभेद्यं कवचं दिव्यं स्रजं चैव हिरण्मयीम्\n",
+      "ur": "abhedyaṁ kavacaṁ divyaṁ srajaṁ caiva hiraṇmayīm\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 4
+  },
+  "03171005a": {
+    "text": {
+      "ascii": "devadattaM ca me zaGkhaM devaH prAdAn mahAravam\n",
+      "ud": "देवदत्तं च मे शङ्खं देवः प्रादान्महारवम्\n",
+      "ur": "devadattaṁ ca me śaṅkhaṁ devaḥ prādān mahāravam\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 5
+  },
+  "03171005c": {
+    "text": {
+      "ascii": "divyaM cedaM kirITaM me svayam indro yuyoja ha\n",
+      "ud": "दिव्यं चेदं किरीटं मे स्वयमिन्द्रो युयोज ह\n",
+      "ur": "divyaṁ cedaṁ kirīṭaṁ me svayam indro yuyoja ha\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 5
+  },
+  "03171006a": {
+    "text": {
+      "ascii": "tato divyAni vastrANi divyAny AbharaNAni ca\n",
+      "ud": "ततो दिव्यानि वस्त्राणि दिव्यान्याभरणानि च\n",
+      "ur": "tato divyāni vastrāṇi divyāny ābharaṇāni ca\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 6
+  },
+  "03171006c": {
+    "text": {
+      "ascii": "prAdAc chakro mamaitAni rucirANi bRhanti ca\n",
+      "ud": "प्रादाच्छक्रो ममैतानि रुचिराणि बृहन्ति च\n",
+      "ur": "prādāc chakro mamaitāni rucirāṇi br̥hanti ca\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 6
+  },
+  "03171007a": {
+    "text": {
+      "ascii": "evaM saMpUjitas tatra sukham asmy uSito nRpa\n",
+      "ud": "एवं संपूजितस्तत्र सुखमस्म्युषितो नृप\n",
+      "ur": "evaṁ saṁpūjitas tatra sukham asmy uṣito nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 7
+  },
+  "03171007c": {
+    "text": {
+      "ascii": "indrasya bhavane puNye gandharvazizubhiH saha\n",
+      "ud": "इन्द्रस्य भवने पुण्ये गन्धर्वशिशुभिः सह\n",
+      "ur": "indrasya bhavane puṇye gandharvaśiśubhiḥ saha\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 7
+  },
+  "03171008a": {
+    "text": {
+      "ascii": "tato mAm abravIc chakraH prItimAn amaraiH saha\n",
+      "ud": "ततो मामब्रवीच्छक्रः प्रीतिमानमरैः सह\n",
+      "ur": "tato mām abravīc chakraḥ prītimān amaraiḥ saha\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 8
+  },
+  "03171008c": {
+    "text": {
+      "ascii": "samayo 'rjuna gantuM te bhrAtaro hi smaranti te\n",
+      "ud": "समयोऽर्जुन गन्तुं ते भ्रातरो हि स्मरन्ति ते\n",
+      "ur": "samayo ’rjuna gantuṁ te bhrātaro hi smaranti te\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 8
+  },
+  "03171009a": {
+    "text": {
+      "ascii": "evam indrasya bhavane paJca varSANi bhArata\n",
+      "ud": "एवमिन्द्रस्य भवने पञ्च वर्षाणि भारत\n",
+      "ur": "evam indrasya bhavane pañca varṣāṇi bhārata\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 9
+  },
+  "03171009c": {
+    "text": {
+      "ascii": "uSitAni mayA rAjan smaratA dyUtajaM kalim\n",
+      "ud": "उषितानि मया राजन्स्मरता द्यूतजं कलिम्\n",
+      "ur": "uṣitāni mayā rājan smaratā dyūtajaṁ kalim\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 9
+  },
+  "03171010a": {
+    "text": {
+      "ascii": "tato bhavantam adrAkSaM bhrAtRbhiH parivAritam\n",
+      "ud": "ततो भवन्तमद्राक्षं भ्रातृभिः परिवारितम्\n",
+      "ur": "tato bhavantam adrākṣaṁ bhrātr̥bhiḥ parivāritam\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 10
+  },
+  "03171010c": {
+    "text": {
+      "ascii": "gandhamAdanam AsAdya parvatasyAsya mUrdhani\n",
+      "ud": "गन्धमादनमासाद्य पर्वतस्यास्य मूर्धनि\n",
+      "ur": "gandhamādanam āsādya parvatasyāsya mūrdhani\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 10
+  },
+  "03171011": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 11
+  },
+  "03171011a": {
+    "text": {
+      "ascii": "diSTyA dhanaMjayAstrANi tvayA prAptAni bhArata\n",
+      "ud": "दिष्ट्या धनंजयास्त्राणि त्वया प्राप्तानि भारत\n",
+      "ur": "diṣṭyā dhanaṁjayāstrāṇi tvayā prāptāni bhārata\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 11
+  },
+  "03171011c": {
+    "text": {
+      "ascii": "diSTyA cArAdhito rAjA devAnAm IzvaraH prabhuH\n",
+      "ud": "दिष्ट्या चाराधितो राजा देवानामीश्वरः प्रभुः\n",
+      "ur": "diṣṭyā cārādhito rājā devānām īśvaraḥ prabhuḥ\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 11
+  },
+  "03171012a": {
+    "text": {
+      "ascii": "diSTyA ca bhagavAn sthANur devyA saha paraMtapa\n",
+      "ud": "दिष्ट्या च भगवान्स्थाणुर्देव्या सह परंतप\n",
+      "ur": "diṣṭyā ca bhagavān sthāṇur devyā saha paraṁtapa\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 12
+  },
+  "03171012c": {
+    "text": {
+      "ascii": "sAkSAd dRSTaH suyuddhena toSitaz ca tvayAnagha\n",
+      "ud": "साक्षाद्दृष्टः सुयुद्धेन तोषितश्च त्वयानघ\n",
+      "ur": "sākṣād dr̥ṣṭaḥ suyuddhena toṣitaś ca tvayānagha\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 12
+  },
+  "03171013a": {
+    "text": {
+      "ascii": "diSTyA ca lokapAlais tvaM sameto bharatarSabha\n",
+      "ud": "दिष्ट्या च लोकपालैस्त्वं समेतो भरतर्षभ\n",
+      "ur": "diṣṭyā ca lokapālais tvaṁ sameto bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 13
+  },
+  "03171013c": {
+    "text": {
+      "ascii": "diSTyA vardhAmahe sarve diSTyAsi punarAgataH\n",
+      "ud": "दिष्ट्या वर्धामहे सर्वे दिष्ट्यासि पुनरागतः\n",
+      "ur": "diṣṭyā vardhāmahe sarve diṣṭyāsi punarāgataḥ\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 13
+  },
+  "03171014a": {
+    "text": {
+      "ascii": "adya kRtsnAm imAM devIM vijitAM puramAlinIm\n",
+      "ud": "अद्य कृत्स्नामिमां देवीं विजितां पुरमालिनीम्\n",
+      "ur": "adya kr̥tsnām imāṁ devīṁ vijitāṁ puramālinīm\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 14
+  },
+  "03171014c": {
+    "text": {
+      "ascii": "manye ca dhRtarASTrasya putrAn api vazIkRtAn\n",
+      "ud": "मन्ये च धृतराष्ट्रस्य पुत्रानपि वशीकृतान्\n",
+      "ur": "manye ca dhr̥tarāṣṭrasya putrān api vaśīkr̥tān\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 14
+  },
+  "03171015a": {
+    "text": {
+      "ascii": "tAni tv icchAmi te draSTuM divyAny astrANi bhArata\n",
+      "ud": "तानि त्विच्छामि ते द्रष्टुं दिव्यान्यस्त्राणि भारत\n",
+      "ur": "tāni tv icchāmi te draṣṭuṁ divyāny astrāṇi bhārata\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 15
+  },
+  "03171015c": {
+    "text": {
+      "ascii": "yais tathA vIryavantas te nivAtakavacA hatA\n",
+      "ud": "यैस्तथा वीर्यवन्तस्ते निवातकवचा हता\n",
+      "ur": "yais tathā vīryavantas te nivātakavacā hatā\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 15
+  },
+  "03171016": {
+    "text": {
+      "ascii": "arjuna uvAca\n",
+      "ud": "अर्जुन उवाच\n",
+      "ur": "arjuna uvāca\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 16
+  },
+  "03171016a": {
+    "text": {
+      "ascii": "zvaH prabhAte bhavAn draSTA divyAny astrANi sarvazaH\n",
+      "ud": "श्वः प्रभाते भवान्द्रष्टा दिव्यान्यस्त्राणि सर्वशः\n",
+      "ur": "śvaḥ prabhāte bhavān draṣṭā divyāny astrāṇi sarvaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 16
+  },
+  "03171016c": {
+    "text": {
+      "ascii": "nivAtakavacA ghorA yair mayA vinipAtitAH\n",
+      "ud": "निवातकवचा घोरा यैर्मया विनिपातिताः\n",
+      "ur": "nivātakavacā ghorā yair mayā vinipātitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 16
+  },
+  "03171017": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 17
+  },
+  "03171017a": {
+    "text": {
+      "ascii": "evam AgamanaM tatra kathayitvA dhanaMjayaH\n",
+      "ud": "एवमागमनं तत्र कथयित्वा धनंजयः\n",
+      "ur": "evam āgamanaṁ tatra kathayitvā dhanaṁjayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 17
+  },
+  "03171017c": {
+    "text": {
+      "ascii": "bhrAtRbhiH sahitaH sarvai rajanIM tAm uvAsa ha\n",
+      "ud": "भ्रातृभिः सहितः सर्वै रजनीं तामुवास ह\n",
+      "ur": "bhrātr̥bhiḥ sahitaḥ sarvai rajanīṁ tām uvāsa ha\n"
+    },
+    "book": 3,
+    "chapter": 171,
+    "verse": 17
+  }
+}

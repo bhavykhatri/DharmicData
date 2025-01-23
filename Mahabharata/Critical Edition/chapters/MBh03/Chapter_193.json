@@ -1,0 +1,642 @@
+{
+  "03193001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 1
+  },
+  "03193001a": {
+    "text": {
+      "ascii": "ikSvAkau saMsthite rAjaJ zazAdaH pRthivIm imAm\n",
+      "ud": "इक्ष्वाकौ संस्थिते राजञ्शशादः पृथिवीमिमाम्\n",
+      "ur": "ikṣvākau saṁsthite rājañ śaśādaḥ pr̥thivīm imām\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 1
+  },
+  "03193001c": {
+    "text": {
+      "ascii": "prAptaH paramadharmAtmA so 'yodhyAyAM nRpo 'bhavat\n",
+      "ud": "प्राप्तः परमधर्मात्मा सोऽयोध्यायां नृपोऽभवत्\n",
+      "ur": "prāptaḥ paramadharmātmā so ’yodhyāyāṁ nr̥po ’bhavat\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 1
+  },
+  "03193002a": {
+    "text": {
+      "ascii": "zazAdasya tu dAyAdaH kakutstho nAma vIryavAn\n",
+      "ud": "शशादस्य तु दायादः ककुत्स्थो नाम वीर्यवान्\n",
+      "ur": "śaśādasya tu dāyādaḥ kakutstho nāma vīryavān\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 2
+  },
+  "03193002c": {
+    "text": {
+      "ascii": "anenAz cApi kAkutsthaH pRthuz cAnenasaH sutaH\n",
+      "ud": "अनेनाश्चापि काकुत्स्थः पृथुश्चानेनसः सुतः\n",
+      "ur": "anenāś cāpi kākutsthaḥ pr̥thuś cānenasaḥ sutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 2
+  },
+  "03193003a": {
+    "text": {
+      "ascii": "viSvagazvaH pRthoH putras tasmAd Ardras tu jajJivAn\n",
+      "ud": "विष्वगश्वः पृथोः पुत्रस्तस्मादार्द्रस्तु जज्ञिवान्\n",
+      "ur": "viṣvagaśvaḥ pr̥thoḥ putras tasmād ārdras tu jajñivān\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 3
+  },
+  "03193003c": {
+    "text": {
+      "ascii": "Ardrasya yuvanAzvas tu zrAvastas tasya cAtmajaH\n",
+      "ud": "आर्द्रस्य युवनाश्वस्तु श्रावस्तस्तस्य चात्मजः\n",
+      "ur": "ārdrasya yuvanāśvas tu śrāvastas tasya cātmajaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 3
+  },
+  "03193004a": {
+    "text": {
+      "ascii": "jajJe zrAvastako rAjA zrAvastI yena nirmitA\n",
+      "ud": "जज्ञे श्रावस्तको राजा श्रावस्ती येन निर्मिता\n",
+      "ur": "jajñe śrāvastako rājā śrāvastī yena nirmitā\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 4
+  },
+  "03193004c": {
+    "text": {
+      "ascii": "zrAvastasya tu dAyAdo bRhadazvo mahAbalaH\n",
+      "ud": "श्रावस्तस्य तु दायादो बृहदश्वो महाबलः\n",
+      "ur": "śrāvastasya tu dāyādo br̥hadaśvo mahābalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 4
+  },
+  "03193004e": {
+    "text": {
+      "ascii": "bRhadazvasutaz cApi kuvalAzva iti smRtaH\n",
+      "ud": "बृहदश्वसुतश्चापि कुवलाश्व इति स्मृतः\n",
+      "ur": "br̥hadaśvasutaś cāpi kuvalāśva iti smr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 4
+  },
+  "03193005a": {
+    "text": {
+      "ascii": "kuvalAzvasya putrANAM sahasrANy ekaviMzatiH\n",
+      "ud": "कुवलाश्वस्य पुत्राणां सहस्राण्येकविंशतिः\n",
+      "ur": "kuvalāśvasya putrāṇāṁ sahasrāṇy ekaviṁśatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 5
+  },
+  "03193005c": {
+    "text": {
+      "ascii": "sarve vidyAsu niSNAtA balavanto durAsadAH\n",
+      "ud": "सर्वे विद्यासु निष्णाता बलवन्तो दुरासदाः\n",
+      "ur": "sarve vidyāsu niṣṇātā balavanto durāsadāḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 5
+  },
+  "03193006a": {
+    "text": {
+      "ascii": "kuvalAzvas tu pitRto guNair abhyadhiko 'bhavat\n",
+      "ud": "कुवलाश्वस्तु पितृतो गुणैरभ्यधिकोऽभवत्\n",
+      "ur": "kuvalāśvas tu pitr̥to guṇair abhyadhiko ’bhavat\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 6
+  },
+  "03193006c": {
+    "text": {
+      "ascii": "samaye taM tato rAjye bRhadazvo 'bhyaSecayat\n",
+      "ud": "समये तं ततो राज्ये बृहदश्वोऽभ्यषेचयत्\n",
+      "ur": "samaye taṁ tato rājye br̥hadaśvo ’bhyaṣecayat\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 6
+  },
+  "03193006e": {
+    "text": {
+      "ascii": "kuvalAzvaM mahArAja zUram uttamadhArmikam\n",
+      "ud": "कुवलाश्वं महाराज शूरमुत्तमधार्मिकम्\n",
+      "ur": "kuvalāśvaṁ mahārāja śūram uttamadhārmikam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 6
+  },
+  "03193007a": {
+    "text": {
+      "ascii": "putrasaMkrAmitazrIs tu bRhadazvo mahIpatiH\n",
+      "ud": "पुत्रसंक्रामितश्रीस्तु बृहदश्वो महीपतिः\n",
+      "ur": "putrasaṁkrāmitaśrīs tu br̥hadaśvo mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 7
+  },
+  "03193007c": {
+    "text": {
+      "ascii": "jagAma tapase dhImAMs tapovanam amitrahA\n",
+      "ud": "जगाम तपसे धीमांस्तपोवनममित्रहा\n",
+      "ur": "jagāma tapase dhīmāṁs tapovanam amitrahā\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 7
+  },
+  "03193008a": {
+    "text": {
+      "ascii": "atha zuzrAva rAjarSiM tam uttaGko yudhiSThira\n",
+      "ud": "अथ शुश्राव राजर्षिं तमुत्तङ्को युधिष्ठिर\n",
+      "ur": "atha śuśrāva rājarṣiṁ tam uttaṅko yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 8
+  },
+  "03193008c": {
+    "text": {
+      "ascii": "vanaM saMprasthitaM rAjan bRhadazvaM dvijottamaH\n",
+      "ud": "वनं संप्रस्थितं राजन्बृहदश्वं द्विजोत्तमः\n",
+      "ur": "vanaṁ saṁprasthitaṁ rājan br̥hadaśvaṁ dvijottamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 8
+  },
+  "03193009a": {
+    "text": {
+      "ascii": "tam uttaGko mahAtejAH sarvAstraviduSAM varam\n",
+      "ud": "तमुत्तङ्को महातेजाः सर्वास्त्रविदुषां वरम्\n",
+      "ur": "tam uttaṅko mahātejāḥ sarvāstraviduṣāṁ varam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 9
+  },
+  "03193009c": {
+    "text": {
+      "ascii": "nyavArayad ameyAtmA samAsAdya narottamam\n",
+      "ud": "न्यवारयदमेयात्मा समासाद्य नरोत्तमम्\n",
+      "ur": "nyavārayad ameyātmā samāsādya narottamam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 9
+  },
+  "03193010": {
+    "text": {
+      "ascii": "uttaGka uvAca\n",
+      "ud": "उत्तङ्क उवाच\n",
+      "ur": "uttaṅka uvāca\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 10
+  },
+  "03193010a": {
+    "text": {
+      "ascii": "bhavatA rakSaNaM kAryaM tat tAvat kartum arhasi\n",
+      "ud": "भवता रक्षणं कार्यं तत्तावत्कर्तुमर्हसि\n",
+      "ur": "bhavatā rakṣaṇaṁ kāryaṁ tat tāvat kartum arhasi\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 10
+  },
+  "03193010c": {
+    "text": {
+      "ascii": "nirudvignA vayaM rAjaMs tvatprasAdAd vasemahi\n",
+      "ud": "निरुद्विग्ना वयं राजंस्त्वत्प्रसादाद्वसेमहि\n",
+      "ur": "nirudvignā vayaṁ rājaṁs tvatprasādād vasemahi\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 10
+  },
+  "03193011a": {
+    "text": {
+      "ascii": "tvayA hi pRthivI rAjan rakSyamANA mahAtmanA\n",
+      "ud": "त्वया हि पृथिवी राजन्रक्ष्यमाणा महात्मना\n",
+      "ur": "tvayā hi pr̥thivī rājan rakṣyamāṇā mahātmanā\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 11
+  },
+  "03193011c": {
+    "text": {
+      "ascii": "bhaviSyati nirudvignA nAraNyaM gantum arhasi\n",
+      "ud": "भविष्यति निरुद्विग्ना नारण्यं गन्तुमर्हसि\n",
+      "ur": "bhaviṣyati nirudvignā nāraṇyaṁ gantum arhasi\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 11
+  },
+  "03193012a": {
+    "text": {
+      "ascii": "pAlane hi mahAn dharmaH prajAnAm iha dRzyate\n",
+      "ud": "पालने हि महान्धर्मः प्रजानामिह दृश्यते\n",
+      "ur": "pālane hi mahān dharmaḥ prajānām iha dr̥śyate\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 12
+  },
+  "03193012c": {
+    "text": {
+      "ascii": "na tathA dRzyate 'raNye mA te bhUd buddhir IdRzI\n",
+      "ud": "न तथा दृश्यतेऽरण्ये मा ते भूद्बुद्धिरीदृशी\n",
+      "ur": "na tathā dr̥śyate ’raṇye mā te bhūd buddhir īdr̥śī\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 12
+  },
+  "03193013a": {
+    "text": {
+      "ascii": "IdRzo na hi rAjendra dharmaH kva cana dRzyate\n",
+      "ud": "ईदृशो न हि राजेन्द्र धर्मः क्वचन दृश्यते\n",
+      "ur": "īdr̥śo na hi rājendra dharmaḥ kva cana dr̥śyate\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 13
+  },
+  "03193013c": {
+    "text": {
+      "ascii": "prajAnAM pAlane yo vai purA rAjarSibhiH kRtaH\n",
+      "ud": "प्रजानां पालने यो वै पुरा राजर्षिभिः कृतः\n",
+      "ur": "prajānāṁ pālane yo vai purā rājarṣibhiḥ kr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 13
+  },
+  "03193013e": {
+    "text": {
+      "ascii": "rakSitavyAH prajA rAjJA tAs tvaM rakSitum arhasi\n",
+      "ud": "रक्षितव्याः प्रजा राज्ञा तास्त्वं रक्षितुमर्हसि\n",
+      "ur": "rakṣitavyāḥ prajā rājñā tās tvaṁ rakṣitum arhasi\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 13
+  },
+  "03193014a": {
+    "text": {
+      "ascii": "nirudvignas tapaz cartuM na hi zaknomi pArthiva\n",
+      "ud": "निरुद्विग्नस्तपश्चर्तुं न हि शक्नोमि पार्थिव\n",
+      "ur": "nirudvignas tapaś cartuṁ na hi śaknomi pārthiva\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 14
+  },
+  "03193014c": {
+    "text": {
+      "ascii": "mamAzramasamIpe vai sameSu marudhanvasu\n",
+      "ud": "ममाश्रमसमीपे वै समेषु मरुधन्वसु\n",
+      "ur": "mamāśramasamīpe vai sameṣu marudhanvasu\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 14
+  },
+  "03193015a": {
+    "text": {
+      "ascii": "samudro vAlukApUrNa ujjAnaka iti smRtaH\n",
+      "ud": "समुद्रो वालुकापूर्ण उज्जानक इति स्मृतः\n",
+      "ur": "samudro vālukāpūrṇa ujjānaka iti smr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 15
+  },
+  "03193015c": {
+    "text": {
+      "ascii": "bahuyojanavistIrNo bahuyojanam AyataH\n",
+      "ud": "बहुयोजनविस्तीर्णो बहुयोजनमायतः\n",
+      "ur": "bahuyojanavistīrṇo bahuyojanam āyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 15
+  },
+  "03193016a": {
+    "text": {
+      "ascii": "tatra raudro dAnavendro mahAvIryaparAkramaH\n",
+      "ud": "तत्र रौद्रो दानवेन्द्रो महावीर्यपराक्रमः\n",
+      "ur": "tatra raudro dānavendro mahāvīryaparākramaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 16
+  },
+  "03193016c": {
+    "text": {
+      "ascii": "madhukaiTabhayoH putro dhundhur nAma sudAruNaH\n",
+      "ud": "मधुकैटभयोः पुत्रो धुन्धुर्नाम सुदारुणः\n",
+      "ur": "madhukaiṭabhayoḥ putro dhundhur nāma sudāruṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 16
+  },
+  "03193017a": {
+    "text": {
+      "ascii": "antarbhUmigato rAjan vasaty amitavikramaH\n",
+      "ud": "अन्तर्भूमिगतो राजन्वसत्यमितविक्रमः\n",
+      "ur": "antarbhūmigato rājan vasaty amitavikramaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 17
+  },
+  "03193017c": {
+    "text": {
+      "ascii": "taM nihatya mahArAja vanaM tvaM gantum arhasi\n",
+      "ud": "तं निहत्य महाराज वनं त्वं गन्तुमर्हसि\n",
+      "ur": "taṁ nihatya mahārāja vanaṁ tvaṁ gantum arhasi\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 17
+  },
+  "03193018a": {
+    "text": {
+      "ascii": "zete lokavinAzAya tapa AsthAya dAruNam\n",
+      "ud": "शेते लोकविनाशाय तप आस्थाय दारुणम्\n",
+      "ur": "śete lokavināśāya tapa āsthāya dāruṇam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 18
+  },
+  "03193018c": {
+    "text": {
+      "ascii": "tridazAnAM vinAzAya lokAnAM cApi pArthiva\n",
+      "ud": "त्रिदशानां विनाशाय लोकानां चापि पार्थिव\n",
+      "ur": "tridaśānāṁ vināśāya lokānāṁ cāpi pārthiva\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 18
+  },
+  "03193019a": {
+    "text": {
+      "ascii": "avadhyo devatAnAM sa daityAnAm atha rakSasAm\n",
+      "ud": "अवध्यो देवतानां स दैत्यानामथ रक्षसाम्\n",
+      "ur": "avadhyo devatānāṁ sa daityānām atha rakṣasām\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 19
+  },
+  "03193019c": {
+    "text": {
+      "ascii": "nAgAnAm atha yakSANAM gandharvANAM ca sarvazaH\n",
+      "ud": "नागानामथ यक्षाणां गन्धर्वाणां च सर्वशः\n",
+      "ur": "nāgānām atha yakṣāṇāṁ gandharvāṇāṁ ca sarvaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 19
+  },
+  "03193019e": {
+    "text": {
+      "ascii": "avApya sa varaM rAjan sarvalokapitAmahAt\n",
+      "ud": "अवाप्य स वरं राजन्सर्वलोकपितामहात्\n",
+      "ur": "avāpya sa varaṁ rājan sarvalokapitāmahāt\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 19
+  },
+  "03193020a": {
+    "text": {
+      "ascii": "taM vinAzaya bhadraM te mA te buddhir ato 'nyathA\n",
+      "ud": "तं विनाशय भद्रं ते मा ते बुद्धिरतोऽन्यथा\n",
+      "ur": "taṁ vināśaya bhadraṁ te mā te buddhir ato ’nyathā\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 20
+  },
+  "03193020c": {
+    "text": {
+      "ascii": "prApsyase mahatIM kIrtiM zAzvatIm avyayAM dhruvAm\n",
+      "ud": "प्राप्स्यसे महतीं कीर्तिं शाश्वतीमव्ययां ध्रुवाम्\n",
+      "ur": "prāpsyase mahatīṁ kīrtiṁ śāśvatīm avyayāṁ dhruvām\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 20
+  },
+  "03193021a": {
+    "text": {
+      "ascii": "krUrasya svapatas tasya vAlukAntarhitasya vai\n",
+      "ud": "क्रूरस्य स्वपतस्तस्य वालुकान्तर्हितस्य वै\n",
+      "ur": "krūrasya svapatas tasya vālukāntarhitasya vai\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 21
+  },
+  "03193021c": {
+    "text": {
+      "ascii": "saMvatsarasya paryante niHzvAsaH saMpravartate\n",
+      "ud": "संवत्सरस्य पर्यन्ते निःश्वासः संप्रवर्तते\n",
+      "ur": "saṁvatsarasya paryante niḥśvāsaḥ saṁpravartate\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 21
+  },
+  "03193021e": {
+    "text": {
+      "ascii": "yadA tadA bhUz calati sazailavanakAnanA\n",
+      "ud": "यदा तदा भूश्चलति सशैलवनकानना\n",
+      "ur": "yadā tadā bhūś calati saśailavanakānanā\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 21
+  },
+  "03193022a": {
+    "text": {
+      "ascii": "tasya niHzvAsavAtena raja uddhUyate mahat\n",
+      "ud": "तस्य निःश्वासवातेन रज उद्धूयते महत्\n",
+      "ur": "tasya niḥśvāsavātena raja uddhūyate mahat\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 22
+  },
+  "03193022c": {
+    "text": {
+      "ascii": "Adityapatham AvRtya saptAhaM bhUmikampanam\n",
+      "ud": "आदित्यपथमावृत्य सप्ताहं भूमिकम्पनम्\n",
+      "ur": "ādityapatham āvr̥tya saptāhaṁ bhūmikampanam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 22
+  },
+  "03193022e": {
+    "text": {
+      "ascii": "savisphuliGgaM sajvAlaM sadhUmaM hy atidAruNam\n",
+      "ud": "सविस्फुलिङ्गं सज्वालं सधूमं ह्यतिदारुणम्\n",
+      "ur": "savisphuliṅgaṁ sajvālaṁ sadhūmaṁ hy atidāruṇam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 22
+  },
+  "03193023a": {
+    "text": {
+      "ascii": "tena rAjan na zaknomi tasmin sthAtuM sva Azrame\n",
+      "ud": "तेन राजन्न शक्नोमि तस्मिन्स्थातुं स्व आश्रमे\n",
+      "ur": "tena rājan na śaknomi tasmin sthātuṁ sva āśrame\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 23
+  },
+  "03193023c": {
+    "text": {
+      "ascii": "taM vinAzaya rAjendra lokAnAM hitakAmyayA\n",
+      "ud": "तं विनाशय राजेन्द्र लोकानां हितकाम्यया\n",
+      "ur": "taṁ vināśaya rājendra lokānāṁ hitakāmyayā\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 23
+  },
+  "03193023e": {
+    "text": {
+      "ascii": "lokAH svasthA bhavantv adya tasmin vinihate 'sure\n",
+      "ud": "लोकाः स्वस्था भवन्त्वद्य तस्मिन्विनिहतेऽसुरे\n",
+      "ur": "lokāḥ svasthā bhavantv adya tasmin vinihate ’sure\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 23
+  },
+  "03193024a": {
+    "text": {
+      "ascii": "tvaM hi tasya vinAzAya paryApta iti me matiH\n",
+      "ud": "त्वं हि तस्य विनाशाय पर्याप्त इति मे मतिः\n",
+      "ur": "tvaṁ hi tasya vināśāya paryāpta iti me matiḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 24
+  },
+  "03193024c": {
+    "text": {
+      "ascii": "tejasA tava tejaz ca viSNur ApyAyayiSyati\n",
+      "ud": "तेजसा तव तेजश्च विष्णुराप्याययिष्यति\n",
+      "ur": "tejasā tava tejaś ca viṣṇur āpyāyayiṣyati\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 24
+  },
+  "03193025a": {
+    "text": {
+      "ascii": "viSNunA ca varo datto mama pUrvaM tato vadhe\n",
+      "ud": "विष्णुना च वरो दत्तो मम पूर्वं ततो वधे\n",
+      "ur": "viṣṇunā ca varo datto mama pūrvaṁ tato vadhe\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 25
+  },
+  "03193025c": {
+    "text": {
+      "ascii": "yas taM mahAsuraM raudraM vadhiSyati mahIpatiH\n",
+      "ud": "यस्तं महासुरं रौद्रं वधिष्यति महीपतिः\n",
+      "ur": "yas taṁ mahāsuraṁ raudraṁ vadhiṣyati mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 25
+  },
+  "03193025e": {
+    "text": {
+      "ascii": "tejas taM vaiSNavam iti pravekSyati durAsadam\n",
+      "ud": "तेजस्तं वैष्णवमिति प्रवेक्ष्यति दुरासदम्\n",
+      "ur": "tejas taṁ vaiṣṇavam iti pravekṣyati durāsadam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 25
+  },
+  "03193026a": {
+    "text": {
+      "ascii": "tat tejas tvaM samAdhAya rAjendra bhuvi duHsaham\n",
+      "ud": "तत्तेजस्त्वं समाधाय राजेन्द्र भुवि दुःसहम्\n",
+      "ur": "tat tejas tvaṁ samādhāya rājendra bhuvi duḥsaham\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 26
+  },
+  "03193026c": {
+    "text": {
+      "ascii": "taM niSUdaya saMduSTaM daityaM raudraparAkramam\n",
+      "ud": "तं निषूदय संदुष्टं दैत्यं रौद्रपराक्रमम्\n",
+      "ur": "taṁ niṣūdaya saṁduṣṭaṁ daityaṁ raudraparākramam\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 26
+  },
+  "03193027a": {
+    "text": {
+      "ascii": "na hi dhundhur mahAtejAs tejasAlpena zakyate\n",
+      "ud": "न हि धुन्धुर्महातेजास्तेजसाल्पेन शक्यते\n",
+      "ur": "na hi dhundhur mahātejās tejasālpena śakyate\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 27
+  },
+  "03193027c": {
+    "text": {
+      "ascii": "nirdagdhuM pRthivIpAla sa hi varSazatair api\n",
+      "ud": "निर्दग्धुं पृथिवीपाल स हि वर्षशतैरपि\n",
+      "ur": "nirdagdhuṁ pr̥thivīpāla sa hi varṣaśatair api\n"
+    },
+    "book": 3,
+    "chapter": 193,
+    "verse": 27
+  }
+}

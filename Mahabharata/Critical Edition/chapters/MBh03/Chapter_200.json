@@ -1,0 +1,1172 @@
+{
+  "03200001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 1
+  },
+  "03200001a": {
+    "text": {
+      "ascii": "dharmavyAdhas tu nipuNaM punar eva yudhiSThira\n",
+      "ud": "धर्मव्याधस्तु निपुणं पुनरेव युधिष्ठिर\n",
+      "ur": "dharmavyādhas tu nipuṇaṁ punar eva yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 1
+  },
+  "03200001c": {
+    "text": {
+      "ascii": "viprarSabham uvAcedaM sarvadharmabhRtAM varaH\n",
+      "ud": "विप्रर्षभमुवाचेदं सर्वधर्मभृतां वरः\n",
+      "ur": "viprarṣabham uvācedaṁ sarvadharmabhr̥tāṁ varaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 1
+  },
+  "03200002a": {
+    "text": {
+      "ascii": "zrutipramANo dharmo hi vRddhAnAm iti bhASitam\n",
+      "ud": "श्रुतिप्रमाणो धर्मो हि वृद्धानामिति भाषितम्\n",
+      "ur": "śrutipramāṇo dharmo hi vr̥ddhānām iti bhāṣitam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 2
+  },
+  "03200002c": {
+    "text": {
+      "ascii": "sUkSmA gatir hi dharmasya bahuzAkhA hy anantikA\n",
+      "ud": "सूक्ष्मा गतिर्हि धर्मस्य बहुशाखा ह्यनन्तिका\n",
+      "ur": "sūkṣmā gatir hi dharmasya bahuśākhā hy anantikā\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 2
+  },
+  "03200003a": {
+    "text": {
+      "ascii": "prANAtyaye vivAhe ca vaktavyam anRtaM bhavet\n",
+      "ud": "प्राणात्यये विवाहे च वक्तव्यमनृतं भवेत्\n",
+      "ur": "prāṇātyaye vivāhe ca vaktavyam anr̥taṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 3
+  },
+  "03200003c": {
+    "text": {
+      "ascii": "anRtaM ca bhavet satyaM satyaM caivAnRtaM bhavet\n",
+      "ud": "अनृतं च भवेत्सत्यं सत्यं चैवानृतं भवेत्\n",
+      "ur": "anr̥taṁ ca bhavet satyaṁ satyaṁ caivānr̥taṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 3
+  },
+  "03200004a": {
+    "text": {
+      "ascii": "yad bhUtahitam atyantaM tat satyam iti dhAraNA\n",
+      "ud": "यद्भूतहितमत्यन्तं तत्सत्यमिति धारणा\n",
+      "ur": "yad bhūtahitam atyantaṁ tat satyam iti dhāraṇā\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 4
+  },
+  "03200004c": {
+    "text": {
+      "ascii": "viparyayakRto 'dharmaH pazya dharmasya sUkSmatAm\n",
+      "ud": "विपर्ययकृतोऽधर्मः पश्य धर्मस्य सूक्ष्मताम्\n",
+      "ur": "viparyayakr̥to ’dharmaḥ paśya dharmasya sūkṣmatām\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 4
+  },
+  "03200005a": {
+    "text": {
+      "ascii": "yat karoty azubhaM karma zubhaM vA dvijasattama\n",
+      "ud": "यत्करोत्यशुभं कर्म शुभं वा द्विजसत्तम\n",
+      "ur": "yat karoty aśubhaṁ karma śubhaṁ vā dvijasattama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 5
+  },
+  "03200005c": {
+    "text": {
+      "ascii": "avazyaM tat samApnoti puruSo nAtra saMzayaH\n",
+      "ud": "अवश्यं तत्समाप्नोति पुरुषो नात्र संशयः\n",
+      "ur": "avaśyaṁ tat samāpnoti puruṣo nātra saṁśayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 5
+  },
+  "03200006a": {
+    "text": {
+      "ascii": "viSamAM ca dazAM prApya devAn garhati vai bhRzam\n",
+      "ud": "विषमां च दशां प्राप्य देवान्गर्हति वै भृशम्\n",
+      "ur": "viṣamāṁ ca daśāṁ prāpya devān garhati vai bhr̥śam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 6
+  },
+  "03200006c": {
+    "text": {
+      "ascii": "AtmanaH karmadoSANi na vijAnAty apaNDitaH\n",
+      "ud": "आत्मनः कर्मदोषाणि न विजानात्यपण्डितः\n",
+      "ur": "ātmanaḥ karmadoṣāṇi na vijānāty apaṇḍitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 6
+  },
+  "03200007a": {
+    "text": {
+      "ascii": "mUDho naikRtikaz cApi capalaz ca dvijottama\n",
+      "ud": "मूढो नैकृतिकश्चापि चपलश्च द्विजोत्तम\n",
+      "ur": "mūḍho naikr̥tikaś cāpi capalaś ca dvijottama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 7
+  },
+  "03200007c": {
+    "text": {
+      "ascii": "sukhaduHkhaviparyAso yadA samupapadyate\n",
+      "ud": "सुखदुःखविपर्यासो यदा समुपपद्यते\n",
+      "ur": "sukhaduḥkhaviparyāso yadā samupapadyate\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 7
+  },
+  "03200007e": {
+    "text": {
+      "ascii": "nainaM prajJA sunItaM vA trAyate naiva pauruSam\n",
+      "ud": "नैनं प्रज्ञा सुनीतं वा त्रायते नैव पौरुषम्\n",
+      "ur": "nainaṁ prajñā sunītaṁ vā trāyate naiva pauruṣam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 7
+  },
+  "03200008a": {
+    "text": {
+      "ascii": "yo yam icched yathA kAmaM taM taM kAmaM samaznuyAt\n",
+      "ud": "यो यमिच्छेद्यथा कामं तं तं कामं समश्नुयात्\n",
+      "ur": "yo yam icched yathā kāmaṁ taṁ taṁ kāmaṁ samaśnuyāt\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 8
+  },
+  "03200008c": {
+    "text": {
+      "ascii": "yadi syAd aparAdhInaM puruSasya kriyAphalam\n",
+      "ud": "यदि स्यादपराधीनं पुरुषस्य क्रियाफलम्\n",
+      "ur": "yadi syād aparādhīnaṁ puruṣasya kriyāphalam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 8
+  },
+  "03200009a": {
+    "text": {
+      "ascii": "saMyatAz cApi dakSAz ca matimantaz ca mAnavAH\n",
+      "ud": "संयताश्चापि दक्षाश्च मतिमन्तश्च मानवाः\n",
+      "ur": "saṁyatāś cāpi dakṣāś ca matimantaś ca mānavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 9
+  },
+  "03200009c": {
+    "text": {
+      "ascii": "dRzyante niSphalAH santaH prahINAH sarvakarmabhiH\n",
+      "ud": "दृश्यन्ते निष्फलाः सन्तः प्रहीणाः सर्वकर्मभिः\n",
+      "ur": "dr̥śyante niṣphalāḥ santaḥ prahīṇāḥ sarvakarmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 9
+  },
+  "03200010a": {
+    "text": {
+      "ascii": "bhUtAnAm aparaH kaz cid dhiMsAyAM satatotthitaH\n",
+      "ud": "भूतानामपरः कश्चिद्धिंसायां सततोत्थितः\n",
+      "ur": "bhūtānām aparaḥ kaś cid dhiṁsāyāṁ satatotthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 10
+  },
+  "03200010c": {
+    "text": {
+      "ascii": "vaJcanAyAM ca lokasya sa sukheneha jIvati\n",
+      "ud": "वञ्चनायां च लोकस्य स सुखेनेह जीवति\n",
+      "ur": "vañcanāyāṁ ca lokasya sa sukheneha jīvati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 10
+  },
+  "03200011a": {
+    "text": {
+      "ascii": "aceSTamAnam AsInaM zrIH kaM cid upatiSThati\n",
+      "ud": "अचेष्टमानमासीनं श्रीः कंचिदुपतिष्ठति\n",
+      "ur": "aceṣṭamānam āsīnaṁ śrīḥ kaṁ cid upatiṣṭhati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 11
+  },
+  "03200011c": {
+    "text": {
+      "ascii": "kaz cit karmANi kurvan hi na prApyam adhigacchati\n",
+      "ud": "कश्चित्कर्माणि कुर्वन्हि न प्राप्यमधिगच्छति\n",
+      "ur": "kaś cit karmāṇi kurvan hi na prāpyam adhigacchati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 11
+  },
+  "03200012a": {
+    "text": {
+      "ascii": "devAn iSTvA tapas taptvA kRpaNaiH putragRddhibhiH\n",
+      "ud": "देवानिष्ट्वा तपस्तप्त्वा कृपणैः पुत्रगृद्धिभिः\n",
+      "ur": "devān iṣṭvā tapas taptvā kr̥paṇaiḥ putragr̥ddhibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 12
+  },
+  "03200012c": {
+    "text": {
+      "ascii": "dazamAsadhRtA garbhe jAyante kulapAMsanAH\n",
+      "ud": "दशमासधृता गर्भे जायन्ते कुलपांसनाः\n",
+      "ur": "daśamāsadhr̥tā garbhe jāyante kulapāṁsanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 12
+  },
+  "03200013a": {
+    "text": {
+      "ascii": "apare dhanadhAnyaiz ca bhogaiz ca pitRsaMcitaiH\n",
+      "ud": "अपरे धनधान्यैश्च भोगैश्च पितृसंचितैः\n",
+      "ur": "apare dhanadhānyaiś ca bhogaiś ca pitr̥saṁcitaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 13
+  },
+  "03200013c": {
+    "text": {
+      "ascii": "vipulair abhijAyante labdhAs tair eva maGgalaiH\n",
+      "ud": "विपुलैरभिजायन्ते लब्धास्तैरेव मङ्गलैः\n",
+      "ur": "vipulair abhijāyante labdhās tair eva maṅgalaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 13
+  },
+  "03200014a": {
+    "text": {
+      "ascii": "karmajA hi manuSyANAM rogA nAsty atra saMzayaH\n",
+      "ud": "कर्मजा हि मनुष्याणां रोगा नास्त्यत्र संशयः\n",
+      "ur": "karmajā hi manuṣyāṇāṁ rogā nāsty atra saṁśayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 14
+  },
+  "03200014c": {
+    "text": {
+      "ascii": "Adhibhiz caiva bAdhyante vyAdhaiH kSudramRgA iva\n",
+      "ud": "आधिभिश्चैव बाध्यन्ते व्याधैः क्षुद्रमृगा इव\n",
+      "ur": "ādhibhiś caiva bādhyante vyādhaiḥ kṣudramr̥gā iva\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 14
+  },
+  "03200015a": {
+    "text": {
+      "ascii": "te cApi kuzalair vaidyair nipuNaiH saMbhRtauSadhaiH\n",
+      "ud": "ते चापि कुशलैर्वैद्यैर्निपुणैः संभृतौषधैः\n",
+      "ur": "te cāpi kuśalair vaidyair nipuṇaiḥ saṁbhr̥tauṣadhaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 15
+  },
+  "03200015c": {
+    "text": {
+      "ascii": "vyAdhayo vinivAryante mRgA vyAdhair iva dvija\n",
+      "ud": "व्याधयो विनिवार्यन्ते मृगा व्याधैरिव द्विज\n",
+      "ur": "vyādhayo vinivāryante mr̥gā vyādhair iva dvija\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 15
+  },
+  "03200016a": {
+    "text": {
+      "ascii": "yeSAm asti ca bhoktavyaM grahaNIdoSapIDitAH\n",
+      "ud": "येषामस्ति च भोक्तव्यं ग्रहणीदोषपीडिताः\n",
+      "ur": "yeṣām asti ca bhoktavyaṁ grahaṇīdoṣapīḍitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 16
+  },
+  "03200016c": {
+    "text": {
+      "ascii": "na zaknuvanti te bhoktuM pazya dharmabhRtAM vara\n",
+      "ud": "न शक्नुवन्ति ते भोक्तुं पश्य धर्मभृतां वर\n",
+      "ur": "na śaknuvanti te bhoktuṁ paśya dharmabhr̥tāṁ vara\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 16
+  },
+  "03200017a": {
+    "text": {
+      "ascii": "apare bAhubalinaH klizyante bahavo janAH\n",
+      "ud": "अपरे बाहुबलिनः क्लिश्यन्ते बहवो जनाः\n",
+      "ur": "apare bāhubalinaḥ kliśyante bahavo janāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 17
+  },
+  "03200017c": {
+    "text": {
+      "ascii": "duHkhena cAdhigacchanti bhojanaM dvijasattama\n",
+      "ud": "दुःखेन चाधिगच्छन्ति भोजनं द्विजसत्तम\n",
+      "ur": "duḥkhena cādhigacchanti bhojanaṁ dvijasattama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 17
+  },
+  "03200018a": {
+    "text": {
+      "ascii": "iti lokam anAkrandaM mohazokapariplutam\n",
+      "ud": "इति लोकमनाक्रन्दं मोहशोकपरिप्लुतम्\n",
+      "ur": "iti lokam anākrandaṁ mohaśokapariplutam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 18
+  },
+  "03200018c": {
+    "text": {
+      "ascii": "srotasAsakRd AkSiptaM hriyamANaM balIyasA\n",
+      "ud": "स्रोतसासकृदाक्षिप्तं ह्रियमाणं बलीयसा\n",
+      "ur": "srotasāsakr̥d ākṣiptaṁ hriyamāṇaṁ balīyasā\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 18
+  },
+  "03200019a": {
+    "text": {
+      "ascii": "na mriyeyur na jIryeyuH sarve syuH sArvakAmikAH\n",
+      "ud": "न म्रियेयुर्न जीर्येयुः सर्वे स्युः सार्वकामिकाः\n",
+      "ur": "na mriyeyur na jīryeyuḥ sarve syuḥ sārvakāmikāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 19
+  },
+  "03200019c": {
+    "text": {
+      "ascii": "nApriyaM pratipazyeyur vazitvaM yadi vai bhavet\n",
+      "ud": "नाप्रियं प्रतिपश्येयुर्वशित्वं यदि वै भवेत्\n",
+      "ur": "nāpriyaṁ pratipaśyeyur vaśitvaṁ yadi vai bhavet\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 19
+  },
+  "03200020a": {
+    "text": {
+      "ascii": "upary upari lokasya sarvo gantuM samIhate\n",
+      "ud": "उपर्युपरि लोकस्य सर्वो गन्तुं समीहते\n",
+      "ur": "upary upari lokasya sarvo gantuṁ samīhate\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 20
+  },
+  "03200020c": {
+    "text": {
+      "ascii": "yatate ca yathAzakti na ca tad vartate tathA\n",
+      "ud": "यतते च यथाशक्ति न च तद्वर्तते तथा\n",
+      "ur": "yatate ca yathāśakti na ca tad vartate tathā\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 20
+  },
+  "03200021a": {
+    "text": {
+      "ascii": "bahavaH saMpradRzyante tulyanakSatramaGgalAH\n",
+      "ud": "बहवः संप्रदृश्यन्ते तुल्यनक्षत्रमङ्गलाः\n",
+      "ur": "bahavaḥ saṁpradr̥śyante tulyanakṣatramaṅgalāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 21
+  },
+  "03200021c": {
+    "text": {
+      "ascii": "mahac ca phalavaiSamyaM dRzyate karmasaMdhiSu\n",
+      "ud": "महच्च फलवैषम्यं दृश्यते कर्मसंधिषु\n",
+      "ur": "mahac ca phalavaiṣamyaṁ dr̥śyate karmasaṁdhiṣu\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 21
+  },
+  "03200022a": {
+    "text": {
+      "ascii": "na kaz cid Izate brahman svayaMgrAhasya sattama\n",
+      "ud": "न कश्चिदीशते ब्रह्मन्स्वयंग्राहस्य सत्तम\n",
+      "ur": "na kaś cid īśate brahman svayaṁgrāhasya sattama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 22
+  },
+  "03200022c": {
+    "text": {
+      "ascii": "karmaNAM prAkRtAnAM vai iha siddhiH pradRzyate\n",
+      "ud": "कर्मणां प्राकृतानां वै इह सिद्धिः प्रदृश्यते\n",
+      "ur": "karmaṇāṁ prākr̥tānāṁ vai iha siddhiḥ pradr̥śyate\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 22
+  },
+  "03200023a": {
+    "text": {
+      "ascii": "yathA zrutir iyaM brahmaJ jIvaH kila sanAtanaH\n",
+      "ud": "यथा श्रुतिरियं ब्रह्मञ्जीवः किल सनातनः\n",
+      "ur": "yathā śrutir iyaṁ brahmañ jīvaḥ kila sanātanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 23
+  },
+  "03200023c": {
+    "text": {
+      "ascii": "zarIram adhruvaM loke sarveSAM prANinAm iha\n",
+      "ud": "शरीरमध्रुवं लोके सर्वेषां प्राणिनामिह\n",
+      "ur": "śarīram adhruvaṁ loke sarveṣāṁ prāṇinām iha\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 23
+  },
+  "03200024a": {
+    "text": {
+      "ascii": "vadhyamAne zarIre tu dehanAzo bhavaty uta\n",
+      "ud": "वध्यमाने शरीरे तु देहनाशो भवत्युत\n",
+      "ur": "vadhyamāne śarīre tu dehanāśo bhavaty uta\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 24
+  },
+  "03200024c": {
+    "text": {
+      "ascii": "jIvaH saMkramate 'nyatra karmabandhanibandhanaH\n",
+      "ud": "जीवः संक्रमतेऽन्यत्र कर्मबन्धनिबन्धनः\n",
+      "ur": "jīvaḥ saṁkramate ’nyatra karmabandhanibandhanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 24
+  },
+  "03200025": {
+    "text": {
+      "ascii": "brAhmaNa uvAca\n",
+      "ud": "ब्राह्मण उवाच\n",
+      "ur": "brāhmaṇa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 25
+  },
+  "03200025a": {
+    "text": {
+      "ascii": "kathaM dharmabhRtAM zreSTha jIvo bhavati zAzvataH\n",
+      "ud": "कथं धर्मभृतां श्रेष्ठ जीवो भवति शाश्वतः\n",
+      "ur": "kathaṁ dharmabhr̥tāṁ śreṣṭha jīvo bhavati śāśvataḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 25
+  },
+  "03200025c": {
+    "text": {
+      "ascii": "etad icchAmy ahaM jJAtuM tattvena vadatAM vara\n",
+      "ud": "एतदिच्छाम्यहं ज्ञातुं तत्त्वेन वदतां वर\n",
+      "ur": "etad icchāmy ahaṁ jñātuṁ tattvena vadatāṁ vara\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 25
+  },
+  "03200026": {
+    "text": {
+      "ascii": "vyAdha uvAca\n",
+      "ud": "व्याध उवाच\n",
+      "ur": "vyādha uvāca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 26
+  },
+  "03200026a": {
+    "text": {
+      "ascii": "na jIvanAzo 'sti hi dehabhede; mithyaitad Ahur mriyateti mUDhAH\n",
+      "ud": "न जीवनाशोऽस्ति हि देहभेदे; मिथ्यैतदाहुर्म्रियतेति मूढाः\n",
+      "ur": "na jīvanāśo ’sti hi dehabhede; mithyaitad āhur mriyateti mūḍhāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 26
+  },
+  "03200026c": {
+    "text": {
+      "ascii": "jIvas tu dehAntaritaH prayAti; dazArdhataivAsya zarIrabhedaH\n",
+      "ud": "जीवस्तु देहान्तरितः प्रयाति; दशार्धतैवास्य शरीरभेदः\n",
+      "ur": "jīvas tu dehāntaritaḥ prayāti; daśārdhataivāsya śarīrabhedaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 26
+  },
+  "03200027a": {
+    "text": {
+      "ascii": "anyo hi nAznAti kRtaM hi karma; sa eva kartA sukhaduHkhabhAgI\n",
+      "ud": "अन्यो हि नाश्नाति कृतं हि कर्म; स एव कर्ता सुखदुःखभागी\n",
+      "ur": "anyo hi nāśnāti kr̥taṁ hi karma; sa eva kartā sukhaduḥkhabhāgī\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 27
+  },
+  "03200027c": {
+    "text": {
+      "ascii": "yat tena kiM cid dhi kRtaM hi karma; tad aznute nAsti kRtasya nAzaH\n",
+      "ud": "यत्तेन किंचिद्धि कृतं हि कर्म; तदश्नुते नास्ति कृतस्य नाशः\n",
+      "ur": "yat tena kiṁ cid dhi kr̥taṁ hi karma; tad aśnute nāsti kr̥tasya nāśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 27
+  },
+  "03200028a": {
+    "text": {
+      "ascii": "apuNyazIlAz ca bhavanti puNyA; narottamAH pApakRto bhavanti\n",
+      "ud": "अपुण्यशीलाश्च भवन्ति पुण्या; नरोत्तमाः पापकृतो भवन्ति\n",
+      "ur": "apuṇyaśīlāś ca bhavanti puṇyā; narottamāḥ pāpakr̥to bhavanti\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 28
+  },
+  "03200028c": {
+    "text": {
+      "ascii": "naro 'nuyAtas tv iha karmabhiH svais; tataH samutpadyati bhAvitas taiH\n",
+      "ud": "नरोऽनुयातस्त्विह कर्मभिः स्वै;स्ततः समुत्पद्यति भावितस्तैः\n",
+      "ur": "naro ’nuyātas tv iha karmabhiḥ svais; tataḥ samutpadyati bhāvitas taiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 28
+  },
+  "03200029": {
+    "text": {
+      "ascii": "brAhmaNa uvAca\n",
+      "ud": "ब्राह्मण उवाच\n",
+      "ur": "brāhmaṇa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 29
+  },
+  "03200029a": {
+    "text": {
+      "ascii": "kathaM saMbhavate yonau kathaM vA puNyapApayoH\n",
+      "ud": "कथं संभवते योनौ कथं वा पुण्यपापयोः\n",
+      "ur": "kathaṁ saṁbhavate yonau kathaṁ vā puṇyapāpayoḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 29
+  },
+  "03200029c": {
+    "text": {
+      "ascii": "jAtIH puNyA hy apuNyAz ca kathaM gacchati sattama\n",
+      "ud": "जातीः पुण्या ह्यपुण्याश्च कथं गच्छति सत्तम\n",
+      "ur": "jātīḥ puṇyā hy apuṇyāś ca kathaṁ gacchati sattama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 29
+  },
+  "03200030": {
+    "text": {
+      "ascii": "vyAdha uvAca\n",
+      "ud": "व्याध उवाच\n",
+      "ur": "vyādha uvāca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 30
+  },
+  "03200030a": {
+    "text": {
+      "ascii": "garbhAdhAnasamAyuktaM karmedaM saMpradRzyate\n",
+      "ud": "गर्भाधानसमायुक्तं कर्मेदं संप्रदृश्यते\n",
+      "ur": "garbhādhānasamāyuktaṁ karmedaṁ saṁpradr̥śyate\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 30
+  },
+  "03200030c": {
+    "text": {
+      "ascii": "samAsena tu te kSipraM pravakSyAmi dvijottama\n",
+      "ud": "समासेन तु ते क्षिप्रं प्रवक्ष्यामि द्विजोत्तम\n",
+      "ur": "samāsena tu te kṣipraṁ pravakṣyāmi dvijottama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 30
+  },
+  "03200031a": {
+    "text": {
+      "ascii": "yathA saMbhRtasaMbhAraH punar eva prajAyate\n",
+      "ud": "यथा संभृतसंभारः पुनरेव प्रजायते\n",
+      "ur": "yathā saṁbhr̥tasaṁbhāraḥ punar eva prajāyate\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 31
+  },
+  "03200031c": {
+    "text": {
+      "ascii": "zubhakRc chubhayonISu pApakRt pApayoniSu\n",
+      "ud": "शुभकृच्छुभयोनीषु पापकृत्पापयोनिषु\n",
+      "ur": "śubhakr̥c chubhayonīṣu pāpakr̥t pāpayoniṣu\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 31
+  },
+  "03200032a": {
+    "text": {
+      "ascii": "zubhaiH prayogair devatvaM vyAmizrair mAnuSo bhavet\n",
+      "ud": "शुभैः प्रयोगैर्देवत्वं व्यामिश्रैर्मानुषो भवेत्\n",
+      "ur": "śubhaiḥ prayogair devatvaṁ vyāmiśrair mānuṣo bhavet\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 32
+  },
+  "03200032c": {
+    "text": {
+      "ascii": "mohanIyair viyonISu tv adhogAmI ca kilbiSaiH\n",
+      "ud": "मोहनीयैर्वियोनीषु त्वधोगामी च किल्बिषैः\n",
+      "ur": "mohanīyair viyonīṣu tv adhogāmī ca kilbiṣaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 32
+  },
+  "03200033a": {
+    "text": {
+      "ascii": "jAtimRtyujarAduHkhaiH satataM samabhidrutaH\n",
+      "ud": "जातिमृत्युजरादुःखैः सततं समभिद्रुतः\n",
+      "ur": "jātimr̥tyujarāduḥkhaiḥ satataṁ samabhidrutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 33
+  },
+  "03200033c": {
+    "text": {
+      "ascii": "saMsAre pacyamAnaz ca doSair AtmakRtair naraH\n",
+      "ud": "संसारे पच्यमानश्च दोषैरात्मकृतैर्नरः\n",
+      "ur": "saṁsāre pacyamānaś ca doṣair ātmakr̥tair naraḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 33
+  },
+  "03200034a": {
+    "text": {
+      "ascii": "tiryagyonisahasrANi gatvA narakam eva ca\n",
+      "ud": "तिर्यग्योनिसहस्राणि गत्वा नरकमेव च\n",
+      "ur": "tiryagyonisahasrāṇi gatvā narakam eva ca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 34
+  },
+  "03200034c": {
+    "text": {
+      "ascii": "jIvAH saMparivartante karmabandhanibandhanAH\n",
+      "ud": "जीवाः संपरिवर्तन्ते कर्मबन्धनिबन्धनाः\n",
+      "ur": "jīvāḥ saṁparivartante karmabandhanibandhanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 34
+  },
+  "03200035a": {
+    "text": {
+      "ascii": "jantus tu karmabhis tais taiH svakRtaiH pretya duHkhitaH\n",
+      "ud": "जन्तुस्तु कर्मभिस्तैस्तैः स्वकृतैः प्रेत्य दुःखितः\n",
+      "ur": "jantus tu karmabhis tais taiḥ svakr̥taiḥ pretya duḥkhitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 35
+  },
+  "03200035c": {
+    "text": {
+      "ascii": "tadduHkhapratighAtArtham apuNyAM yonim aznute\n",
+      "ud": "तद्दुःखप्रतिघातार्थमपुण्यां योनिमश्नुते\n",
+      "ur": "tadduḥkhapratighātārtham apuṇyāṁ yonim aśnute\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 35
+  },
+  "03200036a": {
+    "text": {
+      "ascii": "tataH karma samAdatte punar anyan navaM bahu\n",
+      "ud": "ततः कर्म समादत्ते पुनरन्यन्नवं बहु\n",
+      "ur": "tataḥ karma samādatte punar anyan navaṁ bahu\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 36
+  },
+  "03200036c": {
+    "text": {
+      "ascii": "pacyate tu punas tena bhuktvApathyam ivAturaH\n",
+      "ud": "पच्यते तु पुनस्तेन भुक्त्वापथ्यमिवातुरः\n",
+      "ur": "pacyate tu punas tena bhuktvāpathyam ivāturaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 36
+  },
+  "03200037a": {
+    "text": {
+      "ascii": "ajasram eva duHkhArto 'duHkhitaH sukhasaMjJitaH\n",
+      "ud": "अजस्रमेव दुःखार्तोऽदुःखितः सुखसंज्ञितः\n",
+      "ur": "ajasram eva duḥkhārto ’duḥkhitaḥ sukhasaṁjñitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 37
+  },
+  "03200037c": {
+    "text": {
+      "ascii": "tato 'nivRttabandhatvAt karmaNAm udayAd api\n",
+      "ud": "ततोऽनिवृत्तबन्धत्वात्कर्मणामुदयादपि\n",
+      "ur": "tato ’nivr̥ttabandhatvāt karmaṇām udayād api\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 37
+  },
+  "03200037e": {
+    "text": {
+      "ascii": "parikrAmati saMsAre cakravad bahuvedanaH\n",
+      "ud": "परिक्रामति संसारे चक्रवद्बहुवेदनः\n",
+      "ur": "parikrāmati saṁsāre cakravad bahuvedanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 37
+  },
+  "03200038a": {
+    "text": {
+      "ascii": "sa cen nivRttabandhas tu vizuddhaz cApi karmabhiH\n",
+      "ud": "स चेन्निवृत्तबन्धस्तु विशुद्धश्चापि कर्मभिः\n",
+      "ur": "sa cen nivr̥ttabandhas tu viśuddhaś cāpi karmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 38
+  },
+  "03200038c": {
+    "text": {
+      "ascii": "prApnoti sukRtA\u0026l lokAn yatra gatvA na zocati\n",
+      "ud": "प्राप्नोति सुकृताँल्लोकान्यत्र गत्वा न शोचति\n",
+      "ur": "prāpnoti sukr̥tām̐l lokān yatra gatvā na śocati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 38
+  },
+  "03200039a": {
+    "text": {
+      "ascii": "pApaM kurvan pApavRttaH pApasyAntaM na gacchati\n",
+      "ud": "पापं कुर्वन्पापवृत्तः पापस्यान्तं न गच्छति\n",
+      "ur": "pāpaṁ kurvan pāpavr̥ttaḥ pāpasyāntaṁ na gacchati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 39
+  },
+  "03200039c": {
+    "text": {
+      "ascii": "tasmAt puNyaM yatet kartuM varjayeta ca pAtakam\n",
+      "ud": "तस्मात्पुण्यं यतेत्कर्तुं वर्जयेत च पातकम्\n",
+      "ur": "tasmāt puṇyaṁ yatet kartuṁ varjayeta ca pātakam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 39
+  },
+  "03200040a": {
+    "text": {
+      "ascii": "anasUyuH kRtajJaz ca kalyANAny eva sevate\n",
+      "ud": "अनसूयुः कृतज्ञश्च कल्याणान्येव सेवते\n",
+      "ur": "anasūyuḥ kr̥tajñaś ca kalyāṇāny eva sevate\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 40
+  },
+  "03200040c": {
+    "text": {
+      "ascii": "sukhAni dharmam arthaM ca svargaM ca labhate naraH\n",
+      "ud": "सुखानि धर्ममर्थं च स्वर्गं च लभते नरः\n",
+      "ur": "sukhāni dharmam arthaṁ ca svargaṁ ca labhate naraḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 40
+  },
+  "03200041a": {
+    "text": {
+      "ascii": "saMskRtasya hi dAntasya niyatasya yatAtmanaH\n",
+      "ud": "संस्कृतस्य हि दान्तस्य नियतस्य यतात्मनः\n",
+      "ur": "saṁskr̥tasya hi dāntasya niyatasya yatātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 41
+  },
+  "03200041c": {
+    "text": {
+      "ascii": "prAjJasyAnantarA vRttir iha loke paratra ca\n",
+      "ud": "प्राज्ञस्यानन्तरा वृत्तिरिह लोके परत्र च\n",
+      "ur": "prājñasyānantarā vr̥ttir iha loke paratra ca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 41
+  },
+  "03200042a": {
+    "text": {
+      "ascii": "satAM dharmeNa varteta kriyAM ziSTavad Acaret\n",
+      "ud": "सतां धर्मेण वर्तेत क्रियां शिष्टवदाचरेत्\n",
+      "ur": "satāṁ dharmeṇa varteta kriyāṁ śiṣṭavad ācaret\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 42
+  },
+  "03200042c": {
+    "text": {
+      "ascii": "asaMklezena lokasya vRttiM lipseta vai dvija\n",
+      "ud": "असंक्लेशेन लोकस्य वृत्तिं लिप्सेत वै द्विज\n",
+      "ur": "asaṁkleśena lokasya vr̥ttiṁ lipseta vai dvija\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 42
+  },
+  "03200043a": {
+    "text": {
+      "ascii": "santi hy AgatavijJAnAH ziSTAH zAstravicakSaNAH\n",
+      "ud": "सन्ति ह्यागतविज्ञानाः शिष्टाः शास्त्रविचक्षणाः\n",
+      "ur": "santi hy āgatavijñānāḥ śiṣṭāḥ śāstravicakṣaṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 43
+  },
+  "03200043c": {
+    "text": {
+      "ascii": "svadharmeNa kriyA loke karmaNaH so 'py asaMkaraH\n",
+      "ud": "स्वधर्मेण क्रिया लोके कर्मणः सोऽप्यसंकरः\n",
+      "ur": "svadharmeṇa kriyā loke karmaṇaḥ so ’py asaṁkaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 43
+  },
+  "03200044a": {
+    "text": {
+      "ascii": "prAjJo dharmeNa ramate dharmaM caivopajIvati\n",
+      "ud": "प्राज्ञो धर्मेण रमते धर्मं चैवोपजीवति\n",
+      "ur": "prājño dharmeṇa ramate dharmaṁ caivopajīvati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 44
+  },
+  "03200044c": {
+    "text": {
+      "ascii": "tasya dharmAd avApteSu dhaneSu dvijasattama\n",
+      "ud": "तस्य धर्मादवाप्तेषु धनेषु द्विजसत्तम\n",
+      "ur": "tasya dharmād avāpteṣu dhaneṣu dvijasattama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 44
+  },
+  "03200044e": {
+    "text": {
+      "ascii": "tasyaiva siJcate mUlaM guNAn pazyati yatra vai\n",
+      "ud": "तस्यैव सिञ्चते मूलं गुणान्पश्यति यत्र वै\n",
+      "ur": "tasyaiva siñcate mūlaṁ guṇān paśyati yatra vai\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 44
+  },
+  "03200045a": {
+    "text": {
+      "ascii": "dharmAtmA bhavati hy evaM cittaM cAsya prasIdati\n",
+      "ud": "धर्मात्मा भवति ह्येवं चित्तं चास्य प्रसीदति\n",
+      "ur": "dharmātmā bhavati hy evaṁ cittaṁ cāsya prasīdati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 45
+  },
+  "03200045c": {
+    "text": {
+      "ascii": "sa maitrajanasaMtuSTa iha pretya ca nandati\n",
+      "ud": "स मैत्रजनसंतुष्ट इह प्रेत्य च नन्दति\n",
+      "ur": "sa maitrajanasaṁtuṣṭa iha pretya ca nandati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 45
+  },
+  "03200046a": {
+    "text": {
+      "ascii": "zabdaM sparzaM tathA rUpaM gandhAn iSTAMz ca sattama\n",
+      "ud": "शब्दं स्पर्शं तथा रूपं गन्धानिष्टांश्च सत्तम\n",
+      "ur": "śabdaṁ sparśaṁ tathā rūpaṁ gandhān iṣṭāṁś ca sattama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 46
+  },
+  "03200046c": {
+    "text": {
+      "ascii": "prabhutvaM labhate cApi dharmasyaitat phalaM viduH\n",
+      "ud": "प्रभुत्वं लभते चापि धर्मस्यैतत्फलं विदुः\n",
+      "ur": "prabhutvaṁ labhate cāpi dharmasyaitat phalaṁ viduḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 46
+  },
+  "03200047a": {
+    "text": {
+      "ascii": "dharmasya ca phalaM labdhvA na tRpyati mahAdvija\n",
+      "ud": "धर्मस्य च फलं लब्ध्वा न तृप्यति महाद्विज\n",
+      "ur": "dharmasya ca phalaṁ labdhvā na tr̥pyati mahādvija\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 47
+  },
+  "03200047c": {
+    "text": {
+      "ascii": "atRpyamANo nirvedam Adatte jJAnacakSuSA\n",
+      "ud": "अतृप्यमाणो निर्वेदमादत्ते ज्ञानचक्षुषा\n",
+      "ur": "atr̥pyamāṇo nirvedam ādatte jñānacakṣuṣā\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 47
+  },
+  "03200048a": {
+    "text": {
+      "ascii": "prajJAcakSur nara iha doSaM naivAnurudhyate\n",
+      "ud": "प्रज्ञाचक्षुर्नर इह दोषं नैवानुरुध्यते\n",
+      "ur": "prajñācakṣur nara iha doṣaṁ naivānurudhyate\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 48
+  },
+  "03200048c": {
+    "text": {
+      "ascii": "virajyati yathAkAmaM na ca dharmaM vimuJcati\n",
+      "ud": "विरज्यति यथाकामं न च धर्मं विमुञ्चति\n",
+      "ur": "virajyati yathākāmaṁ na ca dharmaṁ vimuñcati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 48
+  },
+  "03200049a": {
+    "text": {
+      "ascii": "sarvatyAge ca yatate dRSTvA lokaM kSayAtmakam\n",
+      "ud": "सर्वत्यागे च यतते दृष्ट्वा लोकं क्षयात्मकम्\n",
+      "ur": "sarvatyāge ca yatate dr̥ṣṭvā lokaṁ kṣayātmakam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 49
+  },
+  "03200049c": {
+    "text": {
+      "ascii": "tato mokSe prayatate nAnupAyAd upAyataH\n",
+      "ud": "ततो मोक्षे प्रयतते नानुपायादुपायतः\n",
+      "ur": "tato mokṣe prayatate nānupāyād upāyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 49
+  },
+  "03200050a": {
+    "text": {
+      "ascii": "evaM nirvedam Adatte pApaM karma jahAti ca\n",
+      "ud": "एवं निर्वेदमादत्ते पापं कर्म जहाति च\n",
+      "ur": "evaṁ nirvedam ādatte pāpaṁ karma jahāti ca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 50
+  },
+  "03200050c": {
+    "text": {
+      "ascii": "dhArmikaz cApi bhavati mokSaM ca labhate param\n",
+      "ud": "धार्मिकश्चापि भवति मोक्षं च लभते परम्\n",
+      "ur": "dhārmikaś cāpi bhavati mokṣaṁ ca labhate param\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 50
+  },
+  "03200051a": {
+    "text": {
+      "ascii": "tapo niHzreyasaM jantos tasya mUlaM zamo damaH\n",
+      "ud": "तपो निःश्रेयसं जन्तोस्तस्य मूलं शमो दमः\n",
+      "ur": "tapo niḥśreyasaṁ jantos tasya mūlaṁ śamo damaḥ\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 51
+  },
+  "03200051c": {
+    "text": {
+      "ascii": "tena sarvAn avApnoti kAmAn yAn manasecchati\n",
+      "ud": "तेन सर्वानवाप्नोति कामान्यान्मनसेच्छति\n",
+      "ur": "tena sarvān avāpnoti kāmān yān manasecchati\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 51
+  },
+  "03200052a": {
+    "text": {
+      "ascii": "indriyANAM nirodhena satyena ca damena ca\n",
+      "ud": "इन्द्रियाणां निरोधेन सत्येन च दमेन च\n",
+      "ur": "indriyāṇāṁ nirodhena satyena ca damena ca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 52
+  },
+  "03200052c": {
+    "text": {
+      "ascii": "brahmaNaH padam Apnoti yat paraM dvijasattama\n",
+      "ud": "ब्रह्मणः पदमाप्नोति यत्परं द्विजसत्तम\n",
+      "ur": "brahmaṇaḥ padam āpnoti yat paraṁ dvijasattama\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 52
+  },
+  "03200053": {
+    "text": {
+      "ascii": "brAhmaNa uvAca\n",
+      "ud": "ब्राह्मण उवाच\n",
+      "ur": "brāhmaṇa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 53
+  },
+  "03200053a": {
+    "text": {
+      "ascii": "indriyANi tu yAny AhuH kAni tAni yatavrata\n",
+      "ud": "इन्द्रियाणि तु यान्याहुः कानि तानि यतव्रत\n",
+      "ur": "indriyāṇi tu yāny āhuḥ kāni tāni yatavrata\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 53
+  },
+  "03200053c": {
+    "text": {
+      "ascii": "nigrahaz ca kathaM kAryo nigrahasya ca kiM phalam\n",
+      "ud": "निग्रहश्च कथं कार्यो निग्रहस्य च किं फलम्\n",
+      "ur": "nigrahaś ca kathaṁ kāryo nigrahasya ca kiṁ phalam\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 53
+  },
+  "03200054a": {
+    "text": {
+      "ascii": "kathaM ca phalam Apnoti teSAM dharmabhRtAM vara\n",
+      "ud": "कथं च फलमाप्नोति तेषां धर्मभृतां वर\n",
+      "ur": "kathaṁ ca phalam āpnoti teṣāṁ dharmabhr̥tāṁ vara\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 54
+  },
+  "03200054c": {
+    "text": {
+      "ascii": "etad icchAmi tattvena dharmaM jJAtuM sudhArmika\n",
+      "ud": "एतदिच्छामि तत्त्वेन धर्मं ज्ञातुं सुधार्मिक\n",
+      "ur": "etad icchāmi tattvena dharmaṁ jñātuṁ sudhārmika\n"
+    },
+    "book": 3,
+    "chapter": 200,
+    "verse": 54
+  }
+}

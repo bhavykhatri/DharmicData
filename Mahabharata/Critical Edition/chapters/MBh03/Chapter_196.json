@@ -1,0 +1,492 @@
+{
+  "03196001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 1
+  },
+  "03196001a": {
+    "text": {
+      "ascii": "tato yudhiSThiro rAjA mArkaNDeyaM mahAdyutim\n",
+      "ud": "ततो युधिष्ठिरो राजा मार्कण्डेयं महाद्युतिम्\n",
+      "ur": "tato yudhiṣṭhiro rājā mārkaṇḍeyaṁ mahādyutim\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 1
+  },
+  "03196001c": {
+    "text": {
+      "ascii": "papraccha bharatazreSTho dharmapraznaM sudurvacam\n",
+      "ud": "पप्रच्छ भरतश्रेष्ठो धर्मप्रश्नं सुदुर्वचम्\n",
+      "ur": "papraccha bharataśreṣṭho dharmapraśnaṁ sudurvacam\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 1
+  },
+  "03196002a": {
+    "text": {
+      "ascii": "zrotum icchAmi bhagavan strINAM mAhAtmyam uttamam\n",
+      "ud": "श्रोतुमिच्छामि भगवन्स्त्रीणां माहात्म्यमुत्तमम्\n",
+      "ur": "śrotum icchāmi bhagavan strīṇāṁ māhātmyam uttamam\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 2
+  },
+  "03196002c": {
+    "text": {
+      "ascii": "kathyamAnaM tvayA vipra sUkSmaM dharmaM ca tattvataH\n",
+      "ud": "कथ्यमानं त्वया विप्र सूक्ष्मं धर्मं च तत्त्वतः\n",
+      "ur": "kathyamānaṁ tvayā vipra sūkṣmaṁ dharmaṁ ca tattvataḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 2
+  },
+  "03196003a": {
+    "text": {
+      "ascii": "pratyakSeNa hi viprarSe devA dRzyanti sattama\n",
+      "ud": "प्रत्यक्षेण हि विप्रर्षे देवा दृश्यन्ति सत्तम\n",
+      "ur": "pratyakṣeṇa hi viprarṣe devā dr̥śyanti sattama\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 3
+  },
+  "03196003c": {
+    "text": {
+      "ascii": "sUryAcandramasau vAyuH pRthivI vahnir eva ca\n",
+      "ud": "सूर्याचन्द्रमसौ वायुः पृथिवी वह्निरेव च\n",
+      "ur": "sūryācandramasau vāyuḥ pr̥thivī vahnir eva ca\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 3
+  },
+  "03196004a": {
+    "text": {
+      "ascii": "pitA mAtA ca bhagavan gAva eva ca sattama\n",
+      "ud": "पिता माता च भगवन्गाव एव च सत्तम\n",
+      "ur": "pitā mātā ca bhagavan gāva eva ca sattama\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 4
+  },
+  "03196004c": {
+    "text": {
+      "ascii": "yac cAnyad eva vihitaM tac cApi bhRgunandana\n",
+      "ud": "यच्चान्यदेव विहितं तच्चापि भृगुनन्दन\n",
+      "ur": "yac cānyad eva vihitaṁ tac cāpi bhr̥gunandana\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 4
+  },
+  "03196005a": {
+    "text": {
+      "ascii": "manye 'haM guruvat sarvam ekapatnyas tathA striyaH\n",
+      "ud": "मन्येऽहं गुरुवत्सर्वमेकपत्न्यस्तथा स्त्रियः\n",
+      "ur": "manye ’haṁ guruvat sarvam ekapatnyas tathā striyaḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 5
+  },
+  "03196005c": {
+    "text": {
+      "ascii": "pativratAnAM zuzrUSA duSkarA pratibhAti me\n",
+      "ud": "पतिव्रतानां शुश्रूषा दुष्करा प्रतिभाति मे\n",
+      "ur": "pativratānāṁ śuśrūṣā duṣkarā pratibhāti me\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 5
+  },
+  "03196006a": {
+    "text": {
+      "ascii": "pativratAnAM mAhAtmyaM vaktum arhasi naH prabho\n",
+      "ud": "पतिव्रतानां माहात्म्यं वक्तुमर्हसि नः प्रभो\n",
+      "ur": "pativratānāṁ māhātmyaṁ vaktum arhasi naḥ prabho\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 6
+  },
+  "03196006c": {
+    "text": {
+      "ascii": "nirudhya cendriyagrAmaM manaH saMrudhya cAnagha\n",
+      "ud": "निरुध्य चेन्द्रियग्रामं मनः संरुध्य चानघ\n",
+      "ur": "nirudhya cendriyagrāmaṁ manaḥ saṁrudhya cānagha\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 6
+  },
+  "03196006e": {
+    "text": {
+      "ascii": "patiM daivatavac cApi cintayantyaH sthitA hi yAH\n",
+      "ud": "पतिं दैवतवच्चापि चिन्तयन्त्यः स्थिता हि याः\n",
+      "ur": "patiṁ daivatavac cāpi cintayantyaḥ sthitā hi yāḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 6
+  },
+  "03196007a": {
+    "text": {
+      "ascii": "bhagavan duSkaraM hy etat pratibhAti mama prabho\n",
+      "ud": "भगवन्दुष्करं ह्येतत्प्रतिभाति मम प्रभो\n",
+      "ur": "bhagavan duṣkaraṁ hy etat pratibhāti mama prabho\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 7
+  },
+  "03196007c": {
+    "text": {
+      "ascii": "mAtApitRSu zuzrUSA strINAM bhartRSu ca dvija\n",
+      "ud": "मातापितृषु शुश्रूषा स्त्रीणां भर्तृषु च द्विज\n",
+      "ur": "mātāpitr̥ṣu śuśrūṣā strīṇāṁ bhartr̥ṣu ca dvija\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 7
+  },
+  "03196008a": {
+    "text": {
+      "ascii": "strINAM dharmAt sughorAd dhi nAnyaM pazyAmi duSkaram\n",
+      "ud": "स्त्रीणां धर्मात्सुघोराद्धि नान्यं पश्यामि दुष्करम्\n",
+      "ur": "strīṇāṁ dharmāt sughorād dhi nānyaṁ paśyāmi duṣkaram\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 8
+  },
+  "03196008c": {
+    "text": {
+      "ascii": "sAdhv AcArAH striyo brahman yat kurvanti sadAdRtAH\n",
+      "ud": "साध्वाचाराः स्त्रियो ब्रह्मन्यत्कुर्वन्ति सदादृताः\n",
+      "ur": "sādhv ācārāḥ striyo brahman yat kurvanti sadādr̥tāḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 8
+  },
+  "03196008e": {
+    "text": {
+      "ascii": "duSkaraM bata kurvanti pitaro mAtaraz ca vai\n",
+      "ud": "दुष्करं बत कुर्वन्ति पितरो मातरश्च वै\n",
+      "ur": "duṣkaraṁ bata kurvanti pitaro mātaraś ca vai\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 8
+  },
+  "03196009a": {
+    "text": {
+      "ascii": "ekapatnyaz ca yA nAryo yAz ca satyaM vadanty uta\n",
+      "ud": "एकपत्न्यश्च या नार्यो याश्च सत्यं वदन्त्युत\n",
+      "ur": "ekapatnyaś ca yā nāryo yāś ca satyaṁ vadanty uta\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 9
+  },
+  "03196009c": {
+    "text": {
+      "ascii": "kukSiNA daza mAsAMz ca garbhaM saMdhArayanti yAH\n",
+      "ud": "कुक्षिणा दश मासांश्च गर्भं संधारयन्ति याः\n",
+      "ur": "kukṣiṇā daśa māsāṁś ca garbhaṁ saṁdhārayanti yāḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 9
+  },
+  "03196009e": {
+    "text": {
+      "ascii": "nAryaH kAlena saMbhUya kim adbhutataraM tataH\n",
+      "ud": "नार्यः कालेन संभूय किमद्भुततरं ततः\n",
+      "ur": "nāryaḥ kālena saṁbhūya kim adbhutataraṁ tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 9
+  },
+  "03196010a": {
+    "text": {
+      "ascii": "saMzayaM paramaM prApya vedanAm atulAm api\n",
+      "ud": "संशयं परमं प्राप्य वेदनामतुलामपि\n",
+      "ur": "saṁśayaṁ paramaṁ prāpya vedanām atulām api\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 10
+  },
+  "03196010c": {
+    "text": {
+      "ascii": "prajAyante sutAn nAryo duHkhena mahatA vibho\n",
+      "ud": "प्रजायन्ते सुतान्नार्यो दुःखेन महता विभो\n",
+      "ur": "prajāyante sutān nāryo duḥkhena mahatā vibho\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 10
+  },
+  "03196010e": {
+    "text": {
+      "ascii": "puSNanti cApi mahatA snehena dvijasattama\n",
+      "ud": "पुष्णन्ति चापि महता स्नेहेन द्विजसत्तम\n",
+      "ur": "puṣṇanti cāpi mahatā snehena dvijasattama\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 10
+  },
+  "03196011a": {
+    "text": {
+      "ascii": "ye ca krUreSu sarveSu vartamAnA jugupsitAH\n",
+      "ud": "ये च क्रूरेषु सर्वेषु वर्तमाना जुगुप्सिताः\n",
+      "ur": "ye ca krūreṣu sarveṣu vartamānā jugupsitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 11
+  },
+  "03196011c": {
+    "text": {
+      "ascii": "svakarma kurvanti sadA duSkaraM tac ca me matam\n",
+      "ud": "स्वकर्म कुर्वन्ति सदा दुष्करं तच्च मे मतम्\n",
+      "ur": "svakarma kurvanti sadā duṣkaraṁ tac ca me matam\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 11
+  },
+  "03196012a": {
+    "text": {
+      "ascii": "kSatradharmasamAcAraM tathyaM cAkhyAhi me dvija\n",
+      "ud": "क्षत्रधर्मसमाचारं तथ्यं चाख्याहि मे द्विज\n",
+      "ur": "kṣatradharmasamācāraṁ tathyaṁ cākhyāhi me dvija\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 12
+  },
+  "03196012c": {
+    "text": {
+      "ascii": "dharmaH sudurlabho vipra nRzaMsena durAtmanA\n",
+      "ud": "धर्मः सुदुर्लभो विप्र नृशंसेन दुरात्मना\n",
+      "ur": "dharmaḥ sudurlabho vipra nr̥śaṁsena durātmanā\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 12
+  },
+  "03196013a": {
+    "text": {
+      "ascii": "etad icchAmi bhagavan praznaM praznavidAM vara\n",
+      "ud": "एतदिच्छामि भगवन्प्रश्नं प्रश्नविदां वर\n",
+      "ur": "etad icchāmi bhagavan praśnaṁ praśnavidāṁ vara\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 13
+  },
+  "03196013c": {
+    "text": {
+      "ascii": "zrotuM bhRgukulazreSTha zuzrUSe tava suvrata\n",
+      "ud": "श्रोतुं भृगुकुलश्रेष्ठ शुश्रूषे तव सुव्रत\n",
+      "ur": "śrotuṁ bhr̥gukulaśreṣṭha śuśrūṣe tava suvrata\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 13
+  },
+  "03196014": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 14
+  },
+  "03196014a": {
+    "text": {
+      "ascii": "hanta te sarvam AkhyAsye praznam etaM sudurvacam\n",
+      "ud": "हन्त ते सर्वमाख्यास्ये प्रश्नमेतं सुदुर्वचम्\n",
+      "ur": "hanta te sarvam ākhyāsye praśnam etaṁ sudurvacam\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 14
+  },
+  "03196014c": {
+    "text": {
+      "ascii": "tattvena bharatazreSTha gadatas tan nibodha me\n",
+      "ud": "तत्त्वेन भरतश्रेष्ठ गदतस्तन्निबोध मे\n",
+      "ur": "tattvena bharataśreṣṭha gadatas tan nibodha me\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 14
+  },
+  "03196015a": {
+    "text": {
+      "ascii": "mAtaraM sadRzIM tAta pitqn anye ca manyate\n",
+      "ud": "मातरं सदृशीं तात पितॄनन्ये च मन्यते\n",
+      "ur": "mātaraṁ sadr̥śīṁ tāta pitr̥̄n anye ca manyate\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 15
+  },
+  "03196015c": {
+    "text": {
+      "ascii": "duSkaraM kurute mAtA vivardhayati yA prajAH\n",
+      "ud": "दुष्करं कुरुते माता विवर्धयति या प्रजाः\n",
+      "ur": "duṣkaraṁ kurute mātā vivardhayati yā prajāḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 15
+  },
+  "03196016a": {
+    "text": {
+      "ascii": "tapasA devatejyAbhir vandanena titikSayA\n",
+      "ud": "तपसा देवतेज्याभिर्वन्दनेन तितिक्षया\n",
+      "ur": "tapasā devatejyābhir vandanena titikṣayā\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 16
+  },
+  "03196016c": {
+    "text": {
+      "ascii": "abhicArair upAyaiz ca Ihante pitaraH sutAn\n",
+      "ud": "अभिचारैरुपायैश्च ईहन्ते पितरः सुतान्\n",
+      "ur": "abhicārair upāyaiś ca īhante pitaraḥ sutān\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 16
+  },
+  "03196017a": {
+    "text": {
+      "ascii": "evaM kRcchreNa mahatA putraM prApya sudurlabham\n",
+      "ud": "एवं कृच्छ्रेण महता पुत्रं प्राप्य सुदुर्लभम्\n",
+      "ur": "evaṁ kr̥cchreṇa mahatā putraṁ prāpya sudurlabham\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 17
+  },
+  "03196017c": {
+    "text": {
+      "ascii": "cintayanti sadA vIra kIdRzo 'yaM bhaviSyati\n",
+      "ud": "चिन्तयन्ति सदा वीर कीदृशोऽयं भविष्यति\n",
+      "ur": "cintayanti sadā vīra kīdr̥śo ’yaṁ bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 17
+  },
+  "03196018a": {
+    "text": {
+      "ascii": "AzaMsate ca putreSu pitA mAtA ca bhArata\n",
+      "ud": "आशंसते च पुत्रेषु पिता माता च भारत\n",
+      "ur": "āśaṁsate ca putreṣu pitā mātā ca bhārata\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 18
+  },
+  "03196018c": {
+    "text": {
+      "ascii": "yazaH kIrtim athaizvaryaM prajA dharmaM tathaiva ca\n",
+      "ud": "यशः कीर्तिमथैश्वर्यं प्रजा धर्मं तथैव च\n",
+      "ur": "yaśaḥ kīrtim athaiśvaryaṁ prajā dharmaṁ tathaiva ca\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 18
+  },
+  "03196019a": {
+    "text": {
+      "ascii": "tayor AzAM tu saphalAM yaH karoti sa dharmavit\n",
+      "ud": "तयोराशां तु सफलां यः करोति स धर्मवित्\n",
+      "ur": "tayor āśāṁ tu saphalāṁ yaḥ karoti sa dharmavit\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 19
+  },
+  "03196019c": {
+    "text": {
+      "ascii": "pitA mAtA ca rAjendra tuSyato yasya nityadA\n",
+      "ud": "पिता माता च राजेन्द्र तुष्यतो यस्य नित्यदा\n",
+      "ur": "pitā mātā ca rājendra tuṣyato yasya nityadā\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 19
+  },
+  "03196019e": {
+    "text": {
+      "ascii": "iha pretya ca tasyAtha kIrtir dharmaz ca zAzvataH\n",
+      "ud": "इह प्रेत्य च तस्याथ कीर्तिर्धर्मश्च शाश्वतः\n",
+      "ur": "iha pretya ca tasyātha kīrtir dharmaś ca śāśvataḥ\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 19
+  },
+  "03196020a": {
+    "text": {
+      "ascii": "naiva yajJaH striyaH kaz cin na zrAddhaM nopavAsakam\n",
+      "ud": "नैव यज्ञः स्त्रियः कश्चिन्न श्राद्धं नोपवासकम्\n",
+      "ur": "naiva yajñaḥ striyaḥ kaś cin na śrāddhaṁ nopavāsakam\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 20
+  },
+  "03196020c": {
+    "text": {
+      "ascii": "yA tu bhartari zuzrUSA tayA svargam upAznute\n",
+      "ud": "या तु भर्तरि शुश्रूषा तया स्वर्गमुपाश्नुते\n",
+      "ur": "yā tu bhartari śuśrūṣā tayā svargam upāśnute\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 20
+  },
+  "03196021a": {
+    "text": {
+      "ascii": "etat prakaraNaM rAjann adhikRtya yudhiSThira\n",
+      "ud": "एतत्प्रकरणं राजन्नधिकृत्य युधिष्ठिर\n",
+      "ur": "etat prakaraṇaṁ rājann adhikr̥tya yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 21
+  },
+  "03196021c": {
+    "text": {
+      "ascii": "prativratAnAM niyataM dharmaM cAvahitaH zRNu\n",
+      "ud": "प्रतिव्रतानां नियतं धर्मं चावहितः शृणु\n",
+      "ur": "prativratānāṁ niyataṁ dharmaṁ cāvahitaḥ śr̥ṇu\n"
+    },
+    "book": 3,
+    "chapter": 196,
+    "verse": 21
+  }
+}

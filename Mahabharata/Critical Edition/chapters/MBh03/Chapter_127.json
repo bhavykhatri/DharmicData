@@ -1,0 +1,482 @@
+{
+  "03127001": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 1
+  },
+  "03127001a": {
+    "text": {
+      "ascii": "kathaMvIryaH sa rAjAbhUt somako vadatAM vara\n",
+      "ud": "कथंवीर्यः स राजाभूत्सोमको वदतां वर\n",
+      "ur": "kathaṁvīryaḥ sa rājābhūt somako vadatāṁ vara\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 1
+  },
+  "03127001c": {
+    "text": {
+      "ascii": "karmANy asya prabhAvaM ca zrotum icchAmi tattvataH\n",
+      "ud": "कर्माण्यस्य प्रभावं च श्रोतुमिच्छामि तत्त्वतः\n",
+      "ur": "karmāṇy asya prabhāvaṁ ca śrotum icchāmi tattvataḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 1
+  },
+  "03127002": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 2
+  },
+  "03127002a": {
+    "text": {
+      "ascii": "yudhiSThirAsIn nRpatiH somako nAma dhArmikaH\n",
+      "ud": "युधिष्ठिरासीन्नृपतिः सोमको नाम धार्मिकः\n",
+      "ur": "yudhiṣṭhirāsīn nr̥patiḥ somako nāma dhārmikaḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 2
+  },
+  "03127002c": {
+    "text": {
+      "ascii": "tasya bhAryAzataM rAjan sadRzInAm abhUt tadA\n",
+      "ud": "तस्य भार्याशतं राजन्सदृशीनामभूत्तदा\n",
+      "ur": "tasya bhāryāśataṁ rājan sadr̥śīnām abhūt tadā\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 2
+  },
+  "03127003a": {
+    "text": {
+      "ascii": "sa vai yatnena mahatA tAsu putraM mahIpatiH\n",
+      "ud": "स वै यत्नेन महता तासु पुत्रं महीपतिः\n",
+      "ur": "sa vai yatnena mahatā tāsu putraṁ mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 3
+  },
+  "03127003c": {
+    "text": {
+      "ascii": "kaM cin nAsAdayAm Asa kAlena mahatA api\n",
+      "ud": "कंचिन्नासादयामास कालेन महता अपि\n",
+      "ur": "kaṁ cin nāsādayām āsa kālena mahatā api\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 3
+  },
+  "03127004a": {
+    "text": {
+      "ascii": "kadA cit tasya vRddhasya yatamAnasya yatnataH\n",
+      "ud": "कदाचित्तस्य वृद्धस्य यतमानस्य यत्नतः\n",
+      "ur": "kadā cit tasya vr̥ddhasya yatamānasya yatnataḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 4
+  },
+  "03127004c": {
+    "text": {
+      "ascii": "jantur nAma sutas tasmin strIzate samajAyata\n",
+      "ud": "जन्तुर्नाम सुतस्तस्मिन्स्त्रीशते समजायत\n",
+      "ur": "jantur nāma sutas tasmin strīśate samajāyata\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 4
+  },
+  "03127005a": {
+    "text": {
+      "ascii": "taM jAtaM mAtaraH sarvAH parivArya samAsate\n",
+      "ud": "तं जातं मातरः सर्वाः परिवार्य समासते\n",
+      "ur": "taṁ jātaṁ mātaraḥ sarvāḥ parivārya samāsate\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 5
+  },
+  "03127005c": {
+    "text": {
+      "ascii": "satataM pRSThataH kRtvA kAmabhogAn vizAM pate\n",
+      "ud": "सततं पृष्ठतः कृत्वा कामभोगान्विशां पते\n",
+      "ur": "satataṁ pr̥ṣṭhataḥ kr̥tvā kāmabhogān viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 5
+  },
+  "03127006a": {
+    "text": {
+      "ascii": "tataH pipIlikA jantuM kadA cid adazat sphiji\n",
+      "ud": "ततः पिपीलिका जन्तुं कदाचिददशत्स्फिजि\n",
+      "ur": "tataḥ pipīlikā jantuṁ kadā cid adaśat sphiji\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 6
+  },
+  "03127006c": {
+    "text": {
+      "ascii": "sa daSTo vyanadad rAjaMs tena duHkhena bAlakaH\n",
+      "ud": "स दष्टो व्यनदद्राजंस्तेन दुःखेन बालकः\n",
+      "ur": "sa daṣṭo vyanadad rājaṁs tena duḥkhena bālakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 6
+  },
+  "03127007a": {
+    "text": {
+      "ascii": "tatas tA mAtaraH sarvAH prAkrozan bhRzaduHkhitAH\n",
+      "ud": "ततस्ता मातरः सर्वाः प्राक्रोशन्भृशदुःखिताः\n",
+      "ur": "tatas tā mātaraḥ sarvāḥ prākrośan bhr̥śaduḥkhitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 7
+  },
+  "03127007c": {
+    "text": {
+      "ascii": "parivArya jantuM sahitAH sa zabdas tumulo 'bhavat\n",
+      "ud": "परिवार्य जन्तुं सहिताः स शब्दस्तुमुलोऽभवत्\n",
+      "ur": "parivārya jantuṁ sahitāḥ sa śabdas tumulo ’bhavat\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 7
+  },
+  "03127008a": {
+    "text": {
+      "ascii": "tam ArtanAdaM sahasA zuzrAva sa mahIpatiH\n",
+      "ud": "तमार्तनादं सहसा शुश्राव स महीपतिः\n",
+      "ur": "tam ārtanādaṁ sahasā śuśrāva sa mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 8
+  },
+  "03127008c": {
+    "text": {
+      "ascii": "amAtyapariSanmadhye upaviSTaH sahartvijaiH\n",
+      "ud": "अमात्यपरिषन्मध्ये उपविष्टः सहर्त्विजैः\n",
+      "ur": "amātyapariṣanmadhye upaviṣṭaḥ sahartvijaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 8
+  },
+  "03127009a": {
+    "text": {
+      "ascii": "tataH prasthApayAm Asa kim etad iti pArthivaH\n",
+      "ud": "ततः प्रस्थापयामास किमेतदिति पार्थिवः\n",
+      "ur": "tataḥ prasthāpayām āsa kim etad iti pārthivaḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 9
+  },
+  "03127009c": {
+    "text": {
+      "ascii": "tasmai kSattA yathAvRttam AcacakSe sutaM prati\n",
+      "ud": "तस्मै क्षत्ता यथावृत्तमाचचक्षे सुतं प्रति\n",
+      "ur": "tasmai kṣattā yathāvr̥ttam ācacakṣe sutaṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 9
+  },
+  "03127010a": {
+    "text": {
+      "ascii": "tvaramANaH sa cotthAya somakaH saha mantribhiH\n",
+      "ud": "त्वरमाणः स चोत्थाय सोमकः सह मन्त्रिभिः\n",
+      "ur": "tvaramāṇaḥ sa cotthāya somakaḥ saha mantribhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 10
+  },
+  "03127010c": {
+    "text": {
+      "ascii": "pravizyAntaHpuraM putram AzvAsayad ariMdamaH\n",
+      "ud": "प्रविश्यान्तःपुरं पुत्रमाश्वासयदरिंदमः\n",
+      "ur": "praviśyāntaḥpuraṁ putram āśvāsayad ariṁdamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 10
+  },
+  "03127011a": {
+    "text": {
+      "ascii": "sAntvayitvA tu taM putraM niSkramyAntaHpurAn nRpaH\n",
+      "ud": "सान्त्वयित्वा तु तं पुत्रं निष्क्रम्यान्तःपुरान्नृपः\n",
+      "ur": "sāntvayitvā tu taṁ putraṁ niṣkramyāntaḥpurān nr̥paḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 11
+  },
+  "03127011c": {
+    "text": {
+      "ascii": "RtvijaiH sahito rAjan sahAmAtya upAvizat\n",
+      "ud": "ऋत्विजैः सहितो राजन्सहामात्य उपाविशत्\n",
+      "ur": "r̥tvijaiḥ sahito rājan sahāmātya upāviśat\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 11
+  },
+  "03127012": {
+    "text": {
+      "ascii": "somaka uvAca\n",
+      "ud": "सोमक उवाच\n",
+      "ur": "somaka uvāca\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 12
+  },
+  "03127012a": {
+    "text": {
+      "ascii": "dhig astv ihaikaputratvam aputratvaM varaM bhavet\n",
+      "ud": "धिगस्त्विहैकपुत्रत्वमपुत्रत्वं वरं भवेत्\n",
+      "ur": "dhig astv ihaikaputratvam aputratvaṁ varaṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 12
+  },
+  "03127012c": {
+    "text": {
+      "ascii": "nityAturatvAd bhUtAnAM zoka evaikaputratA\n",
+      "ud": "नित्यातुरत्वाद्भूतानां शोक एवैकपुत्रता\n",
+      "ur": "nityāturatvād bhūtānāṁ śoka evaikaputratā\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 12
+  },
+  "03127013a": {
+    "text": {
+      "ascii": "idaM bhAryAzataM brahman parIkSyopacitaM prabho\n",
+      "ud": "इदं भार्याशतं ब्रह्मन्परीक्ष्योपचितं प्रभो\n",
+      "ur": "idaṁ bhāryāśataṁ brahman parīkṣyopacitaṁ prabho\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 13
+  },
+  "03127013c": {
+    "text": {
+      "ascii": "putrArthinA mayA voDhaM na cAsAM vidyate prajA\n",
+      "ud": "पुत्रार्थिना मया वोढं न चासां विद्यते प्रजा\n",
+      "ur": "putrārthinā mayā voḍhaṁ na cāsāṁ vidyate prajā\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 13
+  },
+  "03127014a": {
+    "text": {
+      "ascii": "ekaH kathaM cid utpannaH putro jantur ayaM mama\n",
+      "ud": "एकः कथंचिदुत्पन्नः पुत्रो जन्तुरयं मम\n",
+      "ur": "ekaḥ kathaṁ cid utpannaḥ putro jantur ayaṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 14
+  },
+  "03127014c": {
+    "text": {
+      "ascii": "yatamAnasya sarvAsu kiM nu duHkham ataH param\n",
+      "ud": "यतमानस्य सर्वासु किं नु दुःखमतः परम्\n",
+      "ur": "yatamānasya sarvāsu kiṁ nu duḥkham ataḥ param\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 14
+  },
+  "03127015a": {
+    "text": {
+      "ascii": "vayaz ca samatItaM me sabhAryasya dvijottama\n",
+      "ud": "वयश्च समतीतं मे सभार्यस्य द्विजोत्तम\n",
+      "ur": "vayaś ca samatītaṁ me sabhāryasya dvijottama\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 15
+  },
+  "03127015c": {
+    "text": {
+      "ascii": "AsAM prANAH samAyattA mama cAtraikaputrake\n",
+      "ud": "आसां प्राणाः समायत्ता मम चात्रैकपुत्रके\n",
+      "ur": "āsāṁ prāṇāḥ samāyattā mama cātraikaputrake\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 15
+  },
+  "03127016a": {
+    "text": {
+      "ascii": "syAn nu karma tathA yuktaM yena putrazataM bhavet\n",
+      "ud": "स्यान्नु कर्म तथा युक्तं येन पुत्रशतं भवेत्\n",
+      "ur": "syān nu karma tathā yuktaṁ yena putraśataṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 16
+  },
+  "03127016c": {
+    "text": {
+      "ascii": "mahatA laghunA vApi karmaNA duSkareNa vA\n",
+      "ud": "महता लघुना वापि कर्मणा दुष्करेण वा\n",
+      "ur": "mahatā laghunā vāpi karmaṇā duṣkareṇa vā\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 16
+  },
+  "03127017": {
+    "text": {
+      "ascii": "Rtvig uvAca\n",
+      "ud": "ऋत्विगुवाच\n",
+      "ur": "r̥tvig uvāca\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 17
+  },
+  "03127017a": {
+    "text": {
+      "ascii": "asti vai tAdRzaM karma yena putrazataM bhavet\n",
+      "ud": "अस्ति वै तादृशं कर्म येन पुत्रशतं भवेत्\n",
+      "ur": "asti vai tādr̥śaṁ karma yena putraśataṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 17
+  },
+  "03127017c": {
+    "text": {
+      "ascii": "yadi zaknoSi tat kartum atha vakSyAmi somaka\n",
+      "ud": "यदि शक्नोषि तत्कर्तुमथ वक्ष्यामि सोमक\n",
+      "ur": "yadi śaknoṣi tat kartum atha vakṣyāmi somaka\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 17
+  },
+  "03127018": {
+    "text": {
+      "ascii": "somaka uvAca\n",
+      "ud": "सोमक उवाच\n",
+      "ur": "somaka uvāca\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 18
+  },
+  "03127018a": {
+    "text": {
+      "ascii": "kAryaM vA yadi vAkAryaM yena putrazataM bhavet\n",
+      "ud": "कार्यं वा यदि वाकार्यं येन पुत्रशतं भवेत्\n",
+      "ur": "kāryaṁ vā yadi vākāryaṁ yena putraśataṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 18
+  },
+  "03127018c": {
+    "text": {
+      "ascii": "kRtam eva hi tad viddhi bhagavAn prabravItu me\n",
+      "ud": "कृतमेव हि तद्विद्धि भगवान्प्रब्रवीतु मे\n",
+      "ur": "kr̥tam eva hi tad viddhi bhagavān prabravītu me\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 18
+  },
+  "03127019": {
+    "text": {
+      "ascii": "Rtvig uvAca\n",
+      "ud": "ऋत्विगुवाच\n",
+      "ur": "r̥tvig uvāca\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 19
+  },
+  "03127019a": {
+    "text": {
+      "ascii": "yajasva jantunA rAjaMs tvaM mayA vitate kratau\n",
+      "ud": "यजस्व जन्तुना राजंस्त्वं मया वितते क्रतौ\n",
+      "ur": "yajasva jantunā rājaṁs tvaṁ mayā vitate kratau\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 19
+  },
+  "03127019c": {
+    "text": {
+      "ascii": "tataH putrazataM zrImad bhaviSyaty acireNa te\n",
+      "ud": "ततः पुत्रशतं श्रीमद्भविष्यत्यचिरेण ते\n",
+      "ur": "tataḥ putraśataṁ śrīmad bhaviṣyaty acireṇa te\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 19
+  },
+  "03127020a": {
+    "text": {
+      "ascii": "vapAyAM hUyamAnAyAM dhUmam AghrAya mAtaraH\n",
+      "ud": "वपायां हूयमानायां धूममाघ्राय मातरः\n",
+      "ur": "vapāyāṁ hūyamānāyāṁ dhūmam āghrāya mātaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 20
+  },
+  "03127020c": {
+    "text": {
+      "ascii": "tatas tAH sumahAvIryAJ janayiSyanti te sutAn\n",
+      "ud": "ततस्ताः सुमहावीर्याञ्जनयिष्यन्ति ते सुतान्\n",
+      "ur": "tatas tāḥ sumahāvīryāñ janayiṣyanti te sutān\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 20
+  },
+  "03127021a": {
+    "text": {
+      "ascii": "tasyAm eva tu te jantur bhavitA punar AtmajaH\n",
+      "ud": "तस्यामेव तु ते जन्तुर्भविता पुनरात्मजः\n",
+      "ur": "tasyām eva tu te jantur bhavitā punar ātmajaḥ\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 21
+  },
+  "03127021c": {
+    "text": {
+      "ascii": "uttare cAsya sauvarNaM lakSma pArzve bhaviSyati\n",
+      "ud": "उत्तरे चास्य सौवर्णं लक्ष्म पार्श्वे भविष्यति\n",
+      "ur": "uttare cāsya sauvarṇaṁ lakṣma pārśve bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 127,
+    "verse": 21
+  }
+}

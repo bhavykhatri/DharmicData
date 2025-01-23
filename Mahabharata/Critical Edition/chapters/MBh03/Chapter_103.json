@@ -1,0 +1,412 @@
+{
+  "03103001": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 1
+  },
+  "03103001a": {
+    "text": {
+      "ascii": "samudraM sa samAsAdya vAruNir bhagavAn RSiH\n",
+      "ud": "समुद्रं स समासाद्य वारुणिर्भगवानृषिः\n",
+      "ur": "samudraṁ sa samāsādya vāruṇir bhagavān r̥ṣiḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 1
+  },
+  "03103001c": {
+    "text": {
+      "ascii": "uvAca sahitAn devAn RSIMz caiva samAgatAn\n",
+      "ud": "उवाच सहितान्देवानृषींश्चैव समागतान्\n",
+      "ur": "uvāca sahitān devān r̥ṣīṁś caiva samāgatān\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 1
+  },
+  "03103002a": {
+    "text": {
+      "ascii": "eSa lokahitArthaM vai pibAmi varuNAlayam\n",
+      "ud": "एष लोकहितार्थं वै पिबामि वरुणालयम्\n",
+      "ur": "eṣa lokahitārthaṁ vai pibāmi varuṇālayam\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 2
+  },
+  "03103002c": {
+    "text": {
+      "ascii": "bhavadbhir yad anuSTheyaM tac chIghraM saMvidhIyatAm\n",
+      "ud": "भवद्भिर्यदनुष्ठेयं तच्छीघ्रं संविधीयताम्\n",
+      "ur": "bhavadbhir yad anuṣṭheyaṁ tac chīghraṁ saṁvidhīyatām\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 2
+  },
+  "03103003a": {
+    "text": {
+      "ascii": "etAvad uktvA vacanaM maitrAvaruNir acyutaH\n",
+      "ud": "एतावदुक्त्वा वचनं मैत्रावरुणिरच्युतः\n",
+      "ur": "etāvad uktvā vacanaṁ maitrāvaruṇir acyutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 3
+  },
+  "03103003c": {
+    "text": {
+      "ascii": "samudram apibat kruddhaH sarvalokasya pazyataH\n",
+      "ud": "समुद्रमपिबत्क्रुद्धः सर्वलोकस्य पश्यतः\n",
+      "ur": "samudram apibat kruddhaḥ sarvalokasya paśyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 3
+  },
+  "03103004a": {
+    "text": {
+      "ascii": "pIyamAnaM samudraM tu dRSTvA devAH savAsavAH\n",
+      "ud": "पीयमानं समुद्रं तु दृष्ट्वा देवाः सवासवाः\n",
+      "ur": "pīyamānaṁ samudraṁ tu dr̥ṣṭvā devāḥ savāsavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 4
+  },
+  "03103004c": {
+    "text": {
+      "ascii": "vismayaM paramaM jagmuH stutibhiz cApy apUjayan\n",
+      "ud": "विस्मयं परमं जग्मुः स्तुतिभिश्चाप्यपूजयन्\n",
+      "ur": "vismayaṁ paramaṁ jagmuḥ stutibhiś cāpy apūjayan\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 4
+  },
+  "03103005a": {
+    "text": {
+      "ascii": "tvaM nas trAtA vidhAtA ca lokAnAM lokabhAvanaH\n",
+      "ud": "त्वं नस्त्राता विधाता च लोकानां लोकभावनः\n",
+      "ur": "tvaṁ nas trātā vidhātā ca lokānāṁ lokabhāvanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 5
+  },
+  "03103005c": {
+    "text": {
+      "ascii": "tvatprasAdAt samucchedaM na gacchet sAmaraM jagat\n",
+      "ud": "त्वत्प्रसादात्समुच्छेदं न गच्छेत्सामरं जगत्\n",
+      "ur": "tvatprasādāt samucchedaṁ na gacchet sāmaraṁ jagat\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 5
+  },
+  "03103006a": {
+    "text": {
+      "ascii": "saMpUjyamAnas tridazair mahAtmA; gandharvatUryeSu nadatsu sarvazaH\n",
+      "ud": "संपूज्यमानस्त्रिदशैर्महात्मा; गन्धर्वतूर्येषु नदत्सु सर्वशः\n",
+      "ur": "saṁpūjyamānas tridaśair mahātmā; gandharvatūryeṣu nadatsu sarvaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 6
+  },
+  "03103006c": {
+    "text": {
+      "ascii": "divyaiz ca puSpair avakIryamANo; mahArNavaM niHsalilaM cakAra\n",
+      "ud": "दिव्यैश्च पुष्पैरवकीर्यमाणो; महार्णवं निःसलिलं चकार\n",
+      "ur": "divyaiś ca puṣpair avakīryamāṇo; mahārṇavaṁ niḥsalilaṁ cakāra\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 6
+  },
+  "03103007a": {
+    "text": {
+      "ascii": "dRSTvA kRtaM niHsalilaM mahArNavaM; surAH samastAH paramaprahRSTAH\n",
+      "ud": "दृष्ट्वा कृतं निःसलिलं महार्णवं; सुराः समस्ताः परमप्रहृष्टाः\n",
+      "ur": "dr̥ṣṭvā kr̥taṁ niḥsalilaṁ mahārṇavaṁ; surāḥ samastāḥ paramaprahr̥ṣṭāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 7
+  },
+  "03103007c": {
+    "text": {
+      "ascii": "pragRhya divyAni varAyudhAni; tAn dAnavAJ jaghnur adInasattvAH\n",
+      "ud": "प्रगृह्य दिव्यानि वरायुधानि; तान्दानवाञ्जघ्नुरदीनसत्त्वाः\n",
+      "ur": "pragr̥hya divyāni varāyudhāni; tān dānavāñ jaghnur adīnasattvāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 7
+  },
+  "03103008a": {
+    "text": {
+      "ascii": "te vadhyamAnAs tridazair mahAtmabhir; mahAbalair vegibhir unnadadbhiH\n",
+      "ud": "ते वध्यमानास्त्रिदशैर्महात्मभि;र्महाबलैर्वेगिभिरुन्नदद्भिः\n",
+      "ur": "te vadhyamānās tridaśair mahātmabhir; mahābalair vegibhir unnadadbhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 8
+  },
+  "03103008c": {
+    "text": {
+      "ascii": "na sehire vegavatAM mahAtmanAM; vegaM tadA dhArayituM divaukasAm\n",
+      "ud": "न सेहिरे वेगवतां महात्मनां; वेगं तदा धारयितुं दिवौकसाम्\n",
+      "ur": "na sehire vegavatāṁ mahātmanāṁ; vegaṁ tadā dhārayituṁ divaukasām\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 8
+  },
+  "03103009a": {
+    "text": {
+      "ascii": "te vadhyamAnAs tridazair dAnavA bhImanisvanAH\n",
+      "ud": "ते वध्यमानास्त्रिदशैर्दानवा भीमनिस्वनाः\n",
+      "ur": "te vadhyamānās tridaśair dānavā bhīmanisvanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 9
+  },
+  "03103009c": {
+    "text": {
+      "ascii": "cakruH sutumulaM yuddhaM muhUrtam iva bhArata\n",
+      "ud": "चक्रुः सुतुमुलं युद्धं मुहूर्तमिव भारत\n",
+      "ur": "cakruḥ sutumulaṁ yuddhaṁ muhūrtam iva bhārata\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 9
+  },
+  "03103010a": {
+    "text": {
+      "ascii": "te pUrvaM tapasA dagdhA munibhir bhAvitAtmabhiH\n",
+      "ud": "ते पूर्वं तपसा दग्धा मुनिभिर्भावितात्मभिः\n",
+      "ur": "te pūrvaṁ tapasā dagdhā munibhir bhāvitātmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 10
+  },
+  "03103010c": {
+    "text": {
+      "ascii": "yatamAnAH paraM zaktyA tridazair viniSUditAH\n",
+      "ud": "यतमानाः परं शक्त्या त्रिदशैर्विनिषूदिताः\n",
+      "ur": "yatamānāḥ paraṁ śaktyā tridaśair viniṣūditāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 10
+  },
+  "03103011a": {
+    "text": {
+      "ascii": "te hemaniSkAbharaNAH kuNDalAGgadadhAriNaH\n",
+      "ud": "ते हेमनिष्काभरणाः कुण्डलाङ्गदधारिणः\n",
+      "ur": "te hemaniṣkābharaṇāḥ kuṇḍalāṅgadadhāriṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 11
+  },
+  "03103011c": {
+    "text": {
+      "ascii": "nihatya bahv azobhanta puSpitA iva kiMzukAH\n",
+      "ud": "निहत्य बह्वशोभन्त पुष्पिता इव किंशुकाः\n",
+      "ur": "nihatya bahv aśobhanta puṣpitā iva kiṁśukāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 11
+  },
+  "03103012a": {
+    "text": {
+      "ascii": "hatazeSAs tataH ke cit kAleyA manujottama\n",
+      "ud": "हतशेषास्ततः केचित्कालेया मनुजोत्तम\n",
+      "ur": "hataśeṣās tataḥ ke cit kāleyā manujottama\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 12
+  },
+  "03103012c": {
+    "text": {
+      "ascii": "vidArya vasudhAM devIM pAtAlatalam AzritAH\n",
+      "ud": "विदार्य वसुधां देवीं पातालतलमाश्रिताः\n",
+      "ur": "vidārya vasudhāṁ devīṁ pātālatalam āśritāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 12
+  },
+  "03103013a": {
+    "text": {
+      "ascii": "nihatAn dAnavAn dRSTvA tridazA munipuMgavam\n",
+      "ud": "निहतान्दानवान्दृष्ट्वा त्रिदशा मुनिपुंगवम्\n",
+      "ur": "nihatān dānavān dr̥ṣṭvā tridaśā munipuṁgavam\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 13
+  },
+  "03103013c": {
+    "text": {
+      "ascii": "tuSTuvur vividhair vAkyair idaM caivAbruvan vacaH\n",
+      "ud": "तुष्टुवुर्विविधैर्वाक्यैरिदं चैवाब्रुवन्वचः\n",
+      "ur": "tuṣṭuvur vividhair vākyair idaṁ caivābruvan vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 13
+  },
+  "03103014a": {
+    "text": {
+      "ascii": "tvatprasAdAn mahAbhAga lokaiH prAptaM mahat sukham\n",
+      "ud": "त्वत्प्रसादान्महाभाग लोकैः प्राप्तं महत्सुखम्\n",
+      "ur": "tvatprasādān mahābhāga lokaiḥ prāptaṁ mahat sukham\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 14
+  },
+  "03103014c": {
+    "text": {
+      "ascii": "tvattejasA ca nihatAH kAleyAH krUravikramAH\n",
+      "ud": "त्वत्तेजसा च निहताः कालेयाः क्रूरविक्रमाः\n",
+      "ur": "tvattejasā ca nihatāḥ kāleyāḥ krūravikramāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 14
+  },
+  "03103015a": {
+    "text": {
+      "ascii": "pUrayasva mahAbAho samudraM lokabhAvana\n",
+      "ud": "पूरयस्व महाबाहो समुद्रं लोकभावन\n",
+      "ur": "pūrayasva mahābāho samudraṁ lokabhāvana\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 15
+  },
+  "03103015c": {
+    "text": {
+      "ascii": "yat tvayA salilaM pItaM tad asmin punar utsRja\n",
+      "ud": "यत्त्वया सलिलं पीतं तदस्मिन्पुनरुत्सृज\n",
+      "ur": "yat tvayā salilaṁ pītaṁ tad asmin punar utsr̥ja\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 15
+  },
+  "03103016a": {
+    "text": {
+      "ascii": "evam uktaH pratyuvAca bhagavAn munipuMgavaH\n",
+      "ud": "एवमुक्तः प्रत्युवाच भगवान्मुनिपुंगवः\n",
+      "ur": "evam uktaḥ pratyuvāca bhagavān munipuṁgavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 16
+  },
+  "03103016c": {
+    "text": {
+      "ascii": "jIrNaM tad dhi mayA toyam upAyo 'nyaH pracintyatAm\n",
+      "ud": "जीर्णं तद्धि मया तोयमुपायोऽन्यः प्रचिन्त्यताम्\n",
+      "ur": "jīrṇaṁ tad dhi mayā toyam upāyo ’nyaḥ pracintyatām\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 16
+  },
+  "03103016e": {
+    "text": {
+      "ascii": "pUraNArthaM samudrasya bhavadbhir yatnam AsthitaiH\n",
+      "ud": "पूरणार्थं समुद्रस्य भवद्भिर्यत्नमास्थितैः\n",
+      "ur": "pūraṇārthaṁ samudrasya bhavadbhir yatnam āsthitaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 16
+  },
+  "03103017a": {
+    "text": {
+      "ascii": "etac chrutvA tu vacanaM maharSer bhAvitAtmanaH\n",
+      "ud": "एतच्छ्रुत्वा तु वचनं महर्षेर्भावितात्मनः\n",
+      "ur": "etac chrutvā tu vacanaṁ maharṣer bhāvitātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 17
+  },
+  "03103017c": {
+    "text": {
+      "ascii": "vismitAz ca viSaNNAz ca babhUvuH sahitAH surAH\n",
+      "ud": "विस्मिताश्च विषण्णाश्च बभूवुः सहिताः सुराः\n",
+      "ur": "vismitāś ca viṣaṇṇāś ca babhūvuḥ sahitāḥ surāḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 17
+  },
+  "03103018a": {
+    "text": {
+      "ascii": "parasparam anujJApya praNamya munipuMgavam\n",
+      "ud": "परस्परमनुज्ञाप्य प्रणम्य मुनिपुंगवम्\n",
+      "ur": "parasparam anujñāpya praṇamya munipuṁgavam\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 18
+  },
+  "03103018c": {
+    "text": {
+      "ascii": "prajAH sarvA mahArAja viprajagmur yathAgatam\n",
+      "ud": "प्रजाः सर्वा महाराज विप्रजग्मुर्यथागतम्\n",
+      "ur": "prajāḥ sarvā mahārāja viprajagmur yathāgatam\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 18
+  },
+  "03103019a": {
+    "text": {
+      "ascii": "tridazA viSNunA sArdham upajagmuH pitAmaham\n",
+      "ud": "त्रिदशा विष्णुना सार्धमुपजग्मुः पितामहम्\n",
+      "ur": "tridaśā viṣṇunā sārdham upajagmuḥ pitāmaham\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 19
+  },
+  "03103019c": {
+    "text": {
+      "ascii": "pUraNArthaM samudrasya mantrayitvA punaH punaH\n",
+      "ud": "पूरणार्थं समुद्रस्य मन्त्रयित्वा पुनः पुनः\n",
+      "ur": "pūraṇārthaṁ samudrasya mantrayitvā punaḥ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 19
+  },
+  "03103019e": {
+    "text": {
+      "ascii": "UcuH prAJjalayaH sarve sAgarasyAbhipUraNam\n",
+      "ud": "ऊचुः प्राञ्जलयः सर्वे सागरस्याभिपूरणम्\n",
+      "ur": "ūcuḥ prāñjalayaḥ sarve sāgarasyābhipūraṇam\n"
+    },
+    "book": 3,
+    "chapter": 103,
+    "verse": 19
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "03165001": {
+    "text": {
+      "ascii": "arjuna uvAca\n",
+      "ud": "अर्जुन उवाच\n",
+      "ur": "arjuna uvāca\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 1
+  },
+  "03165001a": {
+    "text": {
+      "ascii": "kRtAstram abhivizvastam atha mAM harivAhanaH\n",
+      "ud": "कृतास्त्रमभिविश्वस्तमथ मां हरिवाहनः\n",
+      "ur": "kr̥tāstram abhiviśvastam atha māṁ harivāhanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 1
+  },
+  "03165001c": {
+    "text": {
+      "ascii": "saMspRzya mUrdhni pANibhyAm idaM vacanam abravIt\n",
+      "ud": "संस्पृश्य मूर्ध्नि पाणिभ्यामिदं वचनमब्रवीत्\n",
+      "ur": "saṁspr̥śya mūrdhni pāṇibhyām idaṁ vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 1
+  },
+  "03165002a": {
+    "text": {
+      "ascii": "na tvam adya yudhA jetuM zakyaH suragaNair api\n",
+      "ud": "न त्वमद्य युधा जेतुं शक्यः सुरगणैरपि\n",
+      "ur": "na tvam adya yudhā jetuṁ śakyaḥ suragaṇair api\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 2
+  },
+  "03165002c": {
+    "text": {
+      "ascii": "kiM punar mAnuSe loke mAnuSair akRtAtmabhiH\n",
+      "ud": "किं पुनर्मानुषे लोके मानुषैरकृतात्मभिः\n",
+      "ur": "kiṁ punar mānuṣe loke mānuṣair akr̥tātmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 2
+  },
+  "03165002e": {
+    "text": {
+      "ascii": "aprameyo 'pradhRSyaz ca yuddheSv apratimas tathA\n",
+      "ud": "अप्रमेयोऽप्रधृष्यश्च युद्धेष्वप्रतिमस्तथा\n",
+      "ur": "aprameyo ’pradhr̥ṣyaś ca yuddheṣv apratimas tathā\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 2
+  },
+  "03165003a": {
+    "text": {
+      "ascii": "athAbravIt punar devaH saMprahRSTatanUruhaH\n",
+      "ud": "अथाब्रवीत्पुनर्देवः संप्रहृष्टतनूरुहः\n",
+      "ur": "athābravīt punar devaḥ saṁprahr̥ṣṭatanūruhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 3
+  },
+  "03165003c": {
+    "text": {
+      "ascii": "astrayuddhe samo vIra na te kaz cid bhaviSyati\n",
+      "ud": "अस्त्रयुद्धे समो वीर न ते कश्चिद्भविष्यति\n",
+      "ur": "astrayuddhe samo vīra na te kaś cid bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 3
+  },
+  "03165004a": {
+    "text": {
+      "ascii": "apramattaH sadA dakSaH satyavAdI jitendriyaH\n",
+      "ud": "अप्रमत्तः सदा दक्षः सत्यवादी जितेन्द्रियः\n",
+      "ur": "apramattaḥ sadā dakṣaḥ satyavādī jitendriyaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 4
+  },
+  "03165004c": {
+    "text": {
+      "ascii": "brahmaNyaz cAstravic cAsi zUraz cAsi kurUdvaha\n",
+      "ud": "ब्रह्मण्यश्चास्त्रविच्चासि शूरश्चासि कुरूद्वह\n",
+      "ur": "brahmaṇyaś cāstravic cāsi śūraś cāsi kurūdvaha\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 4
+  },
+  "03165005a": {
+    "text": {
+      "ascii": "astrANi samavAptAni tvayA daza ca paJca ca\n",
+      "ud": "अस्त्राणि समवाप्तानि त्वया दश च पञ्च च\n",
+      "ur": "astrāṇi samavāptāni tvayā daśa ca pañca ca\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 5
+  },
+  "03165005c": {
+    "text": {
+      "ascii": "paJcabhir vidhibhiH pArtha na tvayA vidyate samaH\n",
+      "ud": "पञ्चभिर्विधिभिः पार्थ न त्वया विद्यते समः\n",
+      "ur": "pañcabhir vidhibhiḥ pārtha na tvayā vidyate samaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 5
+  },
+  "03165006a": {
+    "text": {
+      "ascii": "prayogam upasaMhAram AvRttiM ca dhanaMjaya\n",
+      "ud": "प्रयोगमुपसंहारमावृत्तिं च धनंजय\n",
+      "ur": "prayogam upasaṁhāram āvr̥ttiṁ ca dhanaṁjaya\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 6
+  },
+  "03165006c": {
+    "text": {
+      "ascii": "prAyazcittaM ca vettha tvaM pratighAtaM ca sarvazaH\n",
+      "ud": "प्रायश्चित्तं च वेत्थ त्वं प्रतिघातं च सर्वशः\n",
+      "ur": "prāyaścittaṁ ca vettha tvaṁ pratighātaṁ ca sarvaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 6
+  },
+  "03165007a": {
+    "text": {
+      "ascii": "tava gurvarthakAlo 'yam upapannaH paraMtapa\n",
+      "ud": "तव गुर्वर्थकालोऽयमुपपन्नः परंतप\n",
+      "ur": "tava gurvarthakālo ’yam upapannaḥ paraṁtapa\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 7
+  },
+  "03165007c": {
+    "text": {
+      "ascii": "pratijAnISva taM kartum ato vetsyAmy ahaM param\n",
+      "ud": "प्रतिजानीष्व तं कर्तुमतो वेत्स्याम्यहं परम्\n",
+      "ur": "pratijānīṣva taṁ kartum ato vetsyāmy ahaṁ param\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 7
+  },
+  "03165008a": {
+    "text": {
+      "ascii": "tato 'ham abruvaM rAjan devarAjam idaM vacaH\n",
+      "ud": "ततोऽहमब्रुवं राजन्देवराजमिदं वचः\n",
+      "ur": "tato ’ham abruvaṁ rājan devarājam idaṁ vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 8
+  },
+  "03165008c": {
+    "text": {
+      "ascii": "viSahyaM cen mayA kartuM kRtam eva nibodha tat\n",
+      "ud": "विषह्यं चेन्मया कर्तुं कृतमेव निबोध तत्\n",
+      "ur": "viṣahyaṁ cen mayā kartuṁ kr̥tam eva nibodha tat\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 8
+  },
+  "03165009a": {
+    "text": {
+      "ascii": "tato mAm abravId rAjan prahasya balavRtrahA\n",
+      "ud": "ततो मामब्रवीद्राजन्प्रहस्य बलवृत्रहा\n",
+      "ur": "tato mām abravīd rājan prahasya balavr̥trahā\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 9
+  },
+  "03165009c": {
+    "text": {
+      "ascii": "nAviSahyaM tavAdyAsti triSu lokeSu kiM cana\n",
+      "ud": "नाविषह्यं तवाद्यास्ति त्रिषु लोकेषु किंचन\n",
+      "ur": "nāviṣahyaṁ tavādyāsti triṣu lokeṣu kiṁ cana\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 9
+  },
+  "03165010a": {
+    "text": {
+      "ascii": "nivAtakavacA nAma dAnavA mama zatravaH\n",
+      "ud": "निवातकवचा नाम दानवा मम शत्रवः\n",
+      "ur": "nivātakavacā nāma dānavā mama śatravaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 10
+  },
+  "03165010c": {
+    "text": {
+      "ascii": "samudrakukSim Azritya durge prativasanty uta\n",
+      "ud": "समुद्रकुक्षिमाश्रित्य दुर्गे प्रतिवसन्त्युत\n",
+      "ur": "samudrakukṣim āśritya durge prativasanty uta\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 10
+  },
+  "03165011a": {
+    "text": {
+      "ascii": "tisraH koTyaH samAkhyAtAs tulyarUpabalaprabhAH\n",
+      "ud": "तिस्रः कोट्यः समाख्यातास्तुल्यरूपबलप्रभाः\n",
+      "ur": "tisraḥ koṭyaḥ samākhyātās tulyarūpabalaprabhāḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 11
+  },
+  "03165011c": {
+    "text": {
+      "ascii": "tAMs tatra jahi kaunteya gurvarthas te bhaviSyati\n",
+      "ud": "तांस्तत्र जहि कौन्तेय गुर्वर्थस्ते भविष्यति\n",
+      "ur": "tāṁs tatra jahi kaunteya gurvarthas te bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 11
+  },
+  "03165012a": {
+    "text": {
+      "ascii": "tato mAtalisaMyuktaM mayUrasamaromabhiH\n",
+      "ud": "ततो मातलिसंयुक्तं मयूरसमरोमभिः\n",
+      "ur": "tato mātalisaṁyuktaṁ mayūrasamaromabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 12
+  },
+  "03165012c": {
+    "text": {
+      "ascii": "hayair upetaM prAdAn me rathaM divyaM mahAprabham\n",
+      "ud": "हयैरुपेतं प्रादान्मे रथं दिव्यं महाप्रभम्\n",
+      "ur": "hayair upetaṁ prādān me rathaṁ divyaṁ mahāprabham\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 12
+  },
+  "03165013a": {
+    "text": {
+      "ascii": "babandha caiva me mUrdhni kirITam idam uttamam\n",
+      "ud": "बबन्ध चैव मे मूर्ध्नि किरीटमिदमुत्तमम्\n",
+      "ur": "babandha caiva me mūrdhni kirīṭam idam uttamam\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 13
+  },
+  "03165013c": {
+    "text": {
+      "ascii": "svarUpasadRzaM caiva prAdAd aGgavibhUSaNam\n",
+      "ud": "स्वरूपसदृशं चैव प्रादादङ्गविभूषणम्\n",
+      "ur": "svarūpasadr̥śaṁ caiva prādād aṅgavibhūṣaṇam\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 13
+  },
+  "03165014a": {
+    "text": {
+      "ascii": "abhedyaM kavacaM cedaM sparzarUpavad uttamam\n",
+      "ud": "अभेद्यं कवचं चेदं स्पर्शरूपवदुत्तमम्\n",
+      "ur": "abhedyaṁ kavacaṁ cedaṁ sparśarūpavad uttamam\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 14
+  },
+  "03165014c": {
+    "text": {
+      "ascii": "ajarAM jyAm imAM cApi gANDIve samayojayat\n",
+      "ud": "अजरां ज्यामिमां चापि गाण्डीवे समयोजयत्\n",
+      "ur": "ajarāṁ jyām imāṁ cāpi gāṇḍīve samayojayat\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 14
+  },
+  "03165015a": {
+    "text": {
+      "ascii": "tataH prAyAm ahaM tena syandanena virAjatA\n",
+      "ud": "ततः प्रायामहं तेन स्यन्दनेन विराजता\n",
+      "ur": "tataḥ prāyām ahaṁ tena syandanena virājatā\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 15
+  },
+  "03165015c": {
+    "text": {
+      "ascii": "yenAjayad devapatir baliM vairocaniM purA\n",
+      "ud": "येनाजयद्देवपतिर्बलिं वैरोचनिं पुरा\n",
+      "ur": "yenājayad devapatir baliṁ vairocaniṁ purā\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 15
+  },
+  "03165016a": {
+    "text": {
+      "ascii": "tato devAH sarva eva tena ghoSeNa bodhitaH\n",
+      "ud": "ततो देवाः सर्व एव तेन घोषेण बोधितः\n",
+      "ur": "tato devāḥ sarva eva tena ghoṣeṇa bodhitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 16
+  },
+  "03165016c": {
+    "text": {
+      "ascii": "manvAnA devarAjaM mAM samAjagmur vizAM pate\n",
+      "ud": "मन्वाना देवराजं मां समाजग्मुर्विशां पते\n",
+      "ur": "manvānā devarājaṁ māṁ samājagmur viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 16
+  },
+  "03165016e": {
+    "text": {
+      "ascii": "dRSTvA ca mAm apRcchanta kiM kariSyasi phalguna\n",
+      "ud": "दृष्ट्वा च मामपृच्छन्त किं करिष्यसि फल्गुन\n",
+      "ur": "dr̥ṣṭvā ca mām apr̥cchanta kiṁ kariṣyasi phalguna\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 16
+  },
+  "03165017a": {
+    "text": {
+      "ascii": "tAn abruvaM yathAbhUtam idaM kartAsmi saMyuge\n",
+      "ud": "तानब्रुवं यथाभूतमिदं कर्तास्मि संयुगे\n",
+      "ur": "tān abruvaṁ yathābhūtam idaṁ kartāsmi saṁyuge\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 17
+  },
+  "03165017c": {
+    "text": {
+      "ascii": "nivAtakavacAnAM tu prasthitaM mAM vadhaiSiNam\n",
+      "ud": "निवातकवचानां तु प्रस्थितं मां वधैषिणम्\n",
+      "ur": "nivātakavacānāṁ tu prasthitaṁ māṁ vadhaiṣiṇam\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 17
+  },
+  "03165017e": {
+    "text": {
+      "ascii": "nibodhata mahAbhAgAH zivaM cAzAsta me 'naghAH\n",
+      "ud": "निबोधत महाभागाः शिवं चाशास्त मेऽनघाः\n",
+      "ur": "nibodhata mahābhāgāḥ śivaṁ cāśāsta me ’naghāḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 17
+  },
+  "03165018a": {
+    "text": {
+      "ascii": "tuSTuvur mAM prasannAs te yathA devaM puraMdaram\n",
+      "ud": "तुष्टुवुर्मां प्रसन्नास्ते यथा देवं पुरंदरम्\n",
+      "ur": "tuṣṭuvur māṁ prasannās te yathā devaṁ puraṁdaram\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 18
+  },
+  "03165018c": {
+    "text": {
+      "ascii": "rathenAnena maghavA jitavAJ zambaraM yudhi\n",
+      "ud": "रथेनानेन मघवा जितवाञ्शम्बरं युधि\n",
+      "ur": "rathenānena maghavā jitavāñ śambaraṁ yudhi\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 18
+  },
+  "03165018e": {
+    "text": {
+      "ascii": "namuciM balavRtrau ca prahlAdanarakAv api\n",
+      "ud": "नमुचिं बलवृत्रौ च प्रह्लादनरकावपि\n",
+      "ur": "namuciṁ balavr̥trau ca prahlādanarakāv api\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 18
+  },
+  "03165019a": {
+    "text": {
+      "ascii": "bahUni ca sahasrANi prayutAny arbudAni ca\n",
+      "ud": "बहूनि च सहस्राणि प्रयुतान्यर्बुदानि च\n",
+      "ur": "bahūni ca sahasrāṇi prayutāny arbudāni ca\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 19
+  },
+  "03165019c": {
+    "text": {
+      "ascii": "rathenAnena daityAnAM jitavAn maghavAn yudhi\n",
+      "ud": "रथेनानेन दैत्यानां जितवान्मघवान्युधि\n",
+      "ur": "rathenānena daityānāṁ jitavān maghavān yudhi\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 19
+  },
+  "03165020a": {
+    "text": {
+      "ascii": "tvam apy etena kaunteya nivAtakavacAn raNe\n",
+      "ud": "त्वमप्येतेन कौन्तेय निवातकवचान्रणे\n",
+      "ur": "tvam apy etena kaunteya nivātakavacān raṇe\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 20
+  },
+  "03165020c": {
+    "text": {
+      "ascii": "vijetA yudhi vikramya pureva maghavAn vazI\n",
+      "ud": "विजेता युधि विक्रम्य पुरेव मघवान्वशी\n",
+      "ur": "vijetā yudhi vikramya pureva maghavān vaśī\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 20
+  },
+  "03165021a": {
+    "text": {
+      "ascii": "ayaM ca zaGkhapravaro yena jetAsi dAnavAn\n",
+      "ud": "अयं च शङ्खप्रवरो येन जेतासि दानवान्\n",
+      "ur": "ayaṁ ca śaṅkhapravaro yena jetāsi dānavān\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 21
+  },
+  "03165021c": {
+    "text": {
+      "ascii": "anena vijitA lokAH zakreNApi mahAtmanA\n",
+      "ud": "अनेन विजिता लोकाः शक्रेणापि महात्मना\n",
+      "ur": "anena vijitā lokāḥ śakreṇāpi mahātmanā\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 21
+  },
+  "03165022a": {
+    "text": {
+      "ascii": "pradIyamAnaM devais tu devadattaM jalodbhavam\n",
+      "ud": "प्रदीयमानं देवैस्तु देवदत्तं जलोद्भवम्\n",
+      "ur": "pradīyamānaṁ devais tu devadattaṁ jalodbhavam\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 22
+  },
+  "03165022c": {
+    "text": {
+      "ascii": "pratyagRhNaM jayAyainaM stUyamAnas tadAmaraiH\n",
+      "ud": "प्रत्यगृह्णं जयायैनं स्तूयमानस्तदामरैः\n",
+      "ur": "pratyagr̥hṇaṁ jayāyainaṁ stūyamānas tadāmaraiḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 22
+  },
+  "03165023a": {
+    "text": {
+      "ascii": "sa zaGkhI kavacI bANI pragRhItazarAsanaH\n",
+      "ud": "स शङ्खी कवची बाणी प्रगृहीतशरासनः\n",
+      "ur": "sa śaṅkhī kavacī bāṇī pragr̥hītaśarāsanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 23
+  },
+  "03165023c": {
+    "text": {
+      "ascii": "dAnavAlayam atyugraM prayAto 'smi yuyutsayA\n",
+      "ud": "दानवालयमत्युग्रं प्रयातोऽस्मि युयुत्सया\n",
+      "ur": "dānavālayam atyugraṁ prayāto ’smi yuyutsayā\n"
+    },
+    "book": 3,
+    "chapter": 165,
+    "verse": 23
+  }
+}

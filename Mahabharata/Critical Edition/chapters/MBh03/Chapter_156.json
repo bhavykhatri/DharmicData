@@ -1,0 +1,642 @@
+{
+  "03156001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 1
+  },
+  "03156001a": {
+    "text": {
+      "ascii": "yudhiSThiras tam AsAdya tapasA dagdhakilbiSam\n",
+      "ud": "युधिष्ठिरस्तमासाद्य तपसा दग्धकिल्बिषम्\n",
+      "ur": "yudhiṣṭhiras tam āsādya tapasā dagdhakilbiṣam\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 1
+  },
+  "03156001c": {
+    "text": {
+      "ascii": "abhyavAdayata prItaH zirasA nAma kIrtayan\n",
+      "ud": "अभ्यवादयत प्रीतः शिरसा नाम कीर्तयन्\n",
+      "ur": "abhyavādayata prītaḥ śirasā nāma kīrtayan\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 1
+  },
+  "03156002a": {
+    "text": {
+      "ascii": "tataH kRSNA ca bhImaz ca yamau cApi yazasvinau\n",
+      "ud": "ततः कृष्णा च भीमश्च यमौ चापि यशस्विनौ\n",
+      "ur": "tataḥ kr̥ṣṇā ca bhīmaś ca yamau cāpi yaśasvinau\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 2
+  },
+  "03156002c": {
+    "text": {
+      "ascii": "zirobhiH prApya rAjarSiM parivAryopatasthire\n",
+      "ud": "शिरोभिः प्राप्य राजर्षिं परिवार्योपतस्थिरे\n",
+      "ur": "śirobhiḥ prāpya rājarṣiṁ parivāryopatasthire\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 2
+  },
+  "03156003a": {
+    "text": {
+      "ascii": "tathaiva dhaumyo dharmajJaH pANDavAnAM purohitaH\n",
+      "ud": "तथैव धौम्यो धर्मज्ञः पाण्डवानां पुरोहितः\n",
+      "ur": "tathaiva dhaumyo dharmajñaḥ pāṇḍavānāṁ purohitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 3
+  },
+  "03156003c": {
+    "text": {
+      "ascii": "yathAnyAyam upAkrAntas tam RSiM saMzitavratam\n",
+      "ud": "यथान्यायमुपाक्रान्तस्तमृषिं संशितव्रतम्\n",
+      "ur": "yathānyāyam upākrāntas tam r̥ṣiṁ saṁśitavratam\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 3
+  },
+  "03156004a": {
+    "text": {
+      "ascii": "anvajAnAt sa dharmajJo munir divyena cakSuSA\n",
+      "ud": "अन्वजानात्स धर्मज्ञो मुनिर्दिव्येन चक्षुषा\n",
+      "ur": "anvajānāt sa dharmajño munir divyena cakṣuṣā\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 4
+  },
+  "03156004c": {
+    "text": {
+      "ascii": "pANDoH putrAn kuruzreSThAn AsyatAm iti cAbravIt\n",
+      "ud": "पाण्डोः पुत्रान्कुरुश्रेष्ठानास्यतामिति चाब्रवीत्\n",
+      "ur": "pāṇḍoḥ putrān kuruśreṣṭhān āsyatām iti cābravīt\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 4
+  },
+  "03156005a": {
+    "text": {
+      "ascii": "kurUNAm RSabhaM prAjJaM pUjayitvA mahAtapAH\n",
+      "ud": "कुरूणामृषभं प्राज्ञं पूजयित्वा महातपाः\n",
+      "ur": "kurūṇām r̥ṣabhaṁ prājñaṁ pūjayitvā mahātapāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 5
+  },
+  "03156005c": {
+    "text": {
+      "ascii": "saha bhrAtRbhir AsInaM paryapRcchad anAmayam\n",
+      "ud": "सह भ्रातृभिरासीनं पर्यपृच्छदनामयम्\n",
+      "ur": "saha bhrātr̥bhir āsīnaṁ paryapr̥cchad anāmayam\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 5
+  },
+  "03156006a": {
+    "text": {
+      "ascii": "nAnRte kuruSe bhAvaM kaccid dharme ca vartase\n",
+      "ud": "नानृते कुरुषे भावं कच्चिद्धर्मे च वर्तसे\n",
+      "ur": "nānr̥te kuruṣe bhāvaṁ kaccid dharme ca vartase\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 6
+  },
+  "03156006c": {
+    "text": {
+      "ascii": "matApitroz ca te vRttiH kaccit pArtha na sIdati\n",
+      "ud": "मतापित्रोश्च ते वृत्तिः कच्चित्पार्थ न सीदति\n",
+      "ur": "matāpitroś ca te vr̥ttiḥ kaccit pārtha na sīdati\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 6
+  },
+  "03156007a": {
+    "text": {
+      "ascii": "kaccit te guravaH sarve vRddhA vaidyAz ca pUjitAH\n",
+      "ud": "कच्चित्ते गुरवः सर्वे वृद्धा वैद्याश्च पूजिताः\n",
+      "ur": "kaccit te guravaḥ sarve vr̥ddhā vaidyāś ca pūjitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 7
+  },
+  "03156007c": {
+    "text": {
+      "ascii": "kaccin na kuruSe bhAvaM pArtha pApeSu karmasu\n",
+      "ud": "कच्चिन्न कुरुषे भावं पार्थ पापेषु कर्मसु\n",
+      "ur": "kaccin na kuruṣe bhāvaṁ pārtha pāpeṣu karmasu\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 7
+  },
+  "03156008a": {
+    "text": {
+      "ascii": "sukRtaM pratikartuM ca kaccid dhAtuM ca duSkRtam\n",
+      "ud": "सुकृतं प्रतिकर्तुं च कच्चिद्धातुं च दुष्कृतम्\n",
+      "ur": "sukr̥taṁ pratikartuṁ ca kaccid dhātuṁ ca duṣkr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 8
+  },
+  "03156008c": {
+    "text": {
+      "ascii": "yathAnyAyaM kuruzreSTha jAnAsi na ca katthase\n",
+      "ud": "यथान्यायं कुरुश्रेष्ठ जानासि न च कत्थसे\n",
+      "ur": "yathānyāyaṁ kuruśreṣṭha jānāsi na ca katthase\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 8
+  },
+  "03156009a": {
+    "text": {
+      "ascii": "yathArhaM mAnitAH kaccit tvayA nandanti sAdhavaH\n",
+      "ud": "यथार्हं मानिताः कच्चित्त्वया नन्दन्ति साधवः\n",
+      "ur": "yathārhaṁ mānitāḥ kaccit tvayā nandanti sādhavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 9
+  },
+  "03156009c": {
+    "text": {
+      "ascii": "vaneSv api vasan kaccid dharmam evAnuvartase\n",
+      "ud": "वनेष्वपि वसन्कच्चिद्धर्ममेवानुवर्तसे\n",
+      "ur": "vaneṣv api vasan kaccid dharmam evānuvartase\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 9
+  },
+  "03156010a": {
+    "text": {
+      "ascii": "kaccid dhaumyas tvadAcArair na pArtha paritapyate\n",
+      "ud": "कच्चिद्धौम्यस्त्वदाचारैर्न पार्थ परितप्यते\n",
+      "ur": "kaccid dhaumyas tvadācārair na pārtha paritapyate\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 10
+  },
+  "03156010c": {
+    "text": {
+      "ascii": "dAnadharmatapaHzaucair Arjavena titikSayA\n",
+      "ud": "दानधर्मतपःशौचैरार्जवेन तितिक्षया\n",
+      "ur": "dānadharmatapaḥśaucair ārjavena titikṣayā\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 10
+  },
+  "03156011a": {
+    "text": {
+      "ascii": "pitRpaitAmahaM vRttaM kaccit pArthAnuvartase\n",
+      "ud": "पितृपैतामहं वृत्तं कच्चित्पार्थानुवर्तसे\n",
+      "ur": "pitr̥paitāmahaṁ vr̥ttaṁ kaccit pārthānuvartase\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 11
+  },
+  "03156011c": {
+    "text": {
+      "ascii": "kaccid rAjarSiyAtena pathA gacchasi pANDava\n",
+      "ud": "कच्चिद्राजर्षियातेन पथा गच्छसि पाण्डव\n",
+      "ur": "kaccid rājarṣiyātena pathā gacchasi pāṇḍava\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 11
+  },
+  "03156012a": {
+    "text": {
+      "ascii": "sve sve kila kule jAte putre naptari vA punaH\n",
+      "ud": "स्वे स्वे किल कुले जाते पुत्रे नप्तरि वा पुनः\n",
+      "ur": "sve sve kila kule jāte putre naptari vā punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 12
+  },
+  "03156012c": {
+    "text": {
+      "ascii": "pitaraH pitRlokasthAH zocanti ca hasanti ca\n",
+      "ud": "पितरः पितृलोकस्थाः शोचन्ति च हसन्ति च\n",
+      "ur": "pitaraḥ pitr̥lokasthāḥ śocanti ca hasanti ca\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 12
+  },
+  "03156013a": {
+    "text": {
+      "ascii": "kiM nv asya duSkRte 'smAbhiH saMprAptavyaM bhaviSyati\n",
+      "ud": "किं न्वस्य दुष्कृतेऽस्माभिः संप्राप्तव्यं भविष्यति\n",
+      "ur": "kiṁ nv asya duṣkr̥te ’smābhiḥ saṁprāptavyaṁ bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 13
+  },
+  "03156013c": {
+    "text": {
+      "ascii": "kiM cAsya sukRte 'smAbhiH prAptavyam iti zobhanam\n",
+      "ud": "किं चास्य सुकृतेऽस्माभिः प्राप्तव्यमिति शोभनम्\n",
+      "ur": "kiṁ cāsya sukr̥te ’smābhiḥ prāptavyam iti śobhanam\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 13
+  },
+  "03156014a": {
+    "text": {
+      "ascii": "pitA mAtA tathaivAgnir gurur AtmA ca paJcamaH\n",
+      "ud": "पिता माता तथैवाग्निर्गुरुरात्मा च पञ्चमः\n",
+      "ur": "pitā mātā tathaivāgnir gurur ātmā ca pañcamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 14
+  },
+  "03156014c": {
+    "text": {
+      "ascii": "yasyaite pUjitAH pArtha tasya lokAv ubhau jitau\n",
+      "ud": "यस्यैते पूजिताः पार्थ तस्य लोकावुभौ जितौ\n",
+      "ur": "yasyaite pūjitāḥ pārtha tasya lokāv ubhau jitau\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 14
+  },
+  "03156015a": {
+    "text": {
+      "ascii": "abbhakSA vAyubhakSAz ca plavamAnA vihAyasA\n",
+      "ud": "अब्भक्षा वायुभक्षाश्च प्लवमाना विहायसा\n",
+      "ur": "abbhakṣā vāyubhakṣāś ca plavamānā vihāyasā\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 15
+  },
+  "03156015c": {
+    "text": {
+      "ascii": "juSante parvatazreSTham RSayaH parvasaMdhiSu\n",
+      "ud": "जुषन्ते पर्वतश्रेष्ठमृषयः पर्वसंधिषु\n",
+      "ur": "juṣante parvataśreṣṭham r̥ṣayaḥ parvasaṁdhiṣu\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 15
+  },
+  "03156016a": {
+    "text": {
+      "ascii": "kAminaH saha kAntAbhiH parasparam anuvratAH\n",
+      "ud": "कामिनः सह कान्ताभिः परस्परमनुव्रताः\n",
+      "ur": "kāminaḥ saha kāntābhiḥ parasparam anuvratāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 16
+  },
+  "03156016c": {
+    "text": {
+      "ascii": "dRzyante zailazRGgasthAs tathA kiMpuruSA nRpa\n",
+      "ud": "दृश्यन्ते शैलशृङ्गस्थास्तथा किंपुरुषा नृप\n",
+      "ur": "dr̥śyante śailaśr̥ṅgasthās tathā kiṁpuruṣā nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 16
+  },
+  "03156017a": {
+    "text": {
+      "ascii": "arajAMsi ca vAsAMsi vasAnAH kauzikAni ca\n",
+      "ud": "अरजांसि च वासांसि वसानाः कौशिकानि च\n",
+      "ur": "arajāṁsi ca vāsāṁsi vasānāḥ kauśikāni ca\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 17
+  },
+  "03156017c": {
+    "text": {
+      "ascii": "dRzyante bahavaH pArtha gandharvApsarasAM gaNAH\n",
+      "ud": "दृश्यन्ते बहवः पार्थ गन्धर्वाप्सरसां गणाः\n",
+      "ur": "dr̥śyante bahavaḥ pārtha gandharvāpsarasāṁ gaṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 17
+  },
+  "03156018a": {
+    "text": {
+      "ascii": "vidyAdharagaNAz caiva sragviNaH priyadarzanAH\n",
+      "ud": "विद्याधरगणाश्चैव स्रग्विणः प्रियदर्शनाः\n",
+      "ur": "vidyādharagaṇāś caiva sragviṇaḥ priyadarśanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 18
+  },
+  "03156018c": {
+    "text": {
+      "ascii": "mahoragagaNAz caiva suparNAz coragAdayaH\n",
+      "ud": "महोरगगणाश्चैव सुपर्णाश्चोरगादयः\n",
+      "ur": "mahoragagaṇāś caiva suparṇāś coragādayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 18
+  },
+  "03156019a": {
+    "text": {
+      "ascii": "asya copari zailasya zrUyate parvasaMdhiSu\n",
+      "ud": "अस्य चोपरि शैलस्य श्रूयते पर्वसंधिषु\n",
+      "ur": "asya copari śailasya śrūyate parvasaṁdhiṣu\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 19
+  },
+  "03156019c": {
+    "text": {
+      "ascii": "bherIpaNavazaGkhAnAM mRdaGgAnAM ca nisvanaH\n",
+      "ud": "भेरीपणवशङ्खानां मृदङ्गानां च निस्वनः\n",
+      "ur": "bherīpaṇavaśaṅkhānāṁ mr̥daṅgānāṁ ca nisvanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 19
+  },
+  "03156020a": {
+    "text": {
+      "ascii": "ihasthair eva tat sarvaM zrotavyaM bharatarSabhAH\n",
+      "ud": "इहस्थैरेव तत्सर्वं श्रोतव्यं भरतर्षभाः\n",
+      "ur": "ihasthair eva tat sarvaṁ śrotavyaṁ bharatarṣabhāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 20
+  },
+  "03156020c": {
+    "text": {
+      "ascii": "na kAryA vaH kathaM cit syAt tatrAbhisaraNe matiH\n",
+      "ud": "न कार्या वः कथंचित्स्यात्तत्राभिसरणे मतिः\n",
+      "ur": "na kāryā vaḥ kathaṁ cit syāt tatrābhisaraṇe matiḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 20
+  },
+  "03156021a": {
+    "text": {
+      "ascii": "na cApy ataH paraM zakyaM gantuM bharatasattamAH\n",
+      "ud": "न चाप्यतः परं शक्यं गन्तुं भरतसत्तमाः\n",
+      "ur": "na cāpy ataḥ paraṁ śakyaṁ gantuṁ bharatasattamāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 21
+  },
+  "03156021c": {
+    "text": {
+      "ascii": "vihAro hy atra devAnAm amAnuSagatis tu sA\n",
+      "ud": "विहारो ह्यत्र देवानाममानुषगतिस्तु सा\n",
+      "ur": "vihāro hy atra devānām amānuṣagatis tu sā\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 21
+  },
+  "03156022a": {
+    "text": {
+      "ascii": "ISaccapalakarmANaM manuSyam iha bhArata\n",
+      "ud": "ईषच्चपलकर्माणं मनुष्यमिह भारत\n",
+      "ur": "īṣaccapalakarmāṇaṁ manuṣyam iha bhārata\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 22
+  },
+  "03156022c": {
+    "text": {
+      "ascii": "dviSanti sarvabhUtAni tADayanti ca rAkSasAH\n",
+      "ud": "द्विषन्ति सर्वभूतानि ताडयन्ति च राक्षसाः\n",
+      "ur": "dviṣanti sarvabhūtāni tāḍayanti ca rākṣasāḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 22
+  },
+  "03156023a": {
+    "text": {
+      "ascii": "abhyatikramya zikharaM zailasyAsya yudhiSThira\n",
+      "ud": "अभ्यतिक्रम्य शिखरं शैलस्यास्य युधिष्ठिर\n",
+      "ur": "abhyatikramya śikharaṁ śailasyāsya yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 23
+  },
+  "03156023c": {
+    "text": {
+      "ascii": "gatiH paramasiddhAnAM devarSINAM prakAzate\n",
+      "ud": "गतिः परमसिद्धानां देवर्षीणां प्रकाशते\n",
+      "ur": "gatiḥ paramasiddhānāṁ devarṣīṇāṁ prakāśate\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 23
+  },
+  "03156024a": {
+    "text": {
+      "ascii": "cApalAd iha gacchantaM pArtha yAnam ataH param\n",
+      "ud": "चापलादिह गच्छन्तं पार्थ यानमतः परम्\n",
+      "ur": "cāpalād iha gacchantaṁ pārtha yānam ataḥ param\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 24
+  },
+  "03156024c": {
+    "text": {
+      "ascii": "ayaHzUlAdibhir ghnanti rAkSasAH zatrusUdana\n",
+      "ud": "अयःशूलादिभिर्घ्नन्ति राक्षसाः शत्रुसूदन\n",
+      "ur": "ayaḥśūlādibhir ghnanti rākṣasāḥ śatrusūdana\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 24
+  },
+  "03156025a": {
+    "text": {
+      "ascii": "apsarobhiH parivRtaH samRddhyA naravAhanaH\n",
+      "ud": "अप्सरोभिः परिवृतः समृद्ध्या नरवाहनः\n",
+      "ur": "apsarobhiḥ parivr̥taḥ samr̥ddhyā naravāhanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 25
+  },
+  "03156025c": {
+    "text": {
+      "ascii": "iha vaizravaNas tAta parvasaMdhiSu dRzyate\n",
+      "ud": "इह वैश्रवणस्तात पर्वसंधिषु दृश्यते\n",
+      "ur": "iha vaiśravaṇas tāta parvasaṁdhiṣu dr̥śyate\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 25
+  },
+  "03156026a": {
+    "text": {
+      "ascii": "zikhare taM samAsInam adhipaM sarvarakSasAm\n",
+      "ud": "शिखरे तं समासीनमधिपं सर्वरक्षसाम्\n",
+      "ur": "śikhare taṁ samāsīnam adhipaṁ sarvarakṣasām\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 26
+  },
+  "03156026c": {
+    "text": {
+      "ascii": "prekSante sarvabhUtAni bhAnumantam ivoditam\n",
+      "ud": "प्रेक्षन्ते सर्वभूतानि भानुमन्तमिवोदितम्\n",
+      "ur": "prekṣante sarvabhūtāni bhānumantam ivoditam\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 26
+  },
+  "03156027a": {
+    "text": {
+      "ascii": "devadAnavasiddhAnAM tathA vaizravaNasya ca\n",
+      "ud": "देवदानवसिद्धानां तथा वैश्रवणस्य च\n",
+      "ur": "devadānavasiddhānāṁ tathā vaiśravaṇasya ca\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 27
+  },
+  "03156027c": {
+    "text": {
+      "ascii": "gireH zikharam udyAnam idaM bharatasattama\n",
+      "ud": "गिरेः शिखरमुद्यानमिदं भरतसत्तम\n",
+      "ur": "gireḥ śikharam udyānam idaṁ bharatasattama\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 27
+  },
+  "03156028a": {
+    "text": {
+      "ascii": "upAsInasya dhanadaM tumburoH parvasaMdhiSu\n",
+      "ud": "उपासीनस्य धनदं तुम्बुरोः पर्वसंधिषु\n",
+      "ur": "upāsīnasya dhanadaṁ tumburoḥ parvasaṁdhiṣu\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 28
+  },
+  "03156028c": {
+    "text": {
+      "ascii": "gItasAmasvanas tAta zrUyate gandhamAdane\n",
+      "ud": "गीतसामस्वनस्तात श्रूयते गन्धमादने\n",
+      "ur": "gītasāmasvanas tāta śrūyate gandhamādane\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 28
+  },
+  "03156029a": {
+    "text": {
+      "ascii": "etad evaMvidhaM citram iha tAta yudhiSThira\n",
+      "ud": "एतदेवंविधं चित्रमिह तात युधिष्ठिर\n",
+      "ur": "etad evaṁvidhaṁ citram iha tāta yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 29
+  },
+  "03156029c": {
+    "text": {
+      "ascii": "prekSante sarvabhUtAni bahuzaH parvasaMdhiSu\n",
+      "ud": "प्रेक्षन्ते सर्वभूतानि बहुशः पर्वसंधिषु\n",
+      "ur": "prekṣante sarvabhūtāni bahuśaḥ parvasaṁdhiṣu\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 29
+  },
+  "03156030a": {
+    "text": {
+      "ascii": "bhuJjAnAH sarvabhojyAni rasavanti phalAni ca\n",
+      "ud": "भुञ्जानाः सर्वभोज्यानि रसवन्ति फलानि च\n",
+      "ur": "bhuñjānāḥ sarvabhojyāni rasavanti phalāni ca\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 30
+  },
+  "03156030c": {
+    "text": {
+      "ascii": "vasadhvaM pANDavazreSThA yAvad arjunadarzanam\n",
+      "ud": "वसध्वं पाण्डवश्रेष्ठा यावदर्जुनदर्शनम्\n",
+      "ur": "vasadhvaṁ pāṇḍavaśreṣṭhā yāvad arjunadarśanam\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 30
+  },
+  "03156031a": {
+    "text": {
+      "ascii": "na tAta capalair bhAvyam iha prAptaiH kathaM cana\n",
+      "ud": "न तात चपलैर्भाव्यमिह प्राप्तैः कथंचन\n",
+      "ur": "na tāta capalair bhāvyam iha prāptaiḥ kathaṁ cana\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 31
+  },
+  "03156031c": {
+    "text": {
+      "ascii": "uSitveha yathAkAmaM yathAzraddhaM vihRtya ca\n",
+      "ud": "उषित्वेह यथाकामं यथाश्रद्धं विहृत्य च\n",
+      "ur": "uṣitveha yathākāmaṁ yathāśraddhaṁ vihr̥tya ca\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 31
+  },
+  "03156031e": {
+    "text": {
+      "ascii": "tataH zastrabhRtAM zreSTha pRthivIM pAlayiSyasi\n",
+      "ud": "ततः शस्त्रभृतां श्रेष्ठ पृथिवीं पालयिष्यसि\n",
+      "ur": "tataḥ śastrabhr̥tāṁ śreṣṭha pr̥thivīṁ pālayiṣyasi\n"
+    },
+    "book": 3,
+    "chapter": 156,
+    "verse": 31
+  }
+}

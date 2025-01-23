@@ -1,0 +1,462 @@
+{
+  "03119001": {
+    "text": {
+      "ascii": "janamejaya uvAca\n",
+      "ud": "जनमेजय उवाच\n",
+      "ur": "janamejaya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 1
+  },
+  "03119001a": {
+    "text": {
+      "ascii": "prabhAsatIrthaM saMprApya vRSNayaH pANDavAs tathA\n",
+      "ud": "प्रभासतीर्थं संप्राप्य वृष्णयः पाण्डवास्तथा\n",
+      "ur": "prabhāsatīrthaṁ saṁprāpya vr̥ṣṇayaḥ pāṇḍavās tathā\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 1
+  },
+  "03119001c": {
+    "text": {
+      "ascii": "kim akurvan kathAz caiSAM kAs tatrAsaMs tapodhana\n",
+      "ud": "किमकुर्वन्कथाश्चैषां कास्तत्रासंस्तपोधन\n",
+      "ur": "kim akurvan kathāś caiṣāṁ kās tatrāsaṁs tapodhana\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 1
+  },
+  "03119002a": {
+    "text": {
+      "ascii": "te hi sarve mahAtmAnaH sarvazAstravizAradAH\n",
+      "ud": "ते हि सर्वे महात्मानः सर्वशास्त्रविशारदाः\n",
+      "ur": "te hi sarve mahātmānaḥ sarvaśāstraviśāradāḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 2
+  },
+  "03119002c": {
+    "text": {
+      "ascii": "vRSNayaH pANDavAz caiva suhRdaz ca parasparam\n",
+      "ud": "वृष्णयः पाण्डवाश्चैव सुहृदश्च परस्परम्\n",
+      "ur": "vr̥ṣṇayaḥ pāṇḍavāś caiva suhr̥daś ca parasparam\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 2
+  },
+  "03119003": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 3
+  },
+  "03119003a": {
+    "text": {
+      "ascii": "prabhAsatIrthaM saMprApya puNyaM tIrthaM mahodadheH\n",
+      "ud": "प्रभासतीर्थं संप्राप्य पुण्यं तीर्थं महोदधेः\n",
+      "ur": "prabhāsatīrthaṁ saṁprāpya puṇyaṁ tīrthaṁ mahodadheḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 3
+  },
+  "03119003c": {
+    "text": {
+      "ascii": "vRSNayaH pANDavAn vIrAn parivAryopatasthire\n",
+      "ud": "वृष्णयः पाण्डवान्वीरान्परिवार्योपतस्थिरे\n",
+      "ur": "vr̥ṣṇayaḥ pāṇḍavān vīrān parivāryopatasthire\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 3
+  },
+  "03119004a": {
+    "text": {
+      "ascii": "tato gokSIrakundendumRNAlarajataprabhaH\n",
+      "ud": "ततो गोक्षीरकुन्देन्दुमृणालरजतप्रभः\n",
+      "ur": "tato gokṣīrakundendumr̥ṇālarajataprabhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 4
+  },
+  "03119004c": {
+    "text": {
+      "ascii": "vanamAlI halI rAmo babhASe puSkarekSaNam\n",
+      "ud": "वनमाली हली रामो बभाषे पुष्करेक्षणम्\n",
+      "ur": "vanamālī halī rāmo babhāṣe puṣkarekṣaṇam\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 4
+  },
+  "03119005a": {
+    "text": {
+      "ascii": "na kRSNa dharmaz carito bhavAya; jantor adharmaz ca parAbhavAya\n",
+      "ud": "न कृष्ण धर्मश्चरितो भवाय; जन्तोरधर्मश्च पराभवाय\n",
+      "ur": "na kr̥ṣṇa dharmaś carito bhavāya; jantor adharmaś ca parābhavāya\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 5
+  },
+  "03119005c": {
+    "text": {
+      "ascii": "yudhiSThiro yatra jaTI mahAtmA; vanAzrayaH klizyati cIravAsAH\n",
+      "ud": "युधिष्ठिरो यत्र जटी महात्मा; वनाश्रयः क्लिश्यति चीरवासाः\n",
+      "ur": "yudhiṣṭhiro yatra jaṭī mahātmā; vanāśrayaḥ kliśyati cīravāsāḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 5
+  },
+  "03119006a": {
+    "text": {
+      "ascii": "duryodhanaz cApi mahIM prazAsti; na cAsya bhUmir vivaraM dadAti\n",
+      "ud": "दुर्योधनश्चापि महीं प्रशास्ति; न चास्य भूमिर्विवरं ददाति\n",
+      "ur": "duryodhanaś cāpi mahīṁ praśāsti; na cāsya bhūmir vivaraṁ dadāti\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 6
+  },
+  "03119006c": {
+    "text": {
+      "ascii": "dharmAd adharmaz carito garIyAn; itIva manyeta naro 'lpabuddhiH\n",
+      "ud": "धर्मादधर्मश्चरितो गरीया;नितीव मन्येत नरोऽल्पबुद्धिः\n",
+      "ur": "dharmād adharmaś carito garīyān; itīva manyeta naro ’lpabuddhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 6
+  },
+  "03119007a": {
+    "text": {
+      "ascii": "duryodhane cApi vivardhamAne; yudhiSThire cAsukha AttarAjye\n",
+      "ud": "दुर्योधने चापि विवर्धमाने; युधिष्ठिरे चासुख आत्तराज्ये\n",
+      "ur": "duryodhane cāpi vivardhamāne; yudhiṣṭhire cāsukha āttarājye\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 7
+  },
+  "03119007c": {
+    "text": {
+      "ascii": "kiM nv adya kartavyam iti prajAbhiH; zaGkA mithaH saMjanitA narANAm\n",
+      "ud": "किं न्वद्य कर्तव्यमिति प्रजाभिः; शङ्का मिथः संजनिता नराणाम्\n",
+      "ur": "kiṁ nv adya kartavyam iti prajābhiḥ; śaṅkā mithaḥ saṁjanitā narāṇām\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 7
+  },
+  "03119008a": {
+    "text": {
+      "ascii": "ayaM hi dharmaprabhavo narendro; dharme rataH satyadhRtiH pradAtA\n",
+      "ud": "अयं हि धर्मप्रभवो नरेन्द्रो; धर्मे रतः सत्यधृतिः प्रदाता\n",
+      "ur": "ayaṁ hi dharmaprabhavo narendro; dharme rataḥ satyadhr̥tiḥ pradātā\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 8
+  },
+  "03119008c": {
+    "text": {
+      "ascii": "caled dhi rAjyAc ca sukhAc ca pArtho; dharmAd apetaz ca kathaM vivardhet\n",
+      "ud": "चलेद्धि राज्याच्च सुखाच्च पार्थो; धर्मादपेतश्च कथं विवर्धेत्\n",
+      "ur": "caled dhi rājyāc ca sukhāc ca pārtho; dharmād apetaś ca kathaṁ vivardhet\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 8
+  },
+  "03119009a": {
+    "text": {
+      "ascii": "kathaM nu bhISmaz ca kRpaz ca vipro; droNaz ca rAjA ca kulasya vRddhaH\n",
+      "ud": "कथं नु भीष्मश्च कृपश्च विप्रो; द्रोणश्च राजा च कुलस्य वृद्धः\n",
+      "ur": "kathaṁ nu bhīṣmaś ca kr̥paś ca vipro; droṇaś ca rājā ca kulasya vr̥ddhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 9
+  },
+  "03119009c": {
+    "text": {
+      "ascii": "pravrAjya pArthAn sukham Apnuvanti; dhik pApabuddhIn bharatapradhAnAn\n",
+      "ud": "प्रव्राज्य पार्थान्सुखमाप्नुवन्ति; धिक्पापबुद्धीन्भरतप्रधानान्\n",
+      "ur": "pravrājya pārthān sukham āpnuvanti; dhik pāpabuddhīn bharatapradhānān\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 9
+  },
+  "03119010a": {
+    "text": {
+      "ascii": "kiM nAma vakSyaty avanipradhAnaH; pitqn samAgamya paratra pApaH\n",
+      "ud": "किं नाम वक्ष्यत्यवनिप्रधानः; पितॄन्समागम्य परत्र पापः\n",
+      "ur": "kiṁ nāma vakṣyaty avanipradhānaḥ; pitr̥̄n samāgamya paratra pāpaḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 10
+  },
+  "03119010c": {
+    "text": {
+      "ascii": "putreSu samyak caritaM mayeti; putrAn apApAn avaropya rAjyAt\n",
+      "ud": "पुत्रेषु सम्यक्चरितं मयेति; पुत्रानपापानवरोप्य राज्यात्\n",
+      "ur": "putreṣu samyak caritaṁ mayeti; putrān apāpān avaropya rājyāt\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 10
+  },
+  "03119011a": {
+    "text": {
+      "ascii": "nAsau dhiyA saMpratipazyati sma; kiM nAma kRtvAham acakSur evam\n",
+      "ud": "नासौ धिया संप्रतिपश्यति स्म; किं नाम कृत्वाहमचक्षुरेवम्\n",
+      "ur": "nāsau dhiyā saṁpratipaśyati sma; kiṁ nāma kr̥tvāham acakṣur evam\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 11
+  },
+  "03119011c": {
+    "text": {
+      "ascii": "jAtaH pRthivyAm iti pArthiveSu; pravrAjya kaunteyam athApi rAjyAt\n",
+      "ud": "जातः पृथिव्यामिति पार्थिवेषु; प्रव्राज्य कौन्तेयमथापि राज्यात्\n",
+      "ur": "jātaḥ pr̥thivyām iti pārthiveṣu; pravrājya kaunteyam athāpi rājyāt\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 11
+  },
+  "03119012a": {
+    "text": {
+      "ascii": "nUnaM samRddhAn pitRlokabhUmau; cAmIkarAbhAn kSitijAn praphullAn\n",
+      "ud": "नूनं समृद्धान्पितृलोकभूमौ; चामीकराभान्क्षितिजान्प्रफुल्लान्\n",
+      "ur": "nūnaṁ samr̥ddhān pitr̥lokabhūmau; cāmīkarābhān kṣitijān praphullān\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 12
+  },
+  "03119012c": {
+    "text": {
+      "ascii": "vicitravIryasya sutaH saputraH; kRtvA nRzaMsaM bata pazyati sma\n",
+      "ud": "विचित्रवीर्यस्य सुतः सपुत्रः; कृत्वा नृशंसं बत पश्यति स्म\n",
+      "ur": "vicitravīryasya sutaḥ saputraḥ; kr̥tvā nr̥śaṁsaṁ bata paśyati sma\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 12
+  },
+  "03119013a": {
+    "text": {
+      "ascii": "vyUDhottarAMsAn pRthulohitAkSAn; nemAn sma pRcchan sa zRNoti nUnam\n",
+      "ud": "व्यूढोत्तरांसान्पृथुलोहिताक्षा;न्नेमान्स्म पृच्छन्स शृणोति नूनम्\n",
+      "ur": "vyūḍhottarāṁsān pr̥thulohitākṣān; nemān sma pr̥cchan sa śr̥ṇoti nūnam\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 13
+  },
+  "03119013c": {
+    "text": {
+      "ascii": "prasthApayad yat sa vanaM hy azaGko; yudhiSThiraM sAnujam Attazastram\n",
+      "ud": "प्रस्थापयद्यत्स वनं ह्यशङ्को; युधिष्ठिरं सानुजमात्तशस्त्रम्\n",
+      "ur": "prasthāpayad yat sa vanaṁ hy aśaṅko; yudhiṣṭhiraṁ sānujam āttaśastram\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 13
+  },
+  "03119014a": {
+    "text": {
+      "ascii": "yo 'yaM pareSAM pRtanAM samRddhAM; nirAyudho dIrghabhujo nihanyAt\n",
+      "ud": "योऽयं परेषां पृतनां समृद्धां; निरायुधो दीर्घभुजो निहन्यात्\n",
+      "ur": "yo ’yaṁ pareṣāṁ pr̥tanāṁ samr̥ddhāṁ; nirāyudho dīrghabhujo nihanyāt\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 14
+  },
+  "03119014c": {
+    "text": {
+      "ascii": "zrutvaiva zabdaM hi vRkodarasya; muJcanti sainyAni zakRt samUtram\n",
+      "ud": "श्रुत्वैव शब्दं हि वृकोदरस्य; मुञ्चन्ति सैन्यानि शकृत्समूत्रम्\n",
+      "ur": "śrutvaiva śabdaṁ hi vr̥kodarasya; muñcanti sainyāni śakr̥t samūtram\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 14
+  },
+  "03119015a": {
+    "text": {
+      "ascii": "sa kSutpipAsAdhvakRzas tarasvI; sametya nAnAyudhabANapANiH\n",
+      "ud": "स क्षुत्पिपासाध्वकृशस्तरस्वी; समेत्य नानायुधबाणपाणिः\n",
+      "ur": "sa kṣutpipāsādhvakr̥śas tarasvī; sametya nānāyudhabāṇapāṇiḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 15
+  },
+  "03119015c": {
+    "text": {
+      "ascii": "vane smaran vAsam imaM sughoraM; zeSaM na kuryAd iti nizcitaM me\n",
+      "ud": "वने स्मरन्वासमिमं सुघोरं; शेषं न कुर्यादिति निश्चितं मे\n",
+      "ur": "vane smaran vāsam imaṁ sughoraṁ; śeṣaṁ na kuryād iti niścitaṁ me\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 15
+  },
+  "03119016a": {
+    "text": {
+      "ascii": "na hy asya vIryeNa balena kaz cit; samaH pRthivyAM bhavitA nareSu\n",
+      "ud": "न ह्यस्य वीर्येण बलेन कश्चि;त्समः पृथिव्यां भविता नरेषु\n",
+      "ur": "na hy asya vīryeṇa balena kaś cit; samaḥ pr̥thivyāṁ bhavitā nareṣu\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 16
+  },
+  "03119016c": {
+    "text": {
+      "ascii": "zItoSNavAtAtapakarzitAGgo; na zeSam AjAv asuhRtsu kuryAt\n",
+      "ud": "शीतोष्णवातातपकर्शिताङ्गो; न शेषमाजावसुहृत्सु कुर्यात्\n",
+      "ur": "śītoṣṇavātātapakarśitāṅgo; na śeṣam ājāv asuhr̥tsu kuryāt\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 16
+  },
+  "03119017a": {
+    "text": {
+      "ascii": "prAcyAM nRpAn ekarathena jitvA; vRkodaraH sAnucarAn raNeSu\n",
+      "ud": "प्राच्यां नृपानेकरथेन जित्वा; वृकोदरः सानुचरान्रणेषु\n",
+      "ur": "prācyāṁ nr̥pān ekarathena jitvā; vr̥kodaraḥ sānucarān raṇeṣu\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 17
+  },
+  "03119017c": {
+    "text": {
+      "ascii": "svastyAgamad yo 'tirathas tarasvI; so 'yaM vane klizyati cIravAsAH\n",
+      "ud": "स्वस्त्यागमद्योऽतिरथस्तरस्वी; सोऽयं वने क्लिश्यति चीरवासाः\n",
+      "ur": "svastyāgamad yo ’tirathas tarasvī; so ’yaṁ vane kliśyati cīravāsāḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 17
+  },
+  "03119018a": {
+    "text": {
+      "ascii": "yo dantakUre vyajayan nRdevAn; samAgatAn dAkSiNAtyAn mahIpAn\n",
+      "ud": "यो दन्तकूरे व्यजयन्नृदेवा;न्समागतान्दाक्षिणात्यान्महीपान्\n",
+      "ur": "yo dantakūre vyajayan nr̥devān; samāgatān dākṣiṇātyān mahīpān\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 18
+  },
+  "03119018c": {
+    "text": {
+      "ascii": "taM pazyatemaM sahadevam adya; tapasvinaM tApasaveSarUpam\n",
+      "ud": "तं पश्यतेमं सहदेवमद्य; तपस्विनं तापसवेषरूपम्\n",
+      "ur": "taṁ paśyatemaṁ sahadevam adya; tapasvinaṁ tāpasaveṣarūpam\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 18
+  },
+  "03119019a": {
+    "text": {
+      "ascii": "yaH pArthivAn ekarathena vIro; dizaM pratIcIM prati yuddhazauNDaH\n",
+      "ud": "यः पार्थिवानेकरथेन वीरो; दिशं प्रतीचीं प्रति युद्धशौण्डः\n",
+      "ur": "yaḥ pārthivān ekarathena vīro; diśaṁ pratīcīṁ prati yuddhaśauṇḍaḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 19
+  },
+  "03119019c": {
+    "text": {
+      "ascii": "so 'yaM vane mUlaphalena jIvaJ; jaTI caraty adya malAcitAGgaH\n",
+      "ud": "सोऽयं वने मूलफलेन जीव;ञ्जटी चरत्यद्य मलाचिताङ्गः\n",
+      "ur": "so ’yaṁ vane mūlaphalena jīvañ; jaṭī caraty adya malācitāṅgaḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 19
+  },
+  "03119020a": {
+    "text": {
+      "ascii": "satre samRddhe 'ti rathasya rAjJo; vedItalAd utpatitA sutA yA\n",
+      "ud": "सत्रे समृद्धेऽति रथस्य राज्ञो; वेदीतलादुत्पतिता सुता या\n",
+      "ur": "satre samr̥ddhe ’ti rathasya rājño; vedītalād utpatitā sutā yā\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 20
+  },
+  "03119020c": {
+    "text": {
+      "ascii": "seyaM vane vAsam imaM suduHkhaM; kathaM sahaty adya satI sukhArhA\n",
+      "ud": "सेयं वने वासमिमं सुदुःखं; कथं सहत्यद्य सती सुखार्हा\n",
+      "ur": "seyaṁ vane vāsam imaṁ suduḥkhaṁ; kathaṁ sahaty adya satī sukhārhā\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 20
+  },
+  "03119021a": {
+    "text": {
+      "ascii": "trivargamukhyasya samIraNasya; devezvarasyApy atha vAzvinoz ca\n",
+      "ud": "त्रिवर्गमुख्यस्य समीरणस्य; देवेश्वरस्याप्यथ वाश्विनोश्च\n",
+      "ur": "trivargamukhyasya samīraṇasya; deveśvarasyāpy atha vāśvinoś ca\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 21
+  },
+  "03119021c": {
+    "text": {
+      "ascii": "eSAM surANAM tanayAH kathaM nu; vane caranty alpasukhAH sukhArhAH\n",
+      "ud": "एषां सुराणां तनयाः कथं नु; वने चरन्त्यल्पसुखाः सुखार्हाः\n",
+      "ur": "eṣāṁ surāṇāṁ tanayāḥ kathaṁ nu; vane caranty alpasukhāḥ sukhārhāḥ\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 21
+  },
+  "03119022a": {
+    "text": {
+      "ascii": "jite hi dharmasya sute sabhArye; sabhrAtRke sAnucare niraste\n",
+      "ud": "जिते हि धर्मस्य सुते सभार्ये; सभ्रातृके सानुचरे निरस्ते\n",
+      "ur": "jite hi dharmasya sute sabhārye; sabhrātr̥ke sānucare niraste\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 22
+  },
+  "03119022c": {
+    "text": {
+      "ascii": "duryodhane cApi vivardhamAne; kathaM na sIdaty avaniH sazailA\n",
+      "ud": "दुर्योधने चापि विवर्धमाने; कथं न सीदत्यवनिः सशैला\n",
+      "ur": "duryodhane cāpi vivardhamāne; kathaṁ na sīdaty avaniḥ saśailā\n"
+    },
+    "book": 3,
+    "chapter": 119,
+    "verse": 22
+  }
+}

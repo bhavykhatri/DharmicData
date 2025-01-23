@@ -1,0 +1,382 @@
+{
+  "03101001": {
+    "text": {
+      "ascii": "devA UcuH\n",
+      "ud": "देवा ऊचुः\n",
+      "ur": "devā ūcuḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 1
+  },
+  "03101001a": {
+    "text": {
+      "ascii": "itaH pradAnAd vartante prajAH sarvAz caturvidhAH\n",
+      "ud": "इतः प्रदानाद्वर्तन्ते प्रजाः सर्वाश्चतुर्विधाः\n",
+      "ur": "itaḥ pradānād vartante prajāḥ sarvāś caturvidhāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 1
+  },
+  "03101001c": {
+    "text": {
+      "ascii": "tA bhAvitA bhAvayanti havyakavyair divaukasaH\n",
+      "ud": "ता भाविता भावयन्ति हव्यकव्यैर्दिवौकसः\n",
+      "ur": "tā bhāvitā bhāvayanti havyakavyair divaukasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 1
+  },
+  "03101002a": {
+    "text": {
+      "ascii": "lokA hy evaM vartayanti anyonyaM samupAzritAH\n",
+      "ud": "लोका ह्येवं वर्तयन्ति अन्योन्यं समुपाश्रिताः\n",
+      "ur": "lokā hy evaṁ vartayanti anyonyaṁ samupāśritāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 2
+  },
+  "03101002c": {
+    "text": {
+      "ascii": "tvatprasAdAn nirudvignAs tvayaiva parirakSitAH\n",
+      "ud": "त्वत्प्रसादान्निरुद्विग्नास्त्वयैव परिरक्षिताः\n",
+      "ur": "tvatprasādān nirudvignās tvayaiva parirakṣitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 2
+  },
+  "03101003a": {
+    "text": {
+      "ascii": "idaM ca samanuprAptaM lokAnAM bhayam uttamam\n",
+      "ud": "इदं च समनुप्राप्तं लोकानां भयमुत्तमम्\n",
+      "ur": "idaṁ ca samanuprāptaṁ lokānāṁ bhayam uttamam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 3
+  },
+  "03101003c": {
+    "text": {
+      "ascii": "na ca jAnIma keneme rAtrau vadhyanti brAhmaNAH\n",
+      "ud": "न च जानीम केनेमे रात्रौ वध्यन्ति ब्राह्मणाः\n",
+      "ur": "na ca jānīma keneme rātrau vadhyanti brāhmaṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 3
+  },
+  "03101004a": {
+    "text": {
+      "ascii": "kSINeSu ca brAhmaNeSu pRthivI kSayam eSyati\n",
+      "ud": "क्षीणेषु च ब्राह्मणेषु पृथिवी क्षयमेष्यति\n",
+      "ur": "kṣīṇeṣu ca brāhmaṇeṣu pr̥thivī kṣayam eṣyati\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 4
+  },
+  "03101004c": {
+    "text": {
+      "ascii": "tataH pRthivyAM kSINAyAM tridivaM kSayam eSyati\n",
+      "ud": "ततः पृथिव्यां क्षीणायां त्रिदिवं क्षयमेष्यति\n",
+      "ur": "tataḥ pr̥thivyāṁ kṣīṇāyāṁ tridivaṁ kṣayam eṣyati\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 4
+  },
+  "03101005a": {
+    "text": {
+      "ascii": "tvatprasAdAn mahAbAho lokAH sarve jagatpate\n",
+      "ud": "त्वत्प्रसादान्महाबाहो लोकाः सर्वे जगत्पते\n",
+      "ur": "tvatprasādān mahābāho lokāḥ sarve jagatpate\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 5
+  },
+  "03101005c": {
+    "text": {
+      "ascii": "vinAzaM nAdhigaccheyus tvayA vai parirakSitAH\n",
+      "ud": "विनाशं नाधिगच्छेयुस्त्वया वै परिरक्षिताः\n",
+      "ur": "vināśaṁ nādhigaccheyus tvayā vai parirakṣitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 5
+  },
+  "03101006": {
+    "text": {
+      "ascii": "viSNur uvAca\n",
+      "ud": "विष्णुरुवाच\n",
+      "ur": "viṣṇur uvāca\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 6
+  },
+  "03101006a": {
+    "text": {
+      "ascii": "viditaM me surAH sarvaM prajAnAM kSayakAraNam\n",
+      "ud": "विदितं मे सुराः सर्वं प्रजानां क्षयकारणम्\n",
+      "ur": "viditaṁ me surāḥ sarvaṁ prajānāṁ kṣayakāraṇam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 6
+  },
+  "03101006c": {
+    "text": {
+      "ascii": "bhavatAM cApi vakSyAmi zRNudhvaM vigatajvarAH\n",
+      "ud": "भवतां चापि वक्ष्यामि शृणुध्वं विगतज्वराः\n",
+      "ur": "bhavatāṁ cāpi vakṣyāmi śr̥ṇudhvaṁ vigatajvarāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 6
+  },
+  "03101007a": {
+    "text": {
+      "ascii": "kAleya iti vikhyAto gaNaH paramadAruNaH\n",
+      "ud": "कालेय इति विख्यातो गणः परमदारुणः\n",
+      "ur": "kāleya iti vikhyāto gaṇaḥ paramadāruṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 7
+  },
+  "03101007c": {
+    "text": {
+      "ascii": "taiz ca vRtraM samAzritya jagat sarvaM prabAdhitam\n",
+      "ud": "तैश्च वृत्रं समाश्रित्य जगत्सर्वं प्रबाधितम्\n",
+      "ur": "taiś ca vr̥traṁ samāśritya jagat sarvaṁ prabādhitam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 7
+  },
+  "03101008a": {
+    "text": {
+      "ascii": "te vRtraM nihataM dRSTvA sahasrAkSeNa dhImatA\n",
+      "ud": "ते वृत्रं निहतं दृष्ट्वा सहस्राक्षेण धीमता\n",
+      "ur": "te vr̥traṁ nihataṁ dr̥ṣṭvā sahasrākṣeṇa dhīmatā\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 8
+  },
+  "03101008c": {
+    "text": {
+      "ascii": "jIvitaM parirakSantaH praviSTA varuNAlayam\n",
+      "ud": "जीवितं परिरक्षन्तः प्रविष्टा वरुणालयम्\n",
+      "ur": "jīvitaṁ parirakṣantaḥ praviṣṭā varuṇālayam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 8
+  },
+  "03101009a": {
+    "text": {
+      "ascii": "te pravizyodadhiM ghoraM nakragrAhasamAkulam\n",
+      "ud": "ते प्रविश्योदधिं घोरं नक्रग्राहसमाकुलम्\n",
+      "ur": "te praviśyodadhiṁ ghoraṁ nakragrāhasamākulam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 9
+  },
+  "03101009c": {
+    "text": {
+      "ascii": "utsAdanArthaM lokAnAM rAtrau ghnanti munIn iha\n",
+      "ud": "उत्सादनार्थं लोकानां रात्रौ घ्नन्ति मुनीनिह\n",
+      "ur": "utsādanārthaṁ lokānāṁ rātrau ghnanti munīn iha\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 9
+  },
+  "03101010a": {
+    "text": {
+      "ascii": "na tu zakyAH kSayaM netuM samudrAzrayagA hi te\n",
+      "ud": "न तु शक्याः क्षयं नेतुं समुद्राश्रयगा हि ते\n",
+      "ur": "na tu śakyāḥ kṣayaṁ netuṁ samudrāśrayagā hi te\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 10
+  },
+  "03101010c": {
+    "text": {
+      "ascii": "samudrasya kSaye buddhir bhavadbhiH saMpradhAryatAm\n",
+      "ud": "समुद्रस्य क्षये बुद्धिर्भवद्भिः संप्रधार्यताम्\n",
+      "ur": "samudrasya kṣaye buddhir bhavadbhiḥ saṁpradhāryatām\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 10
+  },
+  "03101010e": {
+    "text": {
+      "ascii": "agastyena vinA ko hi zakto 'nyo 'rNavazoSaNe\n",
+      "ud": "अगस्त्येन विना को हि शक्तोऽन्योऽर्णवशोषणे\n",
+      "ur": "agastyena vinā ko hi śakto ’nyo ’rṇavaśoṣaṇe\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 10
+  },
+  "03101011a": {
+    "text": {
+      "ascii": "etac chrutvA vaco devA viSNunA samudAhRtam\n",
+      "ud": "एतच्छ्रुत्वा वचो देवा विष्णुना समुदाहृतम्\n",
+      "ur": "etac chrutvā vaco devā viṣṇunā samudāhr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 11
+  },
+  "03101011c": {
+    "text": {
+      "ascii": "parameSThinam AjJApya agastyasyAzramaM yayuH\n",
+      "ud": "परमेष्ठिनमाज्ञाप्य अगस्त्यस्याश्रमं ययुः\n",
+      "ur": "parameṣṭhinam ājñāpya agastyasyāśramaṁ yayuḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 11
+  },
+  "03101012a": {
+    "text": {
+      "ascii": "tatrApazyan mahAtmAnaM vAruNiM dIptatejasam\n",
+      "ud": "तत्रापश्यन्महात्मानं वारुणिं दीप्ततेजसम्\n",
+      "ur": "tatrāpaśyan mahātmānaṁ vāruṇiṁ dīptatejasam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 12
+  },
+  "03101012c": {
+    "text": {
+      "ascii": "upAsyamAnam RSibhir devair iva pitAmaham\n",
+      "ud": "उपास्यमानमृषिभिर्देवैरिव पितामहम्\n",
+      "ur": "upāsyamānam r̥ṣibhir devair iva pitāmaham\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 12
+  },
+  "03101013a": {
+    "text": {
+      "ascii": "te 'bhigamya mahAtmAnaM maitrAvaruNim acyutam\n",
+      "ud": "तेऽभिगम्य महात्मानं मैत्रावरुणिमच्युतम्\n",
+      "ur": "te ’bhigamya mahātmānaṁ maitrāvaruṇim acyutam\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 13
+  },
+  "03101013c": {
+    "text": {
+      "ascii": "AzramasthaM taporAziM karmabhiH svair abhiSTuvan\n",
+      "ud": "आश्रमस्थं तपोराशिं कर्मभिः स्वैरभिष्टुवन्\n",
+      "ur": "āśramasthaṁ taporāśiṁ karmabhiḥ svair abhiṣṭuvan\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 13
+  },
+  "03101014": {
+    "text": {
+      "ascii": "devA UcuH\n",
+      "ud": "देवा ऊचुः\n",
+      "ur": "devā ūcuḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 14
+  },
+  "03101014a": {
+    "text": {
+      "ascii": "nahuSeNAbhitaptAnAM tvaM lokAnAM gatiH purA\n",
+      "ud": "नहुषेणाभितप्तानां त्वं लोकानां गतिः पुरा\n",
+      "ur": "nahuṣeṇābhitaptānāṁ tvaṁ lokānāṁ gatiḥ purā\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 14
+  },
+  "03101014c": {
+    "text": {
+      "ascii": "bhraMzitaz ca suraizvaryAl lokArthaM lokakaNTakaH\n",
+      "ud": "भ्रंशितश्च सुरैश्वर्याल्लोकार्थं लोककण्टकः\n",
+      "ur": "bhraṁśitaś ca suraiśvaryāl lokārthaṁ lokakaṇṭakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 14
+  },
+  "03101015a": {
+    "text": {
+      "ascii": "krodhAt pravRddhaH sahasA bhAskarasya nagottamaH\n",
+      "ud": "क्रोधात्प्रवृद्धः सहसा भास्करस्य नगोत्तमः\n",
+      "ur": "krodhāt pravr̥ddhaḥ sahasā bhāskarasya nagottamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 15
+  },
+  "03101015c": {
+    "text": {
+      "ascii": "vacas tavAnatikrAman vindhyaH zailo na vardhate\n",
+      "ud": "वचस्तवानतिक्रामन्विन्ध्यः शैलो न वर्धते\n",
+      "ur": "vacas tavānatikrāman vindhyaḥ śailo na vardhate\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 15
+  },
+  "03101016a": {
+    "text": {
+      "ascii": "tamasA cAvRte loke mRtyunAbhyarditAH prajAH\n",
+      "ud": "तमसा चावृते लोके मृत्युनाभ्यर्दिताः प्रजाः\n",
+      "ur": "tamasā cāvr̥te loke mr̥tyunābhyarditāḥ prajāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 16
+  },
+  "03101016c": {
+    "text": {
+      "ascii": "tvAm eva nAtham AsAdya nirvRtiM paramAM gatAH\n",
+      "ud": "त्वामेव नाथमासाद्य निर्वृतिं परमां गताः\n",
+      "ur": "tvām eva nātham āsādya nirvr̥tiṁ paramāṁ gatāḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 16
+  },
+  "03101017a": {
+    "text": {
+      "ascii": "asmAkaM bhayabhItAnAM nityazo bhagavAn gatiH\n",
+      "ud": "अस्माकं भयभीतानां नित्यशो भगवान्गतिः\n",
+      "ur": "asmākaṁ bhayabhītānāṁ nityaśo bhagavān gatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 17
+  },
+  "03101017c": {
+    "text": {
+      "ascii": "tatas tv ArtAH prayAcAmas tvAM varaM varado hy asi\n",
+      "ud": "ततस्त्वार्ताः प्रयाचामस्त्वां वरं वरदो ह्यसि\n",
+      "ur": "tatas tv ārtāḥ prayācāmas tvāṁ varaṁ varado hy asi\n"
+    },
+    "book": 3,
+    "chapter": 101,
+    "verse": 17
+  }
+}

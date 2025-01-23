@@ -1,0 +1,492 @@
+{
+  "03174001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 1
+  },
+  "03174001a": {
+    "text": {
+      "ascii": "nagottamaM prasravaNair upetaM; dizAM gajaiH kiMnarapakSibhiz ca\n",
+      "ud": "नगोत्तमं प्रस्रवणैरुपेतं; दिशां गजैः किंनरपक्षिभिश्च\n",
+      "ur": "nagottamaṁ prasravaṇair upetaṁ; diśāṁ gajaiḥ kiṁnarapakṣibhiś ca\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 1
+  },
+  "03174001c": {
+    "text": {
+      "ascii": "sukhaM nivAsaM jahatAM hi teSAM; na prItir AsId bharatarSabhANAm\n",
+      "ud": "सुखं निवासं जहतां हि तेषां; न प्रीतिरासीद्भरतर्षभाणाम्\n",
+      "ur": "sukhaṁ nivāsaṁ jahatāṁ hi teṣāṁ; na prītir āsīd bharatarṣabhāṇām\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 1
+  },
+  "03174002a": {
+    "text": {
+      "ascii": "tatas tu teSAM punar eva harSaH; kailAsam Alokya mahAn babhUva\n",
+      "ud": "ततस्तु तेषां पुनरेव हर्षः; कैलासमालोक्य महान्बभूव\n",
+      "ur": "tatas tu teṣāṁ punar eva harṣaḥ; kailāsam ālokya mahān babhūva\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 2
+  },
+  "03174002c": {
+    "text": {
+      "ascii": "kuberakAntaM bharatarSabhANAM; mahIdharaM vAridharaprakAzam\n",
+      "ud": "कुबेरकान्तं भरतर्षभाणां; महीधरं वारिधरप्रकाशम्\n",
+      "ur": "kuberakāntaṁ bharatarṣabhāṇāṁ; mahīdharaṁ vāridharaprakāśam\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 2
+  },
+  "03174003a": {
+    "text": {
+      "ascii": "samucchrayAn parvatasaMnirodhAn; goSThAn girINAM girisetumAlAH\n",
+      "ud": "समुच्छ्रयान्पर्वतसंनिरोधा;न्गोष्ठान्गिरीणां गिरिसेतुमालाः\n",
+      "ur": "samucchrayān parvatasaṁnirodhān; goṣṭhān girīṇāṁ girisetumālāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 3
+  },
+  "03174003c": {
+    "text": {
+      "ascii": "bahUn prapAtAMz ca samIkSya vIrAH; sthalAni nimnAni ca tatra tatra\n",
+      "ud": "बहून्प्रपातांश्च समीक्ष्य वीराः; स्थलानि निम्नानि च तत्र तत्र\n",
+      "ur": "bahūn prapātāṁś ca samīkṣya vīrāḥ; sthalāni nimnāni ca tatra tatra\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 3
+  },
+  "03174004a": {
+    "text": {
+      "ascii": "tathaiva cAnyAni mahAvanAni; mRgadvijAnekapasevitAni\n",
+      "ud": "तथैव चान्यानि महावनानि; मृगद्विजानेकपसेवितानि\n",
+      "ur": "tathaiva cānyāni mahāvanāni; mr̥gadvijānekapasevitāni\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 4
+  },
+  "03174004c": {
+    "text": {
+      "ascii": "Alokayanto 'bhiyayuH pratItAs; te dhanvinaH khaDgadharA narAgryAH\n",
+      "ud": "आलोकयन्तोऽभिययुः प्रतीता;स्ते धन्विनः खड्गधरा नराग्र्याः\n",
+      "ur": "ālokayanto ’bhiyayuḥ pratītās; te dhanvinaḥ khaḍgadharā narāgryāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 4
+  },
+  "03174005a": {
+    "text": {
+      "ascii": "vanAni ramyANi sarAMsi nadyo; guhA girINAM girigahvarANi\n",
+      "ud": "वनानि रम्याणि सरांसि नद्यो; गुहा गिरीणां गिरिगह्वराणि\n",
+      "ur": "vanāni ramyāṇi sarāṁsi nadyo; guhā girīṇāṁ girigahvarāṇi\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 5
+  },
+  "03174005c": {
+    "text": {
+      "ascii": "ete nivAsAH satataM babhUvur; nizAnizaM prApya nararSabhANAm\n",
+      "ud": "एते निवासाः सततं बभूवु;र्निशानिशं प्राप्य नरर्षभाणाम्\n",
+      "ur": "ete nivāsāḥ satataṁ babhūvur; niśāniśaṁ prāpya nararṣabhāṇām\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 5
+  },
+  "03174006a": {
+    "text": {
+      "ascii": "te durgavAsaM bahudhA niruSya; vyatItya kailAsam acintyarUpam\n",
+      "ud": "ते दुर्गवासं बहुधा निरुष्य; व्यतीत्य कैलासमचिन्त्यरूपम्\n",
+      "ur": "te durgavāsaṁ bahudhā niruṣya; vyatītya kailāsam acintyarūpam\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 6
+  },
+  "03174006c": {
+    "text": {
+      "ascii": "Asedur atyarthamanoramaM vai; tam AzramAgryaM vRSaparvaNas te\n",
+      "ud": "आसेदुरत्यर्थमनोरमं वै; तमाश्रमाग्र्यं वृषपर्वणस्ते\n",
+      "ur": "āsedur atyarthamanoramaṁ vai; tam āśramāgryaṁ vr̥ṣaparvaṇas te\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 6
+  },
+  "03174007a": {
+    "text": {
+      "ascii": "sametya rAjJA vRSaparvaNas te; pratyarcitAs tena ca vItamohAH\n",
+      "ud": "समेत्य राज्ञा वृषपर्वणस्ते; प्रत्यर्चितास्तेन च वीतमोहाः\n",
+      "ur": "sametya rājñā vr̥ṣaparvaṇas te; pratyarcitās tena ca vītamohāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 7
+  },
+  "03174007c": {
+    "text": {
+      "ascii": "zazaMsire vistarazaH pravAsaM; zivaM yathAvad vRSaparvaNas te\n",
+      "ud": "शशंसिरे विस्तरशः प्रवासं; शिवं यथावद्वृषपर्वणस्ते\n",
+      "ur": "śaśaṁsire vistaraśaḥ pravāsaṁ; śivaṁ yathāvad vr̥ṣaparvaṇas te\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 7
+  },
+  "03174008a": {
+    "text": {
+      "ascii": "sukhoSitAs tatra ta ekarAtraM; puNyAzrame devamaharSijuSTe\n",
+      "ud": "सुखोषितास्तत्र त एकरात्रं; पुण्याश्रमे देवमहर्षिजुष्टे\n",
+      "ur": "sukhoṣitās tatra ta ekarātraṁ; puṇyāśrame devamaharṣijuṣṭe\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 8
+  },
+  "03174008c": {
+    "text": {
+      "ascii": "abhyAyayus te badarIM vizAlAM; sukhena vIrAH punar eva vAsam\n",
+      "ud": "अभ्याययुस्ते बदरीं विशालां; सुखेन वीराः पुनरेव वासम्\n",
+      "ur": "abhyāyayus te badarīṁ viśālāṁ; sukhena vīrāḥ punar eva vāsam\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 8
+  },
+  "03174009a": {
+    "text": {
+      "ascii": "USus tatas tatra mahAnubhAvA; nArAyaNasthAnagatA narAgryAH\n",
+      "ud": "ऊषुस्ततस्तत्र महानुभावा; नारायणस्थानगता नराग्र्याः\n",
+      "ur": "ūṣus tatas tatra mahānubhāvā; nārāyaṇasthānagatā narāgryāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 9
+  },
+  "03174009c": {
+    "text": {
+      "ascii": "kuberakAntAM nalinIM vizokAH; saMpazyamAnAH surasiddhajuSTAm\n",
+      "ud": "कुबेरकान्तां नलिनीं विशोकाः; संपश्यमानाः सुरसिद्धजुष्टाम्\n",
+      "ur": "kuberakāntāṁ nalinīṁ viśokāḥ; saṁpaśyamānāḥ surasiddhajuṣṭām\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 9
+  },
+  "03174010a": {
+    "text": {
+      "ascii": "tAM cAtha dRSTvA nalinIM vizokAH; pANDoH sutAH sarvanarapravIrAH\n",
+      "ud": "तां चाथ दृष्ट्वा नलिनीं विशोकाः; पाण्डोः सुताः सर्वनरप्रवीराः\n",
+      "ur": "tāṁ cātha dr̥ṣṭvā nalinīṁ viśokāḥ; pāṇḍoḥ sutāḥ sarvanarapravīrāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 10
+  },
+  "03174010c": {
+    "text": {
+      "ascii": "te remire nandanavAsam etya; dvijarSayo vItabhayA yathaiva\n",
+      "ud": "ते रेमिरे नन्दनवासमेत्य; द्विजर्षयो वीतभया यथैव\n",
+      "ur": "te remire nandanavāsam etya; dvijarṣayo vītabhayā yathaiva\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 10
+  },
+  "03174011a": {
+    "text": {
+      "ascii": "tataH krameNopayayur nRvIrA; yathAgatenaiva pathA samagrAH\n",
+      "ud": "ततः क्रमेणोपययुर्नृवीरा; यथागतेनैव पथा समग्राः\n",
+      "ur": "tataḥ krameṇopayayur nr̥vīrā; yathāgatenaiva pathā samagrāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 11
+  },
+  "03174011c": {
+    "text": {
+      "ascii": "vihRtya mAsaM sukhino badaryAM; kirAtarAjJo viSayaM subAhoH\n",
+      "ud": "विहृत्य मासं सुखिनो बदर्यां; किरातराज्ञो विषयं सुबाहोः\n",
+      "ur": "vihr̥tya māsaṁ sukhino badaryāṁ; kirātarājño viṣayaṁ subāhoḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 11
+  },
+  "03174012a": {
+    "text": {
+      "ascii": "cInAMs tukhArAn daradAn sadArvAn; dezAn kuNindasya ca bhUriratnAn\n",
+      "ud": "चीनांस्तुखारान्दरदान्सदार्वा;न्देशान्कुणिन्दस्य च भूरिरत्नान्\n",
+      "ur": "cīnāṁs tukhārān daradān sadārvān; deśān kuṇindasya ca bhūriratnān\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 12
+  },
+  "03174012c": {
+    "text": {
+      "ascii": "atItya durgaM himavatpradezaM; puraM subAhor dadRzur nRvIrAH\n",
+      "ud": "अतीत्य दुर्गं हिमवत्प्रदेशं; पुरं सुबाहोर्ददृशुर्नृवीराः\n",
+      "ur": "atītya durgaṁ himavatpradeśaṁ; puraṁ subāhor dadr̥śur nr̥vīrāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 12
+  },
+  "03174013a": {
+    "text": {
+      "ascii": "zrutvA ca tAn pArthivaputrapautrAn; prAptAn subAhur viSaye samagrAn\n",
+      "ud": "श्रुत्वा च तान्पार्थिवपुत्रपौत्रा;न्प्राप्तान्सुबाहुर्विषये समग्रान्\n",
+      "ur": "śrutvā ca tān pārthivaputrapautrān; prāptān subāhur viṣaye samagrān\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 13
+  },
+  "03174013c": {
+    "text": {
+      "ascii": "pratyudyayau prItiyutaH sa rAjA; taM cAbhyanandan vRSabhAH kurUNAm\n",
+      "ud": "प्रत्युद्ययौ प्रीतियुतः स राजा; तं चाभ्यनन्दन्वृषभाः कुरूणाम्\n",
+      "ur": "pratyudyayau prītiyutaḥ sa rājā; taṁ cābhyanandan vr̥ṣabhāḥ kurūṇām\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 13
+  },
+  "03174014a": {
+    "text": {
+      "ascii": "sametya rAjJA tu subAhunA te; sUtair vizokapramukhaiz ca sarvaiH\n",
+      "ud": "समेत्य राज्ञा तु सुबाहुना ते; सूतैर्विशोकप्रमुखैश्च सर्वैः\n",
+      "ur": "sametya rājñā tu subāhunā te; sūtair viśokapramukhaiś ca sarvaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 14
+  },
+  "03174014c": {
+    "text": {
+      "ascii": "sahendrasenaiH paricArakaiz ca; paurogavair ye ca mahAnasasthAH\n",
+      "ud": "सहेन्द्रसेनैः परिचारकैश्च; पौरोगवैर्ये च महानसस्थाः\n",
+      "ur": "sahendrasenaiḥ paricārakaiś ca; paurogavair ye ca mahānasasthāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 14
+  },
+  "03174015a": {
+    "text": {
+      "ascii": "sukhoSitAs tatra ta ekarAtraM; sUtAn upAdAya rathAMz ca sarvAn\n",
+      "ud": "सुखोषितास्तत्र त एकरात्रं; सूतानुपादाय रथांश्च सर्वान्\n",
+      "ur": "sukhoṣitās tatra ta ekarātraṁ; sūtān upādāya rathāṁś ca sarvān\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 15
+  },
+  "03174015c": {
+    "text": {
+      "ascii": "ghaTotkacaM sAnucaraM visRjya; tato 'bhyayur yAmunam adrirAjam\n",
+      "ud": "घटोत्कचं सानुचरं विसृज्य; ततोऽभ्ययुर्यामुनमद्रिराजम्\n",
+      "ur": "ghaṭotkacaṁ sānucaraṁ visr̥jya; tato ’bhyayur yāmunam adrirājam\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 15
+  },
+  "03174016a": {
+    "text": {
+      "ascii": "tasmin girau prasravaNopapanne; himottarIyAruNapANDusAnau\n",
+      "ud": "तस्मिन्गिरौ प्रस्रवणोपपन्ने; हिमोत्तरीयारुणपाण्डुसानौ\n",
+      "ur": "tasmin girau prasravaṇopapanne; himottarīyāruṇapāṇḍusānau\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 16
+  },
+  "03174016c": {
+    "text": {
+      "ascii": "vizAkhayUpaM samupetya cakrus; tadA nivAsaM puruSapravIrAH\n",
+      "ud": "विशाखयूपं समुपेत्य चक्रु;स्तदा निवासं पुरुषप्रवीराः\n",
+      "ur": "viśākhayūpaṁ samupetya cakrus; tadā nivāsaṁ puruṣapravīrāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 16
+  },
+  "03174017a": {
+    "text": {
+      "ascii": "varAhanAnAmRgapakSijuSTaM; mahad vanaM caitrarathaprakAzam\n",
+      "ud": "वराहनानामृगपक्षिजुष्टं; महद्वनं चैत्ररथप्रकाशम्\n",
+      "ur": "varāhanānāmr̥gapakṣijuṣṭaṁ; mahad vanaṁ caitrarathaprakāśam\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 17
+  },
+  "03174017c": {
+    "text": {
+      "ascii": "zivena yAtvA mRgayApradhAnAH; saMvatsaraM tatra vane vijahruH\n",
+      "ud": "शिवेन यात्वा मृगयाप्रधानाः; संवत्सरं तत्र वने विजह्रुः\n",
+      "ur": "śivena yātvā mr̥gayāpradhānāḥ; saṁvatsaraṁ tatra vane vijahruḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 17
+  },
+  "03174018a": {
+    "text": {
+      "ascii": "tatrAsasAdAtibalaM bhujaMgaM; kSudhArditaM mRtyum ivograrUpam\n",
+      "ud": "तत्राससादातिबलं भुजंगं; क्षुधार्दितं मृत्युमिवोग्ररूपम्\n",
+      "ur": "tatrāsasādātibalaṁ bhujaṁgaṁ; kṣudhārditaṁ mr̥tyum ivograrūpam\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 18
+  },
+  "03174018c": {
+    "text": {
+      "ascii": "vRkodaraH parvatakandarAyAM; viSAdamohavyathitAntarAtmA\n",
+      "ud": "वृकोदरः पर्वतकन्दरायां; विषादमोहव्यथितान्तरात्मा\n",
+      "ur": "vr̥kodaraḥ parvatakandarāyāṁ; viṣādamohavyathitāntarātmā\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 18
+  },
+  "03174019a": {
+    "text": {
+      "ascii": "dvIpo 'bhavad yatra vRkodarasya; yudhiSThiro dharmabhRtAM variSThaH\n",
+      "ud": "द्वीपोऽभवद्यत्र वृकोदरस्य; युधिष्ठिरो धर्मभृतां वरिष्ठः\n",
+      "ur": "dvīpo ’bhavad yatra vr̥kodarasya; yudhiṣṭhiro dharmabhr̥tāṁ variṣṭhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 19
+  },
+  "03174019c": {
+    "text": {
+      "ascii": "amokSayad yas tam anantatejA; grAheNa saMveSTitasarvagAtram\n",
+      "ud": "अमोक्षयद्यस्तमनन्ततेजा; ग्राहेण संवेष्टितसर्वगात्रम्\n",
+      "ur": "amokṣayad yas tam anantatejā; grāheṇa saṁveṣṭitasarvagātram\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 19
+  },
+  "03174020a": {
+    "text": {
+      "ascii": "te dvAdazaM varSam athopayAntaM; vane vihartuM kuravaH pratItAH\n",
+      "ud": "ते द्वादशं वर्षमथोपयान्तं; वने विहर्तुं कुरवः प्रतीताः\n",
+      "ur": "te dvādaśaṁ varṣam athopayāntaṁ; vane vihartuṁ kuravaḥ pratītāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 20
+  },
+  "03174020c": {
+    "text": {
+      "ascii": "tasmAd vanAc caitrarathaprakAzAc; chriyA jvalantas tapasA ca yuktAH\n",
+      "ud": "तस्माद्वनाच्चैत्ररथप्रकाशा;च्छ्रिया ज्वलन्तस्तपसा च युक्ताः\n",
+      "ur": "tasmād vanāc caitrarathaprakāśāc; chriyā jvalantas tapasā ca yuktāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 20
+  },
+  "03174021a": {
+    "text": {
+      "ascii": "tataz ca yAtvA marudhanvapArzvaM; sadA dhanurvedaratipradhAnAH\n",
+      "ud": "ततश्च यात्वा मरुधन्वपार्श्वं; सदा धनुर्वेदरतिप्रधानाः\n",
+      "ur": "tataś ca yātvā marudhanvapārśvaṁ; sadā dhanurvedaratipradhānāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 21
+  },
+  "03174021c": {
+    "text": {
+      "ascii": "sarasvatIm etya nivAsakAmAH; saras tato dvaitavanaM pratIyuH\n",
+      "ud": "सरस्वतीमेत्य निवासकामाः; सरस्ततो द्वैतवनं प्रतीयुः\n",
+      "ur": "sarasvatīm etya nivāsakāmāḥ; saras tato dvaitavanaṁ pratīyuḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 21
+  },
+  "03174022a": {
+    "text": {
+      "ascii": "samIkSya tAn dvaitavane niviSTAn; nivAsinas tatra tato 'bhijagmuH\n",
+      "ud": "समीक्ष्य तान्द्वैतवने निविष्टा;न्निवासिनस्तत्र ततोऽभिजग्मुः\n",
+      "ur": "samīkṣya tān dvaitavane niviṣṭān; nivāsinas tatra tato ’bhijagmuḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 22
+  },
+  "03174022c": {
+    "text": {
+      "ascii": "tapodamAcArasamAdhiyuktAs; tRNodapAtrAharaNAzmakuTTAH\n",
+      "ud": "तपोदमाचारसमाधियुक्ता;स्तृणोदपात्राहरणाश्मकुट्टाः\n",
+      "ur": "tapodamācārasamādhiyuktās; tr̥ṇodapātrāharaṇāśmakuṭṭāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 22
+  },
+  "03174023a": {
+    "text": {
+      "ascii": "plakSAkSarauhItakavetasAz ca; snuhA badaryaH khadirAH zirISAH\n",
+      "ud": "प्लक्षाक्षरौहीतकवेतसाश्च; स्नुहा बदर्यः खदिराः शिरीषाः\n",
+      "ur": "plakṣākṣarauhītakavetasāś ca; snuhā badaryaḥ khadirāḥ śirīṣāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 23
+  },
+  "03174023c": {
+    "text": {
+      "ascii": "bilveGgudAH pIluzamIkarIrAH; sarasvatItIraruhA babhUvuH\n",
+      "ud": "बिल्वेङ्गुदाः पीलुशमीकरीराः; सरस्वतीतीररुहा बभूवुः\n",
+      "ur": "bilveṅgudāḥ pīluśamīkarīrāḥ; sarasvatītīraruhā babhūvuḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 23
+  },
+  "03174024a": {
+    "text": {
+      "ascii": "tAM yakSagandharvamaharSikAntAm; AyAgabhUtAm iva devatAnAm\n",
+      "ud": "तां यक्षगन्धर्वमहर्षिकान्ता;मायागभूतामिव देवतानाम्\n",
+      "ur": "tāṁ yakṣagandharvamaharṣikāntām; āyāgabhūtām iva devatānām\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 24
+  },
+  "03174024c": {
+    "text": {
+      "ascii": "sarasvatIM prItiyutAz carantaH; sukhaM vijahrur naradevaputrAH\n",
+      "ud": "सरस्वतीं प्रीतियुताश्चरन्तः; सुखं विजह्रुर्नरदेवपुत्राः\n",
+      "ur": "sarasvatīṁ prītiyutāś carantaḥ; sukhaṁ vijahrur naradevaputrāḥ\n"
+    },
+    "book": 3,
+    "chapter": 174,
+    "verse": 24
+  }
+}
