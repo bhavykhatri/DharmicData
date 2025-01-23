@@ -1,0 +1,672 @@
+{
+  "03017001": {
+    "text": {
+      "ascii": "vAsudeva uvAca\n",
+      "ud": "वासुदेव उवाच\n",
+      "ur": "vāsudeva uvāca\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 1
+  },
+  "03017001a": {
+    "text": {
+      "ascii": "tAM tUpayAtvA rAjendra zAlvaH saubhapatis tadA\n",
+      "ud": "तां तूपयात्वा राजेन्द्र शाल्वः सौभपतिस्तदा\n",
+      "ur": "tāṁ tūpayātvā rājendra śālvaḥ saubhapatis tadā\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 1
+  },
+  "03017001c": {
+    "text": {
+      "ascii": "prabhUtanaranAgena balenopaviveza ha\n",
+      "ud": "प्रभूतनरनागेन बलेनोपविवेश ह\n",
+      "ur": "prabhūtanaranāgena balenopaviveśa ha\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 1
+  },
+  "03017002a": {
+    "text": {
+      "ascii": "same niviSTA sA senA prabhUtasalilAzaye\n",
+      "ud": "समे निविष्टा सा सेना प्रभूतसलिलाशये\n",
+      "ur": "same niviṣṭā sā senā prabhūtasalilāśaye\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 2
+  },
+  "03017002c": {
+    "text": {
+      "ascii": "caturaGgabalopetA zAlvarAjAbhipAlitA\n",
+      "ud": "चतुरङ्गबलोपेता शाल्वराजाभिपालिता\n",
+      "ur": "caturaṅgabalopetā śālvarājābhipālitā\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 2
+  },
+  "03017003a": {
+    "text": {
+      "ascii": "varjayitvA zmazAnAni devatAyatanAni ca\n",
+      "ud": "वर्जयित्वा श्मशानानि देवतायतनानि च\n",
+      "ur": "varjayitvā śmaśānāni devatāyatanāni ca\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 3
+  },
+  "03017003c": {
+    "text": {
+      "ascii": "valmIkAMz caiva caityAMz ca tanniviSTam abhUd balam\n",
+      "ud": "वल्मीकांश्चैव चैत्यांश्च तन्निविष्टमभूद्बलम्\n",
+      "ur": "valmīkāṁś caiva caityāṁś ca tanniviṣṭam abhūd balam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 3
+  },
+  "03017004a": {
+    "text": {
+      "ascii": "anIkAnAM vibhAgena panthAnaH SaT kRtAbhavan\n",
+      "ud": "अनीकानां विभागेन पन्थानः षट्कृताभवन्\n",
+      "ur": "anīkānāṁ vibhāgena panthānaḥ ṣaṭ kr̥tābhavan\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 4
+  },
+  "03017004c": {
+    "text": {
+      "ascii": "pravaNA nava caivAsaJ zAlvasya zibire nRpa\n",
+      "ud": "प्रवणा नव चैवासञ्शाल्वस्य शिबिरे नृप\n",
+      "ur": "pravaṇā nava caivāsañ śālvasya śibire nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 4
+  },
+  "03017005a": {
+    "text": {
+      "ascii": "sarvAyudhasamopetaM sarvazastravizAradam\n",
+      "ud": "सर्वायुधसमोपेतं सर्वशस्त्रविशारदम्\n",
+      "ur": "sarvāyudhasamopetaṁ sarvaśastraviśāradam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 5
+  },
+  "03017005c": {
+    "text": {
+      "ascii": "rathanAgAzvakalilaM padAtidhvajasaMkulam\n",
+      "ud": "रथनागाश्वकलिलं पदातिध्वजसंकुलम्\n",
+      "ur": "rathanāgāśvakalilaṁ padātidhvajasaṁkulam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 5
+  },
+  "03017006a": {
+    "text": {
+      "ascii": "tuSTapuSTajanopetaM vIralakSaNalakSitam\n",
+      "ud": "तुष्टपुष्टजनोपेतं वीरलक्षणलक्षितम्\n",
+      "ur": "tuṣṭapuṣṭajanopetaṁ vīralakṣaṇalakṣitam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 6
+  },
+  "03017006c": {
+    "text": {
+      "ascii": "vicitradhvajasaMnAhaM vicitrarathakArmukam\n",
+      "ud": "विचित्रध्वजसंनाहं विचित्ररथकार्मुकम्\n",
+      "ur": "vicitradhvajasaṁnāhaṁ vicitrarathakārmukam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 6
+  },
+  "03017007a": {
+    "text": {
+      "ascii": "saMnivezya ca kauravya dvArakAyAM nararSabha\n",
+      "ud": "संनिवेश्य च कौरव्य द्वारकायां नरर्षभ\n",
+      "ur": "saṁniveśya ca kauravya dvārakāyāṁ nararṣabha\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 7
+  },
+  "03017007c": {
+    "text": {
+      "ascii": "abhisArayAm Asa tadA vegena patagendravat\n",
+      "ud": "अभिसारयामास तदा वेगेन पतगेन्द्रवत्\n",
+      "ur": "abhisārayām āsa tadā vegena patagendravat\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 7
+  },
+  "03017008a": {
+    "text": {
+      "ascii": "tadApatantaM saMdRzya balaM zAlvapates tadA\n",
+      "ud": "तदापतन्तं संदृश्य बलं शाल्वपतेस्तदा\n",
+      "ur": "tadāpatantaṁ saṁdr̥śya balaṁ śālvapates tadā\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 8
+  },
+  "03017008c": {
+    "text": {
+      "ascii": "niryAya yodhayAm AsuH kumArA vRSNinandanAH\n",
+      "ud": "निर्याय योधयामासुः कुमारा वृष्णिनन्दनाः\n",
+      "ur": "niryāya yodhayām āsuḥ kumārā vr̥ṣṇinandanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 8
+  },
+  "03017009a": {
+    "text": {
+      "ascii": "asahanto 'bhiyAnaM tac chAlvarAjasya kaurava\n",
+      "ud": "असहन्तोऽभियानं तच्छाल्वराजस्य कौरव\n",
+      "ur": "asahanto ’bhiyānaṁ tac chālvarājasya kaurava\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 9
+  },
+  "03017009c": {
+    "text": {
+      "ascii": "cArudeSNaz ca sAmbaz ca pradyumnaz ca mahArathaH\n",
+      "ud": "चारुदेष्णश्च साम्बश्च प्रद्युम्नश्च महारथः\n",
+      "ur": "cārudeṣṇaś ca sāmbaś ca pradyumnaś ca mahārathaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 9
+  },
+  "03017010a": {
+    "text": {
+      "ascii": "te rathair daMzitAH sarve vicitrAbharaNadhvajAH\n",
+      "ud": "ते रथैर्दंशिताः सर्वे विचित्राभरणध्वजाः\n",
+      "ur": "te rathair daṁśitāḥ sarve vicitrābharaṇadhvajāḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 10
+  },
+  "03017010c": {
+    "text": {
+      "ascii": "saMsaktAH zAlvarAjasya bahubhir yodhapuMgavaiH\n",
+      "ud": "संसक्ताः शाल्वराजस्य बहुभिर्योधपुंगवैः\n",
+      "ur": "saṁsaktāḥ śālvarājasya bahubhir yodhapuṁgavaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 10
+  },
+  "03017011a": {
+    "text": {
+      "ascii": "gRhItvA tu dhanuH sAmbaH zAlvasya sacivaM raNe\n",
+      "ud": "गृहीत्वा तु धनुः साम्बः शाल्वस्य सचिवं रणे\n",
+      "ur": "gr̥hītvā tu dhanuḥ sāmbaḥ śālvasya sacivaṁ raṇe\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 11
+  },
+  "03017011c": {
+    "text": {
+      "ascii": "yodhayAm Asa saMhRSTaH kSemavRddhiM camUpatim\n",
+      "ud": "योधयामास संहृष्टः क्षेमवृद्धिं चमूपतिम्\n",
+      "ur": "yodhayām āsa saṁhr̥ṣṭaḥ kṣemavr̥ddhiṁ camūpatim\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 11
+  },
+  "03017012a": {
+    "text": {
+      "ascii": "tasya bANamayaM varSaM jAmbavatyAH suto mahat\n",
+      "ud": "तस्य बाणमयं वर्षं जाम्बवत्याः सुतो महत्\n",
+      "ur": "tasya bāṇamayaṁ varṣaṁ jāmbavatyāḥ suto mahat\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 12
+  },
+  "03017012c": {
+    "text": {
+      "ascii": "mumoca bharatazreSTha yathA varSaM sahasradRk\n",
+      "ud": "मुमोच भरतश्रेष्ठ यथा वर्षं सहस्रदृक्\n",
+      "ur": "mumoca bharataśreṣṭha yathā varṣaṁ sahasradr̥k\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 12
+  },
+  "03017013a": {
+    "text": {
+      "ascii": "tad bANavarSaM tumulaM viSehe sa camUpatiH\n",
+      "ud": "तद्बाणवर्षं तुमुलं विषेहे स चमूपतिः\n",
+      "ur": "tad bāṇavarṣaṁ tumulaṁ viṣehe sa camūpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 13
+  },
+  "03017013c": {
+    "text": {
+      "ascii": "kSemavRddhir mahArAja himavAn iva nizcalaH\n",
+      "ud": "क्षेमवृद्धिर्महाराज हिमवानिव निश्चलः\n",
+      "ur": "kṣemavr̥ddhir mahārāja himavān iva niścalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 13
+  },
+  "03017014a": {
+    "text": {
+      "ascii": "tataH sAmbAya rAjendra kSemavRddhir api sma ha\n",
+      "ud": "ततः साम्बाय राजेन्द्र क्षेमवृद्धिरपि स्म ह\n",
+      "ur": "tataḥ sāmbāya rājendra kṣemavr̥ddhir api sma ha\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 14
+  },
+  "03017014c": {
+    "text": {
+      "ascii": "mumoca mAyAvihitaM zarajAlaM mahattaram\n",
+      "ud": "मुमोच मायाविहितं शरजालं महत्तरम्\n",
+      "ur": "mumoca māyāvihitaṁ śarajālaṁ mahattaram\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 14
+  },
+  "03017015a": {
+    "text": {
+      "ascii": "tato mAyAmayaM jAlaM mAyayaiva vidArya saH\n",
+      "ud": "ततो मायामयं जालं माययैव विदार्य सः\n",
+      "ur": "tato māyāmayaṁ jālaṁ māyayaiva vidārya saḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 15
+  },
+  "03017015c": {
+    "text": {
+      "ascii": "sAmbaH zarasahasreNa ratham asyAbhyavarSata\n",
+      "ud": "साम्बः शरसहस्रेण रथमस्याभ्यवर्षत\n",
+      "ur": "sāmbaḥ śarasahasreṇa ratham asyābhyavarṣata\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 15
+  },
+  "03017016a": {
+    "text": {
+      "ascii": "tataH sa viddhaH sAmbena kSemavRddhiz camUpatiH\n",
+      "ud": "ततः स विद्धः साम्बेन क्षेमवृद्धिश्चमूपतिः\n",
+      "ur": "tataḥ sa viddhaḥ sāmbena kṣemavr̥ddhiś camūpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 16
+  },
+  "03017016c": {
+    "text": {
+      "ascii": "apAyAj javanair azvaiH sAmbabANaprapIDitaH\n",
+      "ud": "अपायाज्जवनैरश्वैः साम्बबाणप्रपीडितः\n",
+      "ur": "apāyāj javanair aśvaiḥ sāmbabāṇaprapīḍitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 16
+  },
+  "03017017a": {
+    "text": {
+      "ascii": "tasmin vipradrute krUre zAlvasyAtha camUpatau\n",
+      "ud": "तस्मिन्विप्रद्रुते क्रूरे शाल्वस्याथ चमूपतौ\n",
+      "ur": "tasmin vipradrute krūre śālvasyātha camūpatau\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 17
+  },
+  "03017017c": {
+    "text": {
+      "ascii": "vegavAn nAma daiteyaH sutaM me 'bhyadravad balI\n",
+      "ud": "वेगवान्नाम दैतेयः सुतं मेऽभ्यद्रवद्बली\n",
+      "ur": "vegavān nāma daiteyaḥ sutaṁ me ’bhyadravad balī\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 17
+  },
+  "03017018a": {
+    "text": {
+      "ascii": "abhipannas tu rAjendra sAmbo vRSNikulodvahaH\n",
+      "ud": "अभिपन्नस्तु राजेन्द्र साम्बो वृष्णिकुलोद्वहः\n",
+      "ur": "abhipannas tu rājendra sāmbo vr̥ṣṇikulodvahaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 18
+  },
+  "03017018c": {
+    "text": {
+      "ascii": "vegaM vegavato rAjaMs tasthau vIro vidhArayan\n",
+      "ud": "वेगं वेगवतो राजंस्तस्थौ वीरो विधारयन्\n",
+      "ur": "vegaṁ vegavato rājaṁs tasthau vīro vidhārayan\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 18
+  },
+  "03017019a": {
+    "text": {
+      "ascii": "sa vegavati kaunteya sAmbo vegavatIM gadAm\n",
+      "ud": "स वेगवति कौन्तेय साम्बो वेगवतीं गदाम्\n",
+      "ur": "sa vegavati kaunteya sāmbo vegavatīṁ gadām\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 19
+  },
+  "03017019c": {
+    "text": {
+      "ascii": "cikSepa tarasA vIro vyAvidhya satyavikramaH\n",
+      "ud": "चिक्षेप तरसा वीरो व्याविध्य सत्यविक्रमः\n",
+      "ur": "cikṣepa tarasā vīro vyāvidhya satyavikramaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 19
+  },
+  "03017020a": {
+    "text": {
+      "ascii": "tayA tv abhihato rAjan vegavAn apatad bhuvi\n",
+      "ud": "तया त्वभिहतो राजन्वेगवानपतद्भुवि\n",
+      "ur": "tayā tv abhihato rājan vegavān apatad bhuvi\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 20
+  },
+  "03017020c": {
+    "text": {
+      "ascii": "vAtarugNa iva kSuNNo jIrNamUlo vanaspatiH\n",
+      "ud": "वातरुग्ण इव क्षुण्णो जीर्णमूलो वनस्पतिः\n",
+      "ur": "vātarugṇa iva kṣuṇṇo jīrṇamūlo vanaspatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 20
+  },
+  "03017021a": {
+    "text": {
+      "ascii": "tasmin nipatite vIre gadAnunne mahAsure\n",
+      "ud": "तस्मिन्निपतिते वीरे गदानुन्ने महासुरे\n",
+      "ur": "tasmin nipatite vīre gadānunne mahāsure\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 21
+  },
+  "03017021c": {
+    "text": {
+      "ascii": "pravizya mahatIM senAM yodhayAm Asa me sutaH\n",
+      "ud": "प्रविश्य महतीं सेनां योधयामास मे सुतः\n",
+      "ur": "praviśya mahatīṁ senāṁ yodhayām āsa me sutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 21
+  },
+  "03017022a": {
+    "text": {
+      "ascii": "cArudeSNena saMsakto vivindhyo nAma dAnavaH\n",
+      "ud": "चारुदेष्णेन संसक्तो विविन्ध्यो नाम दानवः\n",
+      "ur": "cārudeṣṇena saṁsakto vivindhyo nāma dānavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 22
+  },
+  "03017022c": {
+    "text": {
+      "ascii": "mahArathaH samAjJAto mahArAja mahAdhanuH\n",
+      "ud": "महारथः समाज्ञातो महाराज महाधनुः\n",
+      "ur": "mahārathaḥ samājñāto mahārāja mahādhanuḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 22
+  },
+  "03017023a": {
+    "text": {
+      "ascii": "tataH sutumulaM yuddhaM cArudeSNavivindhyayoH\n",
+      "ud": "ततः सुतुमुलं युद्धं चारुदेष्णविविन्ध्ययोः\n",
+      "ur": "tataḥ sutumulaṁ yuddhaṁ cārudeṣṇavivindhyayoḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 23
+  },
+  "03017023c": {
+    "text": {
+      "ascii": "vRtravAsavayo rAjan yathA pUrvaM tathAbhavat\n",
+      "ud": "वृत्रवासवयो राजन्यथा पूर्वं तथाभवत्\n",
+      "ur": "vr̥travāsavayo rājan yathā pūrvaṁ tathābhavat\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 23
+  },
+  "03017024a": {
+    "text": {
+      "ascii": "anyonyasyAbhisaMkruddhAv anyonyaM jaghnatuH zaraiH\n",
+      "ud": "अन्योन्यस्याभिसंक्रुद्धावन्योन्यं जघ्नतुः शरैः\n",
+      "ur": "anyonyasyābhisaṁkruddhāv anyonyaṁ jaghnatuḥ śaraiḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 24
+  },
+  "03017024c": {
+    "text": {
+      "ascii": "vinadantau mahArAja siMhAv iva mahAbalau\n",
+      "ud": "विनदन्तौ महाराज सिंहाविव महाबलौ\n",
+      "ur": "vinadantau mahārāja siṁhāv iva mahābalau\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 24
+  },
+  "03017025a": {
+    "text": {
+      "ascii": "raukmiNeyas tato bANam agnyarkopamavarcasam\n",
+      "ud": "रौक्मिणेयस्ततो बाणमग्न्यर्कोपमवर्चसम्\n",
+      "ur": "raukmiṇeyas tato bāṇam agnyarkopamavarcasam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 25
+  },
+  "03017025c": {
+    "text": {
+      "ascii": "abhimantrya mahAstreNa saMdadhe zatrunAzanam\n",
+      "ud": "अभिमन्त्र्य महास्त्रेण संदधे शत्रुनाशनम्\n",
+      "ur": "abhimantrya mahāstreṇa saṁdadhe śatrunāśanam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 25
+  },
+  "03017026a": {
+    "text": {
+      "ascii": "sa vivindhyAya sakrodhaH samAhUya mahArathaH\n",
+      "ud": "स विविन्ध्याय सक्रोधः समाहूय महारथः\n",
+      "ur": "sa vivindhyāya sakrodhaḥ samāhūya mahārathaḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 26
+  },
+  "03017026c": {
+    "text": {
+      "ascii": "cikSepa me suto rAjan sa gatAsur athApatat\n",
+      "ud": "चिक्षेप मे सुतो राजन्स गतासुरथापतत्\n",
+      "ur": "cikṣepa me suto rājan sa gatāsur athāpatat\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 26
+  },
+  "03017027a": {
+    "text": {
+      "ascii": "vivindhyaM nihataM dRSTvA tAM ca vikSobhitAM camUm\n",
+      "ud": "विविन्ध्यं निहतं दृष्ट्वा तां च विक्षोभितां चमूम्\n",
+      "ur": "vivindhyaṁ nihataṁ dr̥ṣṭvā tāṁ ca vikṣobhitāṁ camūm\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 27
+  },
+  "03017027c": {
+    "text": {
+      "ascii": "kAmagena sa saubhena zAlvaH punar upAgamat\n",
+      "ud": "कामगेन स सौभेन शाल्वः पुनरुपागमत्\n",
+      "ur": "kāmagena sa saubhena śālvaḥ punar upāgamat\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 27
+  },
+  "03017028a": {
+    "text": {
+      "ascii": "tato vyAkulitaM sarvaM dvArakAvAsi tad balam\n",
+      "ud": "ततो व्याकुलितं सर्वं द्वारकावासि तद्बलम्\n",
+      "ur": "tato vyākulitaṁ sarvaṁ dvārakāvāsi tad balam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 28
+  },
+  "03017028c": {
+    "text": {
+      "ascii": "dRSTvA zAlvaM mahAbAho saubhasthaM pRthivIgatam\n",
+      "ud": "दृष्ट्वा शाल्वं महाबाहो सौभस्थं पृथिवीगतम्\n",
+      "ur": "dr̥ṣṭvā śālvaṁ mahābāho saubhasthaṁ pr̥thivīgatam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 28
+  },
+  "03017029a": {
+    "text": {
+      "ascii": "tato niryAya kaunteya vyavasthApya ca tad balam\n",
+      "ud": "ततो निर्याय कौन्तेय व्यवस्थाप्य च तद्बलम्\n",
+      "ur": "tato niryāya kaunteya vyavasthāpya ca tad balam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 29
+  },
+  "03017029c": {
+    "text": {
+      "ascii": "AnartAnAM mahArAja pradyumno vAkyam abravIt\n",
+      "ud": "आनर्तानां महाराज प्रद्युम्नो वाक्यमब्रवीत्\n",
+      "ur": "ānartānāṁ mahārāja pradyumno vākyam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 29
+  },
+  "03017030a": {
+    "text": {
+      "ascii": "sarve bhavantas tiSThantu sarve pazyantu mAM yudhi\n",
+      "ud": "सर्वे भवन्तस्तिष्ठन्तु सर्वे पश्यन्तु मां युधि\n",
+      "ur": "sarve bhavantas tiṣṭhantu sarve paśyantu māṁ yudhi\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 30
+  },
+  "03017030c": {
+    "text": {
+      "ascii": "nivArayantaM saMgrAme balAt saubhaM sarAjakam\n",
+      "ud": "निवारयन्तं संग्रामे बलात्सौभं सराजकम्\n",
+      "ur": "nivārayantaṁ saṁgrāme balāt saubhaṁ sarājakam\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 30
+  },
+  "03017031a": {
+    "text": {
+      "ascii": "ahaM saubhapateH senAm Ayasair bhujagair iva\n",
+      "ud": "अहं सौभपतेः सेनामायसैर्भुजगैरिव\n",
+      "ur": "ahaṁ saubhapateḥ senām āyasair bhujagair iva\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 31
+  },
+  "03017031c": {
+    "text": {
+      "ascii": "dhanurbhujavinirmuktair nAzayAmy adya yAdavAH\n",
+      "ud": "धनुर्भुजविनिर्मुक्तैर्नाशयाम्यद्य यादवाः\n",
+      "ur": "dhanurbhujavinirmuktair nāśayāmy adya yādavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 31
+  },
+  "03017032a": {
+    "text": {
+      "ascii": "AzvasadhvaM na bhIH kAryA saubharAD adya nazyati\n",
+      "ud": "आश्वसध्वं न भीः कार्या सौभराडद्य नश्यति\n",
+      "ur": "āśvasadhvaṁ na bhīḥ kāryā saubharāḍ adya naśyati\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 32
+  },
+  "03017032c": {
+    "text": {
+      "ascii": "mayAbhipanno duSTAtmA sasaubho vinaziSyati\n",
+      "ud": "मयाभिपन्नो दुष्टात्मा ससौभो विनशिष्यति\n",
+      "ur": "mayābhipanno duṣṭātmā sasaubho vinaśiṣyati\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 32
+  },
+  "03017033a": {
+    "text": {
+      "ascii": "evaM bruvati saMhRSTe pradyumne pANDunandana\n",
+      "ud": "एवं ब्रुवति संहृष्टे प्रद्युम्ने पाण्डुनन्दन\n",
+      "ur": "evaṁ bruvati saṁhr̥ṣṭe pradyumne pāṇḍunandana\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 33
+  },
+  "03017033c": {
+    "text": {
+      "ascii": "viSThitaM tad balaM vIra yuyudhe ca yathAsukham\n",
+      "ud": "विष्ठितं तद्बलं वीर युयुधे च यथासुखम्\n",
+      "ur": "viṣṭhitaṁ tad balaṁ vīra yuyudhe ca yathāsukham\n"
+    },
+    "book": 3,
+    "chapter": 17,
+    "verse": 33
+  }
+}

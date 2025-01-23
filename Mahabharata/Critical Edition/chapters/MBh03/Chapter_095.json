@@ -1,0 +1,542 @@
+{
+  "03095001": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 1
+  },
+  "03095001a": {
+    "text": {
+      "ascii": "yadA tv amanyatAgastyo gArhasthye tAM kSamAm iti\n",
+      "ud": "यदा त्वमन्यतागस्त्यो गार्हस्थ्ये तां क्षमामिति\n",
+      "ur": "yadā tv amanyatāgastyo gārhasthye tāṁ kṣamām iti\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 1
+  },
+  "03095001c": {
+    "text": {
+      "ascii": "tadAbhigamya provAca vaidarbhaM pRthivIpatim\n",
+      "ud": "तदाभिगम्य प्रोवाच वैदर्भं पृथिवीपतिम्\n",
+      "ur": "tadābhigamya provāca vaidarbhaṁ pr̥thivīpatim\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 1
+  },
+  "03095002a": {
+    "text": {
+      "ascii": "rAjan niveze buddhir me vartate putrakAraNAt\n",
+      "ud": "राजन्निवेशे बुद्धिर्मे वर्तते पुत्रकारणात्\n",
+      "ur": "rājan niveśe buddhir me vartate putrakāraṇāt\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 2
+  },
+  "03095002c": {
+    "text": {
+      "ascii": "varaye tvAM mahIpAla lopAmudrAM prayaccha me\n",
+      "ud": "वरये त्वां महीपाल लोपामुद्रां प्रयच्छ मे\n",
+      "ur": "varaye tvāṁ mahīpāla lopāmudrāṁ prayaccha me\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 2
+  },
+  "03095003a": {
+    "text": {
+      "ascii": "evam uktaH sa muninA mahIpAlo vicetanaH\n",
+      "ud": "एवमुक्तः स मुनिना महीपालो विचेतनः\n",
+      "ur": "evam uktaḥ sa muninā mahīpālo vicetanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 3
+  },
+  "03095003c": {
+    "text": {
+      "ascii": "pratyAkhyAnAya cAzaktaH pradAtum api naicchata\n",
+      "ud": "प्रत्याख्यानाय चाशक्तः प्रदातुमपि नैच्छत\n",
+      "ur": "pratyākhyānāya cāśaktaḥ pradātum api naicchata\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 3
+  },
+  "03095004a": {
+    "text": {
+      "ascii": "tataH sa bhAryAm abhyetya provAca pRthivIpatiH\n",
+      "ud": "ततः स भार्यामभ्येत्य प्रोवाच पृथिवीपतिः\n",
+      "ur": "tataḥ sa bhāryām abhyetya provāca pr̥thivīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 4
+  },
+  "03095004c": {
+    "text": {
+      "ascii": "maharSir vIryavAn eSa kruddhaH zApAgninA dahet\n",
+      "ud": "महर्षिर्वीर्यवानेष क्रुद्धः शापाग्निना दहेत्\n",
+      "ur": "maharṣir vīryavān eṣa kruddhaḥ śāpāgninā dahet\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 4
+  },
+  "03095005a": {
+    "text": {
+      "ascii": "taM tathA duHkhitaM dRSTvA sabhAryaM pRthivIpatim\n",
+      "ud": "तं तथा दुःखितं दृष्ट्वा सभार्यं पृथिवीपतिम्\n",
+      "ur": "taṁ tathā duḥkhitaṁ dr̥ṣṭvā sabhāryaṁ pr̥thivīpatim\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 5
+  },
+  "03095005c": {
+    "text": {
+      "ascii": "lopAmudrAbhigamyedaM kAle vacanam abravIt\n",
+      "ud": "लोपामुद्राभिगम्येदं काले वचनमब्रवीत्\n",
+      "ur": "lopāmudrābhigamyedaṁ kāle vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 5
+  },
+  "03095006a": {
+    "text": {
+      "ascii": "na matkRte mahIpAla pIDAm abhyetum arhasi\n",
+      "ud": "न मत्कृते महीपाल पीडामभ्येतुमर्हसि\n",
+      "ur": "na matkr̥te mahīpāla pīḍām abhyetum arhasi\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 6
+  },
+  "03095006c": {
+    "text": {
+      "ascii": "prayaccha mAm agastyAya trAhy AtmAnaM mayA pitaH\n",
+      "ud": "प्रयच्छ मामगस्त्याय त्राह्यात्मानं मया पितः\n",
+      "ur": "prayaccha mām agastyāya trāhy ātmānaṁ mayā pitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 6
+  },
+  "03095007a": {
+    "text": {
+      "ascii": "duhitur vacanAd rAjA so 'gastyAya mahAtmane\n",
+      "ud": "दुहितुर्वचनाद्राजा सोऽगस्त्याय महात्मने\n",
+      "ur": "duhitur vacanād rājā so ’gastyāya mahātmane\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 7
+  },
+  "03095007c": {
+    "text": {
+      "ascii": "lopAmudrAM tataH prAdAd vidhipUrvaM vizAM pate\n",
+      "ud": "लोपामुद्रां ततः प्रादाद्विधिपूर्वं विशां पते\n",
+      "ur": "lopāmudrāṁ tataḥ prādād vidhipūrvaṁ viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 7
+  },
+  "03095008a": {
+    "text": {
+      "ascii": "prApya bhAryAm agastyas tu lopAmudrAm abhASata\n",
+      "ud": "प्राप्य भार्यामगस्त्यस्तु लोपामुद्रामभाषत\n",
+      "ur": "prāpya bhāryām agastyas tu lopāmudrām abhāṣata\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 8
+  },
+  "03095008c": {
+    "text": {
+      "ascii": "mahArhANy utsRjaitAni vAsAMsy AbharaNAni ca\n",
+      "ud": "महार्हाण्युत्सृजैतानि वासांस्याभरणानि च\n",
+      "ur": "mahārhāṇy utsr̥jaitāni vāsāṁsy ābharaṇāni ca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 8
+  },
+  "03095009a": {
+    "text": {
+      "ascii": "tataH sA darzanIyAni mahArhANi tanUni ca\n",
+      "ud": "ततः सा दर्शनीयानि महार्हाणि तनूनि च\n",
+      "ur": "tataḥ sā darśanīyāni mahārhāṇi tanūni ca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 9
+  },
+  "03095009c": {
+    "text": {
+      "ascii": "samutsasarja rambhorUr vasanAny AyatekSaNA\n",
+      "ud": "समुत्ससर्ज रम्भोरूर्वसनान्यायतेक्षणा\n",
+      "ur": "samutsasarja rambhorūr vasanāny āyatekṣaṇā\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 9
+  },
+  "03095010a": {
+    "text": {
+      "ascii": "tataz cIrANi jagrAha valkalAny ajinAni ca\n",
+      "ud": "ततश्चीराणि जग्राह वल्कलान्यजिनानि च\n",
+      "ur": "tataś cīrāṇi jagrāha valkalāny ajināni ca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 10
+  },
+  "03095010c": {
+    "text": {
+      "ascii": "samAnavratacaryA ca babhUvAyatalocanA\n",
+      "ud": "समानव्रतचर्या च बभूवायतलोचना\n",
+      "ur": "samānavratacaryā ca babhūvāyatalocanā\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 10
+  },
+  "03095011a": {
+    "text": {
+      "ascii": "gaGgAdvAram athAgamya bhagavAn RSisattamaH\n",
+      "ud": "गङ्गाद्वारमथागम्य भगवानृषिसत्तमः\n",
+      "ur": "gaṅgādvāram athāgamya bhagavān r̥ṣisattamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 11
+  },
+  "03095011c": {
+    "text": {
+      "ascii": "ugram AtiSThata tapaH saha patnyAnukUlayA\n",
+      "ud": "उग्रमातिष्ठत तपः सह पत्न्यानुकूलया\n",
+      "ur": "ugram ātiṣṭhata tapaḥ saha patnyānukūlayā\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 11
+  },
+  "03095012a": {
+    "text": {
+      "ascii": "sA prItyA bahumAnAc ca patiM paryacarat tadA\n",
+      "ud": "सा प्रीत्या बहुमानाच्च पतिं पर्यचरत्तदा\n",
+      "ur": "sā prītyā bahumānāc ca patiṁ paryacarat tadā\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 12
+  },
+  "03095012c": {
+    "text": {
+      "ascii": "agastyaz ca parAM prItiM bhAryAyAm akarot prabhuH\n",
+      "ud": "अगस्त्यश्च परां प्रीतिं भार्यायामकरोत्प्रभुः\n",
+      "ur": "agastyaś ca parāṁ prītiṁ bhāryāyām akarot prabhuḥ\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 12
+  },
+  "03095013a": {
+    "text": {
+      "ascii": "tato bahutithe kAle lopAmudrAM vizAM pate\n",
+      "ud": "ततो बहुतिथे काले लोपामुद्रां विशां पते\n",
+      "ur": "tato bahutithe kāle lopāmudrāṁ viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 13
+  },
+  "03095013c": {
+    "text": {
+      "ascii": "tapasA dyotitAM snAtAM dadarza bhagavAn RSiH\n",
+      "ud": "तपसा द्योतितां स्नातां ददर्श भगवानृषिः\n",
+      "ur": "tapasā dyotitāṁ snātāṁ dadarśa bhagavān r̥ṣiḥ\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 13
+  },
+  "03095014a": {
+    "text": {
+      "ascii": "sa tasyAH paricAreNa zaucena ca damena ca\n",
+      "ud": "स तस्याः परिचारेण शौचेन च दमेन च\n",
+      "ur": "sa tasyāḥ paricāreṇa śaucena ca damena ca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 14
+  },
+  "03095014c": {
+    "text": {
+      "ascii": "zriyA rUpeNa ca prIto maithunAyAjuhAva tAm\n",
+      "ud": "श्रिया रूपेण च प्रीतो मैथुनायाजुहाव ताम्\n",
+      "ur": "śriyā rūpeṇa ca prīto maithunāyājuhāva tām\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 14
+  },
+  "03095015a": {
+    "text": {
+      "ascii": "tataH sA prAJjalir bhUtvA lajjamAneva bhAminI\n",
+      "ud": "ततः सा प्राञ्जलिर्भूत्वा लज्जमानेव भामिनी\n",
+      "ur": "tataḥ sā prāñjalir bhūtvā lajjamāneva bhāminī\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 15
+  },
+  "03095015c": {
+    "text": {
+      "ascii": "tadA sapraNayaM vAkyaM bhagavantam athAbravIt\n",
+      "ud": "तदा सप्रणयं वाक्यं भगवन्तमथाब्रवीत्\n",
+      "ur": "tadā sapraṇayaṁ vākyaṁ bhagavantam athābravīt\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 15
+  },
+  "03095016a": {
+    "text": {
+      "ascii": "asaMzayaM prajAhetor bhAryAM patir avindata\n",
+      "ud": "असंशयं प्रजाहेतोर्भार्यां पतिरविन्दत\n",
+      "ur": "asaṁśayaṁ prajāhetor bhāryāṁ patir avindata\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 16
+  },
+  "03095016c": {
+    "text": {
+      "ascii": "yA tu tvayi mama prItis tAm RSe kartum arhasi\n",
+      "ud": "या तु त्वयि मम प्रीतिस्तामृषे कर्तुमर्हसि\n",
+      "ur": "yā tu tvayi mama prītis tām r̥ṣe kartum arhasi\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 16
+  },
+  "03095017a": {
+    "text": {
+      "ascii": "yathA pitur gRhe vipra prAsAde zayanaM mama\n",
+      "ud": "यथा पितुर्गृहे विप्र प्रासादे शयनं मम\n",
+      "ur": "yathā pitur gr̥he vipra prāsāde śayanaṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 17
+  },
+  "03095017c": {
+    "text": {
+      "ascii": "tathAvidhe tvaM zayane mAm upaitum ihArhasi\n",
+      "ud": "तथाविधे त्वं शयने मामुपैतुमिहार्हसि\n",
+      "ur": "tathāvidhe tvaṁ śayane mām upaitum ihārhasi\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 17
+  },
+  "03095018a": {
+    "text": {
+      "ascii": "icchAmi tvAM sragviNaM ca bhUSaNaiz ca vibhUSitam\n",
+      "ud": "इच्छामि त्वां स्रग्विणं च भूषणैश्च विभूषितम्\n",
+      "ur": "icchāmi tvāṁ sragviṇaṁ ca bhūṣaṇaiś ca vibhūṣitam\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 18
+  },
+  "03095018c": {
+    "text": {
+      "ascii": "upasartuM yathAkAmaM divyAbharaNabhUSitA\n",
+      "ud": "उपसर्तुं यथाकामं दिव्याभरणभूषिता\n",
+      "ur": "upasartuṁ yathākāmaṁ divyābharaṇabhūṣitā\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 18
+  },
+  "03095019": {
+    "text": {
+      "ascii": "agastya uvAca\n",
+      "ud": "अगस्त्य उवाच\n",
+      "ur": "agastya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 19
+  },
+  "03095019a": {
+    "text": {
+      "ascii": "na vai dhanAni vidyante lopAmudre tathA mama\n",
+      "ud": "न वै धनानि विद्यन्ते लोपामुद्रे तथा मम\n",
+      "ur": "na vai dhanāni vidyante lopāmudre tathā mama\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 19
+  },
+  "03095019c": {
+    "text": {
+      "ascii": "yathAvidhAni kalyANi pitus tava sumadhyame\n",
+      "ud": "यथाविधानि कल्याणि पितुस्तव सुमध्यमे\n",
+      "ur": "yathāvidhāni kalyāṇi pitus tava sumadhyame\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 19
+  },
+  "03095020": {
+    "text": {
+      "ascii": "lopAmudrovAca\n",
+      "ud": "लोपामुद्रोवाच\n",
+      "ur": "lopāmudrovāca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 20
+  },
+  "03095020a": {
+    "text": {
+      "ascii": "Izo 'si tapasA sarvaM samAhartum ihezvara\n",
+      "ud": "ईशोऽसि तपसा सर्वं समाहर्तुमिहेश्वर\n",
+      "ur": "īśo ’si tapasā sarvaṁ samāhartum iheśvara\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 20
+  },
+  "03095020c": {
+    "text": {
+      "ascii": "kSaNena jIvaloke yad vasu kiM cana vidyate\n",
+      "ud": "क्षणेन जीवलोके यद्वसु किंचन विद्यते\n",
+      "ur": "kṣaṇena jīvaloke yad vasu kiṁ cana vidyate\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 20
+  },
+  "03095021": {
+    "text": {
+      "ascii": "agastya uvAca\n",
+      "ud": "अगस्त्य उवाच\n",
+      "ur": "agastya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 21
+  },
+  "03095021a": {
+    "text": {
+      "ascii": "evam etad yathAttha tvaM tapovyayakaraM tu me\n",
+      "ud": "एवमेतद्यथात्थ त्वं तपोव्ययकरं तु मे\n",
+      "ur": "evam etad yathāttha tvaṁ tapovyayakaraṁ tu me\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 21
+  },
+  "03095021c": {
+    "text": {
+      "ascii": "yathA tu me na nazyeta tapas tan mAM pracodaya\n",
+      "ud": "यथा तु मे न नश्येत तपस्तन्मां प्रचोदय\n",
+      "ur": "yathā tu me na naśyeta tapas tan māṁ pracodaya\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 21
+  },
+  "03095022": {
+    "text": {
+      "ascii": "lopAmudrovAca\n",
+      "ud": "लोपामुद्रोवाच\n",
+      "ur": "lopāmudrovāca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 22
+  },
+  "03095022a": {
+    "text": {
+      "ascii": "alpAvaziSTaH kAlo 'yam Rtau mama tapodhana\n",
+      "ud": "अल्पावशिष्टः कालोऽयमृतौ मम तपोधन\n",
+      "ur": "alpāvaśiṣṭaḥ kālo ’yam r̥tau mama tapodhana\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 22
+  },
+  "03095022c": {
+    "text": {
+      "ascii": "na cAnyathAham icchAmi tvAm upaituM kathaM cana\n",
+      "ud": "न चान्यथाहमिच्छामि त्वामुपैतुं कथंचन\n",
+      "ur": "na cānyathāham icchāmi tvām upaituṁ kathaṁ cana\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 22
+  },
+  "03095023a": {
+    "text": {
+      "ascii": "na cApi dharmam icchAmi viloptuM te tapodhana\n",
+      "ud": "न चापि धर्ममिच्छामि विलोप्तुं ते तपोधन\n",
+      "ur": "na cāpi dharmam icchāmi viloptuṁ te tapodhana\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 23
+  },
+  "03095023c": {
+    "text": {
+      "ascii": "etat tu me yathAkAmaM saMpAdayitum arhasi\n",
+      "ud": "एतत्तु मे यथाकामं संपादयितुमर्हसि\n",
+      "ur": "etat tu me yathākāmaṁ saṁpādayitum arhasi\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 23
+  },
+  "03095024": {
+    "text": {
+      "ascii": "agastya uvAca\n",
+      "ud": "अगस्त्य उवाच\n",
+      "ur": "agastya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 24
+  },
+  "03095024a": {
+    "text": {
+      "ascii": "yady eSa kAmaH subhage tava buddhyA vinizcitaH\n",
+      "ud": "यद्येष कामः सुभगे तव बुद्ध्या विनिश्चितः\n",
+      "ur": "yady eṣa kāmaḥ subhage tava buddhyā viniścitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 24
+  },
+  "03095024c": {
+    "text": {
+      "ascii": "hanta gacchAmy ahaM bhadre cara kAmam iha sthitA\n",
+      "ud": "हन्त गच्छाम्यहं भद्रे चर काममिह स्थिता\n",
+      "ur": "hanta gacchāmy ahaṁ bhadre cara kāmam iha sthitā\n"
+    },
+    "book": 3,
+    "chapter": 95,
+    "verse": 24
+  }
+}

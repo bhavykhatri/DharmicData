@@ -1,0 +1,522 @@
+{
+  "03098001": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 1
+  },
+  "03098001a": {
+    "text": {
+      "ascii": "bhUya evAham icchAmi maharSes tasya dhImataH\n",
+      "ud": "भूय एवाहमिच्छामि महर्षेस्तस्य धीमतः\n",
+      "ur": "bhūya evāham icchāmi maharṣes tasya dhīmataḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 1
+  },
+  "03098001c": {
+    "text": {
+      "ascii": "karmaNAM vistaraM zrotum agastyasya dvijottama\n",
+      "ud": "कर्मणां विस्तरं श्रोतुमगस्त्यस्य द्विजोत्तम\n",
+      "ur": "karmaṇāṁ vistaraṁ śrotum agastyasya dvijottama\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 1
+  },
+  "03098002": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 2
+  },
+  "03098002a": {
+    "text": {
+      "ascii": "zRNu rAjan kathAM divyAm adbhutAm atimAnuSIm\n",
+      "ud": "शृणु राजन्कथां दिव्यामद्भुतामतिमानुषीम्\n",
+      "ur": "śr̥ṇu rājan kathāṁ divyām adbhutām atimānuṣīm\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 2
+  },
+  "03098002c": {
+    "text": {
+      "ascii": "agastyasya mahArAja prabhAvam amitAtmanaH\n",
+      "ud": "अगस्त्यस्य महाराज प्रभावममितात्मनः\n",
+      "ur": "agastyasya mahārāja prabhāvam amitātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 2
+  },
+  "03098003a": {
+    "text": {
+      "ascii": "Asan kRtayuge ghorA dAnavA yuddhadurmadAH\n",
+      "ud": "आसन्कृतयुगे घोरा दानवा युद्धदुर्मदाः\n",
+      "ur": "āsan kr̥tayuge ghorā dānavā yuddhadurmadāḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 3
+  },
+  "03098003c": {
+    "text": {
+      "ascii": "kAleyA iti vikhyAtA gaNAH paramadAruNAH\n",
+      "ud": "कालेया इति विख्याता गणाः परमदारुणाः\n",
+      "ur": "kāleyā iti vikhyātā gaṇāḥ paramadāruṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 3
+  },
+  "03098004a": {
+    "text": {
+      "ascii": "te tu vRtraM samAzritya nAnApraharaNodyatAH\n",
+      "ud": "ते तु वृत्रं समाश्रित्य नानाप्रहरणोद्यताः\n",
+      "ur": "te tu vr̥traṁ samāśritya nānāpraharaṇodyatāḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 4
+  },
+  "03098004c": {
+    "text": {
+      "ascii": "samantAt paryadhAvanta mahendrapramukhAn surAn\n",
+      "ud": "समन्तात्पर्यधावन्त महेन्द्रप्रमुखान्सुरान्\n",
+      "ur": "samantāt paryadhāvanta mahendrapramukhān surān\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 4
+  },
+  "03098005a": {
+    "text": {
+      "ascii": "tato vRtravadhe yatnam akurvaMs tridazAH purA\n",
+      "ud": "ततो वृत्रवधे यत्नमकुर्वंस्त्रिदशाः पुरा\n",
+      "ur": "tato vr̥travadhe yatnam akurvaṁs tridaśāḥ purā\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 5
+  },
+  "03098005c": {
+    "text": {
+      "ascii": "puraMdaraM puraskRtya brahmANam upatasthire\n",
+      "ud": "पुरंदरं पुरस्कृत्य ब्रह्माणमुपतस्थिरे\n",
+      "ur": "puraṁdaraṁ puraskr̥tya brahmāṇam upatasthire\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 5
+  },
+  "03098006a": {
+    "text": {
+      "ascii": "kRtAJjalIMs tu tAn sarvAn parameSThI uvAca ha\n",
+      "ud": "कृताञ्जलींस्तु तान्सर्वान्परमेष्ठी उवाच ह\n",
+      "ur": "kr̥tāñjalīṁs tu tān sarvān parameṣṭhī uvāca ha\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 6
+  },
+  "03098006c": {
+    "text": {
+      "ascii": "viditaM me surAH sarvaM yad vaH kAryaM cikIrSitam\n",
+      "ud": "विदितं मे सुराः सर्वं यद्वः कार्यं चिकीर्षितम्\n",
+      "ur": "viditaṁ me surāḥ sarvaṁ yad vaḥ kāryaṁ cikīrṣitam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 6
+  },
+  "03098007a": {
+    "text": {
+      "ascii": "tam upAyaM pravakSyAmi yathA vRtraM vadhiSyatha\n",
+      "ud": "तमुपायं प्रवक्ष्यामि यथा वृत्रं वधिष्यथ\n",
+      "ur": "tam upāyaṁ pravakṣyāmi yathā vr̥traṁ vadhiṣyatha\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 7
+  },
+  "03098007c": {
+    "text": {
+      "ascii": "dadhIca iti vikhyAto mahAn RSir udAradhIH\n",
+      "ud": "दधीच इति विख्यातो महानृषिरुदारधीः\n",
+      "ur": "dadhīca iti vikhyāto mahān r̥ṣir udāradhīḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 7
+  },
+  "03098008a": {
+    "text": {
+      "ascii": "taM gatvA sahitAH sarve varaM vai saMprayAcata\n",
+      "ud": "तं गत्वा सहिताः सर्वे वरं वै संप्रयाचत\n",
+      "ur": "taṁ gatvā sahitāḥ sarve varaṁ vai saṁprayācata\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 8
+  },
+  "03098008c": {
+    "text": {
+      "ascii": "sa vo dAsyati dharmAtmA suprItenAntarAtmanA\n",
+      "ud": "स वो दास्यति धर्मात्मा सुप्रीतेनान्तरात्मना\n",
+      "ur": "sa vo dāsyati dharmātmā suprītenāntarātmanā\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 8
+  },
+  "03098009a": {
+    "text": {
+      "ascii": "sa vAcyaH sahitaiH sarvair bhavadbhir jayakAGkSibhiH\n",
+      "ud": "स वाच्यः सहितैः सर्वैर्भवद्भिर्जयकाङ्क्षिभिः\n",
+      "ur": "sa vācyaḥ sahitaiḥ sarvair bhavadbhir jayakāṅkṣibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 9
+  },
+  "03098009c": {
+    "text": {
+      "ascii": "svAny asthIni prayaccheti trailokyasya hitAya vai\n",
+      "ud": "स्वान्यस्थीनि प्रयच्छेति त्रैलोक्यस्य हिताय वै\n",
+      "ur": "svāny asthīni prayaccheti trailokyasya hitāya vai\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 9
+  },
+  "03098009e": {
+    "text": {
+      "ascii": "sa zarIraM samutsRjya svAny asthIni pradAsyati\n",
+      "ud": "स शरीरं समुत्सृज्य स्वान्यस्थीनि प्रदास्यति\n",
+      "ur": "sa śarīraṁ samutsr̥jya svāny asthīni pradāsyati\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 9
+  },
+  "03098010a": {
+    "text": {
+      "ascii": "tasyAsthibhir mahAghoraM vajraM saMbhriyatAM dRDham\n",
+      "ud": "तस्यास्थिभिर्महाघोरं वज्रं संभ्रियतां दृढम्\n",
+      "ur": "tasyāsthibhir mahāghoraṁ vajraṁ saṁbhriyatāṁ dr̥ḍham\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 10
+  },
+  "03098010c": {
+    "text": {
+      "ascii": "mahac chatruhaNaM tIkSNaM SaDazraM bhImanisvanam\n",
+      "ud": "महच्छत्रुहणं तीक्ष्णं षडश्रं भीमनिस्वनम्\n",
+      "ur": "mahac chatruhaṇaṁ tīkṣṇaṁ ṣaḍaśraṁ bhīmanisvanam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 10
+  },
+  "03098011a": {
+    "text": {
+      "ascii": "tena vajreNa vai vRtraM vadhiSyati zatakratuH\n",
+      "ud": "तेन वज्रेण वै वृत्रं वधिष्यति शतक्रतुः\n",
+      "ur": "tena vajreṇa vai vr̥traṁ vadhiṣyati śatakratuḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 11
+  },
+  "03098011c": {
+    "text": {
+      "ascii": "etad vaH sarvam AkhyAtaM tasmAc chIghraM vidhIyatAm\n",
+      "ud": "एतद्वः सर्वमाख्यातं तस्माच्छीघ्रं विधीयताम्\n",
+      "ur": "etad vaḥ sarvam ākhyātaṁ tasmāc chīghraṁ vidhīyatām\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 11
+  },
+  "03098012a": {
+    "text": {
+      "ascii": "evam uktAs tato devA anujJApya pitAmaham\n",
+      "ud": "एवमुक्तास्ततो देवा अनुज्ञाप्य पितामहम्\n",
+      "ur": "evam uktās tato devā anujñāpya pitāmaham\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 12
+  },
+  "03098012c": {
+    "text": {
+      "ascii": "nArAyaNaM puraskRtya dadhIcasyAzramaM yayuH\n",
+      "ud": "नारायणं पुरस्कृत्य दधीचस्याश्रमं ययुः\n",
+      "ur": "nārāyaṇaṁ puraskr̥tya dadhīcasyāśramaṁ yayuḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 12
+  },
+  "03098013a": {
+    "text": {
+      "ascii": "sarasvatyAH pare pAre nAnAdrumalatAvRtam\n",
+      "ud": "सरस्वत्याः परे पारे नानाद्रुमलतावृतम्\n",
+      "ur": "sarasvatyāḥ pare pāre nānādrumalatāvr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 13
+  },
+  "03098013c": {
+    "text": {
+      "ascii": "SaTpadodgItaninadair vighuSTaM sAmagair iva\n",
+      "ud": "षट्पदोद्गीतनिनदैर्विघुष्टं सामगैरिव\n",
+      "ur": "ṣaṭpadodgītaninadair vighuṣṭaṁ sāmagair iva\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 13
+  },
+  "03098013e": {
+    "text": {
+      "ascii": "puMskokilaravonmizraM jIvaMjIvakanAditam\n",
+      "ud": "पुंस्कोकिलरवोन्मिश्रं जीवंजीवकनादितम्\n",
+      "ur": "puṁskokilaravonmiśraṁ jīvaṁjīvakanāditam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 13
+  },
+  "03098014a": {
+    "text": {
+      "ascii": "mahiSaiz ca varAhaiz ca sRmaraiz camarair api\n",
+      "ud": "महिषैश्च वराहैश्च सृमरैश्चमरैरपि\n",
+      "ur": "mahiṣaiś ca varāhaiś ca sr̥maraiś camarair api\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 14
+  },
+  "03098014c": {
+    "text": {
+      "ascii": "tatra tatrAnucaritaM zArdUlabhayavarjitaiH\n",
+      "ud": "तत्र तत्रानुचरितं शार्दूलभयवर्जितैः\n",
+      "ur": "tatra tatrānucaritaṁ śārdūlabhayavarjitaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 14
+  },
+  "03098015a": {
+    "text": {
+      "ascii": "kareNubhir vAraNaiz ca prabhinnakaraTAmukhaiH\n",
+      "ud": "करेणुभिर्वारणैश्च प्रभिन्नकरटामुखैः\n",
+      "ur": "kareṇubhir vāraṇaiś ca prabhinnakaraṭāmukhaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 15
+  },
+  "03098015c": {
+    "text": {
+      "ascii": "saro 'vagADhaiH krIDadbhiH samantAd anunAditam\n",
+      "ud": "सरोऽवगाढैः क्रीडद्भिः समन्तादनुनादितम्\n",
+      "ur": "saro ’vagāḍhaiḥ krīḍadbhiḥ samantād anunāditam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 15
+  },
+  "03098016a": {
+    "text": {
+      "ascii": "siMhavyAghrair mahAnAdAn nadadbhir anunAditam\n",
+      "ud": "सिंहव्याघ्रैर्महानादान्नदद्भिरनुनादितम्\n",
+      "ur": "siṁhavyāghrair mahānādān nadadbhir anunāditam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 16
+  },
+  "03098016c": {
+    "text": {
+      "ascii": "aparaiz cApi saMlInair guhAkandaravAsibhiH\n",
+      "ud": "अपरैश्चापि संलीनैर्गुहाकन्दरवासिभिः\n",
+      "ur": "aparaiś cāpi saṁlīnair guhākandaravāsibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 16
+  },
+  "03098017a": {
+    "text": {
+      "ascii": "teSu teSv avakAzeSu zobhitaM sumanoramam\n",
+      "ud": "तेषु तेष्ववकाशेषु शोभितं सुमनोरमम्\n",
+      "ur": "teṣu teṣv avakāśeṣu śobhitaṁ sumanoramam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 17
+  },
+  "03098017c": {
+    "text": {
+      "ascii": "triviSTapasamaprakhyaM dadhIcAzramam Agaman\n",
+      "ud": "त्रिविष्टपसमप्रख्यं दधीचाश्रममागमन्\n",
+      "ur": "triviṣṭapasamaprakhyaṁ dadhīcāśramam āgaman\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 17
+  },
+  "03098018a": {
+    "text": {
+      "ascii": "tatrApazyan dadhIcaM te divAkarasamadyutim\n",
+      "ud": "तत्रापश्यन्दधीचं ते दिवाकरसमद्युतिम्\n",
+      "ur": "tatrāpaśyan dadhīcaṁ te divākarasamadyutim\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 18
+  },
+  "03098018c": {
+    "text": {
+      "ascii": "jAjvalyamAnaM vapuSA yathA lakSmyA pitAmaham\n",
+      "ud": "जाज्वल्यमानं वपुषा यथा लक्ष्म्या पितामहम्\n",
+      "ur": "jājvalyamānaṁ vapuṣā yathā lakṣmyā pitāmaham\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 18
+  },
+  "03098019a": {
+    "text": {
+      "ascii": "tasya pAdau surA rAjann abhivAdya praNamya ca\n",
+      "ud": "तस्य पादौ सुरा राजन्नभिवाद्य प्रणम्य च\n",
+      "ur": "tasya pādau surā rājann abhivādya praṇamya ca\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 19
+  },
+  "03098019c": {
+    "text": {
+      "ascii": "ayAcanta varaM sarve yathoktaM parameSThinA\n",
+      "ud": "अयाचन्त वरं सर्वे यथोक्तं परमेष्ठिना\n",
+      "ur": "ayācanta varaṁ sarve yathoktaṁ parameṣṭhinā\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 19
+  },
+  "03098020a": {
+    "text": {
+      "ascii": "tato dadhIcaH paramapratItaH; surottamAMs tAn idam abhyuvAca\n",
+      "ud": "ततो दधीचः परमप्रतीतः; सुरोत्तमांस्तानिदमभ्युवाच\n",
+      "ur": "tato dadhīcaḥ paramapratītaḥ; surottamāṁs tān idam abhyuvāca\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 20
+  },
+  "03098020c": {
+    "text": {
+      "ascii": "karomi yad vo hitam adya devAH; svaM cApi dehaM tv aham utsRjAmi\n",
+      "ud": "करोमि यद्वो हितमद्य देवाः; स्वं चापि देहं त्वहमुत्सृजामि\n",
+      "ur": "karomi yad vo hitam adya devāḥ; svaṁ cāpi dehaṁ tv aham utsr̥jāmi\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 20
+  },
+  "03098021a": {
+    "text": {
+      "ascii": "sa evam uktvA dvipadAM variSThaH; prANAn vazI svAn sahasotsasarja\n",
+      "ud": "स एवमुक्त्वा द्विपदां वरिष्ठः; प्राणान्वशी स्वान्सहसोत्ससर्ज\n",
+      "ur": "sa evam uktvā dvipadāṁ variṣṭhaḥ; prāṇān vaśī svān sahasotsasarja\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 21
+  },
+  "03098021c": {
+    "text": {
+      "ascii": "tataH surAs te jagRhuH parAsor; asthIni tasyAtha yathopadezam\n",
+      "ud": "ततः सुरास्ते जगृहुः परासो;रस्थीनि तस्याथ यथोपदेशम्\n",
+      "ur": "tataḥ surās te jagr̥huḥ parāsor; asthīni tasyātha yathopadeśam\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 21
+  },
+  "03098022a": {
+    "text": {
+      "ascii": "prahRSTarUpAz ca jayAya devAs; tvaSTAram Agamya tam artham UcuH\n",
+      "ud": "प्रहृष्टरूपाश्च जयाय देवा;स्त्वष्टारमागम्य तमर्थमूचुः\n",
+      "ur": "prahr̥ṣṭarūpāś ca jayāya devās; tvaṣṭāram āgamya tam artham ūcuḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 22
+  },
+  "03098022c": {
+    "text": {
+      "ascii": "tvaSTA tu teSAM vacanaM nizamya; prahRSTarUpaH prayataH prayatnAt\n",
+      "ud": "त्वष्टा तु तेषां वचनं निशम्य; प्रहृष्टरूपः प्रयतः प्रयत्नात्\n",
+      "ur": "tvaṣṭā tu teṣāṁ vacanaṁ niśamya; prahr̥ṣṭarūpaḥ prayataḥ prayatnāt\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 22
+  },
+  "03098023a": {
+    "text": {
+      "ascii": "cakAra vajraM bhRzam ugrarUpaM; kRtvA ca zakraM sa uvAca hRSTaH\n",
+      "ud": "चकार वज्रं भृशमुग्ररूपं; कृत्वा च शक्रं स उवाच हृष्टः\n",
+      "ur": "cakāra vajraṁ bhr̥śam ugrarūpaṁ; kr̥tvā ca śakraṁ sa uvāca hr̥ṣṭaḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 23
+  },
+  "03098023c": {
+    "text": {
+      "ascii": "anena vajrapravareNa deva; bhasmIkuruSvAdya surArim ugram\n",
+      "ud": "अनेन वज्रप्रवरेण देव; भस्मीकुरुष्वाद्य सुरारिमुग्रम्\n",
+      "ur": "anena vajrapravareṇa deva; bhasmīkuruṣvādya surārim ugram\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 23
+  },
+  "03098024a": {
+    "text": {
+      "ascii": "tato hatAriH sagaNaH sukhaM vai; prazAdhi kRtsnaM tridivaM diviSThaH\n",
+      "ud": "ततो हतारिः सगणः सुखं वै; प्रशाधि कृत्स्नं त्रिदिवं दिविष्ठः\n",
+      "ur": "tato hatāriḥ sagaṇaḥ sukhaṁ vai; praśādhi kr̥tsnaṁ tridivaṁ diviṣṭhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 24
+  },
+  "03098024c": {
+    "text": {
+      "ascii": "tvaSTrA tathoktaH sa puraMdaras tu; vajraM prahRSTaH prayato 'bhyagRhNAt\n",
+      "ud": "त्वष्ट्रा तथोक्तः स पुरंदरस्तु; वज्रं प्रहृष्टः प्रयतोऽभ्यगृह्णात्\n",
+      "ur": "tvaṣṭrā tathoktaḥ sa puraṁdaras tu; vajraṁ prahr̥ṣṭaḥ prayato ’bhyagr̥hṇāt\n"
+    },
+    "book": 3,
+    "chapter": 98,
+    "verse": 24
+  }
+}

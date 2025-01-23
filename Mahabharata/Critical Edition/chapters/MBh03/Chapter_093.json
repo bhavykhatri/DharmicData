@@ -1,0 +1,552 @@
+{
+  "03093001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 1
+  },
+  "03093001a": {
+    "text": {
+      "ascii": "te tathA sahitA vIrA vasantas tatra tatra ha\n",
+      "ud": "ते तथा सहिता वीरा वसन्तस्तत्र तत्र ह\n",
+      "ur": "te tathā sahitā vīrā vasantas tatra tatra ha\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 1
+  },
+  "03093001c": {
+    "text": {
+      "ascii": "krameNa pRthivIpAla naimiSAraNyam AgatAH\n",
+      "ud": "क्रमेण पृथिवीपाल नैमिषारण्यमागताः\n",
+      "ur": "krameṇa pr̥thivīpāla naimiṣāraṇyam āgatāḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 1
+  },
+  "03093002a": {
+    "text": {
+      "ascii": "tatas tIrtheSu puNyeSu gomatyAH pANDavA nRpa\n",
+      "ud": "ततस्तीर्थेषु पुण्येषु गोमत्याः पाण्डवा नृप\n",
+      "ur": "tatas tīrtheṣu puṇyeṣu gomatyāḥ pāṇḍavā nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 2
+  },
+  "03093002c": {
+    "text": {
+      "ascii": "kRtAbhiSekAH pradadur gAz ca vittaM ca bhArata\n",
+      "ud": "कृताभिषेकाः प्रददुर्गाश्च वित्तं च भारत\n",
+      "ur": "kr̥tābhiṣekāḥ pradadur gāś ca vittaṁ ca bhārata\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 2
+  },
+  "03093003a": {
+    "text": {
+      "ascii": "tatra devAn pitqn viprAMs tarpayitvA punaH punaH\n",
+      "ud": "तत्र देवान्पितॄन्विप्रांस्तर्पयित्वा पुनः पुनः\n",
+      "ur": "tatra devān pitr̥̄n viprāṁs tarpayitvā punaḥ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 3
+  },
+  "03093003c": {
+    "text": {
+      "ascii": "kanyAtIrthe 'zvatIrthe ca gavAM tIrthe ca kauravAH\n",
+      "ud": "कन्यातीर्थेऽश्वतीर्थे च गवां तीर्थे च कौरवाः\n",
+      "ur": "kanyātīrthe ’śvatīrthe ca gavāṁ tīrthe ca kauravāḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 3
+  },
+  "03093004a": {
+    "text": {
+      "ascii": "vAlakoTyAM vRSaprasthe girAv uSya ca pANDavAH\n",
+      "ud": "वालकोट्यां वृषप्रस्थे गिरावुष्य च पाण्डवाः\n",
+      "ur": "vālakoṭyāṁ vr̥ṣaprasthe girāv uṣya ca pāṇḍavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 4
+  },
+  "03093004c": {
+    "text": {
+      "ascii": "bAhudAyAM mahIpAla cakruH sarve 'bhiSecanam\n",
+      "ud": "बाहुदायां महीपाल चक्रुः सर्वेऽभिषेचनम्\n",
+      "ur": "bāhudāyāṁ mahīpāla cakruḥ sarve ’bhiṣecanam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 4
+  },
+  "03093005a": {
+    "text": {
+      "ascii": "prayAge devayajane devAnAM pRthivIpate\n",
+      "ud": "प्रयागे देवयजने देवानां पृथिवीपते\n",
+      "ur": "prayāge devayajane devānāṁ pr̥thivīpate\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 5
+  },
+  "03093005c": {
+    "text": {
+      "ascii": "USur Aplutya gAtrANi tapaz cAtasthur uttamam\n",
+      "ud": "ऊषुराप्लुत्य गात्राणि तपश्चातस्थुरुत्तमम्\n",
+      "ur": "ūṣur āplutya gātrāṇi tapaś cātasthur uttamam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 5
+  },
+  "03093006a": {
+    "text": {
+      "ascii": "gaGgAyamunayoz caiva saMgame satyasaMgarAH\n",
+      "ud": "गङ्गायमुनयोश्चैव संगमे सत्यसंगराः\n",
+      "ur": "gaṅgāyamunayoś caiva saṁgame satyasaṁgarāḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 6
+  },
+  "03093006c": {
+    "text": {
+      "ascii": "vipApmAno mahAtmAno viprebhyaH pradadur vasu\n",
+      "ud": "विपाप्मानो महात्मानो विप्रेभ्यः प्रददुर्वसु\n",
+      "ur": "vipāpmāno mahātmāno viprebhyaḥ pradadur vasu\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 6
+  },
+  "03093007a": {
+    "text": {
+      "ascii": "tapasvijanajuSTAM ca tato vedIM prajApateH\n",
+      "ud": "तपस्विजनजुष्टां च ततो वेदीं प्रजापतेः\n",
+      "ur": "tapasvijanajuṣṭāṁ ca tato vedīṁ prajāpateḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 7
+  },
+  "03093007c": {
+    "text": {
+      "ascii": "jagmuH pANDusutA rAjan brAhmaNaiH saha bhArata\n",
+      "ud": "जग्मुः पाण्डुसुता राजन्ब्राह्मणैः सह भारत\n",
+      "ur": "jagmuḥ pāṇḍusutā rājan brāhmaṇaiḥ saha bhārata\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 7
+  },
+  "03093008a": {
+    "text": {
+      "ascii": "tatra te nyavasan vIrAs tapaz cAtasthur uttamam\n",
+      "ud": "तत्र ते न्यवसन्वीरास्तपश्चातस्थुरुत्तमम्\n",
+      "ur": "tatra te nyavasan vīrās tapaś cātasthur uttamam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 8
+  },
+  "03093008c": {
+    "text": {
+      "ascii": "saMtarpayantaH satataM vanyena haviSA dvijAn\n",
+      "ud": "संतर्पयन्तः सततं वन्येन हविषा द्विजान्\n",
+      "ur": "saṁtarpayantaḥ satataṁ vanyena haviṣā dvijān\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 8
+  },
+  "03093009a": {
+    "text": {
+      "ascii": "tato mahIdharaM jagmur dharmajJenAbhisatkRtam\n",
+      "ud": "ततो महीधरं जग्मुर्धर्मज्ञेनाभिसत्कृतम्\n",
+      "ur": "tato mahīdharaṁ jagmur dharmajñenābhisatkr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 9
+  },
+  "03093009c": {
+    "text": {
+      "ascii": "rAjarSiNA puNyakRtA gayenAnupamadyute\n",
+      "ud": "राजर्षिणा पुण्यकृता गयेनानुपमद्युते\n",
+      "ur": "rājarṣiṇā puṇyakr̥tā gayenānupamadyute\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 9
+  },
+  "03093010a": {
+    "text": {
+      "ascii": "saro gayaziro yatra puNyA caiva mahAnadI\n",
+      "ud": "सरो गयशिरो यत्र पुण्या चैव महानदी\n",
+      "ur": "saro gayaśiro yatra puṇyā caiva mahānadī\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 10
+  },
+  "03093010c": {
+    "text": {
+      "ascii": "RSijuSTaM supuNyaM tat tIrthaM brahmasarottamam\n",
+      "ud": "ऋषिजुष्टं सुपुण्यं तत्तीर्थं ब्रह्मसरोत्तमम्\n",
+      "ur": "r̥ṣijuṣṭaṁ supuṇyaṁ tat tīrthaṁ brahmasarottamam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 10
+  },
+  "03093011a": {
+    "text": {
+      "ascii": "agastyo bhagavAn yatra gato vaivasvataM prati\n",
+      "ud": "अगस्त्यो भगवान्यत्र गतो वैवस्वतं प्रति\n",
+      "ur": "agastyo bhagavān yatra gato vaivasvataṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 11
+  },
+  "03093011c": {
+    "text": {
+      "ascii": "uvAsa ca svayaM yatra dharmo rAjan sanAtanaH\n",
+      "ud": "उवास च स्वयं यत्र धर्मो राजन्सनातनः\n",
+      "ur": "uvāsa ca svayaṁ yatra dharmo rājan sanātanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 11
+  },
+  "03093012a": {
+    "text": {
+      "ascii": "sarvAsAM saritAM caiva samudbhedo vizAM pate\n",
+      "ud": "सर्वासां सरितां चैव समुद्भेदो विशां पते\n",
+      "ur": "sarvāsāṁ saritāṁ caiva samudbhedo viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 12
+  },
+  "03093012c": {
+    "text": {
+      "ascii": "yatra saMnihito nityaM mahAdevaH pinAkadhRk\n",
+      "ud": "यत्र संनिहितो नित्यं महादेवः पिनाकधृक्\n",
+      "ur": "yatra saṁnihito nityaṁ mahādevaḥ pinākadhr̥k\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 12
+  },
+  "03093013a": {
+    "text": {
+      "ascii": "tatra te pANDavA vIrAz cAturmAsyais tadejire\n",
+      "ud": "तत्र ते पाण्डवा वीराश्चातुर्मास्यैस्तदेजिरे\n",
+      "ur": "tatra te pāṇḍavā vīrāś cāturmāsyais tadejire\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 13
+  },
+  "03093013c": {
+    "text": {
+      "ascii": "RSiyajJena mahatA yatrAkSayavaTo mahAn\n",
+      "ud": "ऋषियज्ञेन महता यत्राक्षयवटो महान्\n",
+      "ur": "r̥ṣiyajñena mahatā yatrākṣayavaṭo mahān\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 13
+  },
+  "03093014a": {
+    "text": {
+      "ascii": "brAhmaNAs tatra zatazaH samAjagmus tapodhanAH\n",
+      "ud": "ब्राह्मणास्तत्र शतशः समाजग्मुस्तपोधनाः\n",
+      "ur": "brāhmaṇās tatra śataśaḥ samājagmus tapodhanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 14
+  },
+  "03093014c": {
+    "text": {
+      "ascii": "cAturmAsyenAyajanta ArSeNa vidhinA tadA\n",
+      "ud": "चातुर्मास्येनायजन्त आर्षेण विधिना तदा\n",
+      "ur": "cāturmāsyenāyajanta ārṣeṇa vidhinā tadā\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 14
+  },
+  "03093015a": {
+    "text": {
+      "ascii": "tatra vidyAtaponityA brAhmaNA vedapAragAH\n",
+      "ud": "तत्र विद्यातपोनित्या ब्राह्मणा वेदपारगाः\n",
+      "ur": "tatra vidyātaponityā brāhmaṇā vedapāragāḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 15
+  },
+  "03093015c": {
+    "text": {
+      "ascii": "kathAH pracakrire puNyAH sadasisthA mahAtmanAm\n",
+      "ud": "कथाः प्रचक्रिरे पुण्याः सदसिस्था महात्मनाम्\n",
+      "ur": "kathāḥ pracakrire puṇyāḥ sadasisthā mahātmanām\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 15
+  },
+  "03093016a": {
+    "text": {
+      "ascii": "tatra vidyAvratasnAtaH kaumAraM vratam AsthitaH\n",
+      "ud": "तत्र विद्याव्रतस्नातः कौमारं व्रतमास्थितः\n",
+      "ur": "tatra vidyāvratasnātaḥ kaumāraṁ vratam āsthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 16
+  },
+  "03093016c": {
+    "text": {
+      "ascii": "zamaTho 'kathayad rAjann AmUrtarayasaM gayam\n",
+      "ud": "शमठोऽकथयद्राजन्नामूर्तरयसं गयम्\n",
+      "ur": "śamaṭho ’kathayad rājann āmūrtarayasaṁ gayam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 16
+  },
+  "03093017a": {
+    "text": {
+      "ascii": "amUrtarayasaH putro gayo rAjarSisattamaH\n",
+      "ud": "अमूर्तरयसः पुत्रो गयो राजर्षिसत्तमः\n",
+      "ur": "amūrtarayasaḥ putro gayo rājarṣisattamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 17
+  },
+  "03093017c": {
+    "text": {
+      "ascii": "puNyAni yasya karmANi tAni me zRNu bhArata\n",
+      "ud": "पुण्यानि यस्य कर्माणि तानि मे शृणु भारत\n",
+      "ur": "puṇyāni yasya karmāṇi tāni me śr̥ṇu bhārata\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 17
+  },
+  "03093018a": {
+    "text": {
+      "ascii": "yasya yajJo babhUveha bahvanno bahudakSiNaH\n",
+      "ud": "यस्य यज्ञो बभूवेह बह्वन्नो बहुदक्षिणः\n",
+      "ur": "yasya yajño babhūveha bahvanno bahudakṣiṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 18
+  },
+  "03093018c": {
+    "text": {
+      "ascii": "yatrAnnaparvatA rAjaJ zatazo 'tha sahasrazaH\n",
+      "ud": "यत्रान्नपर्वता राजञ्शतशोऽथ सहस्रशः\n",
+      "ur": "yatrānnaparvatā rājañ śataśo ’tha sahasraśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 18
+  },
+  "03093019a": {
+    "text": {
+      "ascii": "ghRtakulyAz ca dadhnaz ca nadyo bahuzatAs tathA\n",
+      "ud": "घृतकुल्याश्च दध्नश्च नद्यो बहुशतास्तथा\n",
+      "ur": "ghr̥takulyāś ca dadhnaś ca nadyo bahuśatās tathā\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 19
+  },
+  "03093019c": {
+    "text": {
+      "ascii": "vyaJjanAnAM pravAhAz ca mahArhANAM sahasrazaH\n",
+      "ud": "व्यञ्जनानां प्रवाहाश्च महार्हाणां सहस्रशः\n",
+      "ur": "vyañjanānāṁ pravāhāś ca mahārhāṇāṁ sahasraśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 19
+  },
+  "03093020a": {
+    "text": {
+      "ascii": "ahany ahani cApy etad yAcatAM saMpradIyate\n",
+      "ud": "अहन्यहनि चाप्येतद्याचतां संप्रदीयते\n",
+      "ur": "ahany ahani cāpy etad yācatāṁ saṁpradīyate\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 20
+  },
+  "03093020c": {
+    "text": {
+      "ascii": "anyat tu brAhmaNA rAjan bhuJjate 'nnaM susaMskRtam\n",
+      "ud": "अन्यत्तु ब्राह्मणा राजन्भुञ्जतेऽन्नं सुसंस्कृतम्\n",
+      "ur": "anyat tu brāhmaṇā rājan bhuñjate ’nnaṁ susaṁskr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 20
+  },
+  "03093021a": {
+    "text": {
+      "ascii": "tatra vai dakSiNAkAle brahmaghoSo divaM gataH\n",
+      "ud": "तत्र वै दक्षिणाकाले ब्रह्मघोषो दिवं गतः\n",
+      "ur": "tatra vai dakṣiṇākāle brahmaghoṣo divaṁ gataḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 21
+  },
+  "03093021c": {
+    "text": {
+      "ascii": "na sma prajJAyate kiM cid brahmazabdena bhArata\n",
+      "ud": "न स्म प्रज्ञायते किंचिद्ब्रह्मशब्देन भारत\n",
+      "ur": "na sma prajñāyate kiṁ cid brahmaśabdena bhārata\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 21
+  },
+  "03093022a": {
+    "text": {
+      "ascii": "puNyena caratA rAjan bhUr dizaH khaM nabhas tathA\n",
+      "ud": "पुण्येन चरता राजन्भूर्दिशः खं नभस्तथा\n",
+      "ur": "puṇyena caratā rājan bhūr diśaḥ khaṁ nabhas tathā\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 22
+  },
+  "03093022c": {
+    "text": {
+      "ascii": "ApUrNam AsIc chabdena tad apy AsIn mahAdbhutam\n",
+      "ud": "आपूर्णमासीच्छब्देन तदप्यासीन्महाद्भुतम्\n",
+      "ur": "āpūrṇam āsīc chabdena tad apy āsīn mahādbhutam\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 22
+  },
+  "03093023a": {
+    "text": {
+      "ascii": "tatra sma gAthA gAyanti manuSyA bharatarSabha\n",
+      "ud": "तत्र स्म गाथा गायन्ति मनुष्या भरतर्षभ\n",
+      "ur": "tatra sma gāthā gāyanti manuṣyā bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 23
+  },
+  "03093023c": {
+    "text": {
+      "ascii": "annapAnaiH zubhais tRptA deze deze suvarcasaH\n",
+      "ud": "अन्नपानैः शुभैस्तृप्ता देशे देशे सुवर्चसः\n",
+      "ur": "annapānaiḥ śubhais tr̥ptā deśe deśe suvarcasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 23
+  },
+  "03093024a": {
+    "text": {
+      "ascii": "gayasya yajJe ke tv adya prANino bhoktum IpsavaH\n",
+      "ud": "गयस्य यज्ञे के त्वद्य प्राणिनो भोक्तुमीप्सवः\n",
+      "ur": "gayasya yajñe ke tv adya prāṇino bhoktum īpsavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 24
+  },
+  "03093024c": {
+    "text": {
+      "ascii": "yatra bhojanaziSTasya parvatAH paJcaviMzatiH\n",
+      "ud": "यत्र भोजनशिष्टस्य पर्वताः पञ्चविंशतिः\n",
+      "ur": "yatra bhojanaśiṣṭasya parvatāḥ pañcaviṁśatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 24
+  },
+  "03093025a": {
+    "text": {
+      "ascii": "na sma pUrve janAz cakrur na kariSyanti cApare\n",
+      "ud": "न स्म पूर्वे जनाश्चक्रुर्न करिष्यन्ति चापरे\n",
+      "ur": "na sma pūrve janāś cakrur na kariṣyanti cāpare\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 25
+  },
+  "03093025c": {
+    "text": {
+      "ascii": "gayo yad akarod yajJe rAjarSir amitadyutiH\n",
+      "ud": "गयो यदकरोद्यज्ञे राजर्षिरमितद्युतिः\n",
+      "ur": "gayo yad akarod yajñe rājarṣir amitadyutiḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 25
+  },
+  "03093026a": {
+    "text": {
+      "ascii": "kathaM nu devA haviSA gayena paritarpitAH\n",
+      "ud": "कथं नु देवा हविषा गयेन परितर्पिताः\n",
+      "ur": "kathaṁ nu devā haviṣā gayena paritarpitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 26
+  },
+  "03093026c": {
+    "text": {
+      "ascii": "punaH zakSyanty upAdAtum anyair dattAni kAni cit\n",
+      "ud": "पुनः शक्ष्यन्त्युपादातुमन्यैर्दत्तानि कानिचित्\n",
+      "ur": "punaḥ śakṣyanty upādātum anyair dattāni kāni cit\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 26
+  },
+  "03093027a": {
+    "text": {
+      "ascii": "evaMvidhAH subahavas tasya yajJe mahAtmanaH\n",
+      "ud": "एवंविधाः सुबहवस्तस्य यज्ञे महात्मनः\n",
+      "ur": "evaṁvidhāḥ subahavas tasya yajñe mahātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 27
+  },
+  "03093027c": {
+    "text": {
+      "ascii": "babhUvur asya sarasaH samIpe kurunandana\n",
+      "ud": "बभूवुरस्य सरसः समीपे कुरुनन्दन\n",
+      "ur": "babhūvur asya sarasaḥ samīpe kurunandana\n"
+    },
+    "book": 3,
+    "chapter": 93,
+    "verse": 27
+  }
+}

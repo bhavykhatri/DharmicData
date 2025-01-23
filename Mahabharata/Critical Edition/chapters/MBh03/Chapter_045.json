@@ -1,0 +1,772 @@
+{
+  "03045001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 1
+  },
+  "03045001a": {
+    "text": {
+      "ascii": "tato devAH sagandharvAH samAdAyArghyam uttamam\n",
+      "ud": "ततो देवाः सगन्धर्वाः समादायार्घ्यमुत्तमम्\n",
+      "ur": "tato devāḥ sagandharvāḥ samādāyārghyam uttamam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 1
+  },
+  "03045001c": {
+    "text": {
+      "ascii": "zakrasya matam AjJAya pArtham Anarcur aJjasA\n",
+      "ud": "शक्रस्य मतमाज्ञाय पार्थमानर्चुरञ्जसा\n",
+      "ur": "śakrasya matam ājñāya pārtham ānarcur añjasā\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 1
+  },
+  "03045002a": {
+    "text": {
+      "ascii": "pAdyam AcamanIyaM ca pratigrAhya nRpAtmajam\n",
+      "ud": "पाद्यमाचमनीयं च प्रतिग्राह्य नृपात्मजम्\n",
+      "ur": "pādyam ācamanīyaṁ ca pratigrāhya nr̥pātmajam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 2
+  },
+  "03045002c": {
+    "text": {
+      "ascii": "pravezayAm Asur atho puraMdaranivezanam\n",
+      "ud": "प्रवेशयामासुरथो पुरंदरनिवेशनम्\n",
+      "ur": "praveśayām āsur atho puraṁdaraniveśanam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 2
+  },
+  "03045003a": {
+    "text": {
+      "ascii": "evaM saMpUjito jiSNur uvAsa bhavane pituH\n",
+      "ud": "एवं संपूजितो जिष्णुरुवास भवने पितुः\n",
+      "ur": "evaṁ saṁpūjito jiṣṇur uvāsa bhavane pituḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 3
+  },
+  "03045003c": {
+    "text": {
+      "ascii": "upazikSan mahAstrANi sasaMhArANi pANDavaH\n",
+      "ud": "उपशिक्षन्महास्त्राणि ससंहाराणि पाण्डवः\n",
+      "ur": "upaśikṣan mahāstrāṇi sasaṁhārāṇi pāṇḍavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 3
+  },
+  "03045004a": {
+    "text": {
+      "ascii": "zakrasya hastAd dayitaM vajram astraM durutsaham\n",
+      "ud": "शक्रस्य हस्ताद्दयितं वज्रमस्त्रं दुरुत्सहम्\n",
+      "ur": "śakrasya hastād dayitaṁ vajram astraṁ durutsaham\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 4
+  },
+  "03045004c": {
+    "text": {
+      "ascii": "azanIz ca mahAnAdA meghabarhiNalakSaNAH\n",
+      "ud": "अशनीश्च महानादा मेघबर्हिणलक्षणाः\n",
+      "ur": "aśanīś ca mahānādā meghabarhiṇalakṣaṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 4
+  },
+  "03045005a": {
+    "text": {
+      "ascii": "gRhItAstras tu kaunteyo bhrAtqn sasmAra pANDavaH\n",
+      "ud": "गृहीतास्त्रस्तु कौन्तेयो भ्रातॄन्सस्मार पाण्डवः\n",
+      "ur": "gr̥hītāstras tu kaunteyo bhrātr̥̄n sasmāra pāṇḍavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 5
+  },
+  "03045005c": {
+    "text": {
+      "ascii": "puraMdaraniyogAc ca paJcAbdam avasat sukhI\n",
+      "ud": "पुरंदरनियोगाच्च पञ्चाब्दमवसत्सुखी\n",
+      "ur": "puraṁdaraniyogāc ca pañcābdam avasat sukhī\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 5
+  },
+  "03045006a": {
+    "text": {
+      "ascii": "tataH zakro 'bravIt pArthaM kRtAstraM kAla Agate\n",
+      "ud": "ततः शक्रोऽब्रवीत्पार्थं कृतास्त्रं काल आगते\n",
+      "ur": "tataḥ śakro ’bravīt pārthaṁ kr̥tāstraṁ kāla āgate\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 6
+  },
+  "03045006c": {
+    "text": {
+      "ascii": "nRttaM gItaM ca kaunteya citrasenAd avApnuhi\n",
+      "ud": "नृत्तं गीतं च कौन्तेय चित्रसेनादवाप्नुहि\n",
+      "ur": "nr̥ttaṁ gītaṁ ca kaunteya citrasenād avāpnuhi\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 6
+  },
+  "03045007a": {
+    "text": {
+      "ascii": "vAditraM devavihitaM nRloke yan na vidyate\n",
+      "ud": "वादित्रं देवविहितं नृलोके यन्न विद्यते\n",
+      "ur": "vāditraṁ devavihitaṁ nr̥loke yan na vidyate\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 7
+  },
+  "03045007c": {
+    "text": {
+      "ascii": "tad arjayasva kaunteya zreyo vai te bhaviSyati\n",
+      "ud": "तदर्जयस्व कौन्तेय श्रेयो वै ते भविष्यति\n",
+      "ur": "tad arjayasva kaunteya śreyo vai te bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 7
+  },
+  "03045008a": {
+    "text": {
+      "ascii": "sakhAyaM pradadau cAsya citrasenaM puraMdaraH\n",
+      "ud": "सखायं प्रददौ चास्य चित्रसेनं पुरंदरः\n",
+      "ur": "sakhāyaṁ pradadau cāsya citrasenaṁ puraṁdaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 8
+  },
+  "03045008c": {
+    "text": {
+      "ascii": "sa tena saha saMgamya reme pArtho nirAmayaH\n",
+      "ud": "स तेन सह संगम्य रेमे पार्थो निरामयः\n",
+      "ur": "sa tena saha saṁgamya reme pārtho nirāmayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 8
+  },
+  "03045009a": {
+    "text": {
+      "ascii": "kadA cid aTamAnas tu maharSir uta lomazaH\n",
+      "ud": "कदाचिदटमानस्तु महर्षिरुत लोमशः\n",
+      "ur": "kadā cid aṭamānas tu maharṣir uta lomaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 9
+  },
+  "03045009c": {
+    "text": {
+      "ascii": "jagAma zakrabhavanaM puraMdaradidRkSayA\n",
+      "ud": "जगाम शक्रभवनं पुरंदरदिदृक्षया\n",
+      "ur": "jagāma śakrabhavanaṁ puraṁdaradidr̥kṣayā\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 9
+  },
+  "03045010a": {
+    "text": {
+      "ascii": "sa sametya namaskRtya devarAjaM mahAmuniH\n",
+      "ud": "स समेत्य नमस्कृत्य देवराजं महामुनिः\n",
+      "ur": "sa sametya namaskr̥tya devarājaṁ mahāmuniḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 10
+  },
+  "03045010c": {
+    "text": {
+      "ascii": "dadarzArdhAsanagataM pANDavaM vAsavasya ha\n",
+      "ud": "ददर्शार्धासनगतं पाण्डवं वासवस्य ह\n",
+      "ur": "dadarśārdhāsanagataṁ pāṇḍavaṁ vāsavasya ha\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 10
+  },
+  "03045011a": {
+    "text": {
+      "ascii": "tataH zakrAbhyanujJAta Asane viSTarottare\n",
+      "ud": "ततः शक्राभ्यनुज्ञात आसने विष्टरोत्तरे\n",
+      "ur": "tataḥ śakrābhyanujñāta āsane viṣṭarottare\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 11
+  },
+  "03045011c": {
+    "text": {
+      "ascii": "niSasAda dvijazreSThaH pUjyamAno maharSibhiH\n",
+      "ud": "निषसाद द्विजश्रेष्ठः पूज्यमानो महर्षिभिः\n",
+      "ur": "niṣasāda dvijaśreṣṭhaḥ pūjyamāno maharṣibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 11
+  },
+  "03045012a": {
+    "text": {
+      "ascii": "tasya dRSTvAbhavad buddhiH pArtham indrAsane sthitam\n",
+      "ud": "तस्य दृष्ट्वाभवद्बुद्धिः पार्थमिन्द्रासने स्थितम्\n",
+      "ur": "tasya dr̥ṣṭvābhavad buddhiḥ pārtham indrāsane sthitam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 12
+  },
+  "03045012c": {
+    "text": {
+      "ascii": "kathaM nu kSatriyaH pArthaH zakrAsanam avAptavAn\n",
+      "ud": "कथं नु क्षत्रियः पार्थः शक्रासनमवाप्तवान्\n",
+      "ur": "kathaṁ nu kṣatriyaḥ pārthaḥ śakrāsanam avāptavān\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 12
+  },
+  "03045013a": {
+    "text": {
+      "ascii": "kiM tv asya sukRtaM karma lokA vA ke vinirjitAH\n",
+      "ud": "किं त्वस्य सुकृतं कर्म लोका वा के विनिर्जिताः\n",
+      "ur": "kiṁ tv asya sukr̥taṁ karma lokā vā ke vinirjitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 13
+  },
+  "03045013c": {
+    "text": {
+      "ascii": "ya evam upasaMprAptaH sthAnaM devanamaskRtam\n",
+      "ud": "य एवमुपसंप्राप्तः स्थानं देवनमस्कृतम्\n",
+      "ur": "ya evam upasaṁprāptaḥ sthānaṁ devanamaskr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 13
+  },
+  "03045014a": {
+    "text": {
+      "ascii": "tasya vijJAya saMkalpaM zakro vRtraniSUdanaH\n",
+      "ud": "तस्य विज्ञाय संकल्पं शक्रो वृत्रनिषूदनः\n",
+      "ur": "tasya vijñāya saṁkalpaṁ śakro vr̥traniṣūdanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 14
+  },
+  "03045014c": {
+    "text": {
+      "ascii": "lomazaM prahasan vAkyam idam Aha zacIpatiH\n",
+      "ud": "लोमशं प्रहसन्वाक्यमिदमाह शचीपतिः\n",
+      "ur": "lomaśaṁ prahasan vākyam idam āha śacīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 14
+  },
+  "03045015a": {
+    "text": {
+      "ascii": "brahmarSe zrUyatAM yat te manasaitad vivakSitam\n",
+      "ud": "ब्रह्मर्षे श्रूयतां यत्ते मनसैतद्विवक्षितम्\n",
+      "ur": "brahmarṣe śrūyatāṁ yat te manasaitad vivakṣitam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 15
+  },
+  "03045015c": {
+    "text": {
+      "ascii": "nAyaM kevalamartyo vai kSatriyatvam upAgataH\n",
+      "ud": "नायं केवलमर्त्यो वै क्षत्रियत्वमुपागतः\n",
+      "ur": "nāyaṁ kevalamartyo vai kṣatriyatvam upāgataḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 15
+  },
+  "03045016a": {
+    "text": {
+      "ascii": "maharSe mama putro 'yaM kuntyAM jAto mahAbhujaH\n",
+      "ud": "महर्षे मम पुत्रोऽयं कुन्त्यां जातो महाभुजः\n",
+      "ur": "maharṣe mama putro ’yaṁ kuntyāṁ jāto mahābhujaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 16
+  },
+  "03045016c": {
+    "text": {
+      "ascii": "astrahetor iha prAptaH kasmAc cit kAraNAntarAt\n",
+      "ud": "अस्त्रहेतोरिह प्राप्तः कस्माच्चित्कारणान्तरात्\n",
+      "ur": "astrahetor iha prāptaḥ kasmāc cit kāraṇāntarāt\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 16
+  },
+  "03045017a": {
+    "text": {
+      "ascii": "aho nainaM bhavAn vetti purANam RSisattamam\n",
+      "ud": "अहो नैनं भवान्वेत्ति पुराणमृषिसत्तमम्\n",
+      "ur": "aho nainaṁ bhavān vetti purāṇam r̥ṣisattamam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 17
+  },
+  "03045017c": {
+    "text": {
+      "ascii": "zRNu me vadato brahman yo 'yaM yac cAsya kAraNam\n",
+      "ud": "शृणु मे वदतो ब्रह्मन्योऽयं यच्चास्य कारणम्\n",
+      "ur": "śr̥ṇu me vadato brahman yo ’yaṁ yac cāsya kāraṇam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 17
+  },
+  "03045018a": {
+    "text": {
+      "ascii": "naranArAyaNau yau tau purANAv RSisattamau\n",
+      "ud": "नरनारायणौ यौ तौ पुराणावृषिसत्तमौ\n",
+      "ur": "naranārāyaṇau yau tau purāṇāv r̥ṣisattamau\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 18
+  },
+  "03045018c": {
+    "text": {
+      "ascii": "tAv imAv abhijAnIhi hRSIkezadhanaMjayau\n",
+      "ud": "ताविमावभिजानीहि हृषीकेशधनंजयौ\n",
+      "ur": "tāv imāv abhijānīhi hr̥ṣīkeśadhanaṁjayau\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 18
+  },
+  "03045019a": {
+    "text": {
+      "ascii": "yan na zakyaM surair draSTum RSibhir vA mahAtmabhiH\n",
+      "ud": "यन्न शक्यं सुरैर्द्रष्टुमृषिभिर्वा महात्मभिः\n",
+      "ur": "yan na śakyaṁ surair draṣṭum r̥ṣibhir vā mahātmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 19
+  },
+  "03045019c": {
+    "text": {
+      "ascii": "tad AzramapadaM puNyaM badarI nAma vizrutam\n",
+      "ud": "तदाश्रमपदं पुण्यं बदरी नाम विश्रुतम्\n",
+      "ur": "tad āśramapadaṁ puṇyaṁ badarī nāma viśrutam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 19
+  },
+  "03045020a": {
+    "text": {
+      "ascii": "sa nivAso 'bhavad vipra viSNor jiSNos tathaiva ca\n",
+      "ud": "स निवासोऽभवद्विप्र विष्णोर्जिष्णोस्तथैव च\n",
+      "ur": "sa nivāso ’bhavad vipra viṣṇor jiṣṇos tathaiva ca\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 20
+  },
+  "03045020c": {
+    "text": {
+      "ascii": "yataH pravavRte gaGgA siddhacAraNasevitA\n",
+      "ud": "यतः प्रववृते गङ्गा सिद्धचारणसेविता\n",
+      "ur": "yataḥ pravavr̥te gaṅgā siddhacāraṇasevitā\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 20
+  },
+  "03045021a": {
+    "text": {
+      "ascii": "tau manniyogAd brahmarSe kSitau jAtau mahAdyutI\n",
+      "ud": "तौ मन्नियोगाद्ब्रह्मर्षे क्षितौ जातौ महाद्युती\n",
+      "ur": "tau manniyogād brahmarṣe kṣitau jātau mahādyutī\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 21
+  },
+  "03045021c": {
+    "text": {
+      "ascii": "bhUmer bhArAvataraNaM mahAvIryau kariSyataH\n",
+      "ud": "भूमेर्भारावतरणं महावीर्यौ करिष्यतः\n",
+      "ur": "bhūmer bhārāvataraṇaṁ mahāvīryau kariṣyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 21
+  },
+  "03045022a": {
+    "text": {
+      "ascii": "udvRttA hy asurAH ke cin nivAtakavacA iti\n",
+      "ud": "उद्वृत्ता ह्यसुराः केचिन्निवातकवचा इति\n",
+      "ur": "udvr̥ttā hy asurāḥ ke cin nivātakavacā iti\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 22
+  },
+  "03045022c": {
+    "text": {
+      "ascii": "vipriyeSu sthitAsmAkaM varadAnena mohitAH\n",
+      "ud": "विप्रियेषु स्थितास्माकं वरदानेन मोहिताः\n",
+      "ur": "vipriyeṣu sthitāsmākaṁ varadānena mohitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 22
+  },
+  "03045023a": {
+    "text": {
+      "ascii": "tarkayante surAn hantuM baladarpasamanvitAH\n",
+      "ud": "तर्कयन्ते सुरान्हन्तुं बलदर्पसमन्विताः\n",
+      "ur": "tarkayante surān hantuṁ baladarpasamanvitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 23
+  },
+  "03045023c": {
+    "text": {
+      "ascii": "devAn na gaNayante ca tathA dattavarA hi te\n",
+      "ud": "देवान्न गणयन्ते च तथा दत्तवरा हि ते\n",
+      "ur": "devān na gaṇayante ca tathā dattavarā hi te\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 23
+  },
+  "03045024a": {
+    "text": {
+      "ascii": "pAtAlavAsino raudrA danoH putrA mahAbalAH\n",
+      "ud": "पातालवासिनो रौद्रा दनोः पुत्रा महाबलाः\n",
+      "ur": "pātālavāsino raudrā danoḥ putrā mahābalāḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 24
+  },
+  "03045024c": {
+    "text": {
+      "ascii": "sarve devanikAyA hi nAlaM yodhayituM sma tAn\n",
+      "ud": "सर्वे देवनिकाया हि नालं योधयितुं स्म तान्\n",
+      "ur": "sarve devanikāyā hi nālaṁ yodhayituṁ sma tān\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 24
+  },
+  "03045025a": {
+    "text": {
+      "ascii": "yo 'sau bhUmigataH zrImAn viSNur madhuniSUdanaH\n",
+      "ud": "योऽसौ भूमिगतः श्रीमान्विष्णुर्मधुनिषूदनः\n",
+      "ur": "yo ’sau bhūmigataḥ śrīmān viṣṇur madhuniṣūdanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 25
+  },
+  "03045025c": {
+    "text": {
+      "ascii": "kapilo nAma devo 'sau bhagavAn ajito hariH\n",
+      "ud": "कपिलो नाम देवोऽसौ भगवानजितो हरिः\n",
+      "ur": "kapilo nāma devo ’sau bhagavān ajito hariḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 25
+  },
+  "03045026a": {
+    "text": {
+      "ascii": "yena pUrvaM mahAtmAnaH khanamAnA rasAtalam\n",
+      "ud": "येन पूर्वं महात्मानः खनमाना रसातलम्\n",
+      "ur": "yena pūrvaṁ mahātmānaḥ khanamānā rasātalam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 26
+  },
+  "03045026c": {
+    "text": {
+      "ascii": "darzanAd eva nihatAH sagarasyAtmajA vibho\n",
+      "ud": "दर्शनादेव निहताः सगरस्यात्मजा विभो\n",
+      "ur": "darśanād eva nihatāḥ sagarasyātmajā vibho\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 26
+  },
+  "03045027a": {
+    "text": {
+      "ascii": "tena kAryaM mahat kAryam asmAkaM dvijasattama\n",
+      "ud": "तेन कार्यं महत्कार्यमस्माकं द्विजसत्तम\n",
+      "ur": "tena kāryaṁ mahat kāryam asmākaṁ dvijasattama\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 27
+  },
+  "03045027c": {
+    "text": {
+      "ascii": "pArthena ca mahAyuddhe sametAbhyAm asaMzayam\n",
+      "ud": "पार्थेन च महायुद्धे समेताभ्यामसंशयम्\n",
+      "ur": "pārthena ca mahāyuddhe sametābhyām asaṁśayam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 27
+  },
+  "03045028a": {
+    "text": {
+      "ascii": "ayaM teSAM samastAnAM zaktaH pratisamAsane\n",
+      "ud": "अयं तेषां समस्तानां शक्तः प्रतिसमासने\n",
+      "ur": "ayaṁ teṣāṁ samastānāṁ śaktaḥ pratisamāsane\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 28
+  },
+  "03045028c": {
+    "text": {
+      "ascii": "tAn nihatya raNe zUraH punar yAsyati mAnuSAn\n",
+      "ud": "तान्निहत्य रणे शूरः पुनर्यास्यति मानुषान्\n",
+      "ur": "tān nihatya raṇe śūraḥ punar yāsyati mānuṣān\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 28
+  },
+  "03045029a": {
+    "text": {
+      "ascii": "bhavAMz cAsmanniyogena yAtu tAvan mahItalam\n",
+      "ud": "भवांश्चास्मन्नियोगेन यातु तावन्महीतलम्\n",
+      "ur": "bhavāṁś cāsmanniyogena yātu tāvan mahītalam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 29
+  },
+  "03045029c": {
+    "text": {
+      "ascii": "kAmyake drakSyase vIraM nivasantaM yudhiSThiram\n",
+      "ud": "काम्यके द्रक्ष्यसे वीरं निवसन्तं युधिष्ठिरम्\n",
+      "ur": "kāmyake drakṣyase vīraṁ nivasantaṁ yudhiṣṭhiram\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 29
+  },
+  "03045030a": {
+    "text": {
+      "ascii": "sa vAcyo mama saMdezAd dharmAtmA satyasaMgaraH\n",
+      "ud": "स वाच्यो मम संदेशाद्धर्मात्मा सत्यसंगरः\n",
+      "ur": "sa vācyo mama saṁdeśād dharmātmā satyasaṁgaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 30
+  },
+  "03045030c": {
+    "text": {
+      "ascii": "notkaNThA phalgune kAryA kRtAstraH zIghram eSyati\n",
+      "ud": "नोत्कण्ठा फल्गुने कार्या कृतास्त्रः शीघ्रमेष्यति\n",
+      "ur": "notkaṇṭhā phalgune kāryā kr̥tāstraḥ śīghram eṣyati\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 30
+  },
+  "03045031a": {
+    "text": {
+      "ascii": "nAzuddhabAhuvIryeNa nAkRtAstreNa vA raNe\n",
+      "ud": "नाशुद्धबाहुवीर्येण नाकृतास्त्रेण वा रणे\n",
+      "ur": "nāśuddhabāhuvīryeṇa nākr̥tāstreṇa vā raṇe\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 31
+  },
+  "03045031c": {
+    "text": {
+      "ascii": "bhISmadroNAdayo yuddhe zakyAH pratisamAsitum\n",
+      "ud": "भीष्मद्रोणादयो युद्धे शक्याः प्रतिसमासितुम्\n",
+      "ur": "bhīṣmadroṇādayo yuddhe śakyāḥ pratisamāsitum\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 31
+  },
+  "03045032a": {
+    "text": {
+      "ascii": "gRhItAstro guDAkezo mahAbAhur mahAmanAH\n",
+      "ud": "गृहीतास्त्रो गुडाकेशो महाबाहुर्महामनाः\n",
+      "ur": "gr̥hītāstro guḍākeśo mahābāhur mahāmanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 32
+  },
+  "03045032c": {
+    "text": {
+      "ascii": "nRttavAditragItAnAM divyAnAM pAram eyivAn\n",
+      "ud": "नृत्तवादित्रगीतानां दिव्यानां पारमेयिवान्\n",
+      "ur": "nr̥ttavāditragītānāṁ divyānāṁ pāram eyivān\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 32
+  },
+  "03045033a": {
+    "text": {
+      "ascii": "bhavAn api viviktAni tIrthAni manujezvara\n",
+      "ud": "भवानपि विविक्तानि तीर्थानि मनुजेश्वर\n",
+      "ur": "bhavān api viviktāni tīrthāni manujeśvara\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 33
+  },
+  "03045033c": {
+    "text": {
+      "ascii": "bhrAtRbhiH sahitaH sarvair draSTum arhaty ariMdama\n",
+      "ud": "भ्रातृभिः सहितः सर्वैर्द्रष्टुमर्हत्यरिंदम\n",
+      "ur": "bhrātr̥bhiḥ sahitaḥ sarvair draṣṭum arhaty ariṁdama\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 33
+  },
+  "03045034a": {
+    "text": {
+      "ascii": "tIrtheSv Aplutya puNyeSu vipApmA vigatajvaraH\n",
+      "ud": "तीर्थेष्वाप्लुत्य पुण्येषु विपाप्मा विगतज्वरः\n",
+      "ur": "tīrtheṣv āplutya puṇyeṣu vipāpmā vigatajvaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 34
+  },
+  "03045034c": {
+    "text": {
+      "ascii": "rAjyaM bhokSyasi rAjendra sukhI vigatakalmaSaH\n",
+      "ud": "राज्यं भोक्ष्यसि राजेन्द्र सुखी विगतकल्मषः\n",
+      "ur": "rājyaṁ bhokṣyasi rājendra sukhī vigatakalmaṣaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 34
+  },
+  "03045035a": {
+    "text": {
+      "ascii": "bhavAMz cainaM dvijazreSTha paryaTantaM mahItale\n",
+      "ud": "भवांश्चैनं द्विजश्रेष्ठ पर्यटन्तं महीतले\n",
+      "ur": "bhavāṁś cainaṁ dvijaśreṣṭha paryaṭantaṁ mahītale\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 35
+  },
+  "03045035c": {
+    "text": {
+      "ascii": "trAtum arhati viprAgrya tapobalasamanvitaH\n",
+      "ud": "त्रातुमर्हति विप्राग्र्य तपोबलसमन्वितः\n",
+      "ur": "trātum arhati viprāgrya tapobalasamanvitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 35
+  },
+  "03045036a": {
+    "text": {
+      "ascii": "giridurgeSu hi sadA dezeSu viSameSu ca\n",
+      "ud": "गिरिदुर्गेषु हि सदा देशेषु विषमेषु च\n",
+      "ur": "giridurgeṣu hi sadā deśeṣu viṣameṣu ca\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 36
+  },
+  "03045036c": {
+    "text": {
+      "ascii": "vasanti rAkSasA raudrAs tebhyo rakSet sadA bhavAn\n",
+      "ud": "वसन्ति राक्षसा रौद्रास्तेभ्यो रक्षेत्सदा भवान्\n",
+      "ur": "vasanti rākṣasā raudrās tebhyo rakṣet sadā bhavān\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 36
+  },
+  "03045037a": {
+    "text": {
+      "ascii": "sa tatheti pratijJAya lomazaH sumahAtapAH\n",
+      "ud": "स तथेति प्रतिज्ञाय लोमशः सुमहातपाः\n",
+      "ur": "sa tatheti pratijñāya lomaśaḥ sumahātapāḥ\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 37
+  },
+  "03045037c": {
+    "text": {
+      "ascii": "kAmyakaM vanam uddizya samupAyAn mahItalam\n",
+      "ud": "काम्यकं वनमुद्दिश्य समुपायान्महीतलम्\n",
+      "ur": "kāmyakaṁ vanam uddiśya samupāyān mahītalam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 37
+  },
+  "03045038a": {
+    "text": {
+      "ascii": "dadarza tatra kaunteyaM dharmarAjam ariMdamam\n",
+      "ud": "ददर्श तत्र कौन्तेयं धर्मराजमरिंदमम्\n",
+      "ur": "dadarśa tatra kaunteyaṁ dharmarājam ariṁdamam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 38
+  },
+  "03045038c": {
+    "text": {
+      "ascii": "tApasair bhrAtRbhiz caiva sarvataH parivAritam\n",
+      "ud": "तापसैर्भ्रातृभिश्चैव सर्वतः परिवारितम्\n",
+      "ur": "tāpasair bhrātr̥bhiś caiva sarvataḥ parivāritam\n"
+    },
+    "book": 3,
+    "chapter": 45,
+    "verse": 38
+  }
+}

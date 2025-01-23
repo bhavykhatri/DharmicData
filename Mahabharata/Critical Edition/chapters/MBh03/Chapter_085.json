@@ -1,0 +1,512 @@
+{
+  "03085001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 1
+  },
+  "03085001a": {
+    "text": {
+      "ascii": "tAn sarvAn utsukAn dRSTvA pANDavAn dInacetasaH\n",
+      "ud": "तान्सर्वानुत्सुकान्दृष्ट्वा पाण्डवान्दीनचेतसः\n",
+      "ur": "tān sarvān utsukān dr̥ṣṭvā pāṇḍavān dīnacetasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 1
+  },
+  "03085001c": {
+    "text": {
+      "ascii": "AzvAsayaMs tadA dhaumyo bRhaspatisamo 'bravIt\n",
+      "ud": "आश्वासयंस्तदा धौम्यो बृहस्पतिसमोऽब्रवीत्\n",
+      "ur": "āśvāsayaṁs tadā dhaumyo br̥haspatisamo ’bravīt\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 1
+  },
+  "03085002a": {
+    "text": {
+      "ascii": "brAhmaNAnumatAn puNyAn AzramAn bharatarSabha\n",
+      "ud": "ब्राह्मणानुमतान्पुण्यानाश्रमान्भरतर्षभ\n",
+      "ur": "brāhmaṇānumatān puṇyān āśramān bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 2
+  },
+  "03085002c": {
+    "text": {
+      "ascii": "dizas tIrthAni zailAMz ca zRNu me gadato nRpa\n",
+      "ud": "दिशस्तीर्थानि शैलांश्च शृणु मे गदतो नृप\n",
+      "ur": "diśas tīrthāni śailāṁś ca śr̥ṇu me gadato nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 2
+  },
+  "03085003a": {
+    "text": {
+      "ascii": "pUrvaM prAcIM dizaM rAjan rAjarSigaNasevitAm\n",
+      "ud": "पूर्वं प्राचीं दिशं राजन्राजर्षिगणसेविताम्\n",
+      "ur": "pūrvaṁ prācīṁ diśaṁ rājan rājarṣigaṇasevitām\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 3
+  },
+  "03085003c": {
+    "text": {
+      "ascii": "ramyAM te kIrtayiSyAmi yudhiSThira yathAsmRti\n",
+      "ud": "रम्यां ते कीर्तयिष्यामि युधिष्ठिर यथास्मृति\n",
+      "ur": "ramyāṁ te kīrtayiṣyāmi yudhiṣṭhira yathāsmr̥ti\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 3
+  },
+  "03085004a": {
+    "text": {
+      "ascii": "tasyAM devarSijuSTAyAM naimiSaM nAma bhArata\n",
+      "ud": "तस्यां देवर्षिजुष्टायां नैमिषं नाम भारत\n",
+      "ur": "tasyāṁ devarṣijuṣṭāyāṁ naimiṣaṁ nāma bhārata\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 4
+  },
+  "03085004c": {
+    "text": {
+      "ascii": "yatra tIrthAni devAnAM supuNyAni pRthak pRthak\n",
+      "ud": "यत्र तीर्थानि देवानां सुपुण्यानि पृथक्पृथक्\n",
+      "ur": "yatra tīrthāni devānāṁ supuṇyāni pr̥thak pr̥thak\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 4
+  },
+  "03085005a": {
+    "text": {
+      "ascii": "yatra sA gomatI puNyA ramyA devarSisevitA\n",
+      "ud": "यत्र सा गोमती पुण्या रम्या देवर्षिसेविता\n",
+      "ur": "yatra sā gomatī puṇyā ramyā devarṣisevitā\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 5
+  },
+  "03085005c": {
+    "text": {
+      "ascii": "yajJabhUmiz ca devAnAM zAmitraM ca vivasvataH\n",
+      "ud": "यज्ञभूमिश्च देवानां शामित्रं च विवस्वतः\n",
+      "ur": "yajñabhūmiś ca devānāṁ śāmitraṁ ca vivasvataḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 5
+  },
+  "03085006a": {
+    "text": {
+      "ascii": "tasyAM girivaraH puNyo gayo rAjarSisatkRtaH\n",
+      "ud": "तस्यां गिरिवरः पुण्यो गयो राजर्षिसत्कृतः\n",
+      "ur": "tasyāṁ girivaraḥ puṇyo gayo rājarṣisatkr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 6
+  },
+  "03085006c": {
+    "text": {
+      "ascii": "zivaM brahmasaro yatra sevitaM tridazarSibhiH\n",
+      "ud": "शिवं ब्रह्मसरो यत्र सेवितं त्रिदशर्षिभिः\n",
+      "ur": "śivaṁ brahmasaro yatra sevitaṁ tridaśarṣibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 6
+  },
+  "03085007a": {
+    "text": {
+      "ascii": "yadarthaM puruSavyAghra kIrtayanti purAtanAH\n",
+      "ud": "यदर्थं पुरुषव्याघ्र कीर्तयन्ति पुरातनाः\n",
+      "ur": "yadarthaṁ puruṣavyāghra kīrtayanti purātanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 7
+  },
+  "03085007c": {
+    "text": {
+      "ascii": "eSTavyA bahavaH putrA yady eko 'pi gayAM vrajet\n",
+      "ud": "एष्टव्या बहवः पुत्रा यद्येकोऽपि गयां व्रजेत्\n",
+      "ur": "eṣṭavyā bahavaḥ putrā yady eko ’pi gayāṁ vrajet\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 7
+  },
+  "03085008a": {
+    "text": {
+      "ascii": "mahAnadI ca tatraiva tathA gayaziro 'nagha\n",
+      "ud": "महानदी च तत्रैव तथा गयशिरोऽनघ\n",
+      "ur": "mahānadī ca tatraiva tathā gayaśiro ’nagha\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 8
+  },
+  "03085008c": {
+    "text": {
+      "ascii": "yatrAsau kIrtyate viprair akSayyakaraNo vaTaH\n",
+      "ud": "यत्रासौ कीर्त्यते विप्रैरक्षय्यकरणो वटः\n",
+      "ur": "yatrāsau kīrtyate viprair akṣayyakaraṇo vaṭaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 8
+  },
+  "03085008e": {
+    "text": {
+      "ascii": "yatra dattaM pitRbhyo 'nnam akSayyaM bhavati prabho\n",
+      "ud": "यत्र दत्तं पितृभ्योऽन्नमक्षय्यं भवति प्रभो\n",
+      "ur": "yatra dattaṁ pitr̥bhyo ’nnam akṣayyaṁ bhavati prabho\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 8
+  },
+  "03085009a": {
+    "text": {
+      "ascii": "sA ca puNyajalA yatra phalgunAmA mahAnadI\n",
+      "ud": "सा च पुण्यजला यत्र फल्गुनामा महानदी\n",
+      "ur": "sā ca puṇyajalā yatra phalgunāmā mahānadī\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 9
+  },
+  "03085009c": {
+    "text": {
+      "ascii": "bahumUlaphalA cApi kauzikI bharatarSabha\n",
+      "ud": "बहुमूलफला चापि कौशिकी भरतर्षभ\n",
+      "ur": "bahumūlaphalā cāpi kauśikī bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 9
+  },
+  "03085009e": {
+    "text": {
+      "ascii": "vizvAmitro 'bhyagAd yatra brAhmaNatvaM tapodhanaH\n",
+      "ud": "विश्वामित्रोऽभ्यगाद्यत्र ब्राह्मणत्वं तपोधनः\n",
+      "ur": "viśvāmitro ’bhyagād yatra brāhmaṇatvaṁ tapodhanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 9
+  },
+  "03085010a": {
+    "text": {
+      "ascii": "gaGgA yatra nadI puNyA yasyAs tIre bhagIrathaH\n",
+      "ud": "गङ्गा यत्र नदी पुण्या यस्यास्तीरे भगीरथः\n",
+      "ur": "gaṅgā yatra nadī puṇyā yasyās tīre bhagīrathaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 10
+  },
+  "03085010c": {
+    "text": {
+      "ascii": "ayajat tAta bahubhiH kratubhir bhUridakSiNaiH\n",
+      "ud": "अयजत्तात बहुभिः क्रतुभिर्भूरिदक्षिणैः\n",
+      "ur": "ayajat tāta bahubhiḥ kratubhir bhūridakṣiṇaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 10
+  },
+  "03085011a": {
+    "text": {
+      "ascii": "pAJcAleSu ca kauravya kathayanty utpalAvatam\n",
+      "ud": "पाञ्चालेषु च कौरव्य कथयन्त्युत्पलावतम्\n",
+      "ur": "pāñcāleṣu ca kauravya kathayanty utpalāvatam\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 11
+  },
+  "03085011c": {
+    "text": {
+      "ascii": "vizvAmitro 'yajad yatra zakreNa saha kauzikaH\n",
+      "ud": "विश्वामित्रोऽयजद्यत्र शक्रेण सह कौशिकः\n",
+      "ur": "viśvāmitro ’yajad yatra śakreṇa saha kauśikaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 11
+  },
+  "03085011e": {
+    "text": {
+      "ascii": "yatrAnuvaMzaM bhagavAJ jAmadagnyas tathA jagau\n",
+      "ud": "यत्रानुवंशं भगवाञ्जामदग्न्यस्तथा जगौ\n",
+      "ur": "yatrānuvaṁśaṁ bhagavāñ jāmadagnyas tathā jagau\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 11
+  },
+  "03085012a": {
+    "text": {
+      "ascii": "vizvAmitrasya tAM dRSTvA vibhUtim atimAnuSIm\n",
+      "ud": "विश्वामित्रस्य तां दृष्ट्वा विभूतिमतिमानुषीम्\n",
+      "ur": "viśvāmitrasya tāṁ dr̥ṣṭvā vibhūtim atimānuṣīm\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 12
+  },
+  "03085012c": {
+    "text": {
+      "ascii": "kanyakubje 'pibat somam indreNa saha kauzikaH\n",
+      "ud": "कन्यकुब्जेऽपिबत्सोममिन्द्रेण सह कौशिकः\n",
+      "ur": "kanyakubje ’pibat somam indreṇa saha kauśikaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 12
+  },
+  "03085012e": {
+    "text": {
+      "ascii": "tataH kSatrAd apAkrAmad brAhmaNo 'smIti cAbravIt\n",
+      "ud": "ततः क्षत्रादपाक्रामद्ब्राह्मणोऽस्मीति चाब्रवीत्\n",
+      "ur": "tataḥ kṣatrād apākrāmad brāhmaṇo ’smīti cābravīt\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 12
+  },
+  "03085013a": {
+    "text": {
+      "ascii": "pavitram RSibhir juSTaM puNyaM pAvanam uttamam\n",
+      "ud": "पवित्रमृषिभिर्जुष्टं पुण्यं पावनमुत्तमम्\n",
+      "ur": "pavitram r̥ṣibhir juṣṭaṁ puṇyaṁ pāvanam uttamam\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 13
+  },
+  "03085013c": {
+    "text": {
+      "ascii": "gaGgAyamunayor vIra saMgamaM lokavizrutam\n",
+      "ud": "गङ्गायमुनयोर्वीर संगमं लोकविश्रुतम्\n",
+      "ur": "gaṅgāyamunayor vīra saṁgamaṁ lokaviśrutam\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 13
+  },
+  "03085014a": {
+    "text": {
+      "ascii": "yatrAyajata bhUtAtmA pUrvam eva pitAmahaH\n",
+      "ud": "यत्रायजत भूतात्मा पूर्वमेव पितामहः\n",
+      "ur": "yatrāyajata bhūtātmā pūrvam eva pitāmahaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 14
+  },
+  "03085014c": {
+    "text": {
+      "ascii": "prayAgam iti vikhyAtaM tasmAd bharatasattama\n",
+      "ud": "प्रयागमिति विख्यातं तस्माद्भरतसत्तम\n",
+      "ur": "prayāgam iti vikhyātaṁ tasmād bharatasattama\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 14
+  },
+  "03085015a": {
+    "text": {
+      "ascii": "agastyasya ca rAjendra tatrAzramavaro mahAn\n",
+      "ud": "अगस्त्यस्य च राजेन्द्र तत्राश्रमवरो महान्\n",
+      "ur": "agastyasya ca rājendra tatrāśramavaro mahān\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 15
+  },
+  "03085015c": {
+    "text": {
+      "ascii": "hiraNyabinduH kathito girau kAlaMjare nRpa\n",
+      "ud": "हिरण्यबिन्दुः कथितो गिरौ कालंजरे नृप\n",
+      "ur": "hiraṇyabinduḥ kathito girau kālaṁjare nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 15
+  },
+  "03085016a": {
+    "text": {
+      "ascii": "atyanyAn parvatAn rAjan puNyo girivaraH zivaH\n",
+      "ud": "अत्यन्यान्पर्वतान्राजन्पुण्यो गिरिवरः शिवः\n",
+      "ur": "atyanyān parvatān rājan puṇyo girivaraḥ śivaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 16
+  },
+  "03085016c": {
+    "text": {
+      "ascii": "mahendro nAma kauravya bhArgavasya mahAtmanaH\n",
+      "ud": "महेन्द्रो नाम कौरव्य भार्गवस्य महात्मनः\n",
+      "ur": "mahendro nāma kauravya bhārgavasya mahātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 16
+  },
+  "03085017a": {
+    "text": {
+      "ascii": "ayajad yatra kaunteya pUrvam eva pitAmahaH\n",
+      "ud": "अयजद्यत्र कौन्तेय पूर्वमेव पितामहः\n",
+      "ur": "ayajad yatra kaunteya pūrvam eva pitāmahaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 17
+  },
+  "03085017c": {
+    "text": {
+      "ascii": "yatra bhAgIrathI puNyA sadasyAsId yudhiSThira\n",
+      "ud": "यत्र भागीरथी पुण्या सदस्यासीद्युधिष्ठिर\n",
+      "ur": "yatra bhāgīrathī puṇyā sadasyāsīd yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 17
+  },
+  "03085018a": {
+    "text": {
+      "ascii": "yatrAsau brahmazAleti puNyA khyAtA vizAM pate\n",
+      "ud": "यत्रासौ ब्रह्मशालेति पुण्या ख्याता विशां पते\n",
+      "ur": "yatrāsau brahmaśāleti puṇyā khyātā viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 18
+  },
+  "03085018c": {
+    "text": {
+      "ascii": "dhUtapApmabhir AkIrNA puNyaM tasyAz ca darzanam\n",
+      "ud": "धूतपाप्मभिराकीर्णा पुण्यं तस्याश्च दर्शनम्\n",
+      "ur": "dhūtapāpmabhir ākīrṇā puṇyaṁ tasyāś ca darśanam\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 18
+  },
+  "03085019a": {
+    "text": {
+      "ascii": "pavitro maGgalIyaz ca khyAto loke sanAtanaH\n",
+      "ud": "पवित्रो मङ्गलीयश्च ख्यातो लोके सनातनः\n",
+      "ur": "pavitro maṅgalīyaś ca khyāto loke sanātanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 19
+  },
+  "03085019c": {
+    "text": {
+      "ascii": "kedAraz ca mataGgasya mahAn Azrama uttamaH\n",
+      "ud": "केदारश्च मतङ्गस्य महानाश्रम उत्तमः\n",
+      "ur": "kedāraś ca mataṅgasya mahān āśrama uttamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 19
+  },
+  "03085020a": {
+    "text": {
+      "ascii": "kuNDodaH parvato ramyo bahumUlaphalodakaH\n",
+      "ud": "कुण्डोदः पर्वतो रम्यो बहुमूलफलोदकः\n",
+      "ur": "kuṇḍodaḥ parvato ramyo bahumūlaphalodakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 20
+  },
+  "03085020c": {
+    "text": {
+      "ascii": "naiSadhas tRSito yatra jalaM zarma ca labdhavAn\n",
+      "ud": "नैषधस्तृषितो यत्र जलं शर्म च लब्धवान्\n",
+      "ur": "naiṣadhas tr̥ṣito yatra jalaṁ śarma ca labdhavān\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 20
+  },
+  "03085021a": {
+    "text": {
+      "ascii": "yatra devavanaM ramyaM tApasair upazobhitam\n",
+      "ud": "यत्र देववनं रम्यं तापसैरुपशोभितम्\n",
+      "ur": "yatra devavanaṁ ramyaṁ tāpasair upaśobhitam\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 21
+  },
+  "03085021c": {
+    "text": {
+      "ascii": "bAhudA ca nadI yatra nandA ca girimUrdhani\n",
+      "ud": "बाहुदा च नदी यत्र नन्दा च गिरिमूर्धनि\n",
+      "ur": "bāhudā ca nadī yatra nandā ca girimūrdhani\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 21
+  },
+  "03085022a": {
+    "text": {
+      "ascii": "tIrthAni saritaH zailAH puNyAny AyatanAni ca\n",
+      "ud": "तीर्थानि सरितः शैलाः पुण्यान्यायतनानि च\n",
+      "ur": "tīrthāni saritaḥ śailāḥ puṇyāny āyatanāni ca\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 22
+  },
+  "03085022c": {
+    "text": {
+      "ascii": "prAcyAM dizi mahArAja kIrtitAni mayA tava\n",
+      "ud": "प्राच्यां दिशि महाराज कीर्तितानि मया तव\n",
+      "ur": "prācyāṁ diśi mahārāja kīrtitāni mayā tava\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 22
+  },
+  "03085023a": {
+    "text": {
+      "ascii": "tisRSv anyAsu puNyAni dikSu tIrthAni me zRNu\n",
+      "ud": "तिसृष्वन्यासु पुण्यानि दिक्षु तीर्थानि मे शृणु\n",
+      "ur": "tisr̥ṣv anyāsu puṇyāni dikṣu tīrthāni me śr̥ṇu\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 23
+  },
+  "03085023c": {
+    "text": {
+      "ascii": "saritaH parvatAMz caiva puNyAny AyatanAni ca\n",
+      "ud": "सरितः पर्वतांश्चैव पुण्यान्यायतनानि च\n",
+      "ur": "saritaḥ parvatāṁś caiva puṇyāny āyatanāni ca\n"
+    },
+    "book": 3,
+    "chapter": 85,
+    "verse": 23
+  }
+}

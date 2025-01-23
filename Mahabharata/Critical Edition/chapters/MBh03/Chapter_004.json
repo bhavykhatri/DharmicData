@@ -1,0 +1,232 @@
+{
+  "03004001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 1
+  },
+  "03004001a": {
+    "text": {
+      "ascii": "tato divAkaraH prIto darzayAm Asa pANDavam\n",
+      "ud": "ततो दिवाकरः प्रीतो दर्शयामास पाण्डवम्\n",
+      "ur": "tato divākaraḥ prīto darśayām āsa pāṇḍavam\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 1
+  },
+  "03004001c": {
+    "text": {
+      "ascii": "dIpyamAnaH svavapuSA jvalann iva hutAzanaH\n",
+      "ud": "दीप्यमानः स्ववपुषा ज्वलन्निव हुताशनः\n",
+      "ur": "dīpyamānaḥ svavapuṣā jvalann iva hutāśanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 1
+  },
+  "03004002a": {
+    "text": {
+      "ascii": "yat te 'bhilaSitaM rAjan sarvam etad avApsyasi\n",
+      "ud": "यत्तेऽभिलषितं राजन्सर्वमेतदवाप्स्यसि\n",
+      "ur": "yat te ’bhilaṣitaṁ rājan sarvam etad avāpsyasi\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 2
+  },
+  "03004002c": {
+    "text": {
+      "ascii": "aham annaM pradAsyAmi sapta paJca ca te samAH\n",
+      "ud": "अहमन्नं प्रदास्यामि सप्त पञ्च च ते समाः\n",
+      "ur": "aham annaṁ pradāsyāmi sapta pañca ca te samāḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 2
+  },
+  "03004003a": {
+    "text": {
+      "ascii": "phalamUlAmiSaM zAkaM saMskRtaM yan mahAnase\n",
+      "ud": "फलमूलामिषं शाकं संस्कृतं यन्महानसे\n",
+      "ur": "phalamūlāmiṣaṁ śākaṁ saṁskr̥taṁ yan mahānase\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 3
+  },
+  "03004003c": {
+    "text": {
+      "ascii": "caturvidhaM tadannAdyam akSayyaM te bhaviSyati\n",
+      "ud": "चतुर्विधं तदन्नाद्यमक्षय्यं ते भविष्यति\n",
+      "ur": "caturvidhaṁ tadannādyam akṣayyaṁ te bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 3
+  },
+  "03004003e": {
+    "text": {
+      "ascii": "dhanaM ca vividhaM tubhyam ity uktvAntaradhIyata\n",
+      "ud": "धनं च विविधं तुभ्यमित्युक्त्वान्तरधीयत\n",
+      "ur": "dhanaṁ ca vividhaṁ tubhyam ity uktvāntaradhīyata\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 3
+  },
+  "03004004a": {
+    "text": {
+      "ascii": "labdhvA varaM tu kaunteyo jalAd uttIrya dharmavit\n",
+      "ud": "लब्ध्वा वरं तु कौन्तेयो जलादुत्तीर्य धर्मवित्\n",
+      "ur": "labdhvā varaṁ tu kaunteyo jalād uttīrya dharmavit\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 4
+  },
+  "03004004c": {
+    "text": {
+      "ascii": "jagrAha pAdau dhaumyasya bhrAtqMz cAsvajatAcyutaH\n",
+      "ud": "जग्राह पादौ धौम्यस्य भ्रातॄंश्चास्वजताच्युतः\n",
+      "ur": "jagrāha pādau dhaumyasya bhrātr̥̄ṁś cāsvajatācyutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 4
+  },
+  "03004005a": {
+    "text": {
+      "ascii": "draupadyA saha saMgamya pazyamAno 'bhyayAt prabhuH\n",
+      "ud": "द्रौपद्या सह संगम्य पश्यमानोऽभ्ययात्प्रभुः\n",
+      "ur": "draupadyā saha saṁgamya paśyamāno ’bhyayāt prabhuḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 5
+  },
+  "03004005c": {
+    "text": {
+      "ascii": "mahAnase tadAnnaM tu sAdhayAm Asa pANDavaH\n",
+      "ud": "महानसे तदान्नं तु साधयामास पाण्डवः\n",
+      "ur": "mahānase tadānnaṁ tu sādhayām āsa pāṇḍavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 5
+  },
+  "03004006a": {
+    "text": {
+      "ascii": "saMskRtaM prasavaM yAti vanyam annaM caturvidham\n",
+      "ud": "संस्कृतं प्रसवं याति वन्यमन्नं चतुर्विधम्\n",
+      "ur": "saṁskr̥taṁ prasavaṁ yāti vanyam annaṁ caturvidham\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 6
+  },
+  "03004006c": {
+    "text": {
+      "ascii": "akSayyaM vardhate cAnnaM tena bhojayate dvijAn\n",
+      "ud": "अक्षय्यं वर्धते चान्नं तेन भोजयते द्विजान्\n",
+      "ur": "akṣayyaṁ vardhate cānnaṁ tena bhojayate dvijān\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 6
+  },
+  "03004007a": {
+    "text": {
+      "ascii": "bhuktavatsu ca vipreSu bhojayitvAnujAn api\n",
+      "ud": "भुक्तवत्सु च विप्रेषु भोजयित्वानुजानपि\n",
+      "ur": "bhuktavatsu ca vipreṣu bhojayitvānujān api\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 7
+  },
+  "03004007c": {
+    "text": {
+      "ascii": "zeSaM vighasasaMjJaM tu pazcAd bhuGkte yudhiSThiraH\n",
+      "ud": "शेषं विघससंज्ञं तु पश्चाद्भुङ्क्ते युधिष्ठिरः\n",
+      "ur": "śeṣaṁ vighasasaṁjñaṁ tu paścād bhuṅkte yudhiṣṭhiraḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 7
+  },
+  "03004007e": {
+    "text": {
+      "ascii": "yudhiSThiraM bhojayitvA zeSam aznAti pArSatI\n",
+      "ud": "युधिष्ठिरं भोजयित्वा शेषमश्नाति पार्षती\n",
+      "ur": "yudhiṣṭhiraṁ bhojayitvā śeṣam aśnāti pārṣatī\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 7
+  },
+  "03004008a": {
+    "text": {
+      "ascii": "evaM divAkarAt prApya divAkarasamadyutiH\n",
+      "ud": "एवं दिवाकरात्प्राप्य दिवाकरसमद्युतिः\n",
+      "ur": "evaṁ divākarāt prāpya divākarasamadyutiḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 8
+  },
+  "03004008c": {
+    "text": {
+      "ascii": "kAmAn mano 'bhilaSitAn brAhmaNebhyo dadau prabhuH\n",
+      "ud": "कामान्मनोऽभिलषितान्ब्राह्मणेभ्यो ददौ प्रभुः\n",
+      "ur": "kāmān mano ’bhilaṣitān brāhmaṇebhyo dadau prabhuḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 8
+  },
+  "03004009a": {
+    "text": {
+      "ascii": "purohitapurogAz ca tithinakSatraparvasu\n",
+      "ud": "पुरोहितपुरोगाश्च तिथिनक्षत्रपर्वसु\n",
+      "ur": "purohitapurogāś ca tithinakṣatraparvasu\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 9
+  },
+  "03004009c": {
+    "text": {
+      "ascii": "yajJiyArthAH pravartante vidhimantrapramANataH\n",
+      "ud": "यज्ञियार्थाः प्रवर्तन्ते विधिमन्त्रप्रमाणतः\n",
+      "ur": "yajñiyārthāḥ pravartante vidhimantrapramāṇataḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 9
+  },
+  "03004010a": {
+    "text": {
+      "ascii": "tataH kRtasvastyayanA dhaumyena saha pANDavAH\n",
+      "ud": "ततः कृतस्वस्त्ययना धौम्येन सह पाण्डवाः\n",
+      "ur": "tataḥ kr̥tasvastyayanā dhaumyena saha pāṇḍavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 10
+  },
+  "03004010c": {
+    "text": {
+      "ascii": "dvijasaMghaiH parivRtAH prayayuH kAmyakaM vanam\n",
+      "ud": "द्विजसंघैः परिवृताः प्रययुः काम्यकं वनम्\n",
+      "ur": "dvijasaṁghaiḥ parivr̥tāḥ prayayuḥ kāmyakaṁ vanam\n"
+    },
+    "book": 3,
+    "chapter": 4,
+    "verse": 10
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "03092001": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 1
+  },
+  "03092001a": {
+    "text": {
+      "ascii": "na vai nirguNam AtmAnaM manye devarSisattama\n",
+      "ud": "न वै निर्गुणमात्मानं मन्ये देवर्षिसत्तम\n",
+      "ur": "na vai nirguṇam ātmānaṁ manye devarṣisattama\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 1
+  },
+  "03092001c": {
+    "text": {
+      "ascii": "tathAsmi duHkhasaMtapto yathA nAnyo mahIpatiH\n",
+      "ud": "तथास्मि दुःखसंतप्तो यथा नान्यो महीपतिः\n",
+      "ur": "tathāsmi duḥkhasaṁtapto yathā nānyo mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 1
+  },
+  "03092002a": {
+    "text": {
+      "ascii": "parAMz ca nirguNAn manye na ca dharmaratAn api\n",
+      "ud": "परांश्च निर्गुणान्मन्ये न च धर्मरतानपि\n",
+      "ur": "parāṁś ca nirguṇān manye na ca dharmaratān api\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 2
+  },
+  "03092002c": {
+    "text": {
+      "ascii": "te ca lomaza loke 'sminn Rdhyante kena ketunA\n",
+      "ud": "ते च लोमश लोकेऽस्मिन्नृध्यन्ते केन केतुना\n",
+      "ur": "te ca lomaśa loke ’sminn r̥dhyante kena ketunā\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 2
+  },
+  "03092003": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 3
+  },
+  "03092003a": {
+    "text": {
+      "ascii": "nAtra duHkhaM tvayA rAjan kAryaM pArtha kathaM cana\n",
+      "ud": "नात्र दुःखं त्वया राजन्कार्यं पार्थ कथंचन\n",
+      "ur": "nātra duḥkhaṁ tvayā rājan kāryaṁ pārtha kathaṁ cana\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 3
+  },
+  "03092003c": {
+    "text": {
+      "ascii": "yad adharmeNa vardherann adharmarucayo janAH\n",
+      "ud": "यदधर्मेण वर्धेरन्नधर्मरुचयो जनाः\n",
+      "ur": "yad adharmeṇa vardherann adharmarucayo janāḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 3
+  },
+  "03092004a": {
+    "text": {
+      "ascii": "vardhaty adharmeNa naras tato bhadrANi pazyati\n",
+      "ud": "वर्धत्यधर्मेण नरस्ततो भद्राणि पश्यति\n",
+      "ur": "vardhaty adharmeṇa naras tato bhadrāṇi paśyati\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 4
+  },
+  "03092004c": {
+    "text": {
+      "ascii": "tataH sapatnAJ jayati samUlas tu vinazyati\n",
+      "ud": "ततः सपत्नाञ्जयति समूलस्तु विनश्यति\n",
+      "ur": "tataḥ sapatnāñ jayati samūlas tu vinaśyati\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 4
+  },
+  "03092005a": {
+    "text": {
+      "ascii": "mayA hi dRSTA daiteyA dAnavAz ca mahIpate\n",
+      "ud": "मया हि दृष्टा दैतेया दानवाश्च महीपते\n",
+      "ur": "mayā hi dr̥ṣṭā daiteyā dānavāś ca mahīpate\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 5
+  },
+  "03092005c": {
+    "text": {
+      "ascii": "vardhamAnA hy adharmeNa kSayaM copagatAH punaH\n",
+      "ud": "वर्धमाना ह्यधर्मेण क्षयं चोपगताः पुनः\n",
+      "ur": "vardhamānā hy adharmeṇa kṣayaṁ copagatāḥ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 5
+  },
+  "03092006a": {
+    "text": {
+      "ascii": "purA devayuge caiva dRSTaM sarvaM mayA vibho\n",
+      "ud": "पुरा देवयुगे चैव दृष्टं सर्वं मया विभो\n",
+      "ur": "purā devayuge caiva dr̥ṣṭaṁ sarvaṁ mayā vibho\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 6
+  },
+  "03092006c": {
+    "text": {
+      "ascii": "arocayan surA dharmaM dharmaM tatyajire 'surAH\n",
+      "ud": "अरोचयन्सुरा धर्मं धर्मं तत्यजिरेऽसुराः\n",
+      "ur": "arocayan surā dharmaṁ dharmaṁ tatyajire ’surāḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 6
+  },
+  "03092007a": {
+    "text": {
+      "ascii": "tIrthAni devA vivizur nAvizan bhAratAsurAH\n",
+      "ud": "तीर्थानि देवा विविशुर्नाविशन्भारतासुराः\n",
+      "ur": "tīrthāni devā viviśur nāviśan bhāratāsurāḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 7
+  },
+  "03092007c": {
+    "text": {
+      "ascii": "tAn adharmakRto darpaH pUrvam eva samAvizat\n",
+      "ud": "तानधर्मकृतो दर्पः पूर्वमेव समाविशत्\n",
+      "ur": "tān adharmakr̥to darpaḥ pūrvam eva samāviśat\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 7
+  },
+  "03092008a": {
+    "text": {
+      "ascii": "darpAn mAnaH samabhavan mAnAt krodho vyajAyata\n",
+      "ud": "दर्पान्मानः समभवन्मानात्क्रोधो व्यजायत\n",
+      "ur": "darpān mānaḥ samabhavan mānāt krodho vyajāyata\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 8
+  },
+  "03092008c": {
+    "text": {
+      "ascii": "krodhAd ahrIs tato 'lajjA vRttaM teSAM tato 'nazat\n",
+      "ud": "क्रोधादह्रीस्ततोऽलज्जा वृत्तं तेषां ततोऽनशत्\n",
+      "ur": "krodhād ahrīs tato ’lajjā vr̥ttaṁ teṣāṁ tato ’naśat\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 8
+  },
+  "03092009a": {
+    "text": {
+      "ascii": "tAn alajjAn gatahrIkAn hInavRttAn vRthAvratAn\n",
+      "ud": "तानलज्जान्गतह्रीकान्हीनवृत्तान्वृथाव्रतान्\n",
+      "ur": "tān alajjān gatahrīkān hīnavr̥ttān vr̥thāvratān\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 9
+  },
+  "03092009c": {
+    "text": {
+      "ascii": "kSamA lakSmIz ca dharmaz ca nacirAt prajahus tataH\n",
+      "ud": "क्षमा लक्ष्मीश्च धर्मश्च नचिरात्प्रजहुस्ततः\n",
+      "ur": "kṣamā lakṣmīś ca dharmaś ca nacirāt prajahus tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 9
+  },
+  "03092009e": {
+    "text": {
+      "ascii": "lakSmIs tu devAn agamad alakSmIr asurAn nRpa\n",
+      "ud": "लक्ष्मीस्तु देवानगमदलक्ष्मीरसुरान्नृप\n",
+      "ur": "lakṣmīs tu devān agamad alakṣmīr asurān nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 9
+  },
+  "03092010a": {
+    "text": {
+      "ascii": "tAn alakSmIsamAviSTAn darpopahatacetasaH\n",
+      "ud": "तानलक्ष्मीसमाविष्टान्दर्पोपहतचेतसः\n",
+      "ur": "tān alakṣmīsamāviṣṭān darpopahatacetasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 10
+  },
+  "03092010c": {
+    "text": {
+      "ascii": "daiteyAn dAnavAMz caiva kalir apy Avizat tataH\n",
+      "ud": "दैतेयान्दानवांश्चैव कलिरप्याविशत्ततः\n",
+      "ur": "daiteyān dānavāṁś caiva kalir apy āviśat tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 10
+  },
+  "03092011a": {
+    "text": {
+      "ascii": "tAn alakSmIsamAviSTAn dAnavAn kalinA tathA\n",
+      "ud": "तानलक्ष्मीसमाविष्टान्दानवान्कलिना तथा\n",
+      "ur": "tān alakṣmīsamāviṣṭān dānavān kalinā tathā\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 11
+  },
+  "03092011c": {
+    "text": {
+      "ascii": "darpAbhibhUtAn kaunteya kriyAhInAn acetasaH\n",
+      "ud": "दर्पाभिभूतान्कौन्तेय क्रियाहीनानचेतसः\n",
+      "ur": "darpābhibhūtān kaunteya kriyāhīnān acetasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 11
+  },
+  "03092012a": {
+    "text": {
+      "ascii": "mAnAbhibhUtAn acirAd vinAzaH pratyapadyata\n",
+      "ud": "मानाभिभूतानचिराद्विनाशः प्रत्यपद्यत\n",
+      "ur": "mānābhibhūtān acirād vināśaḥ pratyapadyata\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 12
+  },
+  "03092012c": {
+    "text": {
+      "ascii": "niryazasyAs tato daityAH kRtsnazo vilayaM gatAH\n",
+      "ud": "निर्यशस्यास्ततो दैत्याः कृत्स्नशो विलयं गताः\n",
+      "ur": "niryaśasyās tato daityāḥ kr̥tsnaśo vilayaṁ gatāḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 12
+  },
+  "03092013a": {
+    "text": {
+      "ascii": "devAs tu sAgarAMz caiva saritaz ca sarAMsi ca\n",
+      "ud": "देवास्तु सागरांश्चैव सरितश्च सरांसि च\n",
+      "ur": "devās tu sāgarāṁś caiva saritaś ca sarāṁsi ca\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 13
+  },
+  "03092013c": {
+    "text": {
+      "ascii": "abhyagacchan dharmazIlAH puNyAny AyatanAni ca\n",
+      "ud": "अभ्यगच्छन्धर्मशीलाः पुण्यान्यायतनानि च\n",
+      "ur": "abhyagacchan dharmaśīlāḥ puṇyāny āyatanāni ca\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 13
+  },
+  "03092014a": {
+    "text": {
+      "ascii": "tapobhiH kratubhir dAnair AzIrvAdaiz ca pANDava\n",
+      "ud": "तपोभिः क्रतुभिर्दानैराशीर्वादैश्च पाण्डव\n",
+      "ur": "tapobhiḥ kratubhir dānair āśīrvādaiś ca pāṇḍava\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 14
+  },
+  "03092014c": {
+    "text": {
+      "ascii": "prajahuH sarvapApAni zreyaz ca pratipedire\n",
+      "ud": "प्रजहुः सर्वपापानि श्रेयश्च प्रतिपेदिरे\n",
+      "ur": "prajahuḥ sarvapāpāni śreyaś ca pratipedire\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 14
+  },
+  "03092015a": {
+    "text": {
+      "ascii": "evaM hi dAnavantaz ca kriyAvantaz ca sarvazaH\n",
+      "ud": "एवं हि दानवन्तश्च क्रियावन्तश्च सर्वशः\n",
+      "ur": "evaṁ hi dānavantaś ca kriyāvantaś ca sarvaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 15
+  },
+  "03092015c": {
+    "text": {
+      "ascii": "tIrthAny agacchan vibudhAs tenApur bhUtim uttamAm\n",
+      "ud": "तीर्थान्यगच्छन्विबुधास्तेनापुर्भूतिमुत्तमाम्\n",
+      "ur": "tīrthāny agacchan vibudhās tenāpur bhūtim uttamām\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 15
+  },
+  "03092016a": {
+    "text": {
+      "ascii": "tathA tvam api rAjendra snAtvA tIrtheSu sAnujaH\n",
+      "ud": "तथा त्वमपि राजेन्द्र स्नात्वा तीर्थेषु सानुजः\n",
+      "ur": "tathā tvam api rājendra snātvā tīrtheṣu sānujaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 16
+  },
+  "03092016c": {
+    "text": {
+      "ascii": "punar vetsyasi tAM lakSmIm eSa panthAH sanAtanaH\n",
+      "ud": "पुनर्वेत्स्यसि तां लक्ष्मीमेष पन्थाः सनातनः\n",
+      "ur": "punar vetsyasi tāṁ lakṣmīm eṣa panthāḥ sanātanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 16
+  },
+  "03092017a": {
+    "text": {
+      "ascii": "yathaiva hi nRgo rAjA zibir auzInaro yathA\n",
+      "ud": "यथैव हि नृगो राजा शिबिरौशीनरो यथा\n",
+      "ur": "yathaiva hi nr̥go rājā śibir auśīnaro yathā\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 17
+  },
+  "03092017c": {
+    "text": {
+      "ascii": "bhagIratho vasumanA gayaH pUruH purUravAH\n",
+      "ud": "भगीरथो वसुमना गयः पूरुः पुरूरवाः\n",
+      "ur": "bhagīratho vasumanā gayaḥ pūruḥ purūravāḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 17
+  },
+  "03092018a": {
+    "text": {
+      "ascii": "caramANAs tapo nityaM sparzanAd ambhasaz ca te\n",
+      "ud": "चरमाणास्तपो नित्यं स्पर्शनादम्भसश्च ते\n",
+      "ur": "caramāṇās tapo nityaṁ sparśanād ambhasaś ca te\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 18
+  },
+  "03092018c": {
+    "text": {
+      "ascii": "tIrthAbhigamanAt pUtA darzanAc ca mahAtmanAm\n",
+      "ud": "तीर्थाभिगमनात्पूता दर्शनाच्च महात्मनाम्\n",
+      "ur": "tīrthābhigamanāt pūtā darśanāc ca mahātmanām\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 18
+  },
+  "03092019a": {
+    "text": {
+      "ascii": "alabhanta yazaH puNyaM dhanAni ca vizAM pate\n",
+      "ud": "अलभन्त यशः पुण्यं धनानि च विशां पते\n",
+      "ur": "alabhanta yaśaḥ puṇyaṁ dhanāni ca viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 19
+  },
+  "03092019c": {
+    "text": {
+      "ascii": "tathA tvam api rAjendra labdhAsi vipulAM zriyam\n",
+      "ud": "तथा त्वमपि राजेन्द्र लब्धासि विपुलां श्रियम्\n",
+      "ur": "tathā tvam api rājendra labdhāsi vipulāṁ śriyam\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 19
+  },
+  "03092020a": {
+    "text": {
+      "ascii": "yathA cekSvAkur acarat saputrajanabAndhavaH\n",
+      "ud": "यथा चेक्ष्वाकुरचरत्सपुत्रजनबान्धवः\n",
+      "ur": "yathā cekṣvākur acarat saputrajanabāndhavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 20
+  },
+  "03092020c": {
+    "text": {
+      "ascii": "mucukundo 'tha mAndhAtA maruttaz ca mahIpatiH\n",
+      "ud": "मुचुकुन्दोऽथ मान्धाता मरुत्तश्च महीपतिः\n",
+      "ur": "mucukundo ’tha māndhātā maruttaś ca mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 20
+  },
+  "03092021a": {
+    "text": {
+      "ascii": "kIrtiM puNyAm avindanta yathA devAs tapobalAt\n",
+      "ud": "कीर्तिं पुण्यामविन्दन्त यथा देवास्तपोबलात्\n",
+      "ur": "kīrtiṁ puṇyām avindanta yathā devās tapobalāt\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 21
+  },
+  "03092021c": {
+    "text": {
+      "ascii": "devarSayaz ca kArtsnyena tathA tvam api vetsyase\n",
+      "ud": "देवर्षयश्च कार्त्स्न्येन तथा त्वमपि वेत्स्यसे\n",
+      "ur": "devarṣayaś ca kārtsnyena tathā tvam api vetsyase\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 21
+  },
+  "03092022a": {
+    "text": {
+      "ascii": "dhArtarASTrAs tu darpeNa mohena ca vazIkRtAH\n",
+      "ud": "धार्तराष्ट्रास्तु दर्पेण मोहेन च वशीकृताः\n",
+      "ur": "dhārtarāṣṭrās tu darpeṇa mohena ca vaśīkr̥tāḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 22
+  },
+  "03092022c": {
+    "text": {
+      "ascii": "nacirAd vinaziSyanti daityA iva na saMzayaH\n",
+      "ud": "नचिराद्विनशिष्यन्ति दैत्या इव न संशयः\n",
+      "ur": "nacirād vinaśiṣyanti daityā iva na saṁśayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 92,
+    "verse": 22
+  }
+}

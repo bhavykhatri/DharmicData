@@ -1,0 +1,542 @@
+{
+  "03010001": {
+    "text": {
+      "ascii": "dhRtarASTra uvAca\n",
+      "ud": "धृतराष्ट्र उवाच\n",
+      "ur": "dhr̥tarāṣṭra uvāca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 1
+  },
+  "03010001a": {
+    "text": {
+      "ascii": "bhagavan nAham apy etad rocaye dyUtasaMstavam\n",
+      "ud": "भगवन्नाहमप्येतद्रोचये द्यूतसंस्तवम्\n",
+      "ur": "bhagavan nāham apy etad rocaye dyūtasaṁstavam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 1
+  },
+  "03010001c": {
+    "text": {
+      "ascii": "manye tad vidhinAkramya kArito 'smIti vai mune\n",
+      "ud": "मन्ये तद्विधिनाक्रम्य कारितोऽस्मीति वै मुने\n",
+      "ur": "manye tad vidhinākramya kārito ’smīti vai mune\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 1
+  },
+  "03010002a": {
+    "text": {
+      "ascii": "naitad rocayate bhISmo na droNo viduro na ca\n",
+      "ud": "नैतद्रोचयते भीष्मो न द्रोणो विदुरो न च\n",
+      "ur": "naitad rocayate bhīṣmo na droṇo viduro na ca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 2
+  },
+  "03010002c": {
+    "text": {
+      "ascii": "gAndhArI necchati dyUtaM tac ca mohAt pravartitam\n",
+      "ud": "गान्धारी नेच्छति द्यूतं तच्च मोहात्प्रवर्तितम्\n",
+      "ur": "gāndhārī necchati dyūtaṁ tac ca mohāt pravartitam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 2
+  },
+  "03010003a": {
+    "text": {
+      "ascii": "parityaktuM na zaknomi duryodhanam acetanam\n",
+      "ud": "परित्यक्तुं न शक्नोमि दुर्योधनमचेतनम्\n",
+      "ur": "parityaktuṁ na śaknomi duryodhanam acetanam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 3
+  },
+  "03010003c": {
+    "text": {
+      "ascii": "putrasnehena bhagavaJ jAnann api yatavrata\n",
+      "ud": "पुत्रस्नेहेन भगवञ्जानन्नपि यतव्रत\n",
+      "ur": "putrasnehena bhagavañ jānann api yatavrata\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 3
+  },
+  "03010004": {
+    "text": {
+      "ascii": "vyAsa uvAca\n",
+      "ud": "व्यास उवाच\n",
+      "ur": "vyāsa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 4
+  },
+  "03010004a": {
+    "text": {
+      "ascii": "vaicitravIrya nRpate satyam Aha yathA bhavAn\n",
+      "ud": "वैचित्रवीर्य नृपते सत्यमाह यथा भवान्\n",
+      "ur": "vaicitravīrya nr̥pate satyam āha yathā bhavān\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 4
+  },
+  "03010004c": {
+    "text": {
+      "ascii": "dRDhaM vedmi paraM putraM paraM putrAn na vidyate\n",
+      "ud": "दृढं वेद्मि परं पुत्रं परं पुत्रान्न विद्यते\n",
+      "ur": "dr̥ḍhaṁ vedmi paraṁ putraṁ paraṁ putrān na vidyate\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 4
+  },
+  "03010005a": {
+    "text": {
+      "ascii": "indro 'py azrunipAtena surabhyA pratibodhitaH\n",
+      "ud": "इन्द्रोऽप्यश्रुनिपातेन सुरभ्या प्रतिबोधितः\n",
+      "ur": "indro ’py aśrunipātena surabhyā pratibodhitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 5
+  },
+  "03010005c": {
+    "text": {
+      "ascii": "anyaiH samRddhair apy arthair na sutAd vidyate param\n",
+      "ud": "अन्यैः समृद्धैरप्यर्थैर्न सुताद्विद्यते परम्\n",
+      "ur": "anyaiḥ samr̥ddhair apy arthair na sutād vidyate param\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 5
+  },
+  "03010006a": {
+    "text": {
+      "ascii": "atra te vartayiSyAmi mahad AkhyAnam uttamam\n",
+      "ud": "अत्र ते वर्तयिष्यामि महदाख्यानमुत्तमम्\n",
+      "ur": "atra te vartayiṣyāmi mahad ākhyānam uttamam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 6
+  },
+  "03010006c": {
+    "text": {
+      "ascii": "surabhyAz caiva saMvAdam indrasya ca vizAM pate\n",
+      "ud": "सुरभ्याश्चैव संवादमिन्द्रस्य च विशां पते\n",
+      "ur": "surabhyāś caiva saṁvādam indrasya ca viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 6
+  },
+  "03010007a": {
+    "text": {
+      "ascii": "triviSTapagatA rAjan surabhiH prArudat kila\n",
+      "ud": "त्रिविष्टपगता राजन्सुरभिः प्रारुदत्किल\n",
+      "ur": "triviṣṭapagatā rājan surabhiḥ prārudat kila\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 7
+  },
+  "03010007c": {
+    "text": {
+      "ascii": "gavAM mAta purA tAta tAm indro 'nvakRpAyata\n",
+      "ud": "गवां मात पुरा तात तामिन्द्रोऽन्वकृपायत\n",
+      "ur": "gavāṁ māta purā tāta tām indro ’nvakr̥pāyata\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 7
+  },
+  "03010008": {
+    "text": {
+      "ascii": "indra uvAca\n",
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 8
+  },
+  "03010008a": {
+    "text": {
+      "ascii": "kim idaM rodiSi zubhe kaccit kSemaM divaukasAm\n",
+      "ud": "किमिदं रोदिषि शुभे कच्चित्क्षेमं दिवौकसाम्\n",
+      "ur": "kim idaṁ rodiṣi śubhe kaccit kṣemaṁ divaukasām\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 8
+  },
+  "03010008c": {
+    "text": {
+      "ascii": "mAnuSeSv atha vA goSu naitad alpaM bhaviSyati\n",
+      "ud": "मानुषेष्वथ वा गोषु नैतदल्पं भविष्यति\n",
+      "ur": "mānuṣeṣv atha vā goṣu naitad alpaṁ bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 8
+  },
+  "03010009": {
+    "text": {
+      "ascii": "surabhir uvAca\n",
+      "ud": "सुरभिरुवाच\n",
+      "ur": "surabhir uvāca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 9
+  },
+  "03010009a": {
+    "text": {
+      "ascii": "vinipAto na vaH kaz cid dRzyate tridazAdhipa\n",
+      "ud": "विनिपातो न वः कश्चिद्दृश्यते त्रिदशाधिप\n",
+      "ur": "vinipāto na vaḥ kaś cid dr̥śyate tridaśādhipa\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 9
+  },
+  "03010009c": {
+    "text": {
+      "ascii": "ahaM tu putraM zocAmi tena rodimi kauzika\n",
+      "ud": "अहं तु पुत्रं शोचामि तेन रोदिमि कौशिक\n",
+      "ur": "ahaṁ tu putraṁ śocāmi tena rodimi kauśika\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 9
+  },
+  "03010010a": {
+    "text": {
+      "ascii": "pazyainaM karSakaM raudraM durbalaM mama putrakam\n",
+      "ud": "पश्यैनं कर्षकं रौद्रं दुर्बलं मम पुत्रकम्\n",
+      "ur": "paśyainaṁ karṣakaṁ raudraṁ durbalaṁ mama putrakam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 10
+  },
+  "03010010c": {
+    "text": {
+      "ascii": "pratodenAbhinighnantaM lAGgalena nipIDitam\n",
+      "ud": "प्रतोदेनाभिनिघ्नन्तं लाङ्गलेन निपीडितम्\n",
+      "ur": "pratodenābhinighnantaṁ lāṅgalena nipīḍitam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 10
+  },
+  "03010011a": {
+    "text": {
+      "ascii": "etaM dRSTvA bhRzaM zrAntaM vadhyamAnaM surAdhipa\n",
+      "ud": "एतं दृष्ट्वा भृशं श्रान्तं वध्यमानं सुराधिप\n",
+      "ur": "etaṁ dr̥ṣṭvā bhr̥śaṁ śrāntaṁ vadhyamānaṁ surādhipa\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 11
+  },
+  "03010011c": {
+    "text": {
+      "ascii": "kRpAviSTAsmi devendra manaz codvijate mama\n",
+      "ud": "कृपाविष्टास्मि देवेन्द्र मनश्चोद्विजते मम\n",
+      "ur": "kr̥pāviṣṭāsmi devendra manaś codvijate mama\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 11
+  },
+  "03010012a": {
+    "text": {
+      "ascii": "ekas tatra balopeto dhuram udvahate 'dhikAm\n",
+      "ud": "एकस्तत्र बलोपेतो धुरमुद्वहतेऽधिकाम्\n",
+      "ur": "ekas tatra balopeto dhuram udvahate ’dhikām\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 12
+  },
+  "03010012c": {
+    "text": {
+      "ascii": "aparo 'lpabalaprANaH kRzo dhamanisaMtataH\n",
+      "ud": "अपरोऽल्पबलप्राणः कृशो धमनिसंततः\n",
+      "ur": "aparo ’lpabalaprāṇaḥ kr̥śo dhamanisaṁtataḥ\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 12
+  },
+  "03010012e": {
+    "text": {
+      "ascii": "kRcchrAd udvahate bhAraM taM vai zocAmi vAsava\n",
+      "ud": "कृच्छ्रादुद्वहते भारं तं वै शोचामि वासव\n",
+      "ur": "kr̥cchrād udvahate bhāraṁ taṁ vai śocāmi vāsava\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 12
+  },
+  "03010013a": {
+    "text": {
+      "ascii": "vadhyamAnaH pratodena tudyamAnaH punaH punaH\n",
+      "ud": "वध्यमानः प्रतोदेन तुद्यमानः पुनः पुनः\n",
+      "ur": "vadhyamānaḥ pratodena tudyamānaḥ punaḥ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 13
+  },
+  "03010013c": {
+    "text": {
+      "ascii": "naiva zaknoti taM bhAram udvoDhuM pazya vAsava\n",
+      "ud": "नैव शक्नोति तं भारमुद्वोढुं पश्य वासव\n",
+      "ur": "naiva śaknoti taṁ bhāram udvoḍhuṁ paśya vāsava\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 13
+  },
+  "03010014a": {
+    "text": {
+      "ascii": "tato 'haM tasya duHkhArtA viraumi bhRzaduHkhitA\n",
+      "ud": "ततोऽहं तस्य दुःखार्ता विरौमि भृशदुःखिता\n",
+      "ur": "tato ’haṁ tasya duḥkhārtā viraumi bhr̥śaduḥkhitā\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 14
+  },
+  "03010014c": {
+    "text": {
+      "ascii": "azrUNy AvartayantI ca netrAbhyAM karuNAyatI\n",
+      "ud": "अश्रूण्यावर्तयन्ती च नेत्राभ्यां करुणायती\n",
+      "ur": "aśrūṇy āvartayantī ca netrābhyāṁ karuṇāyatī\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 14
+  },
+  "03010015": {
+    "text": {
+      "ascii": "indra uvAca\n",
+      "ud": "इन्द्र उवाच\n",
+      "ur": "indra uvāca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 15
+  },
+  "03010015a": {
+    "text": {
+      "ascii": "tava putrasahasreSu pIDyamAneSu zobhane\n",
+      "ud": "तव पुत्रसहस्रेषु पीड्यमानेषु शोभने\n",
+      "ur": "tava putrasahasreṣu pīḍyamāneṣu śobhane\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 15
+  },
+  "03010015c": {
+    "text": {
+      "ascii": "kiM kRpAyitam asty atra putra eko 'tra pIDyate\n",
+      "ud": "किं कृपायितमस्त्यत्र पुत्र एकोऽत्र पीड्यते\n",
+      "ur": "kiṁ kr̥pāyitam asty atra putra eko ’tra pīḍyate\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 15
+  },
+  "03010016": {
+    "text": {
+      "ascii": "surabhir uvAca\n",
+      "ud": "सुरभिरुवाच\n",
+      "ur": "surabhir uvāca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 16
+  },
+  "03010016a": {
+    "text": {
+      "ascii": "yadi putrasahasraM me sarvatra samam eva me\n",
+      "ud": "यदि पुत्रसहस्रं मे सर्वत्र सममेव मे\n",
+      "ur": "yadi putrasahasraṁ me sarvatra samam eva me\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 16
+  },
+  "03010016c": {
+    "text": {
+      "ascii": "dInasya tu sataH zakra putrasyAbhyadhikA kRpA\n",
+      "ud": "दीनस्य तु सतः शक्र पुत्रस्याभ्यधिका कृपा\n",
+      "ur": "dīnasya tu sataḥ śakra putrasyābhyadhikā kr̥pā\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 16
+  },
+  "03010017": {
+    "text": {
+      "ascii": "vyAsa uvAca\n",
+      "ud": "व्यास उवाच\n",
+      "ur": "vyāsa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 17
+  },
+  "03010017a": {
+    "text": {
+      "ascii": "tad indraH surabhIvAkyaM nizamya bhRzavismitaH\n",
+      "ud": "तदिन्द्रः सुरभीवाक्यं निशम्य भृशविस्मितः\n",
+      "ur": "tad indraḥ surabhīvākyaṁ niśamya bhr̥śavismitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 17
+  },
+  "03010017c": {
+    "text": {
+      "ascii": "jIvitenApi kauravya mene 'bhyadhikam Atmajam\n",
+      "ud": "जीवितेनापि कौरव्य मेनेऽभ्यधिकमात्मजम्\n",
+      "ur": "jīvitenāpi kauravya mene ’bhyadhikam ātmajam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 17
+  },
+  "03010018a": {
+    "text": {
+      "ascii": "pravavarSa ca tatraiva sahasA toyam ulbaNam\n",
+      "ud": "प्रववर्ष च तत्रैव सहसा तोयमुल्बणम्\n",
+      "ur": "pravavarṣa ca tatraiva sahasā toyam ulbaṇam\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 18
+  },
+  "03010018c": {
+    "text": {
+      "ascii": "karSakasyAcaran vighnaM bhagavAn pAkazAsanaH\n",
+      "ud": "कर्षकस्याचरन्विघ्नं भगवान्पाकशासनः\n",
+      "ur": "karṣakasyācaran vighnaṁ bhagavān pākaśāsanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 18
+  },
+  "03010019a": {
+    "text": {
+      "ascii": "tad yathA surabhiH prAha samam evAstu te tathA\n",
+      "ud": "तद्यथा सुरभिः प्राह सममेवास्तु ते तथा\n",
+      "ur": "tad yathā surabhiḥ prāha samam evāstu te tathā\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 19
+  },
+  "03010019c": {
+    "text": {
+      "ascii": "suteSu rAjan sarveSu dIneSv abhyadhikA kRpA\n",
+      "ud": "सुतेषु राजन्सर्वेषु दीनेष्वभ्यधिका कृपा\n",
+      "ur": "suteṣu rājan sarveṣu dīneṣv abhyadhikā kr̥pā\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 19
+  },
+  "03010020a": {
+    "text": {
+      "ascii": "yAdRzo me sutaH paNDus tAdRzo me 'si putraka\n",
+      "ud": "यादृशो मे सुतः पण्डुस्तादृशो मेऽसि पुत्रक\n",
+      "ur": "yādr̥śo me sutaḥ paṇḍus tādr̥śo me ’si putraka\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 20
+  },
+  "03010020c": {
+    "text": {
+      "ascii": "viduraz ca mahAprAjJaH snehAd etad bravImy aham\n",
+      "ud": "विदुरश्च महाप्राज्ञः स्नेहादेतद्ब्रवीम्यहम्\n",
+      "ur": "viduraś ca mahāprājñaḥ snehād etad bravīmy aham\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 20
+  },
+  "03010021a": {
+    "text": {
+      "ascii": "cirAya tava putrANAM zatam ekaz ca pArthiva\n",
+      "ud": "चिराय तव पुत्राणां शतमेकश्च पार्थिव\n",
+      "ur": "cirāya tava putrāṇāṁ śatam ekaś ca pārthiva\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 21
+  },
+  "03010021c": {
+    "text": {
+      "ascii": "pANDoH paJcaiva lakSyante te 'pi mandAH suduHkhitAH\n",
+      "ud": "पाण्डोः पञ्चैव लक्ष्यन्ते तेऽपि मन्दाः सुदुःखिताः\n",
+      "ur": "pāṇḍoḥ pañcaiva lakṣyante te ’pi mandāḥ suduḥkhitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 21
+  },
+  "03010022a": {
+    "text": {
+      "ascii": "kathaM jIveyur atyantaM kathaM vardheyur ity api\n",
+      "ud": "कथं जीवेयुरत्यन्तं कथं वर्धेयुरित्यपि\n",
+      "ur": "kathaṁ jīveyur atyantaṁ kathaṁ vardheyur ity api\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 22
+  },
+  "03010022c": {
+    "text": {
+      "ascii": "iti dIneSu pArtheSu mano me paritapyate\n",
+      "ud": "इति दीनेषु पार्थेषु मनो मे परितप्यते\n",
+      "ur": "iti dīneṣu pārtheṣu mano me paritapyate\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 22
+  },
+  "03010023a": {
+    "text": {
+      "ascii": "yadi pArthiva kauravyAJ jIvamAnAn ihecchasi\n",
+      "ud": "यदि पार्थिव कौरव्याञ्जीवमानानिहेच्छसि\n",
+      "ur": "yadi pārthiva kauravyāñ jīvamānān ihecchasi\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 23
+  },
+  "03010023c": {
+    "text": {
+      "ascii": "duryodhanas tava sutaH zamaM gacchatu pANDavaiH\n",
+      "ud": "दुर्योधनस्तव सुतः शमं गच्छतु पाण्डवैः\n",
+      "ur": "duryodhanas tava sutaḥ śamaṁ gacchatu pāṇḍavaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 10,
+    "verse": 23
+  }
+}

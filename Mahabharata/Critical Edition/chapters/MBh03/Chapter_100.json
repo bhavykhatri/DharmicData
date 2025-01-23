@@ -1,0 +1,522 @@
+{
+  "03100001": {
+    "text": {
+      "ascii": "lomaza uvAca\n",
+      "ud": "लोमश उवाच\n",
+      "ur": "lomaśa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 1
+  },
+  "03100001a": {
+    "text": {
+      "ascii": "samudraM te samAzritya vAruNaM nidhim ambhasAm\n",
+      "ud": "समुद्रं ते समाश्रित्य वारुणं निधिमम्भसाम्\n",
+      "ur": "samudraṁ te samāśritya vāruṇaṁ nidhim ambhasām\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 1
+  },
+  "03100001c": {
+    "text": {
+      "ascii": "kAleyAH saMpravartanta trailokyasya vinAzane\n",
+      "ud": "कालेयाः संप्रवर्तन्त त्रैलोक्यस्य विनाशने\n",
+      "ur": "kāleyāḥ saṁpravartanta trailokyasya vināśane\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 1
+  },
+  "03100002a": {
+    "text": {
+      "ascii": "te rAtrau samabhikruddhA bhakSayanti sadA munIn\n",
+      "ud": "ते रात्रौ समभिक्रुद्धा भक्षयन्ति सदा मुनीन्\n",
+      "ur": "te rātrau samabhikruddhā bhakṣayanti sadā munīn\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 2
+  },
+  "03100002c": {
+    "text": {
+      "ascii": "AzrameSu ca ye santi punyeSv AyataneSu ca\n",
+      "ud": "आश्रमेषु च ये सन्ति पुन्येष्वायतनेषु च\n",
+      "ur": "āśrameṣu ca ye santi punyeṣv āyataneṣu ca\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 2
+  },
+  "03100003a": {
+    "text": {
+      "ascii": "vasiSThasyAzrame viprA bhakSitAs tair durAtmabhiH\n",
+      "ud": "वसिष्ठस्याश्रमे विप्रा भक्षितास्तैर्दुरात्मभिः\n",
+      "ur": "vasiṣṭhasyāśrame viprā bhakṣitās tair durātmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 3
+  },
+  "03100003c": {
+    "text": {
+      "ascii": "azItizatam aSTau ca nava cAnye tapasvinaH\n",
+      "ud": "अशीतिशतमष्टौ च नव चान्ये तपस्विनः\n",
+      "ur": "aśītiśatam aṣṭau ca nava cānye tapasvinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 3
+  },
+  "03100004a": {
+    "text": {
+      "ascii": "cyavanasyAzramaM gatvA puNyaM dvijaniSevitam\n",
+      "ud": "च्यवनस्याश्रमं गत्वा पुण्यं द्विजनिषेवितम्\n",
+      "ur": "cyavanasyāśramaṁ gatvā puṇyaṁ dvijaniṣevitam\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 4
+  },
+  "03100004c": {
+    "text": {
+      "ascii": "phalamUlAzanAnAM hi munInAM bhakSitaM zatam\n",
+      "ud": "फलमूलाशनानां हि मुनीनां भक्षितं शतम्\n",
+      "ur": "phalamūlāśanānāṁ hi munīnāṁ bhakṣitaṁ śatam\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 4
+  },
+  "03100005a": {
+    "text": {
+      "ascii": "evaM rAtrau sma kurvanti vivizuz cArNavaM divA\n",
+      "ud": "एवं रात्रौ स्म कुर्वन्ति विविशुश्चार्णवं दिवा\n",
+      "ur": "evaṁ rātrau sma kurvanti viviśuś cārṇavaṁ divā\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 5
+  },
+  "03100005c": {
+    "text": {
+      "ascii": "bharadvAjAzrame caiva niyatA brahmacAriNaH\n",
+      "ud": "भरद्वाजाश्रमे चैव नियता ब्रह्मचारिणः\n",
+      "ur": "bharadvājāśrame caiva niyatā brahmacāriṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 5
+  },
+  "03100005e": {
+    "text": {
+      "ascii": "vAyvAhArAmbubhakSAz ca viMzatiH saMnipAtitAH\n",
+      "ud": "वाय्वाहाराम्बुभक्षाश्च विंशतिः संनिपातिताः\n",
+      "ur": "vāyvāhārāmbubhakṣāś ca viṁśatiḥ saṁnipātitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 5
+  },
+  "03100006a": {
+    "text": {
+      "ascii": "evaM krameNa sarvAMs tAn AzramAn dAnavAs tadA\n",
+      "ud": "एवं क्रमेण सर्वांस्तानाश्रमान्दानवास्तदा\n",
+      "ur": "evaṁ krameṇa sarvāṁs tān āśramān dānavās tadā\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 6
+  },
+  "03100006c": {
+    "text": {
+      "ascii": "nizAyAM paridhAvanti mattA bhujabalAzrayAt\n",
+      "ud": "निशायां परिधावन्ति मत्ता भुजबलाश्रयात्\n",
+      "ur": "niśāyāṁ paridhāvanti mattā bhujabalāśrayāt\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 6
+  },
+  "03100006e": {
+    "text": {
+      "ascii": "kAlopasRSTAH kAleyA ghnanto dvijagaNAn bahUn\n",
+      "ud": "कालोपसृष्टाः कालेया घ्नन्तो द्विजगणान्बहून्\n",
+      "ur": "kālopasr̥ṣṭāḥ kāleyā ghnanto dvijagaṇān bahūn\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 6
+  },
+  "03100007a": {
+    "text": {
+      "ascii": "na cainAn anvabudhyanta manujA manujottama\n",
+      "ud": "न चैनानन्वबुध्यन्त मनुजा मनुजोत्तम\n",
+      "ur": "na cainān anvabudhyanta manujā manujottama\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 7
+  },
+  "03100007c": {
+    "text": {
+      "ascii": "evaM pravRttAn daityAMs tAMs tApaseSu tapasviSu\n",
+      "ud": "एवं प्रवृत्तान्दैत्यांस्तांस्तापसेषु तपस्विषु\n",
+      "ur": "evaṁ pravr̥ttān daityāṁs tāṁs tāpaseṣu tapasviṣu\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 7
+  },
+  "03100008a": {
+    "text": {
+      "ascii": "prabhAte samadRzyanta niyatAhArakarzitAH\n",
+      "ud": "प्रभाते समदृश्यन्त नियताहारकर्शिताः\n",
+      "ur": "prabhāte samadr̥śyanta niyatāhārakarśitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 8
+  },
+  "03100008c": {
+    "text": {
+      "ascii": "mahItalasthA munayaH zarIrair gatajIvitaiH\n",
+      "ud": "महीतलस्था मुनयः शरीरैर्गतजीवितैः\n",
+      "ur": "mahītalasthā munayaḥ śarīrair gatajīvitaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 8
+  },
+  "03100009a": {
+    "text": {
+      "ascii": "kSINamAMsair virudhirair vimajjAntrair visaMdhibhiH\n",
+      "ud": "क्षीणमांसैर्विरुधिरैर्विमज्जान्त्रैर्विसंधिभिः\n",
+      "ur": "kṣīṇamāṁsair virudhirair vimajjāntrair visaṁdhibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 9
+  },
+  "03100009c": {
+    "text": {
+      "ascii": "AkIrNair AcitA bhUmiH zaGkhAnAm iva rAzibhiH\n",
+      "ud": "आकीर्णैराचिता भूमिः शङ्खानामिव राशिभिः\n",
+      "ur": "ākīrṇair ācitā bhūmiḥ śaṅkhānām iva rāśibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 9
+  },
+  "03100010a": {
+    "text": {
+      "ascii": "kalazair vipraviddhaiz ca sruvair bhagnais tathaiva ca\n",
+      "ud": "कलशैर्विप्रविद्धैश्च स्रुवैर्भग्नैस्तथैव च\n",
+      "ur": "kalaśair vipraviddhaiś ca sruvair bhagnais tathaiva ca\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 10
+  },
+  "03100010c": {
+    "text": {
+      "ascii": "vikIrNair agnihotraiz ca bhUr babhUva samAvRtA\n",
+      "ud": "विकीर्णैरग्निहोत्रैश्च भूर्बभूव समावृता\n",
+      "ur": "vikīrṇair agnihotraiś ca bhūr babhūva samāvr̥tā\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 10
+  },
+  "03100011a": {
+    "text": {
+      "ascii": "niHsvAdhyAyavaSaTkAraM naSTayajJotsavakriyam\n",
+      "ud": "निःस्वाध्यायवषट्कारं नष्टयज्ञोत्सवक्रियम्\n",
+      "ur": "niḥsvādhyāyavaṣaṭkāraṁ naṣṭayajñotsavakriyam\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 11
+  },
+  "03100011c": {
+    "text": {
+      "ascii": "jagad AsIn nirutsAhaM kAleyabhayapIDitam\n",
+      "ud": "जगदासीन्निरुत्साहं कालेयभयपीडितम्\n",
+      "ur": "jagad āsīn nirutsāhaṁ kāleyabhayapīḍitam\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 11
+  },
+  "03100012a": {
+    "text": {
+      "ascii": "evaM prakSIyamANAz ca mAnavA manujezvara\n",
+      "ud": "एवं प्रक्षीयमाणाश्च मानवा मनुजेश्वर\n",
+      "ur": "evaṁ prakṣīyamāṇāś ca mānavā manujeśvara\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 12
+  },
+  "03100012c": {
+    "text": {
+      "ascii": "AtmatrANaparA bhItAH prAdravanta dizo bhayAt\n",
+      "ud": "आत्मत्राणपरा भीताः प्राद्रवन्त दिशो भयात्\n",
+      "ur": "ātmatrāṇaparā bhītāḥ prādravanta diśo bhayāt\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 12
+  },
+  "03100013a": {
+    "text": {
+      "ascii": "ke cid guhAH pravivizur nirjharAMz cApare zritAH\n",
+      "ud": "केचिद्गुहाः प्रविविशुर्निर्झरांश्चापरे श्रिताः\n",
+      "ur": "ke cid guhāḥ praviviśur nirjharāṁś cāpare śritāḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 13
+  },
+  "03100013c": {
+    "text": {
+      "ascii": "apare maraNodvignA bhayAt prAnAn samutsRjan\n",
+      "ud": "अपरे मरणोद्विग्ना भयात्प्रानान्समुत्सृजन्\n",
+      "ur": "apare maraṇodvignā bhayāt prānān samutsr̥jan\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 13
+  },
+  "03100014a": {
+    "text": {
+      "ascii": "ke cid atra maheSvAsAH zUrAH paramadarpitAH\n",
+      "ud": "केचिदत्र महेष्वासाः शूराः परमदर्पिताः\n",
+      "ur": "ke cid atra maheṣvāsāḥ śūrāḥ paramadarpitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 14
+  },
+  "03100014c": {
+    "text": {
+      "ascii": "mArgamANAH paraM yatnaM dAnavAnAM pracakrire\n",
+      "ud": "मार्गमाणाः परं यत्नं दानवानां प्रचक्रिरे\n",
+      "ur": "mārgamāṇāḥ paraṁ yatnaṁ dānavānāṁ pracakrire\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 14
+  },
+  "03100015a": {
+    "text": {
+      "ascii": "na caitAn adhijagmus te samudraM samupAzritAn\n",
+      "ud": "न चैतानधिजग्मुस्ते समुद्रं समुपाश्रितान्\n",
+      "ur": "na caitān adhijagmus te samudraṁ samupāśritān\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 15
+  },
+  "03100015c": {
+    "text": {
+      "ascii": "zramaM jagmuz ca paramam AjagmuH kSayam eva ca\n",
+      "ud": "श्रमं जग्मुश्च परममाजग्मुः क्षयमेव च\n",
+      "ur": "śramaṁ jagmuś ca paramam ājagmuḥ kṣayam eva ca\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 15
+  },
+  "03100016a": {
+    "text": {
+      "ascii": "jagaty upazamaM yAte naSTayajJotsavakriye\n",
+      "ud": "जगत्युपशमं याते नष्टयज्ञोत्सवक्रिये\n",
+      "ur": "jagaty upaśamaṁ yāte naṣṭayajñotsavakriye\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 16
+  },
+  "03100016c": {
+    "text": {
+      "ascii": "AjagmuH paramAm ArtiM tridazA manujezvara\n",
+      "ud": "आजग्मुः परमामार्तिं त्रिदशा मनुजेश्वर\n",
+      "ur": "ājagmuḥ paramām ārtiṁ tridaśā manujeśvara\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 16
+  },
+  "03100017a": {
+    "text": {
+      "ascii": "sametya samahendrAz ca bhayAn mantraM pracakrire\n",
+      "ud": "समेत्य समहेन्द्राश्च भयान्मन्त्रं प्रचक्रिरे\n",
+      "ur": "sametya samahendrāś ca bhayān mantraṁ pracakrire\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 17
+  },
+  "03100017c": {
+    "text": {
+      "ascii": "nArAyaNaM puraskRtya vaikuNTham aparAjitam\n",
+      "ud": "नारायणं पुरस्कृत्य वैकुण्ठमपराजितम्\n",
+      "ur": "nārāyaṇaṁ puraskr̥tya vaikuṇṭham aparājitam\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 17
+  },
+  "03100018a": {
+    "text": {
+      "ascii": "tato devAH sametAs te tadocur madhusUdanam\n",
+      "ud": "ततो देवाः समेतास्ते तदोचुर्मधुसूदनम्\n",
+      "ur": "tato devāḥ sametās te tadocur madhusūdanam\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 18
+  },
+  "03100018c": {
+    "text": {
+      "ascii": "tvaM naH sraSTA ca pAtA ca bhartA ca jagataH prabho\n",
+      "ud": "त्वं नः स्रष्टा च पाता च भर्ता च जगतः प्रभो\n",
+      "ur": "tvaṁ naḥ sraṣṭā ca pātā ca bhartā ca jagataḥ prabho\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 18
+  },
+  "03100018e": {
+    "text": {
+      "ascii": "tvayA sRSTam idaM sarvaM yac ceGgaM yac ca neGgati\n",
+      "ud": "त्वया सृष्टमिदं सर्वं यच्चेङ्गं यच्च नेङ्गति\n",
+      "ur": "tvayā sr̥ṣṭam idaṁ sarvaṁ yac ceṅgaṁ yac ca neṅgati\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 18
+  },
+  "03100019a": {
+    "text": {
+      "ascii": "tvayA bhUmiH purA naSTA samudrAt puSkarekSaNa\n",
+      "ud": "त्वया भूमिः पुरा नष्टा समुद्रात्पुष्करेक्षण\n",
+      "ur": "tvayā bhūmiḥ purā naṣṭā samudrāt puṣkarekṣaṇa\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 19
+  },
+  "03100019c": {
+    "text": {
+      "ascii": "vArAhaM rUpam AsthAya jagadarthe samuddhRtA\n",
+      "ud": "वाराहं रूपमास्थाय जगदर्थे समुद्धृता\n",
+      "ur": "vārāhaṁ rūpam āsthāya jagadarthe samuddhr̥tā\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 19
+  },
+  "03100020a": {
+    "text": {
+      "ascii": "Adidaityo mahAvIryo hiraNyakazipus tvayA\n",
+      "ud": "आदिदैत्यो महावीर्यो हिरण्यकशिपुस्त्वया\n",
+      "ur": "ādidaityo mahāvīryo hiraṇyakaśipus tvayā\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 20
+  },
+  "03100020c": {
+    "text": {
+      "ascii": "nArasiMhaM vapuH kRtvA sUditaH puruSottama\n",
+      "ud": "नारसिंहं वपुः कृत्वा सूदितः पुरुषोत्तम\n",
+      "ur": "nārasiṁhaṁ vapuḥ kr̥tvā sūditaḥ puruṣottama\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 20
+  },
+  "03100021a": {
+    "text": {
+      "ascii": "avadhyaH sarvabhUtAnAM baliz cApi mahAsuraH\n",
+      "ud": "अवध्यः सर्वभूतानां बलिश्चापि महासुरः\n",
+      "ur": "avadhyaḥ sarvabhūtānāṁ baliś cāpi mahāsuraḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 21
+  },
+  "03100021c": {
+    "text": {
+      "ascii": "vAmanaM vapur Azritya trailokyAd bhraMzitas tvayA\n",
+      "ud": "वामनं वपुराश्रित्य त्रैलोक्याद्भ्रंशितस्त्वया\n",
+      "ur": "vāmanaṁ vapur āśritya trailokyād bhraṁśitas tvayā\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 21
+  },
+  "03100022a": {
+    "text": {
+      "ascii": "asuraz ca maheSvAso jambha ity abhivizrutaH\n",
+      "ud": "असुरश्च महेष्वासो जम्भ इत्यभिविश्रुतः\n",
+      "ur": "asuraś ca maheṣvāso jambha ity abhiviśrutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 22
+  },
+  "03100022c": {
+    "text": {
+      "ascii": "yajJakSobhakaraH krUras tvayaiva vinipAtitaH\n",
+      "ud": "यज्ञक्षोभकरः क्रूरस्त्वयैव विनिपातितः\n",
+      "ur": "yajñakṣobhakaraḥ krūras tvayaiva vinipātitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 22
+  },
+  "03100023a": {
+    "text": {
+      "ascii": "evamAdIni karmANi yeSAM saMkhyA na vidyate\n",
+      "ud": "एवमादीनि कर्माणि येषां संख्या न विद्यते\n",
+      "ur": "evamādīni karmāṇi yeṣāṁ saṁkhyā na vidyate\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 23
+  },
+  "03100023c": {
+    "text": {
+      "ascii": "asmAkaM bhayabhItAnAM tvaM gatir madhusUdana\n",
+      "ud": "अस्माकं भयभीतानां त्वं गतिर्मधुसूदन\n",
+      "ur": "asmākaṁ bhayabhītānāṁ tvaṁ gatir madhusūdana\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 23
+  },
+  "03100024a": {
+    "text": {
+      "ascii": "tasmAt tvAM deva deveza lokArthaM jJApayAmahe\n",
+      "ud": "तस्मात्त्वां देव देवेश लोकार्थं ज्ञापयामहे\n",
+      "ur": "tasmāt tvāṁ deva deveśa lokārthaṁ jñāpayāmahe\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 24
+  },
+  "03100024c": {
+    "text": {
+      "ascii": "rakSa lokAMz ca devAMz ca zakraM ca mahato bhayAt\n",
+      "ud": "रक्ष लोकांश्च देवांश्च शक्रं च महतो भयात्\n",
+      "ur": "rakṣa lokāṁś ca devāṁś ca śakraṁ ca mahato bhayāt\n"
+    },
+    "book": 3,
+    "chapter": 100,
+    "verse": 24
+  }
+}
