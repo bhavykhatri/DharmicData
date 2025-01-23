@@ -1,0 +1,602 @@
+{
+  "04027001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 1
+  },
+  "04027001a": {
+    "text": {
+      "ascii": "tataH zAMtanavo bhISmo bharatAnAM pitAmahaH\n",
+      "ud": "ततः शांतनवो भीष्मो भरतानां पितामहः\n",
+      "ur": "tataḥ śāṁtanavo bhīṣmo bharatānāṁ pitāmahaḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 1
+  },
+  "04027001c": {
+    "text": {
+      "ascii": "zrutavAn dezakAlajJas tattvajJaH sarvadharmavit\n",
+      "ud": "श्रुतवान्देशकालज्ञस्तत्त्वज्ञः सर्वधर्मवित्\n",
+      "ur": "śrutavān deśakālajñas tattvajñaḥ sarvadharmavit\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 1
+  },
+  "04027002a": {
+    "text": {
+      "ascii": "AcAryavAkyoparame tad vAkyam abhisaMdadhat\n",
+      "ud": "आचार्यवाक्योपरमे तद्वाक्यमभिसंदधत्\n",
+      "ur": "ācāryavākyoparame tad vākyam abhisaṁdadhat\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 2
+  },
+  "04027002c": {
+    "text": {
+      "ascii": "hitArthaM sa uvAcemAM bhAratIM bhAratAn prati\n",
+      "ud": "हितार्थं स उवाचेमां भारतीं भारतान्प्रति\n",
+      "ur": "hitārthaṁ sa uvācemāṁ bhāratīṁ bhāratān prati\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 2
+  },
+  "04027003a": {
+    "text": {
+      "ascii": "yudhiSThire samAsaktAM dharmajJe dharmasaMzritAm\n",
+      "ud": "युधिष्ठिरे समासक्तां धर्मज्ञे धर्मसंश्रिताम्\n",
+      "ur": "yudhiṣṭhire samāsaktāṁ dharmajñe dharmasaṁśritām\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 3
+  },
+  "04027003c": {
+    "text": {
+      "ascii": "asatsu durlabhAM nityaM satAM cAbhimatAM sadA\n",
+      "ud": "असत्सु दुर्लभां नित्यं सतां चाभिमतां सदा\n",
+      "ur": "asatsu durlabhāṁ nityaṁ satāṁ cābhimatāṁ sadā\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 3
+  },
+  "04027003e": {
+    "text": {
+      "ascii": "bhISmaH samavadat tatra giraM sAdhubhir arcitAm\n",
+      "ud": "भीष्मः समवदत्तत्र गिरं साधुभिरर्चिताम्\n",
+      "ur": "bhīṣmaḥ samavadat tatra giraṁ sādhubhir arcitām\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 3
+  },
+  "04027004a": {
+    "text": {
+      "ascii": "yathaiSa brAhmaNaH prAha droNaH sarvArthatattvavit\n",
+      "ud": "यथैष ब्राह्मणः प्राह द्रोणः सर्वार्थतत्त्ववित्\n",
+      "ur": "yathaiṣa brāhmaṇaḥ prāha droṇaḥ sarvārthatattvavit\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 4
+  },
+  "04027004c": {
+    "text": {
+      "ascii": "sarvalakSaNasaMpannA nAzaM nArhanti pANDavAH\n",
+      "ud": "सर्वलक्षणसंपन्ना नाशं नार्हन्ति पाण्डवाः\n",
+      "ur": "sarvalakṣaṇasaṁpannā nāśaṁ nārhanti pāṇḍavāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 4
+  },
+  "04027005a": {
+    "text": {
+      "ascii": "zrutavRttopasaMpannAH sAdhuvratasamanvitAH\n",
+      "ud": "श्रुतवृत्तोपसंपन्नाः साधुव्रतसमन्विताः\n",
+      "ur": "śrutavr̥ttopasaṁpannāḥ sādhuvratasamanvitāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 5
+  },
+  "04027005c": {
+    "text": {
+      "ascii": "vRddhAnuzAsane magnAH satyavrataparAyaNAH\n",
+      "ud": "वृद्धानुशासने मग्नाः सत्यव्रतपरायणाः\n",
+      "ur": "vr̥ddhānuśāsane magnāḥ satyavrataparāyaṇāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 5
+  },
+  "04027006a": {
+    "text": {
+      "ascii": "samayaM samayajJAs te pAlayantaH zucivratAH\n",
+      "ud": "समयं समयज्ञास्ते पालयन्तः शुचिव्रताः\n",
+      "ur": "samayaṁ samayajñās te pālayantaḥ śucivratāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 6
+  },
+  "04027006c": {
+    "text": {
+      "ascii": "nAvasIditum arhanti udvahantaH satAM dhuram\n",
+      "ud": "नावसीदितुमर्हन्ति उद्वहन्तः सतां धुरम्\n",
+      "ur": "nāvasīditum arhanti udvahantaḥ satāṁ dhuram\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 6
+  },
+  "04027007a": {
+    "text": {
+      "ascii": "dharmataz caiva guptAs te svavIryeNa ca pANDavAH\n",
+      "ud": "धर्मतश्चैव गुप्तास्ते स्ववीर्येण च पाण्डवाः\n",
+      "ur": "dharmataś caiva guptās te svavīryeṇa ca pāṇḍavāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 7
+  },
+  "04027007c": {
+    "text": {
+      "ascii": "na nAzam adhigaccheyur iti me dhIyate matiH\n",
+      "ud": "न नाशमधिगच्छेयुरिति मे धीयते मतिः\n",
+      "ur": "na nāśam adhigaccheyur iti me dhīyate matiḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 7
+  },
+  "04027008a": {
+    "text": {
+      "ascii": "tatra buddhiM praNeSyAmi pANDavAn prati bhArata\n",
+      "ud": "तत्र बुद्धिं प्रणेष्यामि पाण्डवान्प्रति भारत\n",
+      "ur": "tatra buddhiṁ praṇeṣyāmi pāṇḍavān prati bhārata\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 8
+  },
+  "04027008c": {
+    "text": {
+      "ascii": "na tu nItiH sunItasya zakyate 'nveSituM paraiH\n",
+      "ud": "न तु नीतिः सुनीतस्य शक्यतेऽन्वेषितुं परैः\n",
+      "ur": "na tu nītiḥ sunītasya śakyate ’nveṣituṁ paraiḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 8
+  },
+  "04027009a": {
+    "text": {
+      "ascii": "yat tu zakyam ihAsmAbhis tAn vai saMcintya pANDavAn\n",
+      "ud": "यत्तु शक्यमिहास्माभिस्तान्वै संचिन्त्य पाण्डवान्\n",
+      "ur": "yat tu śakyam ihāsmābhis tān vai saṁcintya pāṇḍavān\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 9
+  },
+  "04027009c": {
+    "text": {
+      "ascii": "buddhyA pravaktuM na drohAt pravakSyAmi nibodha tat\n",
+      "ud": "बुद्ध्या प्रवक्तुं न द्रोहात्प्रवक्ष्यामि निबोध तत्\n",
+      "ur": "buddhyā pravaktuṁ na drohāt pravakṣyāmi nibodha tat\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 9
+  },
+  "04027010a": {
+    "text": {
+      "ascii": "sA tv iyaM sAdhu vaktavyA na tv anItiH kathaM cana\n",
+      "ud": "सा त्वियं साधु वक्तव्या न त्वनीतिः कथंचन\n",
+      "ur": "sā tv iyaṁ sādhu vaktavyā na tv anītiḥ kathaṁ cana\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 10
+  },
+  "04027010c": {
+    "text": {
+      "ascii": "vRddhAnuzAsane tAta tiSThataH satyazIlinaH\n",
+      "ud": "वृद्धानुशासने तात तिष्ठतः सत्यशीलिनः\n",
+      "ur": "vr̥ddhānuśāsane tāta tiṣṭhataḥ satyaśīlinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 10
+  },
+  "04027011a": {
+    "text": {
+      "ascii": "avazyaM tv iha dhIreNa satAM madhye vivakSatA\n",
+      "ud": "अवश्यं त्विह धीरेण सतां मध्ये विवक्षता\n",
+      "ur": "avaśyaṁ tv iha dhīreṇa satāṁ madhye vivakṣatā\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 11
+  },
+  "04027011c": {
+    "text": {
+      "ascii": "yathAmati vivaktavyaM sarvazo dharmalipsayA\n",
+      "ud": "यथामति विवक्तव्यं सर्वशो धर्मलिप्सया\n",
+      "ur": "yathāmati vivaktavyaṁ sarvaśo dharmalipsayā\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 11
+  },
+  "04027012a": {
+    "text": {
+      "ascii": "tatra nAhaM tathA manye yathAyam itaro janaH\n",
+      "ud": "तत्र नाहं तथा मन्ये यथायमितरो जनः\n",
+      "ur": "tatra nāhaṁ tathā manye yathāyam itaro janaḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 12
+  },
+  "04027012c": {
+    "text": {
+      "ascii": "pure janapade vApi yatra rAjA yudhiSThiraH\n",
+      "ud": "पुरे जनपदे वापि यत्र राजा युधिष्ठिरः\n",
+      "ur": "pure janapade vāpi yatra rājā yudhiṣṭhiraḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 12
+  },
+  "04027013a": {
+    "text": {
+      "ascii": "nAsUyako na cApIrSur nAtivAdI na matsarI\n",
+      "ud": "नासूयको न चापीर्षुर्नातिवादी न मत्सरी\n",
+      "ur": "nāsūyako na cāpīrṣur nātivādī na matsarī\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 13
+  },
+  "04027013c": {
+    "text": {
+      "ascii": "bhaviSyati janas tatra svaM svaM dharmam anuvrataH\n",
+      "ud": "भविष्यति जनस्तत्र स्वं स्वं धर्ममनुव्रतः\n",
+      "ur": "bhaviṣyati janas tatra svaṁ svaṁ dharmam anuvrataḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 13
+  },
+  "04027014a": {
+    "text": {
+      "ascii": "brahmaghoSAz ca bhUyAMsaH pUrNAhutyas tathaiva ca\n",
+      "ud": "ब्रह्मघोषाश्च भूयांसः पूर्णाहुत्यस्तथैव च\n",
+      "ur": "brahmaghoṣāś ca bhūyāṁsaḥ pūrṇāhutyas tathaiva ca\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 14
+  },
+  "04027014c": {
+    "text": {
+      "ascii": "kratavaz ca bhaviSyanti bhUyAMso bhUridakSiNAH\n",
+      "ud": "क्रतवश्च भविष्यन्ति भूयांसो भूरिदक्षिणाः\n",
+      "ur": "kratavaś ca bhaviṣyanti bhūyāṁso bhūridakṣiṇāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 14
+  },
+  "04027015a": {
+    "text": {
+      "ascii": "sadA ca tatra parjanyaH samyag varSI na saMzayaH\n",
+      "ud": "सदा च तत्र पर्जन्यः सम्यग्वर्षी न संशयः\n",
+      "ur": "sadā ca tatra parjanyaḥ samyag varṣī na saṁśayaḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 15
+  },
+  "04027015c": {
+    "text": {
+      "ascii": "saMpannasasyA ca mahI nirItIkA bhaviSyati\n",
+      "ud": "संपन्नसस्या च मही निरीतीका भविष्यति\n",
+      "ur": "saṁpannasasyā ca mahī nirītīkā bhaviṣyati\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 15
+  },
+  "04027016a": {
+    "text": {
+      "ascii": "rasavanti ca dhAnyAni guNavanti phalAni ca\n",
+      "ud": "रसवन्ति च धान्यानि गुणवन्ति फलानि च\n",
+      "ur": "rasavanti ca dhānyāni guṇavanti phalāni ca\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 16
+  },
+  "04027016c": {
+    "text": {
+      "ascii": "gandhavanti ca mAlyAni zubhazabdA ca bhAratI\n",
+      "ud": "गन्धवन्ति च माल्यानि शुभशब्दा च भारती\n",
+      "ur": "gandhavanti ca mālyāni śubhaśabdā ca bhāratī\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 16
+  },
+  "04027017a": {
+    "text": {
+      "ascii": "vAyuz ca sukhasaMsparzo niSpratIpaM ca darzanam\n",
+      "ud": "वायुश्च सुखसंस्पर्शो निष्प्रतीपं च दर्शनम्\n",
+      "ur": "vāyuś ca sukhasaṁsparśo niṣpratīpaṁ ca darśanam\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 17
+  },
+  "04027017c": {
+    "text": {
+      "ascii": "bhayaM nAbhyAvizet tatra yatra rAjA yudhiSThiraH\n",
+      "ud": "भयं नाभ्याविशेत्तत्र यत्र राजा युधिष्ठिरः\n",
+      "ur": "bhayaṁ nābhyāviśet tatra yatra rājā yudhiṣṭhiraḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 17
+  },
+  "04027018a": {
+    "text": {
+      "ascii": "gAvaz ca bahulAs tatra na kRzA na ca durduhAH\n",
+      "ud": "गावश्च बहुलास्तत्र न कृशा न च दुर्दुहाः\n",
+      "ur": "gāvaś ca bahulās tatra na kr̥śā na ca durduhāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 18
+  },
+  "04027018c": {
+    "text": {
+      "ascii": "payAMsi dadhisarpIMSi rasavanti hitAni ca\n",
+      "ud": "पयांसि दधिसर्पींषि रसवन्ति हितानि च\n",
+      "ur": "payāṁsi dadhisarpīṁṣi rasavanti hitāni ca\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 18
+  },
+  "04027019a": {
+    "text": {
+      "ascii": "guNavanti ca pAnAni bhojyAni rasavanti ca\n",
+      "ud": "गुणवन्ति च पानानि भोज्यानि रसवन्ति च\n",
+      "ur": "guṇavanti ca pānāni bhojyāni rasavanti ca\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 19
+  },
+  "04027019c": {
+    "text": {
+      "ascii": "tatra deze bhaviSyanti yatra rAjA yudhiSThiraH\n",
+      "ud": "तत्र देशे भविष्यन्ति यत्र राजा युधिष्ठिरः\n",
+      "ur": "tatra deśe bhaviṣyanti yatra rājā yudhiṣṭhiraḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 19
+  },
+  "04027020a": {
+    "text": {
+      "ascii": "rasAH sparzAz ca gandhAz ca zabdAz cApi guNAnvitAH\n",
+      "ud": "रसाः स्पर्शाश्च गन्धाश्च शब्दाश्चापि गुणान्विताः\n",
+      "ur": "rasāḥ sparśāś ca gandhāś ca śabdāś cāpi guṇānvitāḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 20
+  },
+  "04027020c": {
+    "text": {
+      "ascii": "dRzyAni ca prasannAni yatra rAjA yudhiSThiraH\n",
+      "ud": "दृश्यानि च प्रसन्नानि यत्र राजा युधिष्ठिरः\n",
+      "ur": "dr̥śyāni ca prasannāni yatra rājā yudhiṣṭhiraḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 20
+  },
+  "04027021a": {
+    "text": {
+      "ascii": "svaiH svair guNaiH susaMyuktAs tasmin varSe trayodaze\n",
+      "ud": "स्वैः स्वैर्गुणैः सुसंयुक्तास्तस्मिन्वर्षे त्रयोदशे\n",
+      "ur": "svaiḥ svair guṇaiḥ susaṁyuktās tasmin varṣe trayodaśe\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 21
+  },
+  "04027021c": {
+    "text": {
+      "ascii": "deze tasmin bhaviSyanti tAta pANDavasaMyute\n",
+      "ud": "देशे तस्मिन्भविष्यन्ति तात पाण्डवसंयुते\n",
+      "ur": "deśe tasmin bhaviṣyanti tāta pāṇḍavasaṁyute\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 21
+  },
+  "04027022a": {
+    "text": {
+      "ascii": "saMprItimAJ janas tatra saMtuSTaH zucir avyayaH\n",
+      "ud": "संप्रीतिमाञ्जनस्तत्र संतुष्टः शुचिरव्ययः\n",
+      "ur": "saṁprītimāñ janas tatra saṁtuṣṭaḥ śucir avyayaḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 22
+  },
+  "04027022c": {
+    "text": {
+      "ascii": "devatAtithipUjAsu sarvabhUtAnurAgavAn\n",
+      "ud": "देवतातिथिपूजासु सर्वभूतानुरागवान्\n",
+      "ur": "devatātithipūjāsu sarvabhūtānurāgavān\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 22
+  },
+  "04027023a": {
+    "text": {
+      "ascii": "iSTadAno mahotsAhaH zazvad dharmaparAyaNaH\n",
+      "ud": "इष्टदानो महोत्साहः शश्वद्धर्मपरायणः\n",
+      "ur": "iṣṭadāno mahotsāhaḥ śaśvad dharmaparāyaṇaḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 23
+  },
+  "04027023c": {
+    "text": {
+      "ascii": "azubhadviT zubhaprepsur nityayajJaH zubhavrataH\n",
+      "ud": "अशुभद्विट्शुभप्रेप्सुर्नित्ययज्ञः शुभव्रतः\n",
+      "ur": "aśubhadviṭ śubhaprepsur nityayajñaḥ śubhavrataḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 23
+  },
+  "04027023e": {
+    "text": {
+      "ascii": "bhaviSyati janas tatra yatra rAjA yudhiSThiraH\n",
+      "ud": "भविष्यति जनस्तत्र यत्र राजा युधिष्ठिरः\n",
+      "ur": "bhaviṣyati janas tatra yatra rājā yudhiṣṭhiraḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 23
+  },
+  "04027024a": {
+    "text": {
+      "ascii": "tyaktavAkyAnRtas tAta zubhakalyANamaGgalaH\n",
+      "ud": "त्यक्तवाक्यानृतस्तात शुभकल्याणमङ्गलः\n",
+      "ur": "tyaktavākyānr̥tas tāta śubhakalyāṇamaṅgalaḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 24
+  },
+  "04027024c": {
+    "text": {
+      "ascii": "zubhArthepsuH zubhamatir yatra rAjA yudhiSThiraH\n",
+      "ud": "शुभार्थेप्सुः शुभमतिर्यत्र राजा युधिष्ठिरः\n",
+      "ur": "śubhārthepsuḥ śubhamatir yatra rājā yudhiṣṭhiraḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 24
+  },
+  "04027024e": {
+    "text": {
+      "ascii": "bhaviSyati janas tatra nityaM ceSTapriyavrataH\n",
+      "ud": "भविष्यति जनस्तत्र नित्यं चेष्टप्रियव्रतः\n",
+      "ur": "bhaviṣyati janas tatra nityaṁ ceṣṭapriyavrataḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 24
+  },
+  "04027025a": {
+    "text": {
+      "ascii": "dharmAtmA sa tadAdRzyaH so 'pi tAta dvijAtibhiH\n",
+      "ud": "धर्मात्मा स तदादृश्यः सोऽपि तात द्विजातिभिः\n",
+      "ur": "dharmātmā sa tadādr̥śyaḥ so ’pi tāta dvijātibhiḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 25
+  },
+  "04027025c": {
+    "text": {
+      "ascii": "kiM punaH prAkRtaiH pArthaH zakyo vijJAtum antataH\n",
+      "ud": "किं पुनः प्राकृतैः पार्थः शक्यो विज्ञातुमन्ततः\n",
+      "ur": "kiṁ punaḥ prākr̥taiḥ pārthaḥ śakyo vijñātum antataḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 25
+  },
+  "04027026a": {
+    "text": {
+      "ascii": "yasmin satyaM dhRtir dAnaM parA zAntir dhruvA kSamA\n",
+      "ud": "यस्मिन्सत्यं धृतिर्दानं परा शान्तिर्ध्रुवा क्षमा\n",
+      "ur": "yasmin satyaṁ dhr̥tir dānaṁ parā śāntir dhruvā kṣamā\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 26
+  },
+  "04027026c": {
+    "text": {
+      "ascii": "hrIH zrIH kIrtiH paraM teja AnRzaMsyam athArjavam\n",
+      "ud": "ह्रीः श्रीः कीर्तिः परं तेज आनृशंस्यमथार्जवम्\n",
+      "ur": "hrīḥ śrīḥ kīrtiḥ paraṁ teja ānr̥śaṁsyam athārjavam\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 26
+  },
+  "04027027a": {
+    "text": {
+      "ascii": "tasmAt tatra nivAsaM tu channaM satreNa dhImataH\n",
+      "ud": "तस्मात्तत्र निवासं तु छन्नं सत्रेण धीमतः\n",
+      "ur": "tasmāt tatra nivāsaṁ tu channaṁ satreṇa dhīmataḥ\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 27
+  },
+  "04027027c": {
+    "text": {
+      "ascii": "gatiM vA paramAM tasya notsahe vaktum anyathA\n",
+      "ud": "गतिं वा परमां तस्य नोत्सहे वक्तुमन्यथा\n",
+      "ur": "gatiṁ vā paramāṁ tasya notsahe vaktum anyathā\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 27
+  },
+  "04027028a": {
+    "text": {
+      "ascii": "evam etat tu saMcintya yatkRtaM manyase hitam\n",
+      "ud": "एवमेतत्तु संचिन्त्य यत्कृतं मन्यसे हितम्\n",
+      "ur": "evam etat tu saṁcintya yatkr̥taṁ manyase hitam\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 28
+  },
+  "04027028c": {
+    "text": {
+      "ascii": "tat kSipraM kuru kauravya yady evaM zraddadhAsi me\n",
+      "ud": "तत्क्षिप्रं कुरु कौरव्य यद्येवं श्रद्दधासि मे\n",
+      "ur": "tat kṣipraṁ kuru kauravya yady evaṁ śraddadhāsi me\n"
+    },
+    "book": 4,
+    "chapter": 27,
+    "verse": 28
+  }
+}

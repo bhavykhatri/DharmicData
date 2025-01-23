@@ -1,0 +1,622 @@
+{
+  "04052001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 1
+  },
+  "04052001a": {
+    "text": {
+      "ascii": "etasminn antare tatra mahAvIryaparAkramaH\n",
+      "ud": "एतस्मिन्नन्तरे तत्र महावीर्यपराक्रमः\n",
+      "ur": "etasminn antare tatra mahāvīryaparākramaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 1
+  },
+  "04052001c": {
+    "text": {
+      "ascii": "AjagAma mahAsattvaH kRpaH zastrabhRtAM varaH\n",
+      "ud": "आजगाम महासत्त्वः कृपः शस्त्रभृतां वरः\n",
+      "ur": "ājagāma mahāsattvaḥ kr̥paḥ śastrabhr̥tāṁ varaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 1
+  },
+  "04052001e": {
+    "text": {
+      "ascii": "arjunaM prati saMyoddhuM yuddhArthI sa mahArathaH\n",
+      "ud": "अर्जुनं प्रति संयोद्धुं युद्धार्थी स महारथः\n",
+      "ur": "arjunaṁ prati saṁyoddhuṁ yuddhārthī sa mahārathaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 1
+  },
+  "04052002a": {
+    "text": {
+      "ascii": "tau rathau sUryasaMkAzau yotsyamAnau mahAbalau\n",
+      "ud": "तौ रथौ सूर्यसंकाशौ योत्स्यमानौ महाबलौ\n",
+      "ur": "tau rathau sūryasaṁkāśau yotsyamānau mahābalau\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 2
+  },
+  "04052002c": {
+    "text": {
+      "ascii": "zAradAv iva jImUtau vyarocetAM vyavasthitau\n",
+      "ud": "शारदाविव जीमूतौ व्यरोचेतां व्यवस्थितौ\n",
+      "ur": "śāradāv iva jīmūtau vyarocetāṁ vyavasthitau\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 2
+  },
+  "04052003a": {
+    "text": {
+      "ascii": "pArtho 'pi vizrutaM loke gANDIvaM paramAyudham\n",
+      "ud": "पार्थोऽपि विश्रुतं लोके गाण्डीवं परमायुधम्\n",
+      "ur": "pārtho ’pi viśrutaṁ loke gāṇḍīvaṁ paramāyudham\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 3
+  },
+  "04052003c": {
+    "text": {
+      "ascii": "vikRSya cikSepa bahUn nArAcAn marmabhedinaH\n",
+      "ud": "विकृष्य चिक्षेप बहून्नाराचान्मर्मभेदिनः\n",
+      "ur": "vikr̥ṣya cikṣepa bahūn nārācān marmabhedinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 3
+  },
+  "04052004a": {
+    "text": {
+      "ascii": "tAn aprAptAJ zitair bANair nArAcAn raktabhojanAn\n",
+      "ud": "तानप्राप्ताञ्शितैर्बाणैर्नाराचान्रक्तभोजनान्\n",
+      "ur": "tān aprāptāñ śitair bāṇair nārācān raktabhojanān\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 4
+  },
+  "04052004c": {
+    "text": {
+      "ascii": "kRpaz ciccheda pArthasya zatazo 'tha sahasrazaH\n",
+      "ud": "कृपश्चिच्छेद पार्थस्य शतशोऽथ सहस्रशः\n",
+      "ur": "kr̥paś ciccheda pārthasya śataśo ’tha sahasraśaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 4
+  },
+  "04052005a": {
+    "text": {
+      "ascii": "tataH pArthaz ca saMkruddhaz citrAn mArgAn pradarzayan\n",
+      "ud": "ततः पार्थश्च संक्रुद्धश्चित्रान्मार्गान्प्रदर्शयन्\n",
+      "ur": "tataḥ pārthaś ca saṁkruddhaś citrān mārgān pradarśayan\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 5
+  },
+  "04052005c": {
+    "text": {
+      "ascii": "dizaH saMchAdayan bANaiH pradizaz ca mahArathaH\n",
+      "ud": "दिशः संछादयन्बाणैः प्रदिशश्च महारथः\n",
+      "ur": "diśaḥ saṁchādayan bāṇaiḥ pradiśaś ca mahārathaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 5
+  },
+  "04052006a": {
+    "text": {
+      "ascii": "ekacchAyam ivAkAzaM prakurvan sarvataH prabhuH\n",
+      "ud": "एकच्छायमिवाकाशं प्रकुर्वन्सर्वतः प्रभुः\n",
+      "ur": "ekacchāyam ivākāśaṁ prakurvan sarvataḥ prabhuḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 6
+  },
+  "04052006c": {
+    "text": {
+      "ascii": "pracchAdayad ameyAtmA pArthaH zarazataiH kRpam\n",
+      "ud": "प्रच्छादयदमेयात्मा पार्थः शरशतैः कृपम्\n",
+      "ur": "pracchādayad ameyātmā pārthaḥ śaraśataiḥ kr̥pam\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 6
+  },
+  "04052007a": {
+    "text": {
+      "ascii": "sa zarair arpitaH kruddhaH zitair agnizikhopamaiH\n",
+      "ud": "स शरैरर्पितः क्रुद्धः शितैरग्निशिखोपमैः\n",
+      "ur": "sa śarair arpitaḥ kruddhaḥ śitair agniśikhopamaiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 7
+  },
+  "04052007c": {
+    "text": {
+      "ascii": "tUrNaM zarasahasreNa pArtham apratimaujasam\n",
+      "ud": "तूर्णं शरसहस्रेण पार्थमप्रतिमौजसम्\n",
+      "ur": "tūrṇaṁ śarasahasreṇa pārtham apratimaujasam\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 7
+  },
+  "04052007e": {
+    "text": {
+      "ascii": "arpayitvA mahAtmAnaM nanAda samare kRpaH\n",
+      "ud": "अर्पयित्वा महात्मानं ननाद समरे कृपः\n",
+      "ur": "arpayitvā mahātmānaṁ nanāda samare kr̥paḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 7
+  },
+  "04052008a": {
+    "text": {
+      "ascii": "tataH kanakapuGkhAgrair vIraH saMnataparvabhiH\n",
+      "ud": "ततः कनकपुङ्खाग्रैर्वीरः संनतपर्वभिः\n",
+      "ur": "tataḥ kanakapuṅkhāgrair vīraḥ saṁnataparvabhiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 8
+  },
+  "04052008c": {
+    "text": {
+      "ascii": "tvaran gANDIvanirmuktair arjunas tasya vAjinaH\n",
+      "ud": "त्वरन्गाण्डीवनिर्मुक्तैरर्जुनस्तस्य वाजिनः\n",
+      "ur": "tvaran gāṇḍīvanirmuktair arjunas tasya vājinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 8
+  },
+  "04052008e": {
+    "text": {
+      "ascii": "caturbhiz caturas tIkSNair avidhyat parameSubhiH\n",
+      "ud": "चतुर्भिश्चतुरस्तीक्ष्णैरविध्यत्परमेषुभिः\n",
+      "ur": "caturbhiś caturas tīkṣṇair avidhyat parameṣubhiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 8
+  },
+  "04052009a": {
+    "text": {
+      "ascii": "te hayA nizitair viddhA jvaladbhir iva pannagaiH\n",
+      "ud": "ते हया निशितैर्विद्धा ज्वलद्भिरिव पन्नगैः\n",
+      "ur": "te hayā niśitair viddhā jvaladbhir iva pannagaiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 9
+  },
+  "04052009c": {
+    "text": {
+      "ascii": "utpetuH sahasA sarve kRpaH sthAnAd athAcyavat\n",
+      "ud": "उत्पेतुः सहसा सर्वे कृपः स्थानादथाच्यवत्\n",
+      "ur": "utpetuḥ sahasā sarve kr̥paḥ sthānād athācyavat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 9
+  },
+  "04052010a": {
+    "text": {
+      "ascii": "cyutaM tu gautamaM sthAnAt samIkSya kurunandanaH\n",
+      "ud": "च्युतं तु गौतमं स्थानात्समीक्ष्य कुरुनन्दनः\n",
+      "ur": "cyutaṁ tu gautamaṁ sthānāt samīkṣya kurunandanaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 10
+  },
+  "04052010c": {
+    "text": {
+      "ascii": "nAvidhyat paravIraghno rakSamANo 'sya gauravam\n",
+      "ud": "नाविध्यत्परवीरघ्नो रक्षमाणोऽस्य गौरवम्\n",
+      "ur": "nāvidhyat paravīraghno rakṣamāṇo ’sya gauravam\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 10
+  },
+  "04052011a": {
+    "text": {
+      "ascii": "sa tu labdhvA punaH sthAnaM gautamaH savyasAcinam\n",
+      "ud": "स तु लब्ध्वा पुनः स्थानं गौतमः सव्यसाचिनम्\n",
+      "ur": "sa tu labdhvā punaḥ sthānaṁ gautamaḥ savyasācinam\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 11
+  },
+  "04052011c": {
+    "text": {
+      "ascii": "vivyAdha dazabhir bANais tvaritaH kaGkapatribhiH\n",
+      "ud": "विव्याध दशभिर्बाणैस्त्वरितः कङ्कपत्रिभिः\n",
+      "ur": "vivyādha daśabhir bāṇais tvaritaḥ kaṅkapatribhiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 11
+  },
+  "04052012a": {
+    "text": {
+      "ascii": "tataH pArtho dhanus tasya bhallena nizitena ca\n",
+      "ud": "ततः पार्थो धनुस्तस्य भल्लेन निशितेन च\n",
+      "ur": "tataḥ pārtho dhanus tasya bhallena niśitena ca\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 12
+  },
+  "04052012c": {
+    "text": {
+      "ascii": "cicchedaikena bhUyaz ca hastAc cApam athAharat\n",
+      "ud": "चिच्छेदैकेन भूयश्च हस्ताच्चापमथाहरत्\n",
+      "ur": "cicchedaikena bhūyaś ca hastāc cāpam athāharat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 12
+  },
+  "04052013a": {
+    "text": {
+      "ascii": "athAsya kavacaM bANair nizitair marmabhedibhiH\n",
+      "ud": "अथास्य कवचं बाणैर्निशितैर्मर्मभेदिभिः\n",
+      "ur": "athāsya kavacaṁ bāṇair niśitair marmabhedibhiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 13
+  },
+  "04052013c": {
+    "text": {
+      "ascii": "vyadhaman na ca pArtho 'sya zarIram avapIDayat\n",
+      "ud": "व्यधमन्न च पार्थोऽस्य शरीरमवपीडयत्\n",
+      "ur": "vyadhaman na ca pārtho ’sya śarīram avapīḍayat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 13
+  },
+  "04052014a": {
+    "text": {
+      "ascii": "tasya nirmucyamAnasya kavacAt kAya Ababhau\n",
+      "ud": "तस्य निर्मुच्यमानस्य कवचात्काय आबभौ\n",
+      "ur": "tasya nirmucyamānasya kavacāt kāya ābabhau\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 14
+  },
+  "04052014c": {
+    "text": {
+      "ascii": "samaye mucyamAnasya sarpasyeva tanur yathA\n",
+      "ud": "समये मुच्यमानस्य सर्पस्येव तनुर्यथा\n",
+      "ur": "samaye mucyamānasya sarpasyeva tanur yathā\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 14
+  },
+  "04052015a": {
+    "text": {
+      "ascii": "chinne dhanuSi pArthena so 'nyad AdAya kArmukam\n",
+      "ud": "छिन्ने धनुषि पार्थेन सोऽन्यदादाय कार्मुकम्\n",
+      "ur": "chinne dhanuṣi pārthena so ’nyad ādāya kārmukam\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 15
+  },
+  "04052015c": {
+    "text": {
+      "ascii": "cakAra gautamaH sajyaM tad adbhutam ivAbhavat\n",
+      "ud": "चकार गौतमः सज्यं तदद्भुतमिवाभवत्\n",
+      "ur": "cakāra gautamaḥ sajyaṁ tad adbhutam ivābhavat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 15
+  },
+  "04052016a": {
+    "text": {
+      "ascii": "sa tad apy asya kaunteyaz ciccheda nataparvaNA\n",
+      "ud": "स तदप्यस्य कौन्तेयश्चिच्छेद नतपर्वणा\n",
+      "ur": "sa tad apy asya kaunteyaś ciccheda nataparvaṇā\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 16
+  },
+  "04052016c": {
+    "text": {
+      "ascii": "evam anyAni cApAni bahUni kRtahastavat\n",
+      "ud": "एवमन्यानि चापानि बहूनि कृतहस्तवत्\n",
+      "ur": "evam anyāni cāpāni bahūni kr̥tahastavat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 16
+  },
+  "04052016e": {
+    "text": {
+      "ascii": "zAradvatasya ciccheda pANDavaH paravIrahA\n",
+      "ud": "शारद्वतस्य चिच्छेद पाण्डवः परवीरहा\n",
+      "ur": "śāradvatasya ciccheda pāṇḍavaḥ paravīrahā\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 16
+  },
+  "04052017a": {
+    "text": {
+      "ascii": "sa chinnadhanur AdAya atha zaktiM pratApavAn\n",
+      "ud": "स छिन्नधनुरादाय अथ शक्तिं प्रतापवान्\n",
+      "ur": "sa chinnadhanur ādāya atha śaktiṁ pratāpavān\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 17
+  },
+  "04052017c": {
+    "text": {
+      "ascii": "prAhiNot pANDuputrAya pradIptAm azanIm iva\n",
+      "ud": "प्राहिणोत्पाण्डुपुत्राय प्रदीप्तामशनीमिव\n",
+      "ur": "prāhiṇot pāṇḍuputrāya pradīptām aśanīm iva\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 17
+  },
+  "04052018a": {
+    "text": {
+      "ascii": "tAm arjunas tadAyAntIM zaktiM hemavibhUSitAm\n",
+      "ud": "तामर्जुनस्तदायान्तीं शक्तिं हेमविभूषिताम्\n",
+      "ur": "tām arjunas tadāyāntīṁ śaktiṁ hemavibhūṣitām\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 18
+  },
+  "04052018c": {
+    "text": {
+      "ascii": "viyadgatAM maholkAbhAM ciccheda dazabhiH zaraiH\n",
+      "ud": "वियद्गतां महोल्काभां चिच्छेद दशभिः शरैः\n",
+      "ur": "viyadgatāṁ maholkābhāṁ ciccheda daśabhiḥ śaraiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 18
+  },
+  "04052018e": {
+    "text": {
+      "ascii": "sApatad dazadhA chinnA bhUmau pArthena dhImatA\n",
+      "ud": "सापतद्दशधा छिन्ना भूमौ पार्थेन धीमता\n",
+      "ur": "sāpatad daśadhā chinnā bhūmau pārthena dhīmatā\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 18
+  },
+  "04052019a": {
+    "text": {
+      "ascii": "yugamadhye tu bhallais tu tataH sa sadhanuH kRpaH\n",
+      "ud": "युगमध्ये तु भल्लैस्तु ततः स सधनुः कृपः\n",
+      "ur": "yugamadhye tu bhallais tu tataḥ sa sadhanuḥ kr̥paḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 19
+  },
+  "04052019c": {
+    "text": {
+      "ascii": "tam Azu nizitaiH pArthaM bibheda dazabhiH zaraiH\n",
+      "ud": "तमाशु निशितैः पार्थं बिभेद दशभिः शरैः\n",
+      "ur": "tam āśu niśitaiḥ pārthaṁ bibheda daśabhiḥ śaraiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 19
+  },
+  "04052020a": {
+    "text": {
+      "ascii": "tataH pArtho mahAtejA vizikhAn agnitejasaH\n",
+      "ud": "ततः पार्थो महातेजा विशिखानग्नितेजसः\n",
+      "ur": "tataḥ pārtho mahātejā viśikhān agnitejasaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 20
+  },
+  "04052020c": {
+    "text": {
+      "ascii": "cikSepa samare kruddhas trayodaza zilAzitAn\n",
+      "ud": "चिक्षेप समरे क्रुद्धस्त्रयोदश शिलाशितान्\n",
+      "ur": "cikṣepa samare kruddhas trayodaśa śilāśitān\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 20
+  },
+  "04052021a": {
+    "text": {
+      "ascii": "athAsya yugam ekena caturbhiz caturo hayAn\n",
+      "ud": "अथास्य युगमेकेन चतुर्भिश्चतुरो हयान्\n",
+      "ur": "athāsya yugam ekena caturbhiś caturo hayān\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 21
+  },
+  "04052021c": {
+    "text": {
+      "ascii": "SaSThena ca ziraH kAyAc chareNa rathasAratheH\n",
+      "ud": "षष्ठेन च शिरः कायाच्छरेण रथसारथेः\n",
+      "ur": "ṣaṣṭhena ca śiraḥ kāyāc chareṇa rathasāratheḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 21
+  },
+  "04052022a": {
+    "text": {
+      "ascii": "tribhis triveNuM samare dvAbhyAm akSau mahAbalaH\n",
+      "ud": "त्रिभिस्त्रिवेणुं समरे द्वाभ्यामक्षौ महाबलः\n",
+      "ur": "tribhis triveṇuṁ samare dvābhyām akṣau mahābalaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 22
+  },
+  "04052022c": {
+    "text": {
+      "ascii": "dvAdazena tu bhallena cakartAsya dhvajaM tathA\n",
+      "ud": "द्वादशेन तु भल्लेन चकर्तास्य ध्वजं तथा\n",
+      "ur": "dvādaśena tu bhallena cakartāsya dhvajaṁ tathā\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 22
+  },
+  "04052023a": {
+    "text": {
+      "ascii": "tato vajranikAzena phalgunaH prahasann iva\n",
+      "ud": "ततो वज्रनिकाशेन फल्गुनः प्रहसन्निव\n",
+      "ur": "tato vajranikāśena phalgunaḥ prahasann iva\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 23
+  },
+  "04052023c": {
+    "text": {
+      "ascii": "trayodazenendrasamaH kRpaM vakSasy atADayat\n",
+      "ud": "त्रयोदशेनेन्द्रसमः कृपं वक्षस्यताडयत्\n",
+      "ur": "trayodaśenendrasamaḥ kr̥paṁ vakṣasy atāḍayat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 23
+  },
+  "04052024a": {
+    "text": {
+      "ascii": "sa chinnadhanvA viratho hatAzvo hatasArathiH\n",
+      "ud": "स छिन्नधन्वा विरथो हताश्वो हतसारथिः\n",
+      "ur": "sa chinnadhanvā viratho hatāśvo hatasārathiḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 24
+  },
+  "04052024c": {
+    "text": {
+      "ascii": "gadApANir avaplutya tUrNaM cikSepa tAM gadAm\n",
+      "ud": "गदापाणिरवप्लुत्य तूर्णं चिक्षेप तां गदाम्\n",
+      "ur": "gadāpāṇir avaplutya tūrṇaṁ cikṣepa tāṁ gadām\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 24
+  },
+  "04052025a": {
+    "text": {
+      "ascii": "sA tu muktA gadA gurvI kRpeNa supariSkRtA\n",
+      "ud": "सा तु मुक्ता गदा गुर्वी कृपेण सुपरिष्कृता\n",
+      "ur": "sā tu muktā gadā gurvī kr̥peṇa supariṣkr̥tā\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 25
+  },
+  "04052025c": {
+    "text": {
+      "ascii": "arjunena zarair nunnA pratimArgam athAgamat\n",
+      "ud": "अर्जुनेन शरैर्नुन्ना प्रतिमार्गमथागमत्\n",
+      "ur": "arjunena śarair nunnā pratimārgam athāgamat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 25
+  },
+  "04052026a": {
+    "text": {
+      "ascii": "tato yodhAH parIpsantaH zAradvatam amarSaNam\n",
+      "ud": "ततो योधाः परीप्सन्तः शारद्वतममर्षणम्\n",
+      "ur": "tato yodhāḥ parīpsantaḥ śāradvatam amarṣaṇam\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 26
+  },
+  "04052026c": {
+    "text": {
+      "ascii": "sarvataH samare pArthaM zaravarSair avAkiran\n",
+      "ud": "सर्वतः समरे पार्थं शरवर्षैरवाकिरन्\n",
+      "ur": "sarvataḥ samare pārthaṁ śaravarṣair avākiran\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 26
+  },
+  "04052027a": {
+    "text": {
+      "ascii": "tato virATasya sutaH savyam AvRtya vAjinaH\n",
+      "ud": "ततो विराटस्य सुतः सव्यमावृत्य वाजिनः\n",
+      "ur": "tato virāṭasya sutaḥ savyam āvr̥tya vājinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 27
+  },
+  "04052027c": {
+    "text": {
+      "ascii": "yamakaM maNDalaM kRtvA tAn yodhAn pratyavArayat\n",
+      "ud": "यमकं मण्डलं कृत्वा तान्योधान्प्रत्यवारयत्\n",
+      "ur": "yamakaṁ maṇḍalaṁ kr̥tvā tān yodhān pratyavārayat\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 27
+  },
+  "04052028a": {
+    "text": {
+      "ascii": "tataH kRpam upAdAya virathaM te nararSabhAH\n",
+      "ud": "ततः कृपमुपादाय विरथं ते नरर्षभाः\n",
+      "ur": "tataḥ kr̥pam upādāya virathaṁ te nararṣabhāḥ\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 28
+  },
+  "04052028c": {
+    "text": {
+      "ascii": "apAjahrur mahAvegAH kuntIputrAd dhanaMjayAt\n",
+      "ud": "अपाजह्रुर्महावेगाः कुन्तीपुत्राद्धनंजयात्\n",
+      "ur": "apājahrur mahāvegāḥ kuntīputrād dhanaṁjayāt\n"
+    },
+    "book": 4,
+    "chapter": 52,
+    "verse": 28
+  }
+}

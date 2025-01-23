@@ -1,0 +1,562 @@
+{
+  "04041001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 1
+  },
+  "04041001a": {
+    "text": {
+      "ascii": "uttaraM sArathiM kRtvA zamIM kRtvA pradakSiNam\n",
+      "ud": "उत्तरं सारथिं कृत्वा शमीं कृत्वा प्रदक्षिणम्\n",
+      "ur": "uttaraṁ sārathiṁ kr̥tvā śamīṁ kr̥tvā pradakṣiṇam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 1
+  },
+  "04041001c": {
+    "text": {
+      "ascii": "AyudhaM sarvam AdAya tataH prAyAd dhanaMjayaH\n",
+      "ud": "आयुधं सर्वमादाय ततः प्रायाद्धनंजयः\n",
+      "ur": "āyudhaṁ sarvam ādāya tataḥ prāyād dhanaṁjayaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 1
+  },
+  "04041002a": {
+    "text": {
+      "ascii": "dhvajaM siMhaM rathAt tasmAd apanIya mahArathaH\n",
+      "ud": "ध्वजं सिंहं रथात्तस्मादपनीय महारथः\n",
+      "ur": "dhvajaṁ siṁhaṁ rathāt tasmād apanīya mahārathaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 2
+  },
+  "04041002c": {
+    "text": {
+      "ascii": "praNidhAya zamImUle prAyAd uttarasArathiH\n",
+      "ud": "प्रणिधाय शमीमूले प्रायादुत्तरसारथिः\n",
+      "ur": "praṇidhāya śamīmūle prāyād uttarasārathiḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 2
+  },
+  "04041003a": {
+    "text": {
+      "ascii": "daivIM mAyAM rathe yuktvA vihitAM vizvakarmaNA\n",
+      "ud": "दैवीं मायां रथे युक्त्वा विहितां विश्वकर्मणा\n",
+      "ur": "daivīṁ māyāṁ rathe yuktvā vihitāṁ viśvakarmaṇā\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 3
+  },
+  "04041003c": {
+    "text": {
+      "ascii": "kAJcanaM siMhalAGgUlaM dhvajaM vAnaralakSaNam\n",
+      "ud": "काञ्चनं सिंहलाङ्गूलं ध्वजं वानरलक्षणम्\n",
+      "ur": "kāñcanaṁ siṁhalāṅgūlaṁ dhvajaṁ vānaralakṣaṇam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 3
+  },
+  "04041004a": {
+    "text": {
+      "ascii": "manasA cintayAm Asa prasAdaM pAvakasya ca\n",
+      "ud": "मनसा चिन्तयामास प्रसादं पावकस्य च\n",
+      "ur": "manasā cintayām āsa prasādaṁ pāvakasya ca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 4
+  },
+  "04041004c": {
+    "text": {
+      "ascii": "sa ca tac cintitaM jJAtvA dhvaje bhUtAny acodayat\n",
+      "ud": "स च तच्चिन्तितं ज्ञात्वा ध्वजे भूतान्यचोदयत्\n",
+      "ur": "sa ca tac cintitaṁ jñātvā dhvaje bhūtāny acodayat\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 4
+  },
+  "04041005a": {
+    "text": {
+      "ascii": "sapatAkaM vicitrAGgaM sopAsaGgaM mahArathaH\n",
+      "ud": "सपताकं विचित्राङ्गं सोपासङ्गं महारथः\n",
+      "ur": "sapatākaṁ vicitrāṅgaṁ sopāsaṅgaṁ mahārathaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 5
+  },
+  "04041005c": {
+    "text": {
+      "ascii": "ratham AsthAya bIbhatsuH kaunteyaH zvetavAhanaH\n",
+      "ud": "रथमास्थाय बीभत्सुः कौन्तेयः श्वेतवाहनः\n",
+      "ur": "ratham āsthāya bībhatsuḥ kaunteyaḥ śvetavāhanaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 5
+  },
+  "04041006a": {
+    "text": {
+      "ascii": "baddhAsiH satanutrANaH pragRhItazarAsanaH\n",
+      "ud": "बद्धासिः सतनुत्राणः प्रगृहीतशरासनः\n",
+      "ur": "baddhāsiḥ satanutrāṇaḥ pragr̥hītaśarāsanaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 6
+  },
+  "04041006c": {
+    "text": {
+      "ascii": "tataH prAyAd udIcIM sa kapipravaraketanaH\n",
+      "ud": "ततः प्रायादुदीचीं स कपिप्रवरकेतनः\n",
+      "ur": "tataḥ prāyād udīcīṁ sa kapipravaraketanaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 6
+  },
+  "04041007a": {
+    "text": {
+      "ascii": "svanavantaM mahAzaGkhaM balavAn arimardanaH\n",
+      "ud": "स्वनवन्तं महाशङ्खं बलवानरिमर्दनः\n",
+      "ur": "svanavantaṁ mahāśaṅkhaṁ balavān arimardanaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 7
+  },
+  "04041007c": {
+    "text": {
+      "ascii": "prAdhamad balam AsthAya dviSatAM lomaharSaNam\n",
+      "ud": "प्राधमद्बलमास्थाय द्विषतां लोमहर्षणम्\n",
+      "ur": "prādhamad balam āsthāya dviṣatāṁ lomaharṣaṇam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 7
+  },
+  "04041008a": {
+    "text": {
+      "ascii": "tatas te javanA dhuryA jAnubhyAm agaman mahIm\n",
+      "ud": "ततस्ते जवना धुर्या जानुभ्यामगमन्महीम्\n",
+      "ur": "tatas te javanā dhuryā jānubhyām agaman mahīm\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 8
+  },
+  "04041008c": {
+    "text": {
+      "ascii": "uttaraz cApi saMtrasto rathopastha upAvizat\n",
+      "ud": "उत्तरश्चापि संत्रस्तो रथोपस्थ उपाविशत्\n",
+      "ur": "uttaraś cāpi saṁtrasto rathopastha upāviśat\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 8
+  },
+  "04041009a": {
+    "text": {
+      "ascii": "saMsthApya cAzvAn kaunteyaH samudyamya ca razmibhiH\n",
+      "ud": "संस्थाप्य चाश्वान्कौन्तेयः समुद्यम्य च रश्मिभिः\n",
+      "ur": "saṁsthāpya cāśvān kaunteyaḥ samudyamya ca raśmibhiḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 9
+  },
+  "04041009c": {
+    "text": {
+      "ascii": "uttaraM ca pariSvajya samAzvAsayad arjunaH\n",
+      "ud": "उत्तरं च परिष्वज्य समाश्वासयदर्जुनः\n",
+      "ur": "uttaraṁ ca pariṣvajya samāśvāsayad arjunaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 9
+  },
+  "04041010a": {
+    "text": {
+      "ascii": "mA bhais tvaM rAjaputrAgrya kSatriyo 'si paraMtapa\n",
+      "ud": "मा भैस्त्वं राजपुत्राग्र्य क्षत्रियोऽसि परंतप\n",
+      "ur": "mā bhais tvaṁ rājaputrāgrya kṣatriyo ’si paraṁtapa\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 10
+  },
+  "04041010c": {
+    "text": {
+      "ascii": "kathaM puruSazArdUla zatrumadhye viSIdasi\n",
+      "ud": "कथं पुरुषशार्दूल शत्रुमध्ये विषीदसि\n",
+      "ur": "kathaṁ puruṣaśārdūla śatrumadhye viṣīdasi\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 10
+  },
+  "04041011a": {
+    "text": {
+      "ascii": "zrutAs te zaGkhazabdAz ca bherIzabdAz ca puSkalAH\n",
+      "ud": "श्रुतास्ते शङ्खशब्दाश्च भेरीशब्दाश्च पुष्कलाः\n",
+      "ur": "śrutās te śaṅkhaśabdāś ca bherīśabdāś ca puṣkalāḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 11
+  },
+  "04041011c": {
+    "text": {
+      "ascii": "kuJjarANAM ca nadatAM vyUDhAnIkeSu tiSThatAm\n",
+      "ud": "कुञ्जराणां च नदतां व्यूढानीकेषु तिष्ठताम्\n",
+      "ur": "kuñjarāṇāṁ ca nadatāṁ vyūḍhānīkeṣu tiṣṭhatām\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 11
+  },
+  "04041012a": {
+    "text": {
+      "ascii": "sa tvaM katham ihAnena zaGkhazabdena bhISitaH\n",
+      "ud": "स त्वं कथमिहानेन शङ्खशब्देन भीषितः\n",
+      "ur": "sa tvaṁ katham ihānena śaṅkhaśabdena bhīṣitaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 12
+  },
+  "04041012c": {
+    "text": {
+      "ascii": "viSaNNarUpo vitrastaH puruSaH prAkRto yathA\n",
+      "ud": "विषण्णरूपो वित्रस्तः पुरुषः प्राकृतो यथा\n",
+      "ur": "viṣaṇṇarūpo vitrastaḥ puruṣaḥ prākr̥to yathā\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 12
+  },
+  "04041013": {
+    "text": {
+      "ascii": "uttara uvAca\n",
+      "ud": "उत्तर उवाच\n",
+      "ur": "uttara uvāca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 13
+  },
+  "04041013a": {
+    "text": {
+      "ascii": "zrutA me zaGkhazabdAz ca bherIzabdAz ca puSkalAH\n",
+      "ud": "श्रुता मे शङ्खशब्दाश्च भेरीशब्दाश्च पुष्कलाः\n",
+      "ur": "śrutā me śaṅkhaśabdāś ca bherīśabdāś ca puṣkalāḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 13
+  },
+  "04041013c": {
+    "text": {
+      "ascii": "kuJjarANAM ca ninadA vyUDhAnIkeSu tiSThatAm\n",
+      "ud": "कुञ्जराणां च निनदा व्यूढानीकेषु तिष्ठताम्\n",
+      "ur": "kuñjarāṇāṁ ca ninadā vyūḍhānīkeṣu tiṣṭhatām\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 13
+  },
+  "04041014a": {
+    "text": {
+      "ascii": "naivaMvidhaH zaGkhazabdaH purA jAtu mayA zrutaH\n",
+      "ud": "नैवंविधः शङ्खशब्दः पुरा जातु मया श्रुतः\n",
+      "ur": "naivaṁvidhaḥ śaṅkhaśabdaḥ purā jātu mayā śrutaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 14
+  },
+  "04041014c": {
+    "text": {
+      "ascii": "dhvajasya cApi rUpaM me dRSTapUrvaM na hIdRzam\n",
+      "ud": "ध्वजस्य चापि रूपं मे दृष्टपूर्वं न हीदृशम्\n",
+      "ur": "dhvajasya cāpi rūpaṁ me dr̥ṣṭapūrvaṁ na hīdr̥śam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 14
+  },
+  "04041014e": {
+    "text": {
+      "ascii": "dhanuSaz caiva nirghoSaH zrutapUrvo na me kva cit\n",
+      "ud": "धनुषश्चैव निर्घोषः श्रुतपूर्वो न मे क्वचित्\n",
+      "ur": "dhanuṣaś caiva nirghoṣaḥ śrutapūrvo na me kva cit\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 14
+  },
+  "04041015a": {
+    "text": {
+      "ascii": "asya zaGkhasya zabdena dhanuSo nisvanena ca\n",
+      "ud": "अस्य शङ्खस्य शब्देन धनुषो निस्वनेन च\n",
+      "ur": "asya śaṅkhasya śabdena dhanuṣo nisvanena ca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 15
+  },
+  "04041015c": {
+    "text": {
+      "ascii": "rathasya ca ninAdena mano muhyati me bhRzam\n",
+      "ud": "रथस्य च निनादेन मनो मुह्यति मे भृशम्\n",
+      "ur": "rathasya ca ninādena mano muhyati me bhr̥śam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 15
+  },
+  "04041016a": {
+    "text": {
+      "ascii": "vyAkulAz ca dizaH sarvA hRdayaM vyathatIva me\n",
+      "ud": "व्याकुलाश्च दिशः सर्वा हृदयं व्यथतीव मे\n",
+      "ur": "vyākulāś ca diśaḥ sarvā hr̥dayaṁ vyathatīva me\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 16
+  },
+  "04041016c": {
+    "text": {
+      "ascii": "dhvajena pihitAH sarvA dizo na pratibhAnti me\n",
+      "ud": "ध्वजेन पिहिताः सर्वा दिशो न प्रतिभान्ति मे\n",
+      "ur": "dhvajena pihitāḥ sarvā diśo na pratibhānti me\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 16
+  },
+  "04041016e": {
+    "text": {
+      "ascii": "gANDIvasya ca zabdena karNau me badhirIkRtau\n",
+      "ud": "गाण्डीवस्य च शब्देन कर्णौ मे बधिरीकृतौ\n",
+      "ur": "gāṇḍīvasya ca śabdena karṇau me badhirīkr̥tau\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 16
+  },
+  "04041017": {
+    "text": {
+      "ascii": "arjuna uvAca\n",
+      "ud": "अर्जुन उवाच\n",
+      "ur": "arjuna uvāca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 17
+  },
+  "04041017a": {
+    "text": {
+      "ascii": "ekAnte ratham AsthAya padbhyAM tvam avapIDaya\n",
+      "ud": "एकान्ते रथमास्थाय पद्भ्यां त्वमवपीडय\n",
+      "ur": "ekānte ratham āsthāya padbhyāṁ tvam avapīḍaya\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 17
+  },
+  "04041017c": {
+    "text": {
+      "ascii": "dRDhaM ca razmIn saMyaccha zaGkhaM dhmAsyAmy ahaM punaH\n",
+      "ud": "दृढं च रश्मीन्संयच्छ शङ्खं ध्मास्याम्यहं पुनः\n",
+      "ur": "dr̥ḍhaṁ ca raśmīn saṁyaccha śaṅkhaṁ dhmāsyāmy ahaṁ punaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 17
+  },
+  "04041018": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 18
+  },
+  "04041018a": {
+    "text": {
+      "ascii": "tasya zaGkhasya zabdena rathanemisvanena ca\n",
+      "ud": "तस्य शङ्खस्य शब्देन रथनेमिस्वनेन च\n",
+      "ur": "tasya śaṅkhasya śabdena rathanemisvanena ca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 18
+  },
+  "04041018c": {
+    "text": {
+      "ascii": "gANDIvasya ca ghoSeNa pRthivI samakampata\n",
+      "ud": "गाण्डीवस्य च घोषेण पृथिवी समकम्पत\n",
+      "ur": "gāṇḍīvasya ca ghoṣeṇa pr̥thivī samakampata\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 18
+  },
+  "04041019": {
+    "text": {
+      "ascii": "droNa uvAca\n",
+      "ud": "द्रोण उवाच\n",
+      "ur": "droṇa uvāca\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 19
+  },
+  "04041019a": {
+    "text": {
+      "ascii": "yathA rathasya nirghoSo yathA zaGkha udIryate\n",
+      "ud": "यथा रथस्य निर्घोषो यथा शङ्ख उदीर्यते\n",
+      "ur": "yathā rathasya nirghoṣo yathā śaṅkha udīryate\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 19
+  },
+  "04041019c": {
+    "text": {
+      "ascii": "kampate ca yathA bhUmir naiSo 'nyaH savyasAcinaH\n",
+      "ud": "कम्पते च यथा भूमिर्नैषोऽन्यः सव्यसाचिनः\n",
+      "ur": "kampate ca yathā bhūmir naiṣo ’nyaḥ savyasācinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 19
+  },
+  "04041020a": {
+    "text": {
+      "ascii": "zastrANi na prakAzante na prahRSyanti vAjinaH\n",
+      "ud": "शस्त्राणि न प्रकाशन्ते न प्रहृष्यन्ति वाजिनः\n",
+      "ur": "śastrāṇi na prakāśante na prahr̥ṣyanti vājinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 20
+  },
+  "04041020c": {
+    "text": {
+      "ascii": "agnayaz ca na bhAsante samiddhAs tan na zobhanam\n",
+      "ud": "अग्नयश्च न भासन्ते समिद्धास्तन्न शोभनम्\n",
+      "ur": "agnayaś ca na bhāsante samiddhās tan na śobhanam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 20
+  },
+  "04041021a": {
+    "text": {
+      "ascii": "praty AdityaM ca naH sarve mRgA ghorapravAdinaH\n",
+      "ud": "प्रत्यादित्यं च नः सर्वे मृगा घोरप्रवादिनः\n",
+      "ur": "praty ādityaṁ ca naḥ sarve mr̥gā ghorapravādinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 21
+  },
+  "04041021c": {
+    "text": {
+      "ascii": "dhvajeSu ca nilIyante vAyasAs tan na zobhanam\n",
+      "ud": "ध्वजेषु च निलीयन्ते वायसास्तन्न शोभनम्\n",
+      "ur": "dhvajeṣu ca nilīyante vāyasās tan na śobhanam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 21
+  },
+  "04041021e": {
+    "text": {
+      "ascii": "zakunAz cApasavyA no vedayanti mahad bhayam\n",
+      "ud": "शकुनाश्चापसव्या नो वेदयन्ति महद्भयम्\n",
+      "ur": "śakunāś cāpasavyā no vedayanti mahad bhayam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 21
+  },
+  "04041022a": {
+    "text": {
+      "ascii": "gomAyur eSa senAyA ruvan madhye 'nudhAvati\n",
+      "ud": "गोमायुरेष सेनाया रुवन्मध्येऽनुधावति\n",
+      "ur": "gomāyur eṣa senāyā ruvan madhye ’nudhāvati\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 22
+  },
+  "04041022c": {
+    "text": {
+      "ascii": "anAhataz ca niSkrAnto mahad vedayate bhayam\n",
+      "ud": "अनाहतश्च निष्क्रान्तो महद्वेदयते भयम्\n",
+      "ur": "anāhataś ca niṣkrānto mahad vedayate bhayam\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 22
+  },
+  "04041022e": {
+    "text": {
+      "ascii": "bhavatAM romakUpANi prahRSTAny upalakSaye\n",
+      "ud": "भवतां रोमकूपाणि प्रहृष्टान्युपलक्षये\n",
+      "ur": "bhavatāṁ romakūpāṇi prahr̥ṣṭāny upalakṣaye\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 22
+  },
+  "04041023a": {
+    "text": {
+      "ascii": "parAbhUtA ca vaH senA na kaz cid yoddhum icchati\n",
+      "ud": "पराभूता च वः सेना न कश्चिद्योद्धुमिच्छति\n",
+      "ur": "parābhūtā ca vaḥ senā na kaś cid yoddhum icchati\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 23
+  },
+  "04041023c": {
+    "text": {
+      "ascii": "vivarNamukhabhUyiSThAH sarve yodhA vicetasaH\n",
+      "ud": "विवर्णमुखभूयिष्ठाः सर्वे योधा विचेतसः\n",
+      "ur": "vivarṇamukhabhūyiṣṭhāḥ sarve yodhā vicetasaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 23
+  },
+  "04041023e": {
+    "text": {
+      "ascii": "gAH saMprasthApya tiSThAmo vyUDhAnIkAH prahAriNaH\n",
+      "ud": "गाः संप्रस्थाप्य तिष्ठामो व्यूढानीकाः प्रहारिणः\n",
+      "ur": "gāḥ saṁprasthāpya tiṣṭhāmo vyūḍhānīkāḥ prahāriṇaḥ\n"
+    },
+    "book": 4,
+    "chapter": 41,
+    "verse": 23
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "04065001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 1
+  },
+  "04065001a": {
+    "text": {
+      "ascii": "tatas tRtIye divase bhrAtaraH paJca pANDavAH\n",
+      "ud": "ततस्तृतीये दिवसे भ्रातरः पञ्च पाण्डवाः\n",
+      "ur": "tatas tr̥tīye divase bhrātaraḥ pañca pāṇḍavāḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 1
+  },
+  "04065001c": {
+    "text": {
+      "ascii": "snAtAH zuklAmbaradharAH samaye caritavratAH\n",
+      "ud": "स्नाताः शुक्लाम्बरधराः समये चरितव्रताः\n",
+      "ur": "snātāḥ śuklāmbaradharāḥ samaye caritavratāḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 1
+  },
+  "04065002a": {
+    "text": {
+      "ascii": "yudhiSThiraM puraskRtya sarvAbharaNabhUSitAH\n",
+      "ud": "युधिष्ठिरं पुरस्कृत्य सर्वाभरणभूषिताः\n",
+      "ur": "yudhiṣṭhiraṁ puraskr̥tya sarvābharaṇabhūṣitāḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 2
+  },
+  "04065002c": {
+    "text": {
+      "ascii": "abhipadmA yathA nAgA bhrAjamAnA mahArathAH\n",
+      "ud": "अभिपद्मा यथा नागा भ्राजमाना महारथाः\n",
+      "ur": "abhipadmā yathā nāgā bhrājamānā mahārathāḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 2
+  },
+  "04065003a": {
+    "text": {
+      "ascii": "virATasya sabhAM gatvA bhUmipAlAsaneSv atha\n",
+      "ud": "विराटस्य सभां गत्वा भूमिपालासनेष्वथ\n",
+      "ur": "virāṭasya sabhāṁ gatvā bhūmipālāsaneṣv atha\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 3
+  },
+  "04065003c": {
+    "text": {
+      "ascii": "niSeduH pAvakaprakhyAH sarve dhiSNyeSv ivAgnayaH\n",
+      "ud": "निषेदुः पावकप्रख्याः सर्वे धिष्ण्येष्विवाग्नयः\n",
+      "ur": "niṣeduḥ pāvakaprakhyāḥ sarve dhiṣṇyeṣv ivāgnayaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 3
+  },
+  "04065004a": {
+    "text": {
+      "ascii": "teSu tatropaviSTeSu virATaH pRthivIpatiH\n",
+      "ud": "तेषु तत्रोपविष्टेषु विराटः पृथिवीपतिः\n",
+      "ur": "teṣu tatropaviṣṭeṣu virāṭaḥ pr̥thivīpatiḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 4
+  },
+  "04065004c": {
+    "text": {
+      "ascii": "AjagAma sabhAM kartuM rAjakAryANi sarvazaH\n",
+      "ud": "आजगाम सभां कर्तुं राजकार्याणि सर्वशः\n",
+      "ur": "ājagāma sabhāṁ kartuṁ rājakāryāṇi sarvaśaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 4
+  },
+  "04065005a": {
+    "text": {
+      "ascii": "zrImataH pANDavAn dRSTvA jvalataH pAvakAn iva\n",
+      "ud": "श्रीमतः पाण्डवान्दृष्ट्वा ज्वलतः पावकानिव\n",
+      "ur": "śrīmataḥ pāṇḍavān dr̥ṣṭvā jvalataḥ pāvakān iva\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 5
+  },
+  "04065005c": {
+    "text": {
+      "ascii": "atha matsyo 'bravIt kaGkaM devarUpam avasthitam\n",
+      "ud": "अथ मत्स्योऽब्रवीत्कङ्कं देवरूपमवस्थितम्\n",
+      "ur": "atha matsyo ’bravīt kaṅkaṁ devarūpam avasthitam\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 5
+  },
+  "04065005e": {
+    "text": {
+      "ascii": "marudgaNair upAsInaM tridazAnAm ivezvaram\n",
+      "ud": "मरुद्गणैरुपासीनं त्रिदशानामिवेश्वरम्\n",
+      "ur": "marudgaṇair upāsīnaṁ tridaśānām iveśvaram\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 5
+  },
+  "04065006a": {
+    "text": {
+      "ascii": "sa kilAkSAtivApas tvaM sabhAstAro mayA kRtaH\n",
+      "ud": "स किलाक्षातिवापस्त्वं सभास्तारो मया कृतः\n",
+      "ur": "sa kilākṣātivāpas tvaṁ sabhāstāro mayā kr̥taḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 6
+  },
+  "04065006c": {
+    "text": {
+      "ascii": "atha rAjAsane kasmAd upaviSTo 'sy alaMkRtaH\n",
+      "ud": "अथ राजासने कस्मादुपविष्टोऽस्यलंकृतः\n",
+      "ur": "atha rājāsane kasmād upaviṣṭo ’sy alaṁkr̥taḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 6
+  },
+  "04065007a": {
+    "text": {
+      "ascii": "parihAsepsayA vAkyaM virATasya nizamya tat\n",
+      "ud": "परिहासेप्सया वाक्यं विराटस्य निशम्य तत्\n",
+      "ur": "parihāsepsayā vākyaṁ virāṭasya niśamya tat\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 7
+  },
+  "04065007c": {
+    "text": {
+      "ascii": "smayamAno 'rjuno rAjann idaM vacanam abravIt\n",
+      "ud": "स्मयमानोऽर्जुनो राजन्निदं वचनमब्रवीत्\n",
+      "ur": "smayamāno ’rjuno rājann idaṁ vacanam abravīt\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 7
+  },
+  "04065008a": {
+    "text": {
+      "ascii": "indrasyApy AsanaM rAjann ayam AroDhum arhati\n",
+      "ud": "इन्द्रस्याप्यासनं राजन्नयमारोढुमर्हति\n",
+      "ur": "indrasyāpy āsanaṁ rājann ayam āroḍhum arhati\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 8
+  },
+  "04065008c": {
+    "text": {
+      "ascii": "brahmaNyaH zrutavAMs tyAgI yajJazIlo dRDhavrataH\n",
+      "ud": "ब्रह्मण्यः श्रुतवांस्त्यागी यज्ञशीलो दृढव्रतः\n",
+      "ur": "brahmaṇyaḥ śrutavāṁs tyāgī yajñaśīlo dr̥ḍhavrataḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 8
+  },
+  "04065009a": {
+    "text": {
+      "ascii": "ayaM kurUNAm RSabhaH kuntIputro yudhiSThiraH\n",
+      "ud": "अयं कुरूणामृषभः कुन्तीपुत्रो युधिष्ठिरः\n",
+      "ur": "ayaṁ kurūṇām r̥ṣabhaḥ kuntīputro yudhiṣṭhiraḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 9
+  },
+  "04065009c": {
+    "text": {
+      "ascii": "asya kIrtiH sthitA loke sUryasyevodyataH prabhA\n",
+      "ud": "अस्य कीर्तिः स्थिता लोके सूर्यस्येवोद्यतः प्रभा\n",
+      "ur": "asya kīrtiḥ sthitā loke sūryasyevodyataḥ prabhā\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 9
+  },
+  "04065010a": {
+    "text": {
+      "ascii": "saMsaranti dizaH sarvA yazaso 'sya gabhastayaH\n",
+      "ud": "संसरन्ति दिशः सर्वा यशसोऽस्य गभस्तयः\n",
+      "ur": "saṁsaranti diśaḥ sarvā yaśaso ’sya gabhastayaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 10
+  },
+  "04065010c": {
+    "text": {
+      "ascii": "uditasyeva sUryasya tejaso 'nu gabhastayaH\n",
+      "ud": "उदितस्येव सूर्यस्य तेजसोऽनु गभस्तयः\n",
+      "ur": "uditasyeva sūryasya tejaso ’nu gabhastayaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 10
+  },
+  "04065011a": {
+    "text": {
+      "ascii": "enaM daza sahasrANi kuJjarANAM tarasvinAm\n",
+      "ud": "एनं दश सहस्राणि कुञ्जराणां तरस्विनाम्\n",
+      "ur": "enaṁ daśa sahasrāṇi kuñjarāṇāṁ tarasvinām\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 11
+  },
+  "04065011c": {
+    "text": {
+      "ascii": "anvayuH pRSThato rAjan yAvad adhyAvasat kurUn\n",
+      "ud": "अन्वयुः पृष्ठतो राजन्यावदध्यावसत्कुरून्\n",
+      "ur": "anvayuḥ pr̥ṣṭhato rājan yāvad adhyāvasat kurūn\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 11
+  },
+  "04065012a": {
+    "text": {
+      "ascii": "triMzad enaM sahasrANi rathAH kAJcanamAlinaH\n",
+      "ud": "त्रिंशदेनं सहस्राणि रथाः काञ्चनमालिनः\n",
+      "ur": "triṁśad enaṁ sahasrāṇi rathāḥ kāñcanamālinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 12
+  },
+  "04065012c": {
+    "text": {
+      "ascii": "sadazvair upasaMpannAH pRSThato 'nuyayuH sadA\n",
+      "ud": "सदश्वैरुपसंपन्नाः पृष्ठतोऽनुययुः सदा\n",
+      "ur": "sadaśvair upasaṁpannāḥ pr̥ṣṭhato ’nuyayuḥ sadā\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 12
+  },
+  "04065013a": {
+    "text": {
+      "ascii": "enam aSTazatAH sUtAH sumRSTamaNikuNDalAH\n",
+      "ud": "एनमष्टशताः सूताः सुमृष्टमणिकुण्डलाः\n",
+      "ur": "enam aṣṭaśatāḥ sūtāḥ sumr̥ṣṭamaṇikuṇḍalāḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 13
+  },
+  "04065013c": {
+    "text": {
+      "ascii": "astuvan mAgadhaiH sArdhaM purA zakram ivarSayaH\n",
+      "ud": "अस्तुवन्मागधैः सार्धं पुरा शक्रमिवर्षयः\n",
+      "ur": "astuvan māgadhaiḥ sārdhaṁ purā śakram ivarṣayaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 13
+  },
+  "04065014a": {
+    "text": {
+      "ascii": "enaM nityam upAsanta kuravaH kiMkarA yathA\n",
+      "ud": "एनं नित्यमुपासन्त कुरवः किंकरा यथा\n",
+      "ur": "enaṁ nityam upāsanta kuravaḥ kiṁkarā yathā\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 14
+  },
+  "04065014c": {
+    "text": {
+      "ascii": "sarve ca rAjan rAjAno dhanezvaram ivAmarAH\n",
+      "ud": "सर्वे च राजन्राजानो धनेश्वरमिवामराः\n",
+      "ur": "sarve ca rājan rājāno dhaneśvaram ivāmarāḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 14
+  },
+  "04065015a": {
+    "text": {
+      "ascii": "eSa sarvAn mahIpAlAn karam AhArayat tadA\n",
+      "ud": "एष सर्वान्महीपालान्करमाहारयत्तदा\n",
+      "ur": "eṣa sarvān mahīpālān karam āhārayat tadā\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 15
+  },
+  "04065015c": {
+    "text": {
+      "ascii": "vaizyAn iva mahArAja vivazAn svavazAn api\n",
+      "ud": "वैश्यानिव महाराज विवशान्स्ववशानपि\n",
+      "ur": "vaiśyān iva mahārāja vivaśān svavaśān api\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 15
+  },
+  "04065016a": {
+    "text": {
+      "ascii": "aSTAzItisahasrANi snAtakAnAM mahAtmanAm\n",
+      "ud": "अष्टाशीतिसहस्राणि स्नातकानां महात्मनाम्\n",
+      "ur": "aṣṭāśītisahasrāṇi snātakānāṁ mahātmanām\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 16
+  },
+  "04065016c": {
+    "text": {
+      "ascii": "upajIvanti rAjAnam enaM sucaritavratam\n",
+      "ud": "उपजीवन्ति राजानमेनं सुचरितव्रतम्\n",
+      "ur": "upajīvanti rājānam enaṁ sucaritavratam\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 16
+  },
+  "04065017a": {
+    "text": {
+      "ascii": "eSa vRddhAn anAthAMz ca vyaGgAn paGgUMz ca mAnavAn\n",
+      "ud": "एष वृद्धाननाथांश्च व्यङ्गान्पङ्गूंश्च मानवान्\n",
+      "ur": "eṣa vr̥ddhān anāthāṁś ca vyaṅgān paṅgūṁś ca mānavān\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 17
+  },
+  "04065017c": {
+    "text": {
+      "ascii": "putravat pAlayAm Asa prajA dharmeNa cAbhibho\n",
+      "ud": "पुत्रवत्पालयामास प्रजा धर्मेण चाभिभो\n",
+      "ur": "putravat pālayām āsa prajā dharmeṇa cābhibho\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 17
+  },
+  "04065018a": {
+    "text": {
+      "ascii": "eSa dharme dame caiva krodhe cApi yatavrataH\n",
+      "ud": "एष धर्मे दमे चैव क्रोधे चापि यतव्रतः\n",
+      "ur": "eṣa dharme dame caiva krodhe cāpi yatavrataḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 18
+  },
+  "04065018c": {
+    "text": {
+      "ascii": "mahAprasAdo brahmaNyaH satyavAdI ca pArthivaH\n",
+      "ud": "महाप्रसादो ब्रह्मण्यः सत्यवादी च पार्थिवः\n",
+      "ur": "mahāprasādo brahmaṇyaḥ satyavādī ca pārthivaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 18
+  },
+  "04065019a": {
+    "text": {
+      "ascii": "zrIpratApena caitasya tapyate sa suyodhanaH\n",
+      "ud": "श्रीप्रतापेन चैतस्य तप्यते स सुयोधनः\n",
+      "ur": "śrīpratāpena caitasya tapyate sa suyodhanaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 19
+  },
+  "04065019c": {
+    "text": {
+      "ascii": "sagaNaH saha karNena saubalenApi vA vibhuH\n",
+      "ud": "सगणः सह कर्णेन सौबलेनापि वा विभुः\n",
+      "ur": "sagaṇaḥ saha karṇena saubalenāpi vā vibhuḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 19
+  },
+  "04065020a": {
+    "text": {
+      "ascii": "na zakyante hy asya guNAH prasaMkhyAtuM narezvara\n",
+      "ud": "न शक्यन्ते ह्यस्य गुणाः प्रसंख्यातुं नरेश्वर\n",
+      "ur": "na śakyante hy asya guṇāḥ prasaṁkhyātuṁ nareśvara\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 20
+  },
+  "04065020c": {
+    "text": {
+      "ascii": "eSa dharmaparo nityam AnRzaMsyaz ca pANDavaH\n",
+      "ud": "एष धर्मपरो नित्यमानृशंस्यश्च पाण्डवः\n",
+      "ur": "eṣa dharmaparo nityam ānr̥śaṁsyaś ca pāṇḍavaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 20
+  },
+  "04065021a": {
+    "text": {
+      "ascii": "evaMyukto mahArAjaH pANDavaH pArthivarSabhaH\n",
+      "ud": "एवंयुक्तो महाराजः पाण्डवः पार्थिवर्षभः\n",
+      "ur": "evaṁyukto mahārājaḥ pāṇḍavaḥ pārthivarṣabhaḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 21
+  },
+  "04065021c": {
+    "text": {
+      "ascii": "kathaM nArhati rAjArham AsanaM pRthivIpatiH\n",
+      "ud": "कथं नार्हति राजार्हमासनं पृथिवीपतिः\n",
+      "ur": "kathaṁ nārhati rājārham āsanaṁ pr̥thivīpatiḥ\n"
+    },
+    "book": 4,
+    "chapter": 65,
+    "verse": 21
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "04025001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 1
+  },
+  "04025001a": {
+    "text": {
+      "ascii": "tato duryodhano rAjA zrutvA teSAM vacas tadA\n",
+      "ud": "ततो दुर्योधनो राजा श्रुत्वा तेषां वचस्तदा\n",
+      "ur": "tato duryodhano rājā śrutvā teṣāṁ vacas tadā\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 1
+  },
+  "04025001c": {
+    "text": {
+      "ascii": "ciram antarmanA bhUtvA pratyuvAca sabhAsadaH\n",
+      "ud": "चिरमन्तर्मना भूत्वा प्रत्युवाच सभासदः\n",
+      "ur": "ciram antarmanā bhūtvā pratyuvāca sabhāsadaḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 1
+  },
+  "04025002a": {
+    "text": {
+      "ascii": "suduHkhA khalu kAryANAM gatir vijJAtum antataH\n",
+      "ud": "सुदुःखा खलु कार्याणां गतिर्विज्ञातुमन्ततः\n",
+      "ur": "suduḥkhā khalu kāryāṇāṁ gatir vijñātum antataḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 2
+  },
+  "04025002c": {
+    "text": {
+      "ascii": "tasmAt sarve udIkSadhvaM kva nu syuH pANDavA gatAH\n",
+      "ud": "तस्मात्सर्वे उदीक्षध्वं क्व नु स्युः पाण्डवा गताः\n",
+      "ur": "tasmāt sarve udīkṣadhvaṁ kva nu syuḥ pāṇḍavā gatāḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 2
+  },
+  "04025003a": {
+    "text": {
+      "ascii": "alpAvaziSTaM kAlasya gatabhUyiSTham antataH\n",
+      "ud": "अल्पावशिष्टं कालस्य गतभूयिष्ठमन्ततः\n",
+      "ur": "alpāvaśiṣṭaṁ kālasya gatabhūyiṣṭham antataḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 3
+  },
+  "04025003c": {
+    "text": {
+      "ascii": "teSAm ajJAtacaryAyAm asmin varSe trayodaze\n",
+      "ud": "तेषामज्ञातचर्यायामस्मिन्वर्षे त्रयोदशे\n",
+      "ur": "teṣām ajñātacaryāyām asmin varṣe trayodaśe\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 3
+  },
+  "04025004a": {
+    "text": {
+      "ascii": "asya varSasya zeSaM ced vyatIyur iha pANDavAH\n",
+      "ud": "अस्य वर्षस्य शेषं चेद्व्यतीयुरिह पाण्डवाः\n",
+      "ur": "asya varṣasya śeṣaṁ ced vyatīyur iha pāṇḍavāḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 4
+  },
+  "04025004c": {
+    "text": {
+      "ascii": "nivRttasamayAs te hi satyavrataparAyaNAH\n",
+      "ud": "निवृत्तसमयास्ते हि सत्यव्रतपरायणाः\n",
+      "ur": "nivr̥ttasamayās te hi satyavrataparāyaṇāḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 4
+  },
+  "04025005a": {
+    "text": {
+      "ascii": "kSaranta iva nAgendrAH sarva AzIviSopamAH\n",
+      "ud": "क्षरन्त इव नागेन्द्राः सर्व आशीविषोपमाः\n",
+      "ur": "kṣaranta iva nāgendrāḥ sarva āśīviṣopamāḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 5
+  },
+  "04025005c": {
+    "text": {
+      "ascii": "duHkhA bhaveyuH saMrabdhAH kauravAn prati te dhruvam\n",
+      "ud": "दुःखा भवेयुः संरब्धाः कौरवान्प्रति ते ध्रुवम्\n",
+      "ur": "duḥkhā bhaveyuḥ saṁrabdhāḥ kauravān prati te dhruvam\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 5
+  },
+  "04025006a": {
+    "text": {
+      "ascii": "arvAk kAlasya vijJAtAH kRcchrarUpadharAH punaH\n",
+      "ud": "अर्वाक्कालस्य विज्ञाताः कृच्छ्ररूपधराः पुनः\n",
+      "ur": "arvāk kālasya vijñātāḥ kr̥cchrarūpadharāḥ punaḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 6
+  },
+  "04025006c": {
+    "text": {
+      "ascii": "pravizeyur jitakrodhAs tAvad eva punar vanam\n",
+      "ud": "प्रविशेयुर्जितक्रोधास्तावदेव पुनर्वनम्\n",
+      "ur": "praviśeyur jitakrodhās tāvad eva punar vanam\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 6
+  },
+  "04025007a": {
+    "text": {
+      "ascii": "tasmAt kSipraM bubhutsadhvaM yathA no 'tyantam avyayam\n",
+      "ud": "तस्मात्क्षिप्रं बुभुत्सध्वं यथा नोऽत्यन्तमव्ययम्\n",
+      "ur": "tasmāt kṣipraṁ bubhutsadhvaṁ yathā no ’tyantam avyayam\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 7
+  },
+  "04025007c": {
+    "text": {
+      "ascii": "rAjyaM nirdvandvam avyagraM niHsapatnaM ciraM bhavet\n",
+      "ud": "राज्यं निर्द्वन्द्वमव्यग्रं निःसपत्नं चिरं भवेत्\n",
+      "ur": "rājyaṁ nirdvandvam avyagraṁ niḥsapatnaṁ ciraṁ bhavet\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 7
+  },
+  "04025008a": {
+    "text": {
+      "ascii": "athAbravIt tataH karNaH kSipraM gacchantu bhArata\n",
+      "ud": "अथाब्रवीत्ततः कर्णः क्षिप्रं गच्छन्तु भारत\n",
+      "ur": "athābravīt tataḥ karṇaḥ kṣipraṁ gacchantu bhārata\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 8
+  },
+  "04025008c": {
+    "text": {
+      "ascii": "anye dhUrtatarA dakSA nibhRtAH sAdhukAriNaH\n",
+      "ud": "अन्ये धूर्ततरा दक्षा निभृताः साधुकारिणः\n",
+      "ur": "anye dhūrtatarā dakṣā nibhr̥tāḥ sādhukāriṇaḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 8
+  },
+  "04025009a": {
+    "text": {
+      "ascii": "carantu dezAn saMvItAH sphItAJ janapadAkulAn\n",
+      "ud": "चरन्तु देशान्संवीताः स्फीताञ्जनपदाकुलान्\n",
+      "ur": "carantu deśān saṁvītāḥ sphītāñ janapadākulān\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 9
+  },
+  "04025009c": {
+    "text": {
+      "ascii": "tatra goSThISv athAnyAsu siddhapravrajiteSu ca\n",
+      "ud": "तत्र गोष्ठीष्वथान्यासु सिद्धप्रव्रजितेषु च\n",
+      "ur": "tatra goṣṭhīṣv athānyāsu siddhapravrajiteṣu ca\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 9
+  },
+  "04025010a": {
+    "text": {
+      "ascii": "paricAreSu tIrtheSu vividheSv AkareSu ca\n",
+      "ud": "परिचारेषु तीर्थेषु विविधेष्वाकरेषु च\n",
+      "ur": "paricāreṣu tīrtheṣu vividheṣv ākareṣu ca\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 10
+  },
+  "04025010c": {
+    "text": {
+      "ascii": "vijJAtavyA manuSyais tais tarkayA suvinItayA\n",
+      "ud": "विज्ञातव्या मनुष्यैस्तैस्तर्कया सुविनीतया\n",
+      "ur": "vijñātavyā manuṣyais tais tarkayā suvinītayā\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 10
+  },
+  "04025011a": {
+    "text": {
+      "ascii": "vividhais tatparaiH samyak tajjJair nipuNasaMvRtaiH\n",
+      "ud": "विविधैस्तत्परैः सम्यक्तज्ज्ञैर्निपुणसंवृतैः\n",
+      "ur": "vividhais tatparaiḥ samyak tajjñair nipuṇasaṁvr̥taiḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 11
+  },
+  "04025011c": {
+    "text": {
+      "ascii": "anveSTavyAz ca nipuNaM pANDavAz channavAsinaH\n",
+      "ud": "अन्वेष्टव्याश्च निपुणं पाण्डवाश्छन्नवासिनः\n",
+      "ur": "anveṣṭavyāś ca nipuṇaṁ pāṇḍavāś channavāsinaḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 11
+  },
+  "04025012a": {
+    "text": {
+      "ascii": "nadIkuJjeSu tIrtheSu grAmeSu nagareSu ca\n",
+      "ud": "नदीकुञ्जेषु तीर्थेषु ग्रामेषु नगरेषु च\n",
+      "ur": "nadīkuñjeṣu tīrtheṣu grāmeṣu nagareṣu ca\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 12
+  },
+  "04025012c": {
+    "text": {
+      "ascii": "AzrameSu ca ramyeSu parvateSu guhAsu ca\n",
+      "ud": "आश्रमेषु च रम्येषु पर्वतेषु गुहासु च\n",
+      "ur": "āśrameṣu ca ramyeṣu parvateṣu guhāsu ca\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 12
+  },
+  "04025013a": {
+    "text": {
+      "ascii": "athAgrajAnantarajaH pApabhAvAnurAgiNam\n",
+      "ud": "अथाग्रजानन्तरजः पापभावानुरागिणम्\n",
+      "ur": "athāgrajānantarajaḥ pāpabhāvānurāgiṇam\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 13
+  },
+  "04025013c": {
+    "text": {
+      "ascii": "jyeSThaM duHzAsanas tatra bhrAtA bhrAtaram abravIt\n",
+      "ud": "ज्येष्ठं दुःशासनस्तत्र भ्राता भ्रातरमब्रवीत्\n",
+      "ur": "jyeṣṭhaṁ duḥśāsanas tatra bhrātā bhrātaram abravīt\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 13
+  },
+  "04025014a": {
+    "text": {
+      "ascii": "etac ca karNo yat prAha sarvam IkSAmahe tathA\n",
+      "ud": "एतच्च कर्णो यत्प्राह सर्वमीक्षामहे तथा\n",
+      "ur": "etac ca karṇo yat prāha sarvam īkṣāmahe tathā\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 14
+  },
+  "04025014c": {
+    "text": {
+      "ascii": "yathoddiSTaM carAH sarve mRgayantu tatas tataH\n",
+      "ud": "यथोद्दिष्टं चराः सर्वे मृगयन्तु ततस्ततः\n",
+      "ur": "yathoddiṣṭaṁ carāḥ sarve mr̥gayantu tatas tataḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 14
+  },
+  "04025014e": {
+    "text": {
+      "ascii": "ete cAnye ca bhUyAMso dezAd dezaM yathAvidhi\n",
+      "ud": "एते चान्ये च भूयांसो देशाद्देशं यथाविधि\n",
+      "ur": "ete cānye ca bhūyāṁso deśād deśaṁ yathāvidhi\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 14
+  },
+  "04025015a": {
+    "text": {
+      "ascii": "na tu teSAM gatir vAsaH pravRttiz copalabhyate\n",
+      "ud": "न तु तेषां गतिर्वासः प्रवृत्तिश्चोपलभ्यते\n",
+      "ur": "na tu teṣāṁ gatir vāsaḥ pravr̥ttiś copalabhyate\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 15
+  },
+  "04025015c": {
+    "text": {
+      "ascii": "atyAhitaM vA gUDhAs te pAraM vormimato gatAH\n",
+      "ud": "अत्याहितं वा गूढास्ते पारं वोर्मिमतो गताः\n",
+      "ur": "atyāhitaṁ vā gūḍhās te pāraṁ vormimato gatāḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 15
+  },
+  "04025016a": {
+    "text": {
+      "ascii": "vyAlair vApi mahAraNye bhakSitAH zUramAninaH\n",
+      "ud": "व्यालैर्वापि महारण्ये भक्षिताः शूरमानिनः\n",
+      "ur": "vyālair vāpi mahāraṇye bhakṣitāḥ śūramāninaḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 16
+  },
+  "04025016c": {
+    "text": {
+      "ascii": "atha vA viSamaM prApya vinaSTAH zAzvatIH samAH\n",
+      "ud": "अथ वा विषमं प्राप्य विनष्टाः शाश्वतीः समाः\n",
+      "ur": "atha vā viṣamaṁ prāpya vinaṣṭāḥ śāśvatīḥ samāḥ\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 16
+  },
+  "04025017a": {
+    "text": {
+      "ascii": "tasmAn mAnasam avyagraM kRtvA tvaM kurunandana\n",
+      "ud": "तस्मान्मानसमव्यग्रं कृत्वा त्वं कुरुनन्दन\n",
+      "ur": "tasmān mānasam avyagraṁ kr̥tvā tvaṁ kurunandana\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 17
+  },
+  "04025017c": {
+    "text": {
+      "ascii": "kuru kAryaM yathotsAhaM manyase yan narAdhipa\n",
+      "ud": "कुरु कार्यं यथोत्साहं मन्यसे यन्नराधिप\n",
+      "ur": "kuru kāryaṁ yathotsāhaṁ manyase yan narādhipa\n"
+    },
+    "book": 4,
+    "chapter": 25,
+    "verse": 17
+  }
+}
