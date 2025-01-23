@@ -1,0 +1,372 @@
+{
+  "03224001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 1
+  },
+  "03224001a": {
+    "text": {
+      "ascii": "mArkaNDeyAdibhir vipraiH pANDavaiz ca mahAtmabhiH\n",
+      "ud": "मार्कण्डेयादिभिर्विप्रैः पाण्डवैश्च महात्मभिः\n",
+      "ur": "mārkaṇḍeyādibhir vipraiḥ pāṇḍavaiś ca mahātmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 1
+  },
+  "03224001c": {
+    "text": {
+      "ascii": "kathAbhir anukUlAbhiH sahAsitvA janArdanaH\n",
+      "ud": "कथाभिरनुकूलाभिः सहासित्वा जनार्दनः\n",
+      "ur": "kathābhir anukūlābhiḥ sahāsitvā janārdanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 1
+  },
+  "03224002a": {
+    "text": {
+      "ascii": "tatas taiH saMvidaM kRtvA yathAvan madhusUdanaH\n",
+      "ud": "ततस्तैः संविदं कृत्वा यथावन्मधुसूदनः\n",
+      "ur": "tatas taiḥ saṁvidaṁ kr̥tvā yathāvan madhusūdanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 2
+  },
+  "03224002c": {
+    "text": {
+      "ascii": "ArurukSU rathaM satyAm AhvayAm Asa kezavaH\n",
+      "ud": "आरुरुक्षू रथं सत्यामाह्वयामास केशवः\n",
+      "ur": "ārurukṣū rathaṁ satyām āhvayām āsa keśavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 2
+  },
+  "03224003a": {
+    "text": {
+      "ascii": "satyabhAmA tatas tatra svajitvA drupadAtmajAm\n",
+      "ud": "सत्यभामा ततस्तत्र स्वजित्वा द्रुपदात्मजाम्\n",
+      "ur": "satyabhāmā tatas tatra svajitvā drupadātmajām\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 3
+  },
+  "03224003c": {
+    "text": {
+      "ascii": "uvAca vacanaM hRdyaM yathAbhAvasamAhitam\n",
+      "ud": "उवाच वचनं हृद्यं यथाभावसमाहितम्\n",
+      "ur": "uvāca vacanaṁ hr̥dyaṁ yathābhāvasamāhitam\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 3
+  },
+  "03224004a": {
+    "text": {
+      "ascii": "kRSNe mA bhUt tavotkaNThA mA vyathA mA prajAgaraH\n",
+      "ud": "कृष्णे मा भूत्तवोत्कण्ठा मा व्यथा मा प्रजागरः\n",
+      "ur": "kr̥ṣṇe mā bhūt tavotkaṇṭhā mā vyathā mā prajāgaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 4
+  },
+  "03224004c": {
+    "text": {
+      "ascii": "bhartRbhir devasaMkAzair jitAM prApsyasi medinIm\n",
+      "ud": "भर्तृभिर्देवसंकाशैर्जितां प्राप्स्यसि मेदिनीम्\n",
+      "ur": "bhartr̥bhir devasaṁkāśair jitāṁ prāpsyasi medinīm\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 4
+  },
+  "03224005a": {
+    "text": {
+      "ascii": "na hy evaM zIlasaMpannA naivaM pUjitalakSaNAH\n",
+      "ud": "न ह्येवं शीलसंपन्ना नैवं पूजितलक्षणाः\n",
+      "ur": "na hy evaṁ śīlasaṁpannā naivaṁ pūjitalakṣaṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 5
+  },
+  "03224005c": {
+    "text": {
+      "ascii": "prApnuvanti ciraM klezaM yathA tvam asitekSaNe\n",
+      "ud": "प्राप्नुवन्ति चिरं क्लेशं यथा त्वमसितेक्षणे\n",
+      "ur": "prāpnuvanti ciraṁ kleśaṁ yathā tvam asitekṣaṇe\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 5
+  },
+  "03224006a": {
+    "text": {
+      "ascii": "avazyaM ca tvayA bhUmir iyaM nihatakaNTakA\n",
+      "ud": "अवश्यं च त्वया भूमिरियं निहतकण्टका\n",
+      "ur": "avaśyaṁ ca tvayā bhūmir iyaṁ nihatakaṇṭakā\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 6
+  },
+  "03224006c": {
+    "text": {
+      "ascii": "bhartRbhiH saha bhoktavyA nirdvaMdveti zrutaM mayA\n",
+      "ud": "भर्तृभिः सह भोक्तव्या निर्द्वंद्वेति श्रुतं मया\n",
+      "ur": "bhartr̥bhiḥ saha bhoktavyā nirdvaṁdveti śrutaṁ mayā\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 6
+  },
+  "03224007a": {
+    "text": {
+      "ascii": "dhArtarASTravadhaM kRtvA vairANi pratiyAtya ca\n",
+      "ud": "धार्तराष्ट्रवधं कृत्वा वैराणि प्रतियात्य च\n",
+      "ur": "dhārtarāṣṭravadhaṁ kr̥tvā vairāṇi pratiyātya ca\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 7
+  },
+  "03224007c": {
+    "text": {
+      "ascii": "yudhiSThirasthAM pRthivIM draSTAsi drupadAtmaje\n",
+      "ud": "युधिष्ठिरस्थां पृथिवीं द्रष्टासि द्रुपदात्मजे\n",
+      "ur": "yudhiṣṭhirasthāṁ pr̥thivīṁ draṣṭāsi drupadātmaje\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 7
+  },
+  "03224008a": {
+    "text": {
+      "ascii": "yAs tAH pravrAjamAnAM tvAM prAhasan darpamohitAH\n",
+      "ud": "यास्ताः प्रव्राजमानां त्वां प्राहसन्दर्पमोहिताः\n",
+      "ur": "yās tāḥ pravrājamānāṁ tvāṁ prāhasan darpamohitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 8
+  },
+  "03224008c": {
+    "text": {
+      "ascii": "tAH kSipraM hatasaMkalpA drakSyasi tvaM kurustriyaH\n",
+      "ud": "ताः क्षिप्रं हतसंकल्पा द्रक्ष्यसि त्वं कुरुस्त्रियः\n",
+      "ur": "tāḥ kṣipraṁ hatasaṁkalpā drakṣyasi tvaṁ kurustriyaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 8
+  },
+  "03224009a": {
+    "text": {
+      "ascii": "tava duHkhopapannAyA yair Acaritam apriyam\n",
+      "ud": "तव दुःखोपपन्नाया यैराचरितमप्रियम्\n",
+      "ur": "tava duḥkhopapannāyā yair ācaritam apriyam\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 9
+  },
+  "03224009c": {
+    "text": {
+      "ascii": "viddhi saMprasthitAn sarvAMs tAn kRSNe yamasAdanam\n",
+      "ud": "विद्धि संप्रस्थितान्सर्वांस्तान्कृष्णे यमसादनम्\n",
+      "ur": "viddhi saṁprasthitān sarvāṁs tān kr̥ṣṇe yamasādanam\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 9
+  },
+  "03224010a": {
+    "text": {
+      "ascii": "putras te prativindhyaz ca sutasomas tathA vibhuH\n",
+      "ud": "पुत्रस्ते प्रतिविन्ध्यश्च सुतसोमस्तथा विभुः\n",
+      "ur": "putras te prativindhyaś ca sutasomas tathā vibhuḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 10
+  },
+  "03224010c": {
+    "text": {
+      "ascii": "zrutakarmArjuniz caiva zatAnIkaz ca nAkuliH\n",
+      "ud": "श्रुतकर्मार्जुनिश्चैव शतानीकश्च नाकुलिः\n",
+      "ur": "śrutakarmārjuniś caiva śatānīkaś ca nākuliḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 10
+  },
+  "03224010e": {
+    "text": {
+      "ascii": "sahadevAc ca yo jAtaH zrutasenas tavAtmajaH\n",
+      "ud": "सहदेवाच्च यो जातः श्रुतसेनस्तवात्मजः\n",
+      "ur": "sahadevāc ca yo jātaḥ śrutasenas tavātmajaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 10
+  },
+  "03224011a": {
+    "text": {
+      "ascii": "sarve kuzalino vIrAH kRtAstrAz ca sutAs tava\n",
+      "ud": "सर्वे कुशलिनो वीराः कृतास्त्राश्च सुतास्तव\n",
+      "ur": "sarve kuśalino vīrāḥ kr̥tāstrāś ca sutās tava\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 11
+  },
+  "03224011c": {
+    "text": {
+      "ascii": "abhimanyur iva prItA dvAravatyAM ratA bhRzam\n",
+      "ud": "अभिमन्युरिव प्रीता द्वारवत्यां रता भृशम्\n",
+      "ur": "abhimanyur iva prītā dvāravatyāṁ ratā bhr̥śam\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 11
+  },
+  "03224012a": {
+    "text": {
+      "ascii": "tvam ivaiSAM subhadrA ca prItyA sarvAtmanA sthitA\n",
+      "ud": "त्वमिवैषां सुभद्रा च प्रीत्या सर्वात्मना स्थिता\n",
+      "ur": "tvam ivaiṣāṁ subhadrā ca prītyā sarvātmanā sthitā\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 12
+  },
+  "03224012c": {
+    "text": {
+      "ascii": "prIyate bhAvanirdvaMdvA tebhyaz ca vigatajvarA\n",
+      "ud": "प्रीयते भावनिर्द्वंद्वा तेभ्यश्च विगतज्वरा\n",
+      "ur": "prīyate bhāvanirdvaṁdvā tebhyaś ca vigatajvarā\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 12
+  },
+  "03224013a": {
+    "text": {
+      "ascii": "bheje sarvAtmanA caiva pradyumnajananI tathA\n",
+      "ud": "भेजे सर्वात्मना चैव प्रद्युम्नजननी तथा\n",
+      "ur": "bheje sarvātmanā caiva pradyumnajananī tathā\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 13
+  },
+  "03224013c": {
+    "text": {
+      "ascii": "bhAnuprabhRtibhiz cainAn vizinaSTi ca kezavaH\n",
+      "ud": "भानुप्रभृतिभिश्चैनान्विशिनष्टि च केशवः\n",
+      "ur": "bhānuprabhr̥tibhiś cainān viśinaṣṭi ca keśavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 13
+  },
+  "03224014a": {
+    "text": {
+      "ascii": "bhojanAcchAdane caiSAM nityaM me zvazuraH sthitaH\n",
+      "ud": "भोजनाच्छादने चैषां नित्यं मे श्वशुरः स्थितः\n",
+      "ur": "bhojanācchādane caiṣāṁ nityaṁ me śvaśuraḥ sthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 14
+  },
+  "03224014c": {
+    "text": {
+      "ascii": "rAmaprabhRtayaH sarve bhajanty andhakavRSNayaH\n",
+      "ud": "रामप्रभृतयः सर्वे भजन्त्यन्धकवृष्णयः\n",
+      "ur": "rāmaprabhr̥tayaḥ sarve bhajanty andhakavr̥ṣṇayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 14
+  },
+  "03224014e": {
+    "text": {
+      "ascii": "tulyo hi praNayas teSAM pradyumnasya ca bhAmini\n",
+      "ud": "तुल्यो हि प्रणयस्तेषां प्रद्युम्नस्य च भामिनि\n",
+      "ur": "tulyo hi praṇayas teṣāṁ pradyumnasya ca bhāmini\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 14
+  },
+  "03224015a": {
+    "text": {
+      "ascii": "evamAdi priyaM prItyA hRdyam uktvA manonugam\n",
+      "ud": "एवमादि प्रियं प्रीत्या हृद्यमुक्त्वा मनोनुगम्\n",
+      "ur": "evamādi priyaṁ prītyā hr̥dyam uktvā manonugam\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 15
+  },
+  "03224015c": {
+    "text": {
+      "ascii": "gamanAya manaz cakre vAsudevarathaM prati\n",
+      "ud": "गमनाय मनश्चक्रे वासुदेवरथं प्रति\n",
+      "ur": "gamanāya manaś cakre vāsudevarathaṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 15
+  },
+  "03224016a": {
+    "text": {
+      "ascii": "tAM kRSNAM kRSNamahiSI cakArAbhipradakSiNam\n",
+      "ud": "तां कृष्णां कृष्णमहिषी चकाराभिप्रदक्षिणम्\n",
+      "ur": "tāṁ kr̥ṣṇāṁ kr̥ṣṇamahiṣī cakārābhipradakṣiṇam\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 16
+  },
+  "03224016c": {
+    "text": {
+      "ascii": "Aruroha rathaM zaureH satyabhAmA ca bhAminI\n",
+      "ud": "आरुरोह रथं शौरेः सत्यभामा च भामिनी\n",
+      "ur": "āruroha rathaṁ śaureḥ satyabhāmā ca bhāminī\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 16
+  },
+  "03224017a": {
+    "text": {
+      "ascii": "smayitvA tu yaduzreSTho draupadIM parisAntvya ca\n",
+      "ud": "स्मयित्वा तु यदुश्रेष्ठो द्रौपदीं परिसान्त्व्य च\n",
+      "ur": "smayitvā tu yaduśreṣṭho draupadīṁ parisāntvya ca\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 17
+  },
+  "03224017c": {
+    "text": {
+      "ascii": "upAvartya tataH zIghrair hayaiH prAyAt paraMtapaH\n",
+      "ud": "उपावर्त्य ततः शीघ्रैर्हयैः प्रायात्परंतपः\n",
+      "ur": "upāvartya tataḥ śīghrair hayaiḥ prāyāt paraṁtapaḥ\n"
+    },
+    "book": 3,
+    "chapter": 224,
+    "verse": 17
+  }
+}

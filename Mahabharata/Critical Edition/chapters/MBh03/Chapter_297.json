@@ -1,0 +1,2012 @@
+{
+  "03297001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 1
+  },
+  "03297001a": {
+    "text": {
+      "ascii": "sa dadarza hatAn bhrAtq\u0026l lokapAlAn iva cyutAn\n",
+      "ud": "स ददर्श हतान्भ्रातॄँल्लोकपालानिव च्युतान्\n",
+      "ur": "sa dadarśa hatān bhrātr̥̄m̐l lokapālān iva cyutān\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 1
+  },
+  "03297001c": {
+    "text": {
+      "ascii": "yugAnte samanuprApte zakrapratimagauravAn\n",
+      "ud": "युगान्ते समनुप्राप्ते शक्रप्रतिमगौरवान्\n",
+      "ur": "yugānte samanuprāpte śakrapratimagauravān\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 1
+  },
+  "03297002a": {
+    "text": {
+      "ascii": "viprakIrNadhanurbANaM dRSTvA nihatam arjunam\n",
+      "ud": "विप्रकीर्णधनुर्बाणं दृष्ट्वा निहतमर्जुनम्\n",
+      "ur": "viprakīrṇadhanurbāṇaṁ dr̥ṣṭvā nihatam arjunam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 2
+  },
+  "03297002c": {
+    "text": {
+      "ascii": "bhImasenaM yamau cobhau nirviceSTAn gatAyuSaH\n",
+      "ud": "भीमसेनं यमौ चोभौ निर्विचेष्टान्गतायुषः\n",
+      "ur": "bhīmasenaṁ yamau cobhau nirviceṣṭān gatāyuṣaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 2
+  },
+  "03297003a": {
+    "text": {
+      "ascii": "sa dIrgham uSNaM niHzvasya zokabASpapariplutaH\n",
+      "ud": "स दीर्घमुष्णं निःश्वस्य शोकबाष्पपरिप्लुतः\n",
+      "ur": "sa dīrgham uṣṇaṁ niḥśvasya śokabāṣpapariplutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 3
+  },
+  "03297003c": {
+    "text": {
+      "ascii": "buddhyA vicintayAm Asa vIrAH kena nipAtitAH\n",
+      "ud": "बुद्ध्या विचिन्तयामास वीराः केन निपातिताः\n",
+      "ur": "buddhyā vicintayām āsa vīrāḥ kena nipātitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 3
+  },
+  "03297004a": {
+    "text": {
+      "ascii": "naiSAM zastraprahAro 'sti padaM nehAsti kasya cit\n",
+      "ud": "नैषां शस्त्रप्रहारोऽस्ति पदं नेहास्ति कस्यचित्\n",
+      "ur": "naiṣāṁ śastraprahāro ’sti padaṁ nehāsti kasya cit\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 4
+  },
+  "03297004c": {
+    "text": {
+      "ascii": "bhUtaM mahad idaM manye bhrAtaro yena me hatAH\n",
+      "ud": "भूतं महदिदं मन्ये भ्रातरो येन मे हताः\n",
+      "ur": "bhūtaṁ mahad idaṁ manye bhrātaro yena me hatāḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 4
+  },
+  "03297004e": {
+    "text": {
+      "ascii": "ekAgraM cintayiSyAmi pItvA vetsyAmi vA jalam\n",
+      "ud": "एकाग्रं चिन्तयिष्यामि पीत्वा वेत्स्यामि वा जलम्\n",
+      "ur": "ekāgraṁ cintayiṣyāmi pītvā vetsyāmi vā jalam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 4
+  },
+  "03297005a": {
+    "text": {
+      "ascii": "syAt tu duryodhanenedam upAMzuvihitaM kRtam\n",
+      "ud": "स्यात्तु दुर्योधनेनेदमुपांशुविहितं कृतम्\n",
+      "ur": "syāt tu duryodhanenedam upāṁśuvihitaṁ kr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 5
+  },
+  "03297005c": {
+    "text": {
+      "ascii": "gAndhArarAjaracitaM satataM jihmabuddhinA\n",
+      "ud": "गान्धारराजरचितं सततं जिह्मबुद्धिना\n",
+      "ur": "gāndhārarājaracitaṁ satataṁ jihmabuddhinā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 5
+  },
+  "03297006a": {
+    "text": {
+      "ascii": "yasya kAryam akAryaM vA samam eva bhavaty uta\n",
+      "ud": "यस्य कार्यमकार्यं वा सममेव भवत्युत\n",
+      "ur": "yasya kāryam akāryaṁ vā samam eva bhavaty uta\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 6
+  },
+  "03297006c": {
+    "text": {
+      "ascii": "kas tasya vizvased vIro durmater akRtAtmanaH\n",
+      "ud": "कस्तस्य विश्वसेद्वीरो दुर्मतेरकृतात्मनः\n",
+      "ur": "kas tasya viśvased vīro durmater akr̥tātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 6
+  },
+  "03297007a": {
+    "text": {
+      "ascii": "atha vA puruSair gUDhaiH prayogo 'yaM durAtmanaH\n",
+      "ud": "अथ वा पुरुषैर्गूढैः प्रयोगोऽयं दुरात्मनः\n",
+      "ur": "atha vā puruṣair gūḍhaiḥ prayogo ’yaṁ durātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 7
+  },
+  "03297007c": {
+    "text": {
+      "ascii": "bhaved iti mahAbAhur bahudhA samacintayat\n",
+      "ud": "भवेदिति महाबाहुर्बहुधा समचिन्तयत्\n",
+      "ur": "bhaved iti mahābāhur bahudhā samacintayat\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 7
+  },
+  "03297008a": {
+    "text": {
+      "ascii": "tasyAsIn na viSeNedam udakaM dUSitaM yathA\n",
+      "ud": "तस्यासीन्न विषेणेदमुदकं दूषितं यथा\n",
+      "ur": "tasyāsīn na viṣeṇedam udakaṁ dūṣitaṁ yathā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 8
+  },
+  "03297008c": {
+    "text": {
+      "ascii": "mukhavarNAH prasannA me bhrAtqNAm ity acintayat\n",
+      "ud": "मुखवर्णाः प्रसन्ना मे भ्रातॄणामित्यचिन्तयत्\n",
+      "ur": "mukhavarṇāḥ prasannā me bhrātr̥̄ṇām ity acintayat\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 8
+  },
+  "03297009a": {
+    "text": {
+      "ascii": "ekaikazaz caughabalAn imAn puruSasattamAn\n",
+      "ud": "एकैकशश्चौघबलानिमान्पुरुषसत्तमान्\n",
+      "ur": "ekaikaśaś caughabalān imān puruṣasattamān\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 9
+  },
+  "03297009c": {
+    "text": {
+      "ascii": "ko 'nyaH pratisamAseta kAlAntakayamAd Rte\n",
+      "ud": "कोऽन्यः प्रतिसमासेत कालान्तकयमादृते\n",
+      "ur": "ko ’nyaḥ pratisamāseta kālāntakayamād r̥te\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 9
+  },
+  "03297010a": {
+    "text": {
+      "ascii": "etenAdhyavasAyena tat toyam avagADhavAn\n",
+      "ud": "एतेनाध्यवसायेन तत्तोयमवगाढवान्\n",
+      "ur": "etenādhyavasāyena tat toyam avagāḍhavān\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 10
+  },
+  "03297010c": {
+    "text": {
+      "ascii": "gAhamAnaz ca tat toyam antarikSAt sa zuzruve\n",
+      "ud": "गाहमानश्च तत्तोयमन्तरिक्षात्स शुश्रुवे\n",
+      "ur": "gāhamānaś ca tat toyam antarikṣāt sa śuśruve\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 10
+  },
+  "03297011": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 11
+  },
+  "03297011a": {
+    "text": {
+      "ascii": "ahaM bakaH zaivalamatsyabhakSo; mayA nItAH pretavazaM tavAnujAH\n",
+      "ud": "अहं बकः शैवलमत्स्यभक्षो; मया नीताः प्रेतवशं तवानुजाः\n",
+      "ur": "ahaṁ bakaḥ śaivalamatsyabhakṣo; mayā nītāḥ pretavaśaṁ tavānujāḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 11
+  },
+  "03297011c": {
+    "text": {
+      "ascii": "tvaM paJcamo bhavitA rAjaputra; na cet praznAn pRcchato vyAkaroSi\n",
+      "ud": "त्वं पञ्चमो भविता राजपुत्र; न चेत्प्रश्नान्पृच्छतो व्याकरोषि\n",
+      "ur": "tvaṁ pañcamo bhavitā rājaputra; na cet praśnān pr̥cchato vyākaroṣi\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 11
+  },
+  "03297012a": {
+    "text": {
+      "ascii": "mA tAta sAhasaM kArSIr mama pUrvaparigrahaH\n",
+      "ud": "मा तात साहसं कार्षीर्मम पूर्वपरिग्रहः\n",
+      "ur": "mā tāta sāhasaṁ kārṣīr mama pūrvaparigrahaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 12
+  },
+  "03297012c": {
+    "text": {
+      "ascii": "praznAn uktvA tu kaunteya tataH piba harasva ca\n",
+      "ud": "प्रश्नानुक्त्वा तु कौन्तेय ततः पिब हरस्व च\n",
+      "ur": "praśnān uktvā tu kaunteya tataḥ piba harasva ca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 12
+  },
+  "03297013": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 13
+  },
+  "03297013a": {
+    "text": {
+      "ascii": "rudrANAM vA vasUnAM vA marutAM vA pradhAnabhAk\n",
+      "ud": "रुद्राणां वा वसूनां वा मरुतां वा प्रधानभाक्\n",
+      "ur": "rudrāṇāṁ vā vasūnāṁ vā marutāṁ vā pradhānabhāk\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 13
+  },
+  "03297013c": {
+    "text": {
+      "ascii": "pRcchAmi ko bhavAn devo naitac chakuninA kRtam\n",
+      "ud": "पृच्छामि को भवान्देवो नैतच्छकुनिना कृतम्\n",
+      "ur": "pr̥cchāmi ko bhavān devo naitac chakuninā kr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 13
+  },
+  "03297014a": {
+    "text": {
+      "ascii": "himavAn pAriyAtraz ca vindhyo malaya eva ca\n",
+      "ud": "हिमवान्पारियात्रश्च विन्ध्यो मलय एव च\n",
+      "ur": "himavān pāriyātraś ca vindhyo malaya eva ca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 14
+  },
+  "03297014c": {
+    "text": {
+      "ascii": "catvAraH parvatAH kena pAtitA bhuvi tejasA\n",
+      "ud": "चत्वारः पर्वताः केन पातिता भुवि तेजसा\n",
+      "ur": "catvāraḥ parvatāḥ kena pātitā bhuvi tejasā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 14
+  },
+  "03297015a": {
+    "text": {
+      "ascii": "atIva te mahat karma kRtaM balavatAM vara\n",
+      "ud": "अतीव ते महत्कर्म कृतं बलवतां वर\n",
+      "ur": "atīva te mahat karma kr̥taṁ balavatāṁ vara\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 15
+  },
+  "03297015c": {
+    "text": {
+      "ascii": "yan na devA na gandharvA nAsurA na ca rAkSasAH\n",
+      "ud": "यन्न देवा न गन्धर्वा नासुरा न च राक्षसाः\n",
+      "ur": "yan na devā na gandharvā nāsurā na ca rākṣasāḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 15
+  },
+  "03297015e": {
+    "text": {
+      "ascii": "viSaheran mahAyuddhe kRtaM te tan mahAdbhutam\n",
+      "ud": "विषहेरन्महायुद्धे कृतं ते तन्महाद्भुतम्\n",
+      "ur": "viṣaheran mahāyuddhe kr̥taṁ te tan mahādbhutam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 15
+  },
+  "03297016a": {
+    "text": {
+      "ascii": "na te jAnAmi yat kAryaM nAbhijAnAmi kAGkSitam\n",
+      "ud": "न ते जानामि यत्कार्यं नाभिजानामि काङ्क्षितम्\n",
+      "ur": "na te jānāmi yat kāryaṁ nābhijānāmi kāṅkṣitam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 16
+  },
+  "03297016c": {
+    "text": {
+      "ascii": "kautUhalaM mahaj jAtaM sAdhvasaM cAgataM mama\n",
+      "ud": "कौतूहलं महज्जातं साध्वसं चागतं मम\n",
+      "ur": "kautūhalaṁ mahaj jātaṁ sādhvasaṁ cāgataṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 16
+  },
+  "03297017a": {
+    "text": {
+      "ascii": "yenAsmy udvignahRdayaH samutpannazirojvaraH\n",
+      "ud": "येनास्म्युद्विग्नहृदयः समुत्पन्नशिरोज्वरः\n",
+      "ur": "yenāsmy udvignahr̥dayaḥ samutpannaśirojvaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 17
+  },
+  "03297017c": {
+    "text": {
+      "ascii": "pRcchAmi bhagavaMs tasmAt ko bhavAn iha tiSThati\n",
+      "ud": "पृच्छामि भगवंस्तस्मात्को भवानिह तिष्ठति\n",
+      "ur": "pr̥cchāmi bhagavaṁs tasmāt ko bhavān iha tiṣṭhati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 17
+  },
+  "03297018": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 18
+  },
+  "03297018a": {
+    "text": {
+      "ascii": "yakSo 'ham asmi bhadraM te nAsmi pakSI jalecaraH\n",
+      "ud": "यक्षोऽहमस्मि भद्रं ते नास्मि पक्षी जलेचरः\n",
+      "ur": "yakṣo ’ham asmi bhadraṁ te nāsmi pakṣī jalecaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 18
+  },
+  "03297018c": {
+    "text": {
+      "ascii": "mayaite nihatAH sarve bhrAtaras te mahaujasaH\n",
+      "ud": "मयैते निहताः सर्वे भ्रातरस्ते महौजसः\n",
+      "ur": "mayaite nihatāḥ sarve bhrātaras te mahaujasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 18
+  },
+  "03297019": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 19
+  },
+  "03297019a": {
+    "text": {
+      "ascii": "tatas tAm azivAM zrutvA vAcaM sa paruSAkSarAm\n",
+      "ud": "ततस्तामशिवां श्रुत्वा वाचं स परुषाक्षराम्\n",
+      "ur": "tatas tām aśivāṁ śrutvā vācaṁ sa paruṣākṣarām\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 19
+  },
+  "03297019c": {
+    "text": {
+      "ascii": "yakSasya bruvato rAjann upakramya tadA sthitaH\n",
+      "ud": "यक्षस्य ब्रुवतो राजन्नुपक्रम्य तदा स्थितः\n",
+      "ur": "yakṣasya bruvato rājann upakramya tadā sthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 19
+  },
+  "03297020a": {
+    "text": {
+      "ascii": "virUpAkSaM mahAkAyaM yakSaM tAlasamucchrayam\n",
+      "ud": "विरूपाक्षं महाकायं यक्षं तालसमुच्छ्रयम्\n",
+      "ur": "virūpākṣaṁ mahākāyaṁ yakṣaṁ tālasamucchrayam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 20
+  },
+  "03297020c": {
+    "text": {
+      "ascii": "jvalanArkapratIkAzam adhRSyaM parvatopamam\n",
+      "ud": "ज्वलनार्कप्रतीकाशमधृष्यं पर्वतोपमम्\n",
+      "ur": "jvalanārkapratīkāśam adhr̥ṣyaṁ parvatopamam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 20
+  },
+  "03297021a": {
+    "text": {
+      "ascii": "setum Azritya tiSThantaM dadarza bharatarSabhaH\n",
+      "ud": "सेतुमाश्रित्य तिष्ठन्तं ददर्श भरतर्षभः\n",
+      "ur": "setum āśritya tiṣṭhantaṁ dadarśa bharatarṣabhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 21
+  },
+  "03297021c": {
+    "text": {
+      "ascii": "meghagambhIrayA vAcA tarjayantaM mahAbalam\n",
+      "ud": "मेघगम्भीरया वाचा तर्जयन्तं महाबलम्\n",
+      "ur": "meghagambhīrayā vācā tarjayantaṁ mahābalam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 21
+  },
+  "03297022": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 22
+  },
+  "03297022a": {
+    "text": {
+      "ascii": "ime te bhrAtaro rAjan vAryamANA mayAsakRt\n",
+      "ud": "इमे ते भ्रातरो राजन्वार्यमाणा मयासकृत्\n",
+      "ur": "ime te bhrātaro rājan vāryamāṇā mayāsakr̥t\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 22
+  },
+  "03297022c": {
+    "text": {
+      "ascii": "balAt toyaM jihIrSantas tato vai sUditA mayA\n",
+      "ud": "बलात्तोयं जिहीर्षन्तस्ततो वै सूदिता मया\n",
+      "ur": "balāt toyaṁ jihīrṣantas tato vai sūditā mayā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 22
+  },
+  "03297023a": {
+    "text": {
+      "ascii": "na peyam udakaM rAjan prANAn iha parIpsatA\n",
+      "ud": "न पेयमुदकं राजन्प्राणानिह परीप्सता\n",
+      "ur": "na peyam udakaṁ rājan prāṇān iha parīpsatā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 23
+  },
+  "03297023c": {
+    "text": {
+      "ascii": "pArtha mA sAhasaM kArSIr mama pUrvaparigrahaH\n",
+      "ud": "पार्थ मा साहसं कार्षीर्मम पूर्वपरिग्रहः\n",
+      "ur": "pārtha mā sāhasaṁ kārṣīr mama pūrvaparigrahaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 23
+  },
+  "03297023e": {
+    "text": {
+      "ascii": "praznAn uktvA tu kaunteya tataH piba harasva ca\n",
+      "ud": "प्रश्नानुक्त्वा तु कौन्तेय ततः पिब हरस्व च\n",
+      "ur": "praśnān uktvā tu kaunteya tataḥ piba harasva ca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 23
+  },
+  "03297024": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 24
+  },
+  "03297024a": {
+    "text": {
+      "ascii": "naivAhaM kAmaye yakSa tava pUrvaparigraham\n",
+      "ud": "नैवाहं कामये यक्ष तव पूर्वपरिग्रहम्\n",
+      "ur": "naivāhaṁ kāmaye yakṣa tava pūrvaparigraham\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 24
+  },
+  "03297024c": {
+    "text": {
+      "ascii": "kAmaM naitat prazaMsanti santo hi puruSAH sadA\n",
+      "ud": "कामं नैतत्प्रशंसन्ति सन्तो हि पुरुषाः सदा\n",
+      "ur": "kāmaṁ naitat praśaṁsanti santo hi puruṣāḥ sadā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 24
+  },
+  "03297025a": {
+    "text": {
+      "ascii": "yadAtmanA svam AtmAnaM prazaMset puruSaH prabho\n",
+      "ud": "यदात्मना स्वमात्मानं प्रशंसेत्पुरुषः प्रभो\n",
+      "ur": "yadātmanā svam ātmānaṁ praśaṁset puruṣaḥ prabho\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 25
+  },
+  "03297025c": {
+    "text": {
+      "ascii": "yathAprajJaM tu te praznAn prativakSyAmi pRccha mAm\n",
+      "ud": "यथाप्रज्ञं तु ते प्रश्नान्प्रतिवक्ष्यामि पृच्छ माम्\n",
+      "ur": "yathāprajñaṁ tu te praśnān prativakṣyāmi pr̥ccha mām\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 25
+  },
+  "03297026": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 26
+  },
+  "03297026a": {
+    "text": {
+      "ascii": "kiM svid Adityam unnayati ke ca tasyAbhitaz carAH\n",
+      "ud": "किं स्विदादित्यमुन्नयति के च तस्याभितश्चराः\n",
+      "ur": "kiṁ svid ādityam unnayati ke ca tasyābhitaś carāḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 26
+  },
+  "03297026c": {
+    "text": {
+      "ascii": "kaz cainam astaM nayati kasmiMz ca pratitiSThati\n",
+      "ud": "कश्चैनमस्तं नयति कस्मिंश्च प्रतितिष्ठति\n",
+      "ur": "kaś cainam astaṁ nayati kasmiṁś ca pratitiṣṭhati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 26
+  },
+  "03297027": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 27
+  },
+  "03297027a": {
+    "text": {
+      "ascii": "brahmAdityam unnayati devAs tasyAbhitaz carAH\n",
+      "ud": "ब्रह्मादित्यमुन्नयति देवास्तस्याभितश्चराः\n",
+      "ur": "brahmādityam unnayati devās tasyābhitaś carāḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 27
+  },
+  "03297027c": {
+    "text": {
+      "ascii": "dharmaz cAstaM nayati ca satye ca pratitiSThati\n",
+      "ud": "धर्मश्चास्तं नयति च सत्ये च प्रतितिष्ठति\n",
+      "ur": "dharmaś cāstaṁ nayati ca satye ca pratitiṣṭhati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 27
+  },
+  "03297028": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 28
+  },
+  "03297028a": {
+    "text": {
+      "ascii": "kena svic chrotriyo bhavati kena svid vindate mahat\n",
+      "ud": "केन स्विच्छ्रोत्रियो भवति केन स्विद्विन्दते महत्\n",
+      "ur": "kena svic chrotriyo bhavati kena svid vindate mahat\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 28
+  },
+  "03297028c": {
+    "text": {
+      "ascii": "kena dvitIyavAn bhavati rAjan kena ca buddhimAn\n",
+      "ud": "केन द्वितीयवान्भवति राजन्केन च बुद्धिमान्\n",
+      "ur": "kena dvitīyavān bhavati rājan kena ca buddhimān\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 28
+  },
+  "03297029": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 29
+  },
+  "03297029a": {
+    "text": {
+      "ascii": "zrutena zrotriyo bhavati tapasA vindate mahat\n",
+      "ud": "श्रुतेन श्रोत्रियो भवति तपसा विन्दते महत्\n",
+      "ur": "śrutena śrotriyo bhavati tapasā vindate mahat\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 29
+  },
+  "03297029c": {
+    "text": {
+      "ascii": "dhRtyA dvitIyavAn bhavati buddhimAn vRddhasevayA\n",
+      "ud": "धृत्या द्वितीयवान्भवति बुद्धिमान्वृद्धसेवया\n",
+      "ur": "dhr̥tyā dvitīyavān bhavati buddhimān vr̥ddhasevayā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 29
+  },
+  "03297030": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 30
+  },
+  "03297030a": {
+    "text": {
+      "ascii": "kiM brAhmaNAnAM devatvaM kaz ca dharmaH satAm iva\n",
+      "ud": "किं ब्राह्मणानां देवत्वं कश्च धर्मः सतामिव\n",
+      "ur": "kiṁ brāhmaṇānāṁ devatvaṁ kaś ca dharmaḥ satām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 30
+  },
+  "03297030c": {
+    "text": {
+      "ascii": "kaz caiSAM mAnuSo bhAvaH kim eSAm asatAm iva\n",
+      "ud": "कश्चैषां मानुषो भावः किमेषामसतामिव\n",
+      "ur": "kaś caiṣāṁ mānuṣo bhāvaḥ kim eṣām asatām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 30
+  },
+  "03297031": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 31
+  },
+  "03297031a": {
+    "text": {
+      "ascii": "svAdhyAya eSAM devatvaM tapa eSAM satAm iva\n",
+      "ud": "स्वाध्याय एषां देवत्वं तप एषां सतामिव\n",
+      "ur": "svādhyāya eṣāṁ devatvaṁ tapa eṣāṁ satām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 31
+  },
+  "03297031c": {
+    "text": {
+      "ascii": "maraNaM mAnuSo bhAvaH parivAdo 'satAm iva\n",
+      "ud": "मरणं मानुषो भावः परिवादोऽसतामिव\n",
+      "ur": "maraṇaṁ mānuṣo bhāvaḥ parivādo ’satām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 31
+  },
+  "03297032": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 32
+  },
+  "03297032a": {
+    "text": {
+      "ascii": "kiM kSatriyANAM devatvaM kaz ca dharmaH satAm iva\n",
+      "ud": "किं क्षत्रियाणां देवत्वं कश्च धर्मः सतामिव\n",
+      "ur": "kiṁ kṣatriyāṇāṁ devatvaṁ kaś ca dharmaḥ satām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 32
+  },
+  "03297032c": {
+    "text": {
+      "ascii": "kaz caiSAM mAnuSo bhAvaH kim eSAm asatAm iva\n",
+      "ud": "कश्चैषां मानुषो भावः किमेषामसतामिव\n",
+      "ur": "kaś caiṣāṁ mānuṣo bhāvaḥ kim eṣām asatām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 32
+  },
+  "03297033": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 33
+  },
+  "03297033a": {
+    "text": {
+      "ascii": "iSvastram eSAM devatvaM yajJa eSAM satAm iva\n",
+      "ud": "इष्वस्त्रमेषां देवत्वं यज्ञ एषां सतामिव\n",
+      "ur": "iṣvastram eṣāṁ devatvaṁ yajña eṣāṁ satām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 33
+  },
+  "03297033c": {
+    "text": {
+      "ascii": "bhayaM vai mAnuSo bhAvaH parityAgo 'satAm iva\n",
+      "ud": "भयं वै मानुषो भावः परित्यागोऽसतामिव\n",
+      "ur": "bhayaṁ vai mānuṣo bhāvaḥ parityāgo ’satām iva\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 33
+  },
+  "03297034": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 34
+  },
+  "03297034a": {
+    "text": {
+      "ascii": "kim ekaM yajJiyaM sAma kim ekaM yajJiyaM yajuH\n",
+      "ud": "किमेकं यज्ञियं साम किमेकं यज्ञियं यजुः\n",
+      "ur": "kim ekaṁ yajñiyaṁ sāma kim ekaṁ yajñiyaṁ yajuḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 34
+  },
+  "03297034c": {
+    "text": {
+      "ascii": "kA caikA vRzcate yajJaM kAM yajJo nAtivartate\n",
+      "ud": "का चैका वृश्चते यज्ञं कां यज्ञो नातिवर्तते\n",
+      "ur": "kā caikā vr̥ścate yajñaṁ kāṁ yajño nātivartate\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 34
+  },
+  "03297035": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 35
+  },
+  "03297035a": {
+    "text": {
+      "ascii": "prANo vai yajJiyaM sAma mano vai yajJiyaM yajuH\n",
+      "ud": "प्राणो वै यज्ञियं साम मनो वै यज्ञियं यजुः\n",
+      "ur": "prāṇo vai yajñiyaṁ sāma mano vai yajñiyaṁ yajuḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 35
+  },
+  "03297035c": {
+    "text": {
+      "ascii": "vAg ekA vRzcate yajJaM tAM yajJo nAtivartate\n",
+      "ud": "वागेका वृश्चते यज्ञं तां यज्ञो नातिवर्तते\n",
+      "ur": "vāg ekā vr̥ścate yajñaṁ tāṁ yajño nātivartate\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 35
+  },
+  "03297036": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 36
+  },
+  "03297036a": {
+    "text": {
+      "ascii": "kiM svid ApatatAM zreSThaM kiM svin nipatatAM varam\n",
+      "ud": "किं स्विदापततां श्रेष्ठं किं स्विन्निपततां वरम्\n",
+      "ur": "kiṁ svid āpatatāṁ śreṣṭhaṁ kiṁ svin nipatatāṁ varam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 36
+  },
+  "03297036c": {
+    "text": {
+      "ascii": "kiM svit pratiSThamAnAnAM kiM svit pravadatAM varam\n",
+      "ud": "किं स्वित्प्रतिष्ठमानानां किं स्वित्प्रवदतां वरम्\n",
+      "ur": "kiṁ svit pratiṣṭhamānānāṁ kiṁ svit pravadatāṁ varam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 36
+  },
+  "03297037": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 37
+  },
+  "03297037a": {
+    "text": {
+      "ascii": "varSam ApatatAM zreSThaM bIjaM nipatatAM varam\n",
+      "ud": "वर्षमापततां श्रेष्ठं बीजं निपततां वरम्\n",
+      "ur": "varṣam āpatatāṁ śreṣṭhaṁ bījaṁ nipatatāṁ varam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 37
+  },
+  "03297037c": {
+    "text": {
+      "ascii": "gAvaH pratiSThamAnAnAM putraH pravadatAM varaH\n",
+      "ud": "गावः प्रतिष्ठमानानां पुत्रः प्रवदतां वरः\n",
+      "ur": "gāvaḥ pratiṣṭhamānānāṁ putraḥ pravadatāṁ varaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 37
+  },
+  "03297038": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 38
+  },
+  "03297038a": {
+    "text": {
+      "ascii": "indriyArthAn anubhavan buddhimA\u0026l lokapUjitaH\n",
+      "ud": "इन्द्रियार्थाननुभवन्बुद्धिमाँल्लोकपूजितः\n",
+      "ur": "indriyārthān anubhavan buddhimām̐l lokapūjitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 38
+  },
+  "03297038c": {
+    "text": {
+      "ascii": "saMmataH sarvabhUtAnAm ucchvasan ko na jIvati\n",
+      "ud": "संमतः सर्वभूतानामुच्छ्वसन्को न जीवति\n",
+      "ur": "saṁmataḥ sarvabhūtānām ucchvasan ko na jīvati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 38
+  },
+  "03297039": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 39
+  },
+  "03297039a": {
+    "text": {
+      "ascii": "devatAtithibhRtyAnAM pitqNAm Atmanaz ca yaH\n",
+      "ud": "देवतातिथिभृत्यानां पितॄणामात्मनश्च यः\n",
+      "ur": "devatātithibhr̥tyānāṁ pitr̥̄ṇām ātmanaś ca yaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 39
+  },
+  "03297039c": {
+    "text": {
+      "ascii": "na nirvapati paJcAnAm ucchvasan na sa jIvati\n",
+      "ud": "न निर्वपति पञ्चानामुच्छ्वसन्न स जीवति\n",
+      "ur": "na nirvapati pañcānām ucchvasan na sa jīvati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 39
+  },
+  "03297040": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 40
+  },
+  "03297040a": {
+    "text": {
+      "ascii": "kiM svid gurutaraM bhUmeH kiM svid uccataraM ca khAt\n",
+      "ud": "किं स्विद्गुरुतरं भूमेः किं स्विदुच्चतरं च खात्\n",
+      "ur": "kiṁ svid gurutaraṁ bhūmeḥ kiṁ svid uccataraṁ ca khāt\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 40
+  },
+  "03297040c": {
+    "text": {
+      "ascii": "kiM svic chIghrataraM vAyoH kiM svid bahutaraM nRNAm\n",
+      "ud": "किं स्विच्छीघ्रतरं वायोः किं स्विद्बहुतरं नृणाम्\n",
+      "ur": "kiṁ svic chīghrataraṁ vāyoḥ kiṁ svid bahutaraṁ nr̥ṇām\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 40
+  },
+  "03297041": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 41
+  },
+  "03297041a": {
+    "text": {
+      "ascii": "mAtA gurutarA bhUmeH pitA uccataraz ca khAt\n",
+      "ud": "माता गुरुतरा भूमेः पिता उच्चतरश्च खात्\n",
+      "ur": "mātā gurutarā bhūmeḥ pitā uccataraś ca khāt\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 41
+  },
+  "03297041c": {
+    "text": {
+      "ascii": "manaH zIghrataraM vAyoz cintA bahutarI nRNAm\n",
+      "ud": "मनः शीघ्रतरं वायोश्चिन्ता बहुतरी नृणाम्\n",
+      "ur": "manaḥ śīghrataraṁ vāyoś cintā bahutarī nr̥ṇām\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 41
+  },
+  "03297042": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 42
+  },
+  "03297042a": {
+    "text": {
+      "ascii": "kiM svit suptaM na nimiSati kiM svij jAtaM na copati\n",
+      "ud": "किं स्वित्सुप्तं न निमिषति किं स्विज्जातं न चोपति\n",
+      "ur": "kiṁ svit suptaṁ na nimiṣati kiṁ svij jātaṁ na copati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 42
+  },
+  "03297042c": {
+    "text": {
+      "ascii": "kasya svid dhRdayaM nAsti kiM svid vegena vardhate\n",
+      "ud": "कस्य स्विद्धृदयं नास्ति किं स्विद्वेगेन वर्धते\n",
+      "ur": "kasya svid dhr̥dayaṁ nāsti kiṁ svid vegena vardhate\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 42
+  },
+  "03297043": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 43
+  },
+  "03297043a": {
+    "text": {
+      "ascii": "matsyaH supto na nimiSaty aNDaM jAtaM na copati\n",
+      "ud": "मत्स्यः सुप्तो न निमिषत्यण्डं जातं न चोपति\n",
+      "ur": "matsyaḥ supto na nimiṣaty aṇḍaṁ jātaṁ na copati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 43
+  },
+  "03297043c": {
+    "text": {
+      "ascii": "azmano hRdayaM nAsti nadI vegena vardhate\n",
+      "ud": "अश्मनो हृदयं नास्ति नदी वेगेन वर्धते\n",
+      "ur": "aśmano hr̥dayaṁ nāsti nadī vegena vardhate\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 43
+  },
+  "03297044": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 44
+  },
+  "03297044a": {
+    "text": {
+      "ascii": "kiM svit pravasato mitraM kiM svin mitraM gRhe sataH\n",
+      "ud": "किं स्वित्प्रवसतो मित्रं किं स्विन्मित्रं गृहे सतः\n",
+      "ur": "kiṁ svit pravasato mitraṁ kiṁ svin mitraṁ gr̥he sataḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 44
+  },
+  "03297044c": {
+    "text": {
+      "ascii": "Aturasya ca kiM mitraM kiM svin mitraM mariSyataH\n",
+      "ud": "आतुरस्य च किं मित्रं किं स्विन्मित्रं मरिष्यतः\n",
+      "ur": "āturasya ca kiṁ mitraṁ kiṁ svin mitraṁ mariṣyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 44
+  },
+  "03297045": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 45
+  },
+  "03297045a": {
+    "text": {
+      "ascii": "sArthaH pravasato mitraM bhAryA mitraM gRhe sataH\n",
+      "ud": "सार्थः प्रवसतो मित्रं भार्या मित्रं गृहे सतः\n",
+      "ur": "sārthaḥ pravasato mitraṁ bhāryā mitraṁ gr̥he sataḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 45
+  },
+  "03297045c": {
+    "text": {
+      "ascii": "Aturasya bhiSaG mitraM dAnaM mitraM mariSyataH\n",
+      "ud": "आतुरस्य भिषङ्मित्रं दानं मित्रं मरिष्यतः\n",
+      "ur": "āturasya bhiṣaṅ mitraṁ dānaṁ mitraṁ mariṣyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 45
+  },
+  "03297046": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 46
+  },
+  "03297046a": {
+    "text": {
+      "ascii": "kiM svid eko vicarati jAtaH ko jAyate punaH\n",
+      "ud": "किं स्विदेको विचरति जातः को जायते पुनः\n",
+      "ur": "kiṁ svid eko vicarati jātaḥ ko jāyate punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 46
+  },
+  "03297046c": {
+    "text": {
+      "ascii": "kiM svid dhimasya bhaiSajyaM kiM svid AvapanaM mahat\n",
+      "ud": "किं स्विद्धिमस्य भैषज्यं किं स्विदावपनं महत्\n",
+      "ur": "kiṁ svid dhimasya bhaiṣajyaṁ kiṁ svid āvapanaṁ mahat\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 46
+  },
+  "03297047": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 47
+  },
+  "03297047a": {
+    "text": {
+      "ascii": "sUrya eko vicarati candramA jAyate punaH\n",
+      "ud": "सूर्य एको विचरति चन्द्रमा जायते पुनः\n",
+      "ur": "sūrya eko vicarati candramā jāyate punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 47
+  },
+  "03297047c": {
+    "text": {
+      "ascii": "agnir himasya bhaiSajyaM bhUmir AvapanaM mahat\n",
+      "ud": "अग्निर्हिमस्य भैषज्यं भूमिरावपनं महत्\n",
+      "ur": "agnir himasya bhaiṣajyaṁ bhūmir āvapanaṁ mahat\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 47
+  },
+  "03297048": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 48
+  },
+  "03297048a": {
+    "text": {
+      "ascii": "kiM svid ekapadaM dharmyaM kiM svid ekapadaM yazaH\n",
+      "ud": "किं स्विदेकपदं धर्म्यं किं स्विदेकपदं यशः\n",
+      "ur": "kiṁ svid ekapadaṁ dharmyaṁ kiṁ svid ekapadaṁ yaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 48
+  },
+  "03297048c": {
+    "text": {
+      "ascii": "kiM svid ekapadaM svargyaM kiM svid ekapadaM sukham\n",
+      "ud": "किं स्विदेकपदं स्वर्ग्यं किं स्विदेकपदं सुखम्\n",
+      "ur": "kiṁ svid ekapadaṁ svargyaṁ kiṁ svid ekapadaṁ sukham\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 48
+  },
+  "03297049": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 49
+  },
+  "03297049a": {
+    "text": {
+      "ascii": "dAkSyam ekapadaM dharmyaM dAnam ekapadaM yazaH\n",
+      "ud": "दाक्ष्यमेकपदं धर्म्यं दानमेकपदं यशः\n",
+      "ur": "dākṣyam ekapadaṁ dharmyaṁ dānam ekapadaṁ yaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 49
+  },
+  "03297049c": {
+    "text": {
+      "ascii": "satyam ekapadaM svargyaM zIlam ekapadaM sukham\n",
+      "ud": "सत्यमेकपदं स्वर्ग्यं शीलमेकपदं सुखम्\n",
+      "ur": "satyam ekapadaṁ svargyaṁ śīlam ekapadaṁ sukham\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 49
+  },
+  "03297050": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 50
+  },
+  "03297050a": {
+    "text": {
+      "ascii": "kiM svid AtmA manuSyasya kiM svid daivakRtaH sakhA\n",
+      "ud": "किं स्विदात्मा मनुष्यस्य किं स्विद्दैवकृतः सखा\n",
+      "ur": "kiṁ svid ātmā manuṣyasya kiṁ svid daivakr̥taḥ sakhā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 50
+  },
+  "03297050c": {
+    "text": {
+      "ascii": "upajIvanaM kiM svid asya kiM svid asya parAyaNam\n",
+      "ud": "उपजीवनं किं स्विदस्य किं स्विदस्य परायणम्\n",
+      "ur": "upajīvanaṁ kiṁ svid asya kiṁ svid asya parāyaṇam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 50
+  },
+  "03297051": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 51
+  },
+  "03297051a": {
+    "text": {
+      "ascii": "putra AtmA manuSyasya bhAryA daivakRtaH sakhA\n",
+      "ud": "पुत्र आत्मा मनुष्यस्य भार्या दैवकृतः सखा\n",
+      "ur": "putra ātmā manuṣyasya bhāryā daivakr̥taḥ sakhā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 51
+  },
+  "03297051c": {
+    "text": {
+      "ascii": "upajIvanaM ca parjanyo dAnam asya parAyaNam\n",
+      "ud": "उपजीवनं च पर्जन्यो दानमस्य परायणम्\n",
+      "ur": "upajīvanaṁ ca parjanyo dānam asya parāyaṇam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 51
+  },
+  "03297052": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 52
+  },
+  "03297052a": {
+    "text": {
+      "ascii": "dhanyAnAm uttamaM kiM svid dhanAnAM kiM svid uttamam\n",
+      "ud": "धन्यानामुत्तमं किं स्विद्धनानां किं स्विदुत्तमम्\n",
+      "ur": "dhanyānām uttamaṁ kiṁ svid dhanānāṁ kiṁ svid uttamam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 52
+  },
+  "03297052c": {
+    "text": {
+      "ascii": "lAbhAnAm uttamaM kiM svit kiM sukhAnAM tathottamam\n",
+      "ud": "लाभानामुत्तमं किं स्वित्किं सुखानां तथोत्तमम्\n",
+      "ur": "lābhānām uttamaṁ kiṁ svit kiṁ sukhānāṁ tathottamam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 52
+  },
+  "03297053": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 53
+  },
+  "03297053a": {
+    "text": {
+      "ascii": "dhanyAnAm uttamaM dAkSyaM dhanAnAm uttamaM zrutam\n",
+      "ud": "धन्यानामुत्तमं दाक्ष्यं धनानामुत्तमं श्रुतम्\n",
+      "ur": "dhanyānām uttamaṁ dākṣyaṁ dhanānām uttamaṁ śrutam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 53
+  },
+  "03297053c": {
+    "text": {
+      "ascii": "lAbhAnAM zreSTham ArogyaM sukhAnAM tuSTir uttamA\n",
+      "ud": "लाभानां श्रेष्ठमारोग्यं सुखानां तुष्टिरुत्तमा\n",
+      "ur": "lābhānāṁ śreṣṭham ārogyaṁ sukhānāṁ tuṣṭir uttamā\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 53
+  },
+  "03297054": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 54
+  },
+  "03297054a": {
+    "text": {
+      "ascii": "kaz ca dharmaH paro loke kaz ca dharmaH sadAphalaH\n",
+      "ud": "कश्च धर्मः परो लोके कश्च धर्मः सदाफलः\n",
+      "ur": "kaś ca dharmaḥ paro loke kaś ca dharmaḥ sadāphalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 54
+  },
+  "03297054c": {
+    "text": {
+      "ascii": "kiM niyamya na zocanti kaiz ca saMdhir na jIryate\n",
+      "ud": "किं नियम्य न शोचन्ति कैश्च संधिर्न जीर्यते\n",
+      "ur": "kiṁ niyamya na śocanti kaiś ca saṁdhir na jīryate\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 54
+  },
+  "03297055": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 55
+  },
+  "03297055a": {
+    "text": {
+      "ascii": "AnRzaMsyaM paro dharmas trayIdharmaH sadAphalaH\n",
+      "ud": "आनृशंस्यं परो धर्मस्त्रयीधर्मः सदाफलः\n",
+      "ur": "ānr̥śaṁsyaṁ paro dharmas trayīdharmaḥ sadāphalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 55
+  },
+  "03297055c": {
+    "text": {
+      "ascii": "mano yamya na zocanti sadbhiH saMdhir na jIryate\n",
+      "ud": "मनो यम्य न शोचन्ति सद्भिः संधिर्न जीर्यते\n",
+      "ur": "mano yamya na śocanti sadbhiḥ saṁdhir na jīryate\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 55
+  },
+  "03297056": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 56
+  },
+  "03297056a": {
+    "text": {
+      "ascii": "kiM nu hitvA priyo bhavati kiM nu hitvA na zocati\n",
+      "ud": "किं नु हित्वा प्रियो भवति किं नु हित्वा न शोचति\n",
+      "ur": "kiṁ nu hitvā priyo bhavati kiṁ nu hitvā na śocati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 56
+  },
+  "03297056c": {
+    "text": {
+      "ascii": "kiM nu hitvArthavAn bhavati kiM nu hitvA sukhI bhavet\n",
+      "ud": "किं नु हित्वार्थवान्भवति किं नु हित्वा सुखी भवेत्\n",
+      "ur": "kiṁ nu hitvārthavān bhavati kiṁ nu hitvā sukhī bhavet\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 56
+  },
+  "03297057": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 57
+  },
+  "03297057a": {
+    "text": {
+      "ascii": "mAnaM hitvA priyo bhavati krodhaM hitvA na zocati\n",
+      "ud": "मानं हित्वा प्रियो भवति क्रोधं हित्वा न शोचति\n",
+      "ur": "mānaṁ hitvā priyo bhavati krodhaṁ hitvā na śocati\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 57
+  },
+  "03297057c": {
+    "text": {
+      "ascii": "kAmaM hitvArthavAn bhavati lobhaM hitvA sukhI bhavet\n",
+      "ud": "कामं हित्वार्थवान्भवति लोभं हित्वा सुखी भवेत्\n",
+      "ur": "kāmaṁ hitvārthavān bhavati lobhaṁ hitvā sukhī bhavet\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 57
+  },
+  "03297058": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 58
+  },
+  "03297058a": {
+    "text": {
+      "ascii": "mRtaH kathaM syAt puruSaH kathaM rASTraM mRtaM bhavet\n",
+      "ud": "मृतः कथं स्यात्पुरुषः कथं राष्ट्रं मृतं भवेत्\n",
+      "ur": "mr̥taḥ kathaṁ syāt puruṣaḥ kathaṁ rāṣṭraṁ mr̥taṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 58
+  },
+  "03297058c": {
+    "text": {
+      "ascii": "zrAddhaM mRtaM kathaM ca syAt kathaM yajJo mRto bhavet\n",
+      "ud": "श्राद्धं मृतं कथं च स्यात्कथं यज्ञो मृतो भवेत्\n",
+      "ur": "śrāddhaṁ mr̥taṁ kathaṁ ca syāt kathaṁ yajño mr̥to bhavet\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 58
+  },
+  "03297059": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 59
+  },
+  "03297059a": {
+    "text": {
+      "ascii": "mRto daridraH puruSo mRtaM rASTram arAjakam\n",
+      "ud": "मृतो दरिद्रः पुरुषो मृतं राष्ट्रमराजकम्\n",
+      "ur": "mr̥to daridraḥ puruṣo mr̥taṁ rāṣṭram arājakam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 59
+  },
+  "03297059c": {
+    "text": {
+      "ascii": "mRtam azrotriyaM zrAddhaM mRto yajJas tv adakSiNaH\n",
+      "ud": "मृतमश्रोत्रियं श्राद्धं मृतो यज्ञस्त्वदक्षिणः\n",
+      "ur": "mr̥tam aśrotriyaṁ śrāddhaṁ mr̥to yajñas tv adakṣiṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 59
+  },
+  "03297060": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 60
+  },
+  "03297060a": {
+    "text": {
+      "ascii": "kA dik kim udakaM proktaM kim annaM pArtha kiM viSam\n",
+      "ud": "का दिक्किमुदकं प्रोक्तं किमन्नं पार्थ किं विषम्\n",
+      "ur": "kā dik kim udakaṁ proktaṁ kim annaṁ pārtha kiṁ viṣam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 60
+  },
+  "03297060c": {
+    "text": {
+      "ascii": "zrAddhasya kAlam AkhyAhi tataH piba harasva ca\n",
+      "ud": "श्राद्धस्य कालमाख्याहि ततः पिब हरस्व च\n",
+      "ur": "śrāddhasya kālam ākhyāhi tataḥ piba harasva ca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 60
+  },
+  "03297061": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 61
+  },
+  "03297061a": {
+    "text": {
+      "ascii": "santo dig jalam AkAzaM gaur annaM prArthanA viSam\n",
+      "ud": "सन्तो दिग्जलमाकाशं गौरन्नं प्रार्थना विषम्\n",
+      "ur": "santo dig jalam ākāśaṁ gaur annaṁ prārthanā viṣam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 61
+  },
+  "03297061c": {
+    "text": {
+      "ascii": "zrAddhasya brAhmaNaH kAlaH kathaM vA yakSa manyase\n",
+      "ud": "श्राद्धस्य ब्राह्मणः कालः कथं वा यक्ष मन्यसे\n",
+      "ur": "śrāddhasya brāhmaṇaḥ kālaḥ kathaṁ vā yakṣa manyase\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 61
+  },
+  "03297062": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 62
+  },
+  "03297062a": {
+    "text": {
+      "ascii": "vyAkhyAtA me tvayA praznA yAthAtathyaM paraMtapa\n",
+      "ud": "व्याख्याता मे त्वया प्रश्ना याथातथ्यं परंतप\n",
+      "ur": "vyākhyātā me tvayā praśnā yāthātathyaṁ paraṁtapa\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 62
+  },
+  "03297062c": {
+    "text": {
+      "ascii": "puruSaM tv idAnIm AkhyAhi yaz ca sarvadhanI naraH\n",
+      "ud": "पुरुषं त्विदानीमाख्याहि यश्च सर्वधनी नरः\n",
+      "ur": "puruṣaṁ tv idānīm ākhyāhi yaś ca sarvadhanī naraḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 62
+  },
+  "03297063": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 63
+  },
+  "03297063a": {
+    "text": {
+      "ascii": "divaM spRzati bhUmiM ca zabdaH puNyasya karmaNaH\n",
+      "ud": "दिवं स्पृशति भूमिं च शब्दः पुण्यस्य कर्मणः\n",
+      "ur": "divaṁ spr̥śati bhūmiṁ ca śabdaḥ puṇyasya karmaṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 63
+  },
+  "03297063c": {
+    "text": {
+      "ascii": "yAvat sa zabdo bhavati tAvat puruSa ucyate\n",
+      "ud": "यावत्स शब्दो भवति तावत्पुरुष उच्यते\n",
+      "ur": "yāvat sa śabdo bhavati tāvat puruṣa ucyate\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 63
+  },
+  "03297064a": {
+    "text": {
+      "ascii": "tulye priyApriye yasya sukhaduHkhe tathaiva ca\n",
+      "ud": "तुल्ये प्रियाप्रिये यस्य सुखदुःखे तथैव च\n",
+      "ur": "tulye priyāpriye yasya sukhaduḥkhe tathaiva ca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 64
+  },
+  "03297064c": {
+    "text": {
+      "ascii": "atItAnAgate cobhe sa vai sarvadhanI naraH\n",
+      "ud": "अतीतानागते चोभे स वै सर्वधनी नरः\n",
+      "ur": "atītānāgate cobhe sa vai sarvadhanī naraḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 64
+  },
+  "03297065": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 65
+  },
+  "03297065a": {
+    "text": {
+      "ascii": "vyAkhyAtaH puruSo rAjan yaz ca sarvadhanI naraH\n",
+      "ud": "व्याख्यातः पुरुषो राजन्यश्च सर्वधनी नरः\n",
+      "ur": "vyākhyātaḥ puruṣo rājan yaś ca sarvadhanī naraḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 65
+  },
+  "03297065c": {
+    "text": {
+      "ascii": "tasmAt tavaiko bhrAtqNAM yam icchasi sa jIvatu\n",
+      "ud": "तस्मात्तवैको भ्रातॄणां यमिच्छसि स जीवतु\n",
+      "ur": "tasmāt tavaiko bhrātr̥̄ṇāṁ yam icchasi sa jīvatu\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 65
+  },
+  "03297066": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 66
+  },
+  "03297066a": {
+    "text": {
+      "ascii": "zyAmo ya eSa raktAkSo bRhacchAla ivodgataH\n",
+      "ud": "श्यामो य एष रक्ताक्षो बृहच्छाल इवोद्गतः\n",
+      "ur": "śyāmo ya eṣa raktākṣo br̥hacchāla ivodgataḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 66
+  },
+  "03297066c": {
+    "text": {
+      "ascii": "vyUDhorasko mahAbAhur nakulo yakSa jIvatu\n",
+      "ud": "व्यूढोरस्को महाबाहुर्नकुलो यक्ष जीवतु\n",
+      "ur": "vyūḍhorasko mahābāhur nakulo yakṣa jīvatu\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 66
+  },
+  "03297067": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 67
+  },
+  "03297067a": {
+    "text": {
+      "ascii": "priyas te bhImaseno 'yam arjuno vaH parAyaNam\n",
+      "ud": "प्रियस्ते भीमसेनोऽयमर्जुनो वः परायणम्\n",
+      "ur": "priyas te bhīmaseno ’yam arjuno vaḥ parāyaṇam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 67
+  },
+  "03297067c": {
+    "text": {
+      "ascii": "sa kasmAn nakulaM rAjan sApatnaM jIvam icchasi\n",
+      "ud": "स कस्मान्नकुलं राजन्सापत्नं जीवमिच्छसि\n",
+      "ur": "sa kasmān nakulaṁ rājan sāpatnaṁ jīvam icchasi\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 67
+  },
+  "03297068a": {
+    "text": {
+      "ascii": "yasya nAgasahasreNa dazasaMkhyena vai balam\n",
+      "ud": "यस्य नागसहस्रेण दशसंख्येन वै बलम्\n",
+      "ur": "yasya nāgasahasreṇa daśasaṁkhyena vai balam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 68
+  },
+  "03297068c": {
+    "text": {
+      "ascii": "tulyaM taM bhImam utsRjya nakulaM jIvam icchasi\n",
+      "ud": "तुल्यं तं भीममुत्सृज्य नकुलं जीवमिच्छसि\n",
+      "ur": "tulyaṁ taṁ bhīmam utsr̥jya nakulaṁ jīvam icchasi\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 68
+  },
+  "03297069a": {
+    "text": {
+      "ascii": "tathainaM manujAH prAhur bhImasenaM priyaM tava\n",
+      "ud": "तथैनं मनुजाः प्राहुर्भीमसेनं प्रियं तव\n",
+      "ur": "tathainaṁ manujāḥ prāhur bhīmasenaṁ priyaṁ tava\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 69
+  },
+  "03297069c": {
+    "text": {
+      "ascii": "atha kenAnubhAvena sApatnaM jIvam icchasi\n",
+      "ud": "अथ केनानुभावेन सापत्नं जीवमिच्छसि\n",
+      "ur": "atha kenānubhāvena sāpatnaṁ jīvam icchasi\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 69
+  },
+  "03297070a": {
+    "text": {
+      "ascii": "yasya bAhubalaM sarve pANDavAH samupAzritAH\n",
+      "ud": "यस्य बाहुबलं सर्वे पाण्डवाः समुपाश्रिताः\n",
+      "ur": "yasya bāhubalaṁ sarve pāṇḍavāḥ samupāśritāḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 70
+  },
+  "03297070c": {
+    "text": {
+      "ascii": "arjunaM tam apAhAya nakulaM jIvam icchasi\n",
+      "ud": "अर्जुनं तमपाहाय नकुलं जीवमिच्छसि\n",
+      "ur": "arjunaṁ tam apāhāya nakulaṁ jīvam icchasi\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 70
+  },
+  "03297071": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 71
+  },
+  "03297071a": {
+    "text": {
+      "ascii": "AnRzaMsyaM paro dharmaH paramArthAc ca me matam\n",
+      "ud": "आनृशंस्यं परो धर्मः परमार्थाच्च मे मतम्\n",
+      "ur": "ānr̥śaṁsyaṁ paro dharmaḥ paramārthāc ca me matam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 71
+  },
+  "03297071c": {
+    "text": {
+      "ascii": "AnRzaMsyaM cikIrSAmi nakulo yakSa jIvatu\n",
+      "ud": "आनृशंस्यं चिकीर्षामि नकुलो यक्ष जीवतु\n",
+      "ur": "ānr̥śaṁsyaṁ cikīrṣāmi nakulo yakṣa jīvatu\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 71
+  },
+  "03297072a": {
+    "text": {
+      "ascii": "dharmazIlaH sadA rAjA iti mAM mAnavA viduH\n",
+      "ud": "धर्मशीलः सदा राजा इति मां मानवा विदुः\n",
+      "ur": "dharmaśīlaḥ sadā rājā iti māṁ mānavā viduḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 72
+  },
+  "03297072c": {
+    "text": {
+      "ascii": "svadharmAn na caliSyAmi nakulo yakSa jIvatu\n",
+      "ud": "स्वधर्मान्न चलिष्यामि नकुलो यक्ष जीवतु\n",
+      "ur": "svadharmān na caliṣyāmi nakulo yakṣa jīvatu\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 72
+  },
+  "03297073a": {
+    "text": {
+      "ascii": "yathA kuntI tathA mAdrI vizeSo nAsti me tayoH\n",
+      "ud": "यथा कुन्ती तथा माद्री विशेषो नास्ति मे तयोः\n",
+      "ur": "yathā kuntī tathā mādrī viśeṣo nāsti me tayoḥ\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 73
+  },
+  "03297073c": {
+    "text": {
+      "ascii": "mAtRbhyAM samam icchAmi nakulo yakSa jIvatu\n",
+      "ud": "मातृभ्यां सममिच्छामि नकुलो यक्ष जीवतु\n",
+      "ur": "mātr̥bhyāṁ samam icchāmi nakulo yakṣa jīvatu\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 73
+  },
+  "03297074": {
+    "text": {
+      "ascii": "yakSa uvAca\n",
+      "ud": "यक्ष उवाच\n",
+      "ur": "yakṣa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 74
+  },
+  "03297074a": {
+    "text": {
+      "ascii": "yasya te 'rthAc ca kAmAc ca AnRzaMsyaM paraM matam\n",
+      "ud": "यस्य तेऽर्थाच्च कामाच्च आनृशंस्यं परं मतम्\n",
+      "ur": "yasya te ’rthāc ca kāmāc ca ānr̥śaṁsyaṁ paraṁ matam\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 74
+  },
+  "03297074c": {
+    "text": {
+      "ascii": "tasmAt te bhrAtaraH sarve jIvantu bharatarSabha\n",
+      "ud": "तस्मात्ते भ्रातरः सर्वे जीवन्तु भरतर्षभ\n",
+      "ur": "tasmāt te bhrātaraḥ sarve jīvantu bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 297,
+    "verse": 74
+  }
+}

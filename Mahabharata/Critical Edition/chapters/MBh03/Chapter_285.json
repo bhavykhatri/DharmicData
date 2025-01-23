@@ -1,0 +1,382 @@
+{
+  "03285001": {
+    "text": {
+      "ascii": "sUrya uvAca\n",
+      "ud": "सूर्य उवाच\n",
+      "ur": "sūrya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 1
+  },
+  "03285001a": {
+    "text": {
+      "ascii": "mAhitaM karNa kArSIs tvam AtmanaH suhRdAM tathA\n",
+      "ud": "माहितं कर्ण कार्षीस्त्वमात्मनः सुहृदां तथा\n",
+      "ur": "māhitaṁ karṇa kārṣīs tvam ātmanaḥ suhr̥dāṁ tathā\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 1
+  },
+  "03285001c": {
+    "text": {
+      "ascii": "putrANAm atha bhAryANAm atho mAtur atho pituH\n",
+      "ud": "पुत्राणामथ भार्याणामथो मातुरथो पितुः\n",
+      "ur": "putrāṇām atha bhāryāṇām atho mātur atho pituḥ\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 1
+  },
+  "03285002a": {
+    "text": {
+      "ascii": "zarIrasyAvirodhena prANinAM prANabhRdvara\n",
+      "ud": "शरीरस्याविरोधेन प्राणिनां प्राणभृद्वर\n",
+      "ur": "śarīrasyāvirodhena prāṇināṁ prāṇabhr̥dvara\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 2
+  },
+  "03285002c": {
+    "text": {
+      "ascii": "iSyate yazasaH prAptiH kIrtiz ca tridive sthirA\n",
+      "ud": "इष्यते यशसः प्राप्तिः कीर्तिश्च त्रिदिवे स्थिरा\n",
+      "ur": "iṣyate yaśasaḥ prāptiḥ kīrtiś ca tridive sthirā\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 2
+  },
+  "03285003a": {
+    "text": {
+      "ascii": "yas tvaM prANavirodhena kIrtim icchasi zAzvatIm\n",
+      "ud": "यस्त्वं प्राणविरोधेन कीर्तिमिच्छसि शाश्वतीम्\n",
+      "ur": "yas tvaṁ prāṇavirodhena kīrtim icchasi śāśvatīm\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 3
+  },
+  "03285003c": {
+    "text": {
+      "ascii": "sA te prANAn samAdAya gamiSyati na saMzayaH\n",
+      "ud": "सा ते प्राणान्समादाय गमिष्यति न संशयः\n",
+      "ur": "sā te prāṇān samādāya gamiṣyati na saṁśayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 3
+  },
+  "03285004a": {
+    "text": {
+      "ascii": "jIvatAM kurute kAryaM pitA mAtA sutAs tathA\n",
+      "ud": "जीवतां कुरुते कार्यं पिता माता सुतास्तथा\n",
+      "ur": "jīvatāṁ kurute kāryaṁ pitā mātā sutās tathā\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 4
+  },
+  "03285004c": {
+    "text": {
+      "ascii": "ye cAnye bAndhavAH ke cil loke 'smin puruSarSabha\n",
+      "ud": "ये चान्ये बान्धवाः केचिल्लोकेऽस्मिन्पुरुषर्षभ\n",
+      "ur": "ye cānye bāndhavāḥ ke cil loke ’smin puruṣarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 4
+  },
+  "03285004e": {
+    "text": {
+      "ascii": "rAjAnaz ca naravyAghra pauruSeNa nibodha tat\n",
+      "ud": "राजानश्च नरव्याघ्र पौरुषेण निबोध तत्\n",
+      "ur": "rājānaś ca naravyāghra pauruṣeṇa nibodha tat\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 4
+  },
+  "03285005a": {
+    "text": {
+      "ascii": "kIrtiz ca jIvataH sAdhvI puruSasya mahAdyute\n",
+      "ud": "कीर्तिश्च जीवतः साध्वी पुरुषस्य महाद्युते\n",
+      "ur": "kīrtiś ca jīvataḥ sādhvī puruṣasya mahādyute\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 5
+  },
+  "03285005c": {
+    "text": {
+      "ascii": "mRtasya kIrtyA kiM kAryaM bhasmIbhUtasya dehinaH\n",
+      "ud": "मृतस्य कीर्त्या किं कार्यं भस्मीभूतस्य देहिनः\n",
+      "ur": "mr̥tasya kīrtyā kiṁ kāryaṁ bhasmībhūtasya dehinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 5
+  },
+  "03285005e": {
+    "text": {
+      "ascii": "mRtaH kIrtiM na jAnAti jIvan kIrtiM samaznute\n",
+      "ud": "मृतः कीर्तिं न जानाति जीवन्कीर्तिं समश्नुते\n",
+      "ur": "mr̥taḥ kīrtiṁ na jānāti jīvan kīrtiṁ samaśnute\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 5
+  },
+  "03285006a": {
+    "text": {
+      "ascii": "mRtasya kIrtir martyasya yathA mAlA gatAyuSaH\n",
+      "ud": "मृतस्य कीर्तिर्मर्त्यस्य यथा माला गतायुषः\n",
+      "ur": "mr̥tasya kīrtir martyasya yathā mālā gatāyuṣaḥ\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 6
+  },
+  "03285006c": {
+    "text": {
+      "ascii": "ahaM tu tvAM bravImy etad bhakto 'sIti hitepsayA\n",
+      "ud": "अहं तु त्वां ब्रवीम्येतद्भक्तोऽसीति हितेप्सया\n",
+      "ur": "ahaṁ tu tvāṁ bravīmy etad bhakto ’sīti hitepsayā\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 6
+  },
+  "03285007a": {
+    "text": {
+      "ascii": "bhaktimanto hi me rakSyA ity etenApi hetunA\n",
+      "ud": "भक्तिमन्तो हि मे रक्ष्या इत्येतेनापि हेतुना\n",
+      "ur": "bhaktimanto hi me rakṣyā ity etenāpi hetunā\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 7
+  },
+  "03285007c": {
+    "text": {
+      "ascii": "bhakto 'yaM parayA bhaktyA mAm ity eva mahAbhuja\n",
+      "ud": "भक्तोऽयं परया भक्त्या मामित्येव महाभुज\n",
+      "ur": "bhakto ’yaṁ parayā bhaktyā mām ity eva mahābhuja\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 7
+  },
+  "03285007e": {
+    "text": {
+      "ascii": "mamApi bhaktir utpannA sa tvaM kuru vaco mama\n",
+      "ud": "ममापि भक्तिरुत्पन्ना स त्वं कुरु वचो मम\n",
+      "ur": "mamāpi bhaktir utpannā sa tvaṁ kuru vaco mama\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 7
+  },
+  "03285008a": {
+    "text": {
+      "ascii": "asti cAtra paraM kiM cid adhyAtmaM devanirmitam\n",
+      "ud": "अस्ति चात्र परं किंचिदध्यात्मं देवनिर्मितम्\n",
+      "ur": "asti cātra paraṁ kiṁ cid adhyātmaṁ devanirmitam\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 8
+  },
+  "03285008c": {
+    "text": {
+      "ascii": "ataz ca tvAM bravImy etat kriyatAm avizaGkayA\n",
+      "ud": "अतश्च त्वां ब्रवीम्येतत्क्रियतामविशङ्कया\n",
+      "ur": "ataś ca tvāṁ bravīmy etat kriyatām aviśaṅkayā\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 8
+  },
+  "03285009a": {
+    "text": {
+      "ascii": "devaguhyaM tvayA jJAtuM na zakyaM puruSarSabha\n",
+      "ud": "देवगुह्यं त्वया ज्ञातुं न शक्यं पुरुषर्षभ\n",
+      "ur": "devaguhyaṁ tvayā jñātuṁ na śakyaṁ puruṣarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 9
+  },
+  "03285009c": {
+    "text": {
+      "ascii": "tasmAn nAkhyAmi te guhyaM kAle vetsyati tad bhavAn\n",
+      "ud": "तस्मान्नाख्यामि ते गुह्यं काले वेत्स्यति तद्भवान्\n",
+      "ur": "tasmān nākhyāmi te guhyaṁ kāle vetsyati tad bhavān\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 9
+  },
+  "03285010a": {
+    "text": {
+      "ascii": "punar uktaM ca vakSyAmi tvaM rAdheya nibodha tat\n",
+      "ud": "पुनरुक्तं च वक्ष्यामि त्वं राधेय निबोध तत्\n",
+      "ur": "punar uktaṁ ca vakṣyāmi tvaṁ rādheya nibodha tat\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 10
+  },
+  "03285010c": {
+    "text": {
+      "ascii": "mAsmai te kuNDale dadyA bhikSave vajrapANaye\n",
+      "ud": "मास्मै ते कुण्डले दद्या भिक्षवे वज्रपाणये\n",
+      "ur": "māsmai te kuṇḍale dadyā bhikṣave vajrapāṇaye\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 10
+  },
+  "03285011a": {
+    "text": {
+      "ascii": "zobhase kuNDalAbhyAM hi rucirAbhyAM mahAdyute\n",
+      "ud": "शोभसे कुण्डलाभ्यां हि रुचिराभ्यां महाद्युते\n",
+      "ur": "śobhase kuṇḍalābhyāṁ hi rucirābhyāṁ mahādyute\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 11
+  },
+  "03285011c": {
+    "text": {
+      "ascii": "vizAkhayor madhyagataH zazIva vimalo divi\n",
+      "ud": "विशाखयोर्मध्यगतः शशीव विमलो दिवि\n",
+      "ur": "viśākhayor madhyagataḥ śaśīva vimalo divi\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 11
+  },
+  "03285012a": {
+    "text": {
+      "ascii": "kIrtiz ca jIvataH sAdhvI puruSasyeti viddhi tat\n",
+      "ud": "कीर्तिश्च जीवतः साध्वी पुरुषस्येति विद्धि तत्\n",
+      "ur": "kīrtiś ca jīvataḥ sādhvī puruṣasyeti viddhi tat\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 12
+  },
+  "03285012c": {
+    "text": {
+      "ascii": "pratyAkhyeyas tvayA tAta kuNDalArthe puraMdaraH\n",
+      "ud": "प्रत्याख्येयस्त्वया तात कुण्डलार्थे पुरंदरः\n",
+      "ur": "pratyākhyeyas tvayā tāta kuṇḍalārthe puraṁdaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 12
+  },
+  "03285013a": {
+    "text": {
+      "ascii": "zakyA bahuvidhair vAkyaiH kuNDalepsA tvayAnagha\n",
+      "ud": "शक्या बहुविधैर्वाक्यैः कुण्डलेप्सा त्वयानघ\n",
+      "ur": "śakyā bahuvidhair vākyaiḥ kuṇḍalepsā tvayānagha\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 13
+  },
+  "03285013c": {
+    "text": {
+      "ascii": "vihantuM devarAjasya hetuyuktaiH punaH punaH\n",
+      "ud": "विहन्तुं देवराजस्य हेतुयुक्तैः पुनः पुनः\n",
+      "ur": "vihantuṁ devarājasya hetuyuktaiḥ punaḥ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 13
+  },
+  "03285014a": {
+    "text": {
+      "ascii": "upapattyupapannArthair mAdhuryakRtabhUSaNaiH\n",
+      "ud": "उपपत्त्युपपन्नार्थैर्माधुर्यकृतभूषणैः\n",
+      "ur": "upapattyupapannārthair mādhuryakr̥tabhūṣaṇaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 14
+  },
+  "03285014c": {
+    "text": {
+      "ascii": "puraMdarasya karNa tvaM buddhim etAm apAnuda\n",
+      "ud": "पुरंदरस्य कर्ण त्वं बुद्धिमेतामपानुद\n",
+      "ur": "puraṁdarasya karṇa tvaṁ buddhim etām apānuda\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 14
+  },
+  "03285015a": {
+    "text": {
+      "ascii": "tvaM hi nityaM naravyAghra spardhase savyasAcinA\n",
+      "ud": "त्वं हि नित्यं नरव्याघ्र स्पर्धसे सव्यसाचिना\n",
+      "ur": "tvaṁ hi nityaṁ naravyāghra spardhase savyasācinā\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 15
+  },
+  "03285015c": {
+    "text": {
+      "ascii": "savyasAcI tvayA caiva yudhi zUraH sameSyati\n",
+      "ud": "सव्यसाची त्वया चैव युधि शूरः समेष्यति\n",
+      "ur": "savyasācī tvayā caiva yudhi śūraḥ sameṣyati\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 15
+  },
+  "03285016a": {
+    "text": {
+      "ascii": "na tu tvAm arjunaH zaktaH kuNDalAbhyAM samanvitam\n",
+      "ud": "न तु त्वामर्जुनः शक्तः कुण्डलाभ्यां समन्वितम्\n",
+      "ur": "na tu tvām arjunaḥ śaktaḥ kuṇḍalābhyāṁ samanvitam\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 16
+  },
+  "03285016c": {
+    "text": {
+      "ascii": "vijetuM yudhi yady asya svayam indraH zaro bhavet\n",
+      "ud": "विजेतुं युधि यद्यस्य स्वयमिन्द्रः शरो भवेत्\n",
+      "ur": "vijetuṁ yudhi yady asya svayam indraḥ śaro bhavet\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 16
+  },
+  "03285017a": {
+    "text": {
+      "ascii": "tasmAn na deye zakrAya tvayaite kuNDale zubhe\n",
+      "ud": "तस्मान्न देये शक्राय त्वयैते कुण्डले शुभे\n",
+      "ur": "tasmān na deye śakrāya tvayaite kuṇḍale śubhe\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 17
+  },
+  "03285017c": {
+    "text": {
+      "ascii": "saMgrAme yadi nirjetuM karNa kAmayase 'rjunam\n",
+      "ud": "संग्रामे यदि निर्जेतुं कर्ण कामयसेऽर्जुनम्\n",
+      "ur": "saṁgrāme yadi nirjetuṁ karṇa kāmayase ’rjunam\n"
+    },
+    "book": 3,
+    "chapter": 285,
+    "verse": 17
+  }
+}

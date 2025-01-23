@@ -1,0 +1,462 @@
+{
+  "03232001": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 1
+  },
+  "03232001a": {
+    "text": {
+      "ascii": "asmAn abhigatAMs tAta bhayArtAJ zaraNaiSiNaH\n",
+      "ud": "अस्मानभिगतांस्तात भयार्ताञ्शरणैषिणः\n",
+      "ur": "asmān abhigatāṁs tāta bhayārtāñ śaraṇaiṣiṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 1
+  },
+  "03232001c": {
+    "text": {
+      "ascii": "kauravAn viSamaprAptAn kathaM brUyAs tvam IdRzam\n",
+      "ud": "कौरवान्विषमप्राप्तान्कथं ब्रूयास्त्वमीदृशम्\n",
+      "ur": "kauravān viṣamaprāptān kathaṁ brūyās tvam īdr̥śam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 1
+  },
+  "03232002a": {
+    "text": {
+      "ascii": "bhavanti bhedA jJAtInAM kalahAz ca vRkodara\n",
+      "ud": "भवन्ति भेदा ज्ञातीनां कलहाश्च वृकोदर\n",
+      "ur": "bhavanti bhedā jñātīnāṁ kalahāś ca vr̥kodara\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 2
+  },
+  "03232002c": {
+    "text": {
+      "ascii": "prasaktAni ca vairANi jJAtidharmo na nazyati\n",
+      "ud": "प्रसक्तानि च वैराणि ज्ञातिधर्मो न नश्यति\n",
+      "ur": "prasaktāni ca vairāṇi jñātidharmo na naśyati\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 2
+  },
+  "03232003a": {
+    "text": {
+      "ascii": "yadA tu kaz cij jJAtInAM bAhyaH prArthayate kulam\n",
+      "ud": "यदा तु कश्चिज्ज्ञातीनां बाह्यः प्रार्थयते कुलम्\n",
+      "ur": "yadā tu kaś cij jñātīnāṁ bāhyaḥ prārthayate kulam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 3
+  },
+  "03232003c": {
+    "text": {
+      "ascii": "na marSayanti tat santo bAhyenAbhipramarSaNam\n",
+      "ud": "न मर्षयन्ति तत्सन्तो बाह्येनाभिप्रमर्षणम्\n",
+      "ur": "na marṣayanti tat santo bāhyenābhipramarṣaṇam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 3
+  },
+  "03232004a": {
+    "text": {
+      "ascii": "jAnAti hy eSa durbuddhir asmAn iha ciroSitAn\n",
+      "ud": "जानाति ह्येष दुर्बुद्धिरस्मानिह चिरोषितान्\n",
+      "ur": "jānāti hy eṣa durbuddhir asmān iha ciroṣitān\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 4
+  },
+  "03232004c": {
+    "text": {
+      "ascii": "sa eSa paribhUyAsmAn akArSId idam apriyam\n",
+      "ud": "स एष परिभूयास्मानकार्षीदिदमप्रियम्\n",
+      "ur": "sa eṣa paribhūyāsmān akārṣīd idam apriyam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 4
+  },
+  "03232005a": {
+    "text": {
+      "ascii": "duryodhanasya grahaNAd gandharveNa balAd raNe\n",
+      "ud": "दुर्योधनस्य ग्रहणाद्गन्धर्वेण बलाद्रणे\n",
+      "ur": "duryodhanasya grahaṇād gandharveṇa balād raṇe\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 5
+  },
+  "03232005c": {
+    "text": {
+      "ascii": "strINAM bAhyAbhimarzAc ca hataM bhavati naH kulam\n",
+      "ud": "स्त्रीणां बाह्याभिमर्शाच्च हतं भवति नः कुलम्\n",
+      "ur": "strīṇāṁ bāhyābhimarśāc ca hataṁ bhavati naḥ kulam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 5
+  },
+  "03232006a": {
+    "text": {
+      "ascii": "zaraNaM ca prapannAnAM trANArthaM ca kulasya naH\n",
+      "ud": "शरणं च प्रपन्नानां त्राणार्थं च कुलस्य नः\n",
+      "ur": "śaraṇaṁ ca prapannānāṁ trāṇārthaṁ ca kulasya naḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 6
+  },
+  "03232006c": {
+    "text": {
+      "ascii": "uttiSThadhvaM naravyAghrAH sajjIbhavata mAciram\n",
+      "ud": "उत्तिष्ठध्वं नरव्याघ्राः सज्जीभवत माचिरम्\n",
+      "ur": "uttiṣṭhadhvaṁ naravyāghrāḥ sajjībhavata māciram\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 6
+  },
+  "03232007a": {
+    "text": {
+      "ascii": "arjunaz ca yamau caiva tvaM ca bhImAparAjitaH\n",
+      "ud": "अर्जुनश्च यमौ चैव त्वं च भीमापराजितः\n",
+      "ur": "arjunaś ca yamau caiva tvaṁ ca bhīmāparājitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 7
+  },
+  "03232007c": {
+    "text": {
+      "ascii": "mokSayadhvaM dhArtarASTraM hriyamANaM suyodhanam\n",
+      "ud": "मोक्षयध्वं धार्तराष्ट्रं ह्रियमाणं सुयोधनम्\n",
+      "ur": "mokṣayadhvaṁ dhārtarāṣṭraṁ hriyamāṇaṁ suyodhanam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 7
+  },
+  "03232008a": {
+    "text": {
+      "ascii": "ete rathA naravyAghrAH sarvazastrasamanvitAH\n",
+      "ud": "एते रथा नरव्याघ्राः सर्वशस्त्रसमन्विताः\n",
+      "ur": "ete rathā naravyāghrāḥ sarvaśastrasamanvitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 8
+  },
+  "03232008c": {
+    "text": {
+      "ascii": "indrasenAdibhiH sUtaiH saMyatAH kanakadhvajAH\n",
+      "ud": "इन्द्रसेनादिभिः सूतैः संयताः कनकध्वजाः\n",
+      "ur": "indrasenādibhiḥ sūtaiḥ saṁyatāḥ kanakadhvajāḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 8
+  },
+  "03232009a": {
+    "text": {
+      "ascii": "etAn AsthAya vai tAta gandharvAn yoddhum Ahave\n",
+      "ud": "एतानास्थाय वै तात गन्धर्वान्योद्धुमाहवे\n",
+      "ur": "etān āsthāya vai tāta gandharvān yoddhum āhave\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 9
+  },
+  "03232009c": {
+    "text": {
+      "ascii": "suyodhanasya mokSAya prayatadhvam atandritAH\n",
+      "ud": "सुयोधनस्य मोक्षाय प्रयतध्वमतन्द्रिताः\n",
+      "ur": "suyodhanasya mokṣāya prayatadhvam atandritāḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 9
+  },
+  "03232010a": {
+    "text": {
+      "ascii": "ya eva kaz cid rAjanyaH zaraNArtham ihAgatam\n",
+      "ud": "य एव कश्चिद्राजन्यः शरणार्थमिहागतम्\n",
+      "ur": "ya eva kaś cid rājanyaḥ śaraṇārtham ihāgatam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 10
+  },
+  "03232010c": {
+    "text": {
+      "ascii": "paraM zaktyAbhirakSeta kiM punas tvaM vRkodara\n",
+      "ud": "परं शक्त्याभिरक्षेत किं पुनस्त्वं वृकोदर\n",
+      "ur": "paraṁ śaktyābhirakṣeta kiṁ punas tvaṁ vr̥kodara\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 10
+  },
+  "03232011a": {
+    "text": {
+      "ascii": "ka ihAnyo bhavet trANam abhidhAveti coditaH\n",
+      "ud": "क इहान्यो भवेत्त्राणमभिधावेति चोदितः\n",
+      "ur": "ka ihānyo bhavet trāṇam abhidhāveti coditaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 11
+  },
+  "03232011c": {
+    "text": {
+      "ascii": "prAJjaliM zaraNApannaM dRSTvA zatrum api dhruvam\n",
+      "ud": "प्राञ्जलिं शरणापन्नं दृष्ट्वा शत्रुमपि ध्रुवम्\n",
+      "ur": "prāñjaliṁ śaraṇāpannaṁ dr̥ṣṭvā śatrum api dhruvam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 11
+  },
+  "03232012a": {
+    "text": {
+      "ascii": "varapradAnaM rAjyaM ca putrajanma ca pANDava\n",
+      "ud": "वरप्रदानं राज्यं च पुत्रजन्म च पाण्डव\n",
+      "ur": "varapradānaṁ rājyaṁ ca putrajanma ca pāṇḍava\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 12
+  },
+  "03232012c": {
+    "text": {
+      "ascii": "zatroz ca mokSaNaM klezAt trINi caikaM ca tat samam\n",
+      "ud": "शत्रोश्च मोक्षणं क्लेशात्त्रीणि चैकं च तत्समम्\n",
+      "ur": "śatroś ca mokṣaṇaṁ kleśāt trīṇi caikaṁ ca tat samam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 12
+  },
+  "03232013a": {
+    "text": {
+      "ascii": "kiM hy abhyadhikam etasmAd yad ApannaH suyodhanaH\n",
+      "ud": "किं ह्यभ्यधिकमेतस्माद्यदापन्नः सुयोधनः\n",
+      "ur": "kiṁ hy abhyadhikam etasmād yad āpannaḥ suyodhanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 13
+  },
+  "03232013c": {
+    "text": {
+      "ascii": "tvadbAhubalam Azritya jIvitaM parimArgati\n",
+      "ud": "त्वद्बाहुबलमाश्रित्य जीवितं परिमार्गति\n",
+      "ur": "tvadbāhubalam āśritya jīvitaṁ parimārgati\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 13
+  },
+  "03232014a": {
+    "text": {
+      "ascii": "svayam eva pradhAveyaM yadi na syAd vRkodara\n",
+      "ud": "स्वयमेव प्रधावेयं यदि न स्याद्वृकोदर\n",
+      "ur": "svayam eva pradhāveyaṁ yadi na syād vr̥kodara\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 14
+  },
+  "03232014c": {
+    "text": {
+      "ascii": "vitato 'yaM kratur vIra na hi me 'tra vicAraNA\n",
+      "ud": "विततोऽयं क्रतुर्वीर न हि मेऽत्र विचारणा\n",
+      "ur": "vitato ’yaṁ kratur vīra na hi me ’tra vicāraṇā\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 14
+  },
+  "03232015a": {
+    "text": {
+      "ascii": "sAmnaiva tu yathA bhIma mokSayethAH suyodhanam\n",
+      "ud": "साम्नैव तु यथा भीम मोक्षयेथाः सुयोधनम्\n",
+      "ur": "sāmnaiva tu yathā bhīma mokṣayethāḥ suyodhanam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 15
+  },
+  "03232015c": {
+    "text": {
+      "ascii": "tathA sarvair upAyais tvaM yatethAH kurunandana\n",
+      "ud": "तथा सर्वैरुपायैस्त्वं यतेथाः कुरुनन्दन\n",
+      "ur": "tathā sarvair upāyais tvaṁ yatethāḥ kurunandana\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 15
+  },
+  "03232016a": {
+    "text": {
+      "ascii": "na sAmnA pratipadyeta yadi gandharvarAD asau\n",
+      "ud": "न साम्ना प्रतिपद्येत यदि गन्धर्वराडसौ\n",
+      "ur": "na sāmnā pratipadyeta yadi gandharvarāḍ asau\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 16
+  },
+  "03232016c": {
+    "text": {
+      "ascii": "parAkrameNa mRdunA mokSayethAH suyodhanam\n",
+      "ud": "पराक्रमेण मृदुना मोक्षयेथाः सुयोधनम्\n",
+      "ur": "parākrameṇa mr̥dunā mokṣayethāḥ suyodhanam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 16
+  },
+  "03232017a": {
+    "text": {
+      "ascii": "athAsau mRduyuddhena na muJced bhIma kauravAn\n",
+      "ud": "अथासौ मृदुयुद्धेन न मुञ्चेद्भीम कौरवान्\n",
+      "ur": "athāsau mr̥duyuddhena na muñced bhīma kauravān\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 17
+  },
+  "03232017c": {
+    "text": {
+      "ascii": "sarvopAyair vimocyAs te nigRhya paripanthinaH\n",
+      "ud": "सर्वोपायैर्विमोच्यास्ते निगृह्य परिपन्थिनः\n",
+      "ur": "sarvopāyair vimocyās te nigr̥hya paripanthinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 17
+  },
+  "03232018a": {
+    "text": {
+      "ascii": "etAvad dhi mayA zakyaM saMdeSTuM vai vRkodara\n",
+      "ud": "एतावद्धि मया शक्यं संदेष्टुं वै वृकोदर\n",
+      "ur": "etāvad dhi mayā śakyaṁ saṁdeṣṭuṁ vai vr̥kodara\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 18
+  },
+  "03232018c": {
+    "text": {
+      "ascii": "vaitAne karmaNi tate vartamAne ca bhArata\n",
+      "ud": "वैताने कर्मणि तते वर्तमाने च भारत\n",
+      "ur": "vaitāne karmaṇi tate vartamāne ca bhārata\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 18
+  },
+  "03232019": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 19
+  },
+  "03232019a": {
+    "text": {
+      "ascii": "ajAtazatror vacanaM tac chrutvA tu dhanaMjayaH\n",
+      "ud": "अजातशत्रोर्वचनं तच्छ्रुत्वा तु धनंजयः\n",
+      "ur": "ajātaśatror vacanaṁ tac chrutvā tu dhanaṁjayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 19
+  },
+  "03232019c": {
+    "text": {
+      "ascii": "pratijajJe guror vAkyaM kauravANAM vimokSaNam\n",
+      "ud": "प्रतिजज्ञे गुरोर्वाक्यं कौरवाणां विमोक्षणम्\n",
+      "ur": "pratijajñe guror vākyaṁ kauravāṇāṁ vimokṣaṇam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 19
+  },
+  "03232020": {
+    "text": {
+      "ascii": "arjuna uvAca\n",
+      "ud": "अर्जुन उवाच\n",
+      "ur": "arjuna uvāca\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 20
+  },
+  "03232020a": {
+    "text": {
+      "ascii": "yadi sAmnA na mokSyanti gandharvA dhRtarASTrajAn\n",
+      "ud": "यदि साम्ना न मोक्ष्यन्ति गन्धर्वा धृतराष्ट्रजान्\n",
+      "ur": "yadi sāmnā na mokṣyanti gandharvā dhr̥tarāṣṭrajān\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 20
+  },
+  "03232020c": {
+    "text": {
+      "ascii": "adya gandharvarAjasya bhUmiH pAsyati zoNitam\n",
+      "ud": "अद्य गन्धर्वराजस्य भूमिः पास्यति शोणितम्\n",
+      "ur": "adya gandharvarājasya bhūmiḥ pāsyati śoṇitam\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 20
+  },
+  "03232021": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 21
+  },
+  "03232021a": {
+    "text": {
+      "ascii": "arjunasya tu tAM zrutvA pratijJAM satyavAdinaH\n",
+      "ud": "अर्जुनस्य तु तां श्रुत्वा प्रतिज्ञां सत्यवादिनः\n",
+      "ur": "arjunasya tu tāṁ śrutvā pratijñāṁ satyavādinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 21
+  },
+  "03232021c": {
+    "text": {
+      "ascii": "kauravANAM tadA rAjan punaH pratyAgataM manaH\n",
+      "ud": "कौरवाणां तदा राजन्पुनः प्रत्यागतं मनः\n",
+      "ur": "kauravāṇāṁ tadā rājan punaḥ pratyāgataṁ manaḥ\n"
+    },
+    "book": 3,
+    "chapter": 232,
+    "verse": 21
+  }
+}

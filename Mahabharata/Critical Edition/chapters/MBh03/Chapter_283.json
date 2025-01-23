@@ -1,0 +1,342 @@
+{
+  "03283001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 1
+  },
+  "03283001a": {
+    "text": {
+      "ascii": "tasyAM rAtryAM vyatItAyAm udite sUryamaNDale\n",
+      "ud": "तस्यां रात्र्यां व्यतीतायामुदिते सूर्यमण्डले\n",
+      "ur": "tasyāṁ rātryāṁ vyatītāyām udite sūryamaṇḍale\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 1
+  },
+  "03283001c": {
+    "text": {
+      "ascii": "kRtapUrvAhNikAH sarve sameyus te tapodhanAH\n",
+      "ud": "कृतपूर्वाह्णिकाः सर्वे समेयुस्ते तपोधनाः\n",
+      "ur": "kr̥tapūrvāhṇikāḥ sarve sameyus te tapodhanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 1
+  },
+  "03283002a": {
+    "text": {
+      "ascii": "tad eva sarvaM sAvitryA mahAbhAgyaM maharSayaH\n",
+      "ud": "तदेव सर्वं सावित्र्या महाभाग्यं महर्षयः\n",
+      "ur": "tad eva sarvaṁ sāvitryā mahābhāgyaṁ maharṣayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 2
+  },
+  "03283002c": {
+    "text": {
+      "ascii": "dyumatsenAya nAtRpyan kathayantaH punaH punaH\n",
+      "ud": "द्युमत्सेनाय नातृप्यन्कथयन्तः पुनः पुनः\n",
+      "ur": "dyumatsenāya nātr̥pyan kathayantaḥ punaḥ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 2
+  },
+  "03283003a": {
+    "text": {
+      "ascii": "tataH prakRtayaH sarvAH zAlvebhyo 'bhyAgatA nRpa\n",
+      "ud": "ततः प्रकृतयः सर्वाः शाल्वेभ्योऽभ्यागता नृप\n",
+      "ur": "tataḥ prakr̥tayaḥ sarvāḥ śālvebhyo ’bhyāgatā nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 3
+  },
+  "03283003c": {
+    "text": {
+      "ascii": "Acakhyur nihataM caiva svenAmAtyena taM nRpam\n",
+      "ud": "आचख्युर्निहतं चैव स्वेनामात्येन तं नृपम्\n",
+      "ur": "ācakhyur nihataṁ caiva svenāmātyena taṁ nr̥pam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 3
+  },
+  "03283004a": {
+    "text": {
+      "ascii": "taM mantriNA hataM zrutvA sasahAyaM sabAndhavam\n",
+      "ud": "तं मन्त्रिणा हतं श्रुत्वा ससहायं सबान्धवम्\n",
+      "ur": "taṁ mantriṇā hataṁ śrutvā sasahāyaṁ sabāndhavam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 4
+  },
+  "03283004c": {
+    "text": {
+      "ascii": "nyavedayan yathAtattvaM vidrutaM ca dviSadbalam\n",
+      "ud": "न्यवेदयन्यथातत्त्वं विद्रुतं च द्विषद्बलम्\n",
+      "ur": "nyavedayan yathātattvaṁ vidrutaṁ ca dviṣadbalam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 4
+  },
+  "03283005a": {
+    "text": {
+      "ascii": "aikamatyaM ca sarvasya janasyAtha nRpaM prati\n",
+      "ud": "ऐकमत्यं च सर्वस्य जनस्याथ नृपं प्रति\n",
+      "ur": "aikamatyaṁ ca sarvasya janasyātha nr̥paṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 5
+  },
+  "03283005c": {
+    "text": {
+      "ascii": "sacakSur vApy acakSur vA sa no rAjA bhavatv iti\n",
+      "ud": "सचक्षुर्वाप्यचक्षुर्वा स नो राजा भवत्विति\n",
+      "ur": "sacakṣur vāpy acakṣur vā sa no rājā bhavatv iti\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 5
+  },
+  "03283006a": {
+    "text": {
+      "ascii": "anena nizcayeneha vayaM prasthApitA nRpa\n",
+      "ud": "अनेन निश्चयेनेह वयं प्रस्थापिता नृप\n",
+      "ur": "anena niścayeneha vayaṁ prasthāpitā nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 6
+  },
+  "03283006c": {
+    "text": {
+      "ascii": "prAptAnImAni yAnAni caturaGgaM ca te balam\n",
+      "ud": "प्राप्तानीमानि यानानि चतुरङ्गं च ते बलम्\n",
+      "ur": "prāptānīmāni yānāni caturaṅgaṁ ca te balam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 6
+  },
+  "03283007a": {
+    "text": {
+      "ascii": "prayAhi rAjan bhadraM te ghuSTas te nagare jayaH\n",
+      "ud": "प्रयाहि राजन्भद्रं ते घुष्टस्ते नगरे जयः\n",
+      "ur": "prayāhi rājan bhadraṁ te ghuṣṭas te nagare jayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 7
+  },
+  "03283007c": {
+    "text": {
+      "ascii": "adhyAssva cirarAtrAya pitRpaitAmahaM padam\n",
+      "ud": "अध्यास्स्व चिररात्राय पितृपैतामहं पदम्\n",
+      "ur": "adhyāssva cirarātrāya pitr̥paitāmahaṁ padam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 7
+  },
+  "03283008a": {
+    "text": {
+      "ascii": "cakSuSmantaM ca taM dRSTvA rAjAnaM vapuSAnvitam\n",
+      "ud": "चक्षुष्मन्तं च तं दृष्ट्वा राजानं वपुषान्वितम्\n",
+      "ur": "cakṣuṣmantaṁ ca taṁ dr̥ṣṭvā rājānaṁ vapuṣānvitam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 8
+  },
+  "03283008c": {
+    "text": {
+      "ascii": "mUrdhabhiH patitAH sarve vismayotphullalocanAH\n",
+      "ud": "मूर्धभिः पतिताः सर्वे विस्मयोत्फुल्ललोचनाः\n",
+      "ur": "mūrdhabhiḥ patitāḥ sarve vismayotphullalocanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 8
+  },
+  "03283009a": {
+    "text": {
+      "ascii": "tato 'bhivAdya tAn vRddhAn dvijAn AzramavAsinaH\n",
+      "ud": "ततोऽभिवाद्य तान्वृद्धान्द्विजानाश्रमवासिनः\n",
+      "ur": "tato ’bhivādya tān vr̥ddhān dvijān āśramavāsinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 9
+  },
+  "03283009c": {
+    "text": {
+      "ascii": "taiz cAbhipUjitaH sarvaiH prayayau nagaraM prati\n",
+      "ud": "तैश्चाभिपूजितः सर्वैः प्रययौ नगरं प्रति\n",
+      "ur": "taiś cābhipūjitaḥ sarvaiḥ prayayau nagaraṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 9
+  },
+  "03283010a": {
+    "text": {
+      "ascii": "zaibyA ca saha sAvitryA svAstIrNena suvarcasA\n",
+      "ud": "शैब्या च सह सावित्र्या स्वास्तीर्णेन सुवर्चसा\n",
+      "ur": "śaibyā ca saha sāvitryā svāstīrṇena suvarcasā\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 10
+  },
+  "03283010c": {
+    "text": {
+      "ascii": "narayuktena yAnena prayayau senayA vRtA\n",
+      "ud": "नरयुक्तेन यानेन प्रययौ सेनया वृता\n",
+      "ur": "narayuktena yānena prayayau senayā vr̥tā\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 10
+  },
+  "03283011a": {
+    "text": {
+      "ascii": "tato 'bhiSiSicuH prItyA dyumatsenaM purohitAH\n",
+      "ud": "ततोऽभिषिषिचुः प्रीत्या द्युमत्सेनं पुरोहिताः\n",
+      "ur": "tato ’bhiṣiṣicuḥ prītyā dyumatsenaṁ purohitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 11
+  },
+  "03283011c": {
+    "text": {
+      "ascii": "putraM cAsya mahAtmAnaM yauvarAjye 'bhyaSecayan\n",
+      "ud": "पुत्रं चास्य महात्मानं यौवराज्येऽभ्यषेचयन्\n",
+      "ur": "putraṁ cāsya mahātmānaṁ yauvarājye ’bhyaṣecayan\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 11
+  },
+  "03283012a": {
+    "text": {
+      "ascii": "tataH kAlena mahatA sAvitryAH kIrtivardhanam\n",
+      "ud": "ततः कालेन महता सावित्र्याः कीर्तिवर्धनम्\n",
+      "ur": "tataḥ kālena mahatā sāvitryāḥ kīrtivardhanam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 12
+  },
+  "03283012c": {
+    "text": {
+      "ascii": "tad vai putrazataM jajJe zUrANAm anivartinAm\n",
+      "ud": "तद्वै पुत्रशतं जज्ञे शूराणामनिवर्तिनाम्\n",
+      "ur": "tad vai putraśataṁ jajñe śūrāṇām anivartinām\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 12
+  },
+  "03283013a": {
+    "text": {
+      "ascii": "bhrAtqNAM sodarANAM ca tathaivAsyAbhavac chatam\n",
+      "ud": "भ्रातॄणां सोदराणां च तथैवास्याभवच्छतम्\n",
+      "ur": "bhrātr̥̄ṇāṁ sodarāṇāṁ ca tathaivāsyābhavac chatam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 13
+  },
+  "03283013c": {
+    "text": {
+      "ascii": "madrAdhipasyAzvapater mAlavyAM sumahAbalam\n",
+      "ud": "मद्राधिपस्याश्वपतेर्मालव्यां सुमहाबलम्\n",
+      "ur": "madrādhipasyāśvapater mālavyāṁ sumahābalam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 13
+  },
+  "03283014a": {
+    "text": {
+      "ascii": "evam AtmA pitA mAtA zvazrUH zvazura eva ca\n",
+      "ud": "एवमात्मा पिता माता श्वश्रूः श्वशुर एव च\n",
+      "ur": "evam ātmā pitā mātā śvaśrūḥ śvaśura eva ca\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 14
+  },
+  "03283014c": {
+    "text": {
+      "ascii": "bhartuH kulaM ca sAvitryA sarvaM kRcchrAt samuddhRtam\n",
+      "ud": "भर्तुः कुलं च सावित्र्या सर्वं कृच्छ्रात्समुद्धृतम्\n",
+      "ur": "bhartuḥ kulaṁ ca sāvitryā sarvaṁ kr̥cchrāt samuddhr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 14
+  },
+  "03283015a": {
+    "text": {
+      "ascii": "tathaivaiSApi kalyANI draupadI zIlasaMmatA\n",
+      "ud": "तथैवैषापि कल्याणी द्रौपदी शीलसंमता\n",
+      "ur": "tathaivaiṣāpi kalyāṇī draupadī śīlasaṁmatā\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 15
+  },
+  "03283015c": {
+    "text": {
+      "ascii": "tArayiSyati vaH sarvAn sAvitrIva kulAGganA\n",
+      "ud": "तारयिष्यति वः सर्वान्सावित्रीव कुलाङ्गना\n",
+      "ur": "tārayiṣyati vaḥ sarvān sāvitrīva kulāṅganā\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 15
+  },
+  "03283016": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 16
+  },
+  "03283016a": {
+    "text": {
+      "ascii": "evaM sa pANDavas tena anunIto mahAtmanA\n",
+      "ud": "एवं स पाण्डवस्तेन अनुनीतो महात्मना\n",
+      "ur": "evaṁ sa pāṇḍavas tena anunīto mahātmanā\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 16
+  },
+  "03283016c": {
+    "text": {
+      "ascii": "vizoko vijvaro rAjan kAmyake nyavasat tadA\n",
+      "ud": "विशोको विज्वरो राजन्काम्यके न्यवसत्तदा\n",
+      "ur": "viśoko vijvaro rājan kāmyake nyavasat tadā\n"
+    },
+    "book": 3,
+    "chapter": 283,
+    "verse": 16
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "03226001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 1
+  },
+  "03226001a": {
+    "text": {
+      "ascii": "dhRtarASTrasya tad vAkyaM nizamya sahasaubalaH\n",
+      "ud": "धृतराष्ट्रस्य तद्वाक्यं निशम्य सहसौबलः\n",
+      "ur": "dhr̥tarāṣṭrasya tad vākyaṁ niśamya sahasaubalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 1
+  },
+  "03226001c": {
+    "text": {
+      "ascii": "duryodhanam idaM kAle karNo vacanam abravIt\n",
+      "ud": "दुर्योधनमिदं काले कर्णो वचनमब्रवीत्\n",
+      "ur": "duryodhanam idaṁ kāle karṇo vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 1
+  },
+  "03226002a": {
+    "text": {
+      "ascii": "pravrAjya pANDavAn vIrAn svena vIryeNa bhArata\n",
+      "ud": "प्रव्राज्य पाण्डवान्वीरान्स्वेन वीर्येण भारत\n",
+      "ur": "pravrājya pāṇḍavān vīrān svena vīryeṇa bhārata\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 2
+  },
+  "03226002c": {
+    "text": {
+      "ascii": "bhuGkSvemAM pRthivIm eko divaM zambarahA yathA\n",
+      "ud": "भुङ्क्ष्वेमां पृथिवीमेको दिवं शम्बरहा यथा\n",
+      "ur": "bhuṅkṣvemāṁ pr̥thivīm eko divaṁ śambarahā yathā\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 2
+  },
+  "03226003a": {
+    "text": {
+      "ascii": "prAcyAz ca dAkSiNAtyAz ca pratIcyodIcyavAsinaH\n",
+      "ud": "प्राच्याश्च दाक्षिणात्याश्च प्रतीच्योदीच्यवासिनः\n",
+      "ur": "prācyāś ca dākṣiṇātyāś ca pratīcyodīcyavāsinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 3
+  },
+  "03226003c": {
+    "text": {
+      "ascii": "kRtAH karapradAH sarve rAjAnas te narAdhipa\n",
+      "ud": "कृताः करप्रदाः सर्वे राजानस्ते नराधिप\n",
+      "ur": "kr̥tāḥ karapradāḥ sarve rājānas te narādhipa\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 3
+  },
+  "03226004a": {
+    "text": {
+      "ascii": "yA hi sA dIpyamAneva pANDavAn bhajate purA\n",
+      "ud": "या हि सा दीप्यमानेव पाण्डवान्भजते पुरा\n",
+      "ur": "yā hi sā dīpyamāneva pāṇḍavān bhajate purā\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 4
+  },
+  "03226004c": {
+    "text": {
+      "ascii": "sAdya lakSmIs tvayA rAjann avAptA bhrAtRbhiH saha\n",
+      "ud": "साद्य लक्ष्मीस्त्वया राजन्नवाप्ता भ्रातृभिः सह\n",
+      "ur": "sādya lakṣmīs tvayā rājann avāptā bhrātr̥bhiḥ saha\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 4
+  },
+  "03226005a": {
+    "text": {
+      "ascii": "indraprasthagate yAM tAM dIpyamAnAM yudhiSThire\n",
+      "ud": "इन्द्रप्रस्थगते यां तां दीप्यमानां युधिष्ठिरे\n",
+      "ur": "indraprasthagate yāṁ tāṁ dīpyamānāṁ yudhiṣṭhire\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 5
+  },
+  "03226005c": {
+    "text": {
+      "ascii": "apazyAma zriyaM rAjann aciraM zokakarzitAH\n",
+      "ud": "अपश्याम श्रियं राजन्नचिरं शोककर्शिताः\n",
+      "ur": "apaśyāma śriyaṁ rājann aciraṁ śokakarśitāḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 5
+  },
+  "03226006a": {
+    "text": {
+      "ascii": "sA tu buddhibaleneyaM rAjJas tasmAd yudhiSThirAt\n",
+      "ud": "सा तु बुद्धिबलेनेयं राज्ञस्तस्माद्युधिष्ठिरात्\n",
+      "ur": "sā tu buddhibaleneyaṁ rājñas tasmād yudhiṣṭhirāt\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 6
+  },
+  "03226006c": {
+    "text": {
+      "ascii": "tvayAkSiptA mahAbAho dIpyamAneva dRzyate\n",
+      "ud": "त्वयाक्षिप्ता महाबाहो दीप्यमानेव दृश्यते\n",
+      "ur": "tvayākṣiptā mahābāho dīpyamāneva dr̥śyate\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 6
+  },
+  "03226007a": {
+    "text": {
+      "ascii": "tathaiva tava rAjendra rAjAnaH paravIrahan\n",
+      "ud": "तथैव तव राजेन्द्र राजानः परवीरहन्\n",
+      "ur": "tathaiva tava rājendra rājānaḥ paravīrahan\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 7
+  },
+  "03226007c": {
+    "text": {
+      "ascii": "zAsane 'dhiSThitAH sarve kiM kurma iti vAdinaH\n",
+      "ud": "शासनेऽधिष्ठिताः सर्वे किं कुर्म इति वादिनः\n",
+      "ur": "śāsane ’dhiṣṭhitāḥ sarve kiṁ kurma iti vādinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 7
+  },
+  "03226008a": {
+    "text": {
+      "ascii": "tavAdya pRthivI rAjan nikhilA sAgarAmbarA\n",
+      "ud": "तवाद्य पृथिवी राजन्निखिला सागराम्बरा\n",
+      "ur": "tavādya pr̥thivī rājan nikhilā sāgarāmbarā\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 8
+  },
+  "03226008c": {
+    "text": {
+      "ascii": "saparvatavanA devI sagrAmanagarAkarA\n",
+      "ud": "सपर्वतवना देवी सग्रामनगराकरा\n",
+      "ur": "saparvatavanā devī sagrāmanagarākarā\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 8
+  },
+  "03226008e": {
+    "text": {
+      "ascii": "nAnAvanoddezavatI pattanair upazobhitA\n",
+      "ud": "नानावनोद्देशवती पत्तनैरुपशोभिता\n",
+      "ur": "nānāvanoddeśavatī pattanair upaśobhitā\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 8
+  },
+  "03226009a": {
+    "text": {
+      "ascii": "vandyamAno dvijai rAjan pUjyamAnaz ca rAjabhiH\n",
+      "ud": "वन्द्यमानो द्विजै राजन्पूज्यमानश्च राजभिः\n",
+      "ur": "vandyamāno dvijai rājan pūjyamānaś ca rājabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 9
+  },
+  "03226009c": {
+    "text": {
+      "ascii": "pauruSAd divi deveSu bhrAjase razmivAn iva\n",
+      "ud": "पौरुषाद्दिवि देवेषु भ्राजसे रश्मिवानिव\n",
+      "ur": "pauruṣād divi deveṣu bhrājase raśmivān iva\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 9
+  },
+  "03226010a": {
+    "text": {
+      "ascii": "rudrair iva yamo rAjA marudbhir iva vAsavaH\n",
+      "ud": "रुद्रैरिव यमो राजा मरुद्भिरिव वासवः\n",
+      "ur": "rudrair iva yamo rājā marudbhir iva vāsavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 10
+  },
+  "03226010c": {
+    "text": {
+      "ascii": "kurubhis tvaM vRto rAjan bhAsi nakSatrarAD iva\n",
+      "ud": "कुरुभिस्त्वं वृतो राजन्भासि नक्षत्रराडिव\n",
+      "ur": "kurubhis tvaṁ vr̥to rājan bhāsi nakṣatrarāḍ iva\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 10
+  },
+  "03226011a": {
+    "text": {
+      "ascii": "ye sma te nAdriyante ''jJA nodvijante kadA ca na\n",
+      "ud": "ये स्म ते नाद्रियन्तेऽऽज्ञा नोद्विजन्ते कदा च न\n",
+      "ur": "ye sma te nādriyante ’’jñā nodvijante kadā ca na\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 11
+  },
+  "03226011c": {
+    "text": {
+      "ascii": "pazyAmas tAJ zriyA hInAn pANDavAn vanavAsinaH\n",
+      "ud": "पश्यामस्ताञ्श्रिया हीनान्पाण्डवान्वनवासिनः\n",
+      "ur": "paśyāmas tāñ śriyā hīnān pāṇḍavān vanavāsinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 11
+  },
+  "03226012a": {
+    "text": {
+      "ascii": "zrUyante hi mahArAja saro dvaitavanaM prati\n",
+      "ud": "श्रूयन्ते हि महाराज सरो द्वैतवनं प्रति\n",
+      "ur": "śrūyante hi mahārāja saro dvaitavanaṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 12
+  },
+  "03226012c": {
+    "text": {
+      "ascii": "vasantaH pANDavAH sArdhaM brAhmaNair vanavAsibhiH\n",
+      "ud": "वसन्तः पाण्डवाः सार्धं ब्राह्मणैर्वनवासिभिः\n",
+      "ur": "vasantaḥ pāṇḍavāḥ sārdhaṁ brāhmaṇair vanavāsibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 12
+  },
+  "03226013a": {
+    "text": {
+      "ascii": "sa prayAhi mahArAja zriyA paramayA yutaH\n",
+      "ud": "स प्रयाहि महाराज श्रिया परमया युतः\n",
+      "ur": "sa prayāhi mahārāja śriyā paramayā yutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 13
+  },
+  "03226013c": {
+    "text": {
+      "ascii": "pratapan pANDuputrAMs tvaM razmivAn iva tejasA\n",
+      "ud": "प्रतपन्पाण्डुपुत्रांस्त्वं रश्मिवानिव तेजसा\n",
+      "ur": "pratapan pāṇḍuputrāṁs tvaṁ raśmivān iva tejasā\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 13
+  },
+  "03226014a": {
+    "text": {
+      "ascii": "sthito rAjye cyutAn rAjyAc chriyA hInAJ zriyA vRtaH\n",
+      "ud": "स्थितो राज्ये च्युतान्राज्याच्छ्रिया हीनाञ्श्रिया वृतः\n",
+      "ur": "sthito rājye cyutān rājyāc chriyā hīnāñ śriyā vr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 14
+  },
+  "03226014c": {
+    "text": {
+      "ascii": "asamRddhAn samRddhArthaH pazya pANDusutAn nRpa\n",
+      "ud": "असमृद्धान्समृद्धार्थः पश्य पाण्डुसुतान्नृप\n",
+      "ur": "asamr̥ddhān samr̥ddhārthaḥ paśya pāṇḍusutān nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 14
+  },
+  "03226015a": {
+    "text": {
+      "ascii": "mahAbhijanasaMpannaM bhadre mahati saMsthitam\n",
+      "ud": "महाभिजनसंपन्नं भद्रे महति संस्थितम्\n",
+      "ur": "mahābhijanasaṁpannaṁ bhadre mahati saṁsthitam\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 15
+  },
+  "03226015c": {
+    "text": {
+      "ascii": "pANDavAs tvAbhivIkSantAM yayAtim iva nAhuSam\n",
+      "ud": "पाण्डवास्त्वाभिवीक्षन्तां ययातिमिव नाहुषम्\n",
+      "ur": "pāṇḍavās tvābhivīkṣantāṁ yayātim iva nāhuṣam\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 15
+  },
+  "03226016a": {
+    "text": {
+      "ascii": "yAM zriyaM suhRdaz caiva durhRdaz ca vizAM pate\n",
+      "ud": "यां श्रियं सुहृदश्चैव दुर्हृदश्च विशां पते\n",
+      "ur": "yāṁ śriyaṁ suhr̥daś caiva durhr̥daś ca viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 16
+  },
+  "03226016c": {
+    "text": {
+      "ascii": "pazyanti puruSe dIptAM sA samarthA bhavaty uta\n",
+      "ud": "पश्यन्ति पुरुषे दीप्तां सा समर्था भवत्युत\n",
+      "ur": "paśyanti puruṣe dīptāṁ sā samarthā bhavaty uta\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 16
+  },
+  "03226017a": {
+    "text": {
+      "ascii": "samastho viSamasthAn hi durhRdo yo 'bhivIkSate\n",
+      "ud": "समस्थो विषमस्थान्हि दुर्हृदो योऽभिवीक्षते\n",
+      "ur": "samastho viṣamasthān hi durhr̥do yo ’bhivīkṣate\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 17
+  },
+  "03226017c": {
+    "text": {
+      "ascii": "jagatIsthAn ivAdristhaH kiM tataH paramaM sukham\n",
+      "ud": "जगतीस्थानिवाद्रिस्थः किं ततः परमं सुखम्\n",
+      "ur": "jagatīsthān ivādristhaḥ kiṁ tataḥ paramaṁ sukham\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 17
+  },
+  "03226018a": {
+    "text": {
+      "ascii": "na putradhanalAbhena na rAjyenApi vindati\n",
+      "ud": "न पुत्रधनलाभेन न राज्येनापि विन्दति\n",
+      "ur": "na putradhanalābhena na rājyenāpi vindati\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 18
+  },
+  "03226018c": {
+    "text": {
+      "ascii": "prItiM nRpatizArdUla yAm amitrAghadarzanAt\n",
+      "ud": "प्रीतिं नृपतिशार्दूल याममित्राघदर्शनात्\n",
+      "ur": "prītiṁ nr̥patiśārdūla yām amitrāghadarśanāt\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 18
+  },
+  "03226019a": {
+    "text": {
+      "ascii": "kiM nu tasya sukhaM na syAd Azrame yo dhanaMjayam\n",
+      "ud": "किं नु तस्य सुखं न स्यादाश्रमे यो धनंजयम्\n",
+      "ur": "kiṁ nu tasya sukhaṁ na syād āśrame yo dhanaṁjayam\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 19
+  },
+  "03226019c": {
+    "text": {
+      "ascii": "abhivIkSeta siddhArtho valkalAjinavAsasam\n",
+      "ud": "अभिवीक्षेत सिद्धार्थो वल्कलाजिनवाससम्\n",
+      "ur": "abhivīkṣeta siddhārtho valkalājinavāsasam\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 19
+  },
+  "03226020a": {
+    "text": {
+      "ascii": "suvAsaso hi te bhAryA valkalAjinavAsasam\n",
+      "ud": "सुवाससो हि ते भार्या वल्कलाजिनवाससम्\n",
+      "ur": "suvāsaso hi te bhāryā valkalājinavāsasam\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 20
+  },
+  "03226020c": {
+    "text": {
+      "ascii": "pazyantv asukhitAM kRSNAM sA ca nirvidyatAM punaH\n",
+      "ud": "पश्यन्त्वसुखितां कृष्णां सा च निर्विद्यतां पुनः\n",
+      "ur": "paśyantv asukhitāṁ kr̥ṣṇāṁ sā ca nirvidyatāṁ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 20
+  },
+  "03226020e": {
+    "text": {
+      "ascii": "vinindatAM tathAtmAnaM jIvitaM ca dhanacyutA\n",
+      "ud": "विनिन्दतां तथात्मानं जीवितं च धनच्युता\n",
+      "ur": "vinindatāṁ tathātmānaṁ jīvitaṁ ca dhanacyutā\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 20
+  },
+  "03226021a": {
+    "text": {
+      "ascii": "na tathA hi sabhAmadhye tasyA bhavitum arhati\n",
+      "ud": "न तथा हि सभामध्ये तस्या भवितुमर्हति\n",
+      "ur": "na tathā hi sabhāmadhye tasyā bhavitum arhati\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 21
+  },
+  "03226021c": {
+    "text": {
+      "ascii": "vaimanasyaM yathA dRSTvA tava bhAryAH svalaMkRtAH\n",
+      "ud": "वैमनस्यं यथा दृष्ट्वा तव भार्याः स्वलंकृताः\n",
+      "ur": "vaimanasyaṁ yathā dr̥ṣṭvā tava bhāryāḥ svalaṁkr̥tāḥ\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 21
+  },
+  "03226022a": {
+    "text": {
+      "ascii": "evam uktvA tu rAjAnaM karNaH zakuninA saha\n",
+      "ud": "एवमुक्त्वा तु राजानं कर्णः शकुनिना सह\n",
+      "ur": "evam uktvā tu rājānaṁ karṇaḥ śakuninā saha\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 22
+  },
+  "03226022c": {
+    "text": {
+      "ascii": "tUSNIM babhUvatur ubhau vAkyAnte janamejaya\n",
+      "ud": "तूष्णीं बभूवतुरुभौ वाक्यान्ते जनमेजय\n",
+      "ur": "tūṣṇīṁ babhūvatur ubhau vākyānte janamejaya\n"
+    },
+    "book": 3,
+    "chapter": 226,
+    "verse": 22
+  }
+}

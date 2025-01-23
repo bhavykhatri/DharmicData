@@ -1,0 +1,732 @@
+{
+  "03245001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 1
+  },
+  "03245001a": {
+    "text": {
+      "ascii": "vane nivasatAM teSAM pANDavAnAM mahAtmanAm\n",
+      "ud": "वने निवसतां तेषां पाण्डवानां महात्मनाम्\n",
+      "ur": "vane nivasatāṁ teṣāṁ pāṇḍavānāṁ mahātmanām\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 1
+  },
+  "03245001c": {
+    "text": {
+      "ascii": "varSANy ekAdazAtIyuH kRcchreNa bharatarSabha\n",
+      "ud": "वर्षाण्येकादशातीयुः कृच्छ्रेण भरतर्षभ\n",
+      "ur": "varṣāṇy ekādaśātīyuḥ kr̥cchreṇa bharatarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 1
+  },
+  "03245002a": {
+    "text": {
+      "ascii": "phalamUlAzanAs te hi sukhArhA duHkham uttamam\n",
+      "ud": "फलमूलाशनास्ते हि सुखार्हा दुःखमुत्तमम्\n",
+      "ur": "phalamūlāśanās te hi sukhārhā duḥkham uttamam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 2
+  },
+  "03245002c": {
+    "text": {
+      "ascii": "prAptakAlam anudhyAntaH sehur uttamapUruSAH\n",
+      "ud": "प्राप्तकालमनुध्यान्तः सेहुरुत्तमपूरुषाः\n",
+      "ur": "prāptakālam anudhyāntaḥ sehur uttamapūruṣāḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 2
+  },
+  "03245003a": {
+    "text": {
+      "ascii": "yudhiSThiras tu rAjarSir AtmakarmAparAdhajam\n",
+      "ud": "युधिष्ठिरस्तु राजर्षिरात्मकर्मापराधजम्\n",
+      "ur": "yudhiṣṭhiras tu rājarṣir ātmakarmāparādhajam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 3
+  },
+  "03245003c": {
+    "text": {
+      "ascii": "cintayan sa mahAbAhur bhrAtqNAM duHkham uttamam\n",
+      "ud": "चिन्तयन्स महाबाहुर्भ्रातॄणां दुःखमुत्तमम्\n",
+      "ur": "cintayan sa mahābāhur bhrātr̥̄ṇāṁ duḥkham uttamam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 3
+  },
+  "03245004a": {
+    "text": {
+      "ascii": "na suSvApa sukhaM rAjA hRdi zalyair ivArpitaiH\n",
+      "ud": "न सुष्वाप सुखं राजा हृदि शल्यैरिवार्पितैः\n",
+      "ur": "na suṣvāpa sukhaṁ rājā hr̥di śalyair ivārpitaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 4
+  },
+  "03245004c": {
+    "text": {
+      "ascii": "daurAtmyam anupazyaMs tat kAle dyUtodbhavasya hi\n",
+      "ud": "दौरात्म्यमनुपश्यंस्तत्काले द्यूतोद्भवस्य हि\n",
+      "ur": "daurātmyam anupaśyaṁs tat kāle dyūtodbhavasya hi\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 4
+  },
+  "03245005a": {
+    "text": {
+      "ascii": "saMsmaran paruSA vAcaH sUtaputrasya pANDavaH\n",
+      "ud": "संस्मरन्परुषा वाचः सूतपुत्रस्य पाण्डवः\n",
+      "ur": "saṁsmaran paruṣā vācaḥ sūtaputrasya pāṇḍavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 5
+  },
+  "03245005c": {
+    "text": {
+      "ascii": "niHzvAsaparamo dIno bibhrat kopaviSaM mahat\n",
+      "ud": "निःश्वासपरमो दीनो बिभ्रत्कोपविषं महत्\n",
+      "ur": "niḥśvāsaparamo dīno bibhrat kopaviṣaṁ mahat\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 5
+  },
+  "03245006a": {
+    "text": {
+      "ascii": "arjuno yamajau cobhau draupadI ca yazasvinI\n",
+      "ud": "अर्जुनो यमजौ चोभौ द्रौपदी च यशस्विनी\n",
+      "ur": "arjuno yamajau cobhau draupadī ca yaśasvinī\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 6
+  },
+  "03245006c": {
+    "text": {
+      "ascii": "sa ca bhImo mahAtejAH sarveSAm uttamo balI\n",
+      "ud": "स च भीमो महातेजाः सर्वेषामुत्तमो बली\n",
+      "ur": "sa ca bhīmo mahātejāḥ sarveṣām uttamo balī\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 6
+  },
+  "03245006e": {
+    "text": {
+      "ascii": "yudhiSThiram udIkSantaH sehur duHkham anuttamam\n",
+      "ud": "युधिष्ठिरमुदीक्षन्तः सेहुर्दुःखमनुत्तमम्\n",
+      "ur": "yudhiṣṭhiram udīkṣantaḥ sehur duḥkham anuttamam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 6
+  },
+  "03245007a": {
+    "text": {
+      "ascii": "avaziSTam alpakAlaM manvAnAH puruSarSabhAH\n",
+      "ud": "अवशिष्टमल्पकालं मन्वानाः पुरुषर्षभाः\n",
+      "ur": "avaśiṣṭam alpakālaṁ manvānāḥ puruṣarṣabhāḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 7
+  },
+  "03245007c": {
+    "text": {
+      "ascii": "vapur anyad ivAkArSur utsAhAmarSaceSTitaiH\n",
+      "ud": "वपुरन्यदिवाकार्षुरुत्साहामर्षचेष्टितैः\n",
+      "ur": "vapur anyad ivākārṣur utsāhāmarṣaceṣṭitaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 7
+  },
+  "03245008a": {
+    "text": {
+      "ascii": "kasya cit tv atha kAlasya vyAsaH satyavatIsutaH\n",
+      "ud": "कस्यचित्त्वथ कालस्य व्यासः सत्यवतीसुतः\n",
+      "ur": "kasya cit tv atha kālasya vyāsaḥ satyavatīsutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 8
+  },
+  "03245008c": {
+    "text": {
+      "ascii": "AjagAma mahAyogI pANDavAn avalokakaH\n",
+      "ud": "आजगाम महायोगी पाण्डवानवलोककः\n",
+      "ur": "ājagāma mahāyogī pāṇḍavān avalokakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 8
+  },
+  "03245009a": {
+    "text": {
+      "ascii": "tam Agatam abhiprekSya kuntIputro yudhiSThiraH\n",
+      "ud": "तमागतमभिप्रेक्ष्य कुन्तीपुत्रो युधिष्ठिरः\n",
+      "ur": "tam āgatam abhiprekṣya kuntīputro yudhiṣṭhiraḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 9
+  },
+  "03245009c": {
+    "text": {
+      "ascii": "pratyudgamya mahAtmAnaM pratyagRhNAd yathAvidhi\n",
+      "ud": "प्रत्युद्गम्य महात्मानं प्रत्यगृह्णाद्यथाविधि\n",
+      "ur": "pratyudgamya mahātmānaṁ pratyagr̥hṇād yathāvidhi\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 9
+  },
+  "03245010a": {
+    "text": {
+      "ascii": "tam AsInam upAsInaH zuzrUSur niyatendriyaH\n",
+      "ud": "तमासीनमुपासीनः शुश्रूषुर्नियतेन्द्रियः\n",
+      "ur": "tam āsīnam upāsīnaḥ śuśrūṣur niyatendriyaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 10
+  },
+  "03245010c": {
+    "text": {
+      "ascii": "toSayan praNipAtena vyAsaM pANDavanandanaH\n",
+      "ud": "तोषयन्प्रणिपातेन व्यासं पाण्डवनन्दनः\n",
+      "ur": "toṣayan praṇipātena vyāsaṁ pāṇḍavanandanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 10
+  },
+  "03245011a": {
+    "text": {
+      "ascii": "tAn avekSya kRzAn pautrAn vane vanyena jIvataH\n",
+      "ud": "तानवेक्ष्य कृशान्पौत्रान्वने वन्येन जीवतः\n",
+      "ur": "tān avekṣya kr̥śān pautrān vane vanyena jīvataḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 11
+  },
+  "03245011c": {
+    "text": {
+      "ascii": "maharSir anukampArtham abravId bASpagadgadam\n",
+      "ud": "महर्षिरनुकम्पार्थमब्रवीद्बाष्पगद्गदम्\n",
+      "ur": "maharṣir anukampārtham abravīd bāṣpagadgadam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 11
+  },
+  "03245012a": {
+    "text": {
+      "ascii": "yudhiSThira mahAbAho zRNu dharmabhRtAM vara\n",
+      "ud": "युधिष्ठिर महाबाहो शृणु धर्मभृतां वर\n",
+      "ur": "yudhiṣṭhira mahābāho śr̥ṇu dharmabhr̥tāṁ vara\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 12
+  },
+  "03245012c": {
+    "text": {
+      "ascii": "nAtaptatapasaH putra prApnuvanti mahat sukham\n",
+      "ud": "नातप्ततपसः पुत्र प्राप्नुवन्ति महत्सुखम्\n",
+      "ur": "nātaptatapasaḥ putra prāpnuvanti mahat sukham\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 12
+  },
+  "03245013a": {
+    "text": {
+      "ascii": "sukhaduHkhe hi puruSaH paryAyeNopasevate\n",
+      "ud": "सुखदुःखे हि पुरुषः पर्यायेणोपसेवते\n",
+      "ur": "sukhaduḥkhe hi puruṣaḥ paryāyeṇopasevate\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 13
+  },
+  "03245013c": {
+    "text": {
+      "ascii": "nAtyantam asukhaM kaz cit prApnoti puruSarSabha\n",
+      "ud": "नात्यन्तमसुखं कश्चित्प्राप्नोति पुरुषर्षभ\n",
+      "ur": "nātyantam asukhaṁ kaś cit prāpnoti puruṣarṣabha\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 13
+  },
+  "03245014a": {
+    "text": {
+      "ascii": "prajJAvAMs tv eva puruSaH saMyuktaH parayA dhiyA\n",
+      "ud": "प्रज्ञावांस्त्वेव पुरुषः संयुक्तः परया धिया\n",
+      "ur": "prajñāvāṁs tv eva puruṣaḥ saṁyuktaḥ parayā dhiyā\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 14
+  },
+  "03245014c": {
+    "text": {
+      "ascii": "udayAstamayajJo hi na zocati na hRSyati\n",
+      "ud": "उदयास्तमयज्ञो हि न शोचति न हृष्यति\n",
+      "ur": "udayāstamayajño hi na śocati na hr̥ṣyati\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 14
+  },
+  "03245015a": {
+    "text": {
+      "ascii": "sukham ApatitaM seved duHkham ApatitaM sahet\n",
+      "ud": "सुखमापतितं सेवेद्दुःखमापतितं सहेत्\n",
+      "ur": "sukham āpatitaṁ seved duḥkham āpatitaṁ sahet\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 15
+  },
+  "03245015c": {
+    "text": {
+      "ascii": "kAlaprAptam upAsIta sasyAnAm iva karSakaH\n",
+      "ud": "कालप्राप्तमुपासीत सस्यानामिव कर्षकः\n",
+      "ur": "kālaprāptam upāsīta sasyānām iva karṣakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 15
+  },
+  "03245016a": {
+    "text": {
+      "ascii": "tapaso hi paraM nAsti tapasA vindate mahat\n",
+      "ud": "तपसो हि परं नास्ति तपसा विन्दते महत्\n",
+      "ur": "tapaso hi paraṁ nāsti tapasā vindate mahat\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 16
+  },
+  "03245016c": {
+    "text": {
+      "ascii": "nAsAdhyaM tapasaH kiM cid iti budhyasva bhArata\n",
+      "ud": "नासाध्यं तपसः किंचिदिति बुध्यस्व भारत\n",
+      "ur": "nāsādhyaṁ tapasaḥ kiṁ cid iti budhyasva bhārata\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 16
+  },
+  "03245017a": {
+    "text": {
+      "ascii": "satyam Arjavam akrodhaH saMvibhAgo damaH zamaH\n",
+      "ud": "सत्यमार्जवमक्रोधः संविभागो दमः शमः\n",
+      "ur": "satyam ārjavam akrodhaḥ saṁvibhāgo damaḥ śamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 17
+  },
+  "03245017c": {
+    "text": {
+      "ascii": "anasUyAvihiMsA ca zaucam indriyasaMyamaH\n",
+      "ud": "अनसूयाविहिंसा च शौचमिन्द्रियसंयमः\n",
+      "ur": "anasūyāvihiṁsā ca śaucam indriyasaṁyamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 17
+  },
+  "03245017e": {
+    "text": {
+      "ascii": "sAdhanAni mahArAja narANAM puNyakarmaNAm\n",
+      "ud": "साधनानि महाराज नराणां पुण्यकर्मणाम्\n",
+      "ur": "sādhanāni mahārāja narāṇāṁ puṇyakarmaṇām\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 17
+  },
+  "03245018a": {
+    "text": {
+      "ascii": "adharmarucayo mUDhAs tiryaggatiparAyaNAH\n",
+      "ud": "अधर्मरुचयो मूढास्तिर्यग्गतिपरायणाः\n",
+      "ur": "adharmarucayo mūḍhās tiryaggatiparāyaṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 18
+  },
+  "03245018c": {
+    "text": {
+      "ascii": "kRcchrAM yonim anuprApya na sukhaM vindate janAH\n",
+      "ud": "कृच्छ्रां योनिमनुप्राप्य न सुखं विन्दते जनाः\n",
+      "ur": "kr̥cchrāṁ yonim anuprāpya na sukhaṁ vindate janāḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 18
+  },
+  "03245019a": {
+    "text": {
+      "ascii": "iha yat kriyate karma tat paratropabhujyate\n",
+      "ud": "इह यत्क्रियते कर्म तत्परत्रोपभुज्यते\n",
+      "ur": "iha yat kriyate karma tat paratropabhujyate\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 19
+  },
+  "03245019c": {
+    "text": {
+      "ascii": "tasmAc charIraM yuJjIta tapasA niyamena ca\n",
+      "ud": "तस्माच्छरीरं युञ्जीत तपसा नियमेन च\n",
+      "ur": "tasmāc charīraṁ yuñjīta tapasā niyamena ca\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 19
+  },
+  "03245020a": {
+    "text": {
+      "ascii": "yathAzakti prayacchec ca saMpUjyAbhipraNamya ca\n",
+      "ud": "यथाशक्ति प्रयच्छेच्च संपूज्याभिप्रणम्य च\n",
+      "ur": "yathāśakti prayacchec ca saṁpūjyābhipraṇamya ca\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 20
+  },
+  "03245020c": {
+    "text": {
+      "ascii": "kAle pAtre ca hRSTAtmA rAjan vigatamatsaraH\n",
+      "ud": "काले पात्रे च हृष्टात्मा राजन्विगतमत्सरः\n",
+      "ur": "kāle pātre ca hr̥ṣṭātmā rājan vigatamatsaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 20
+  },
+  "03245021a": {
+    "text": {
+      "ascii": "satyavAdI labhetAyur anAyAsam athArjavI\n",
+      "ud": "सत्यवादी लभेतायुरनायासमथार्जवी\n",
+      "ur": "satyavādī labhetāyur anāyāsam athārjavī\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 21
+  },
+  "03245021c": {
+    "text": {
+      "ascii": "akrodhano 'nasUyaz ca nirvRtiM labhate parAm\n",
+      "ud": "अक्रोधनोऽनसूयश्च निर्वृतिं लभते पराम्\n",
+      "ur": "akrodhano ’nasūyaś ca nirvr̥tiṁ labhate parām\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 21
+  },
+  "03245022a": {
+    "text": {
+      "ascii": "dAntaH zamaparaH zazvat pariklezaM na vindati\n",
+      "ud": "दान्तः शमपरः शश्वत्परिक्लेशं न विन्दति\n",
+      "ur": "dāntaḥ śamaparaḥ śaśvat parikleśaṁ na vindati\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 22
+  },
+  "03245022c": {
+    "text": {
+      "ascii": "na ca tapyati dAntAtmA dRSTvA paragatAM zriyam\n",
+      "ud": "न च तप्यति दान्तात्मा दृष्ट्वा परगतां श्रियम्\n",
+      "ur": "na ca tapyati dāntātmā dr̥ṣṭvā paragatāṁ śriyam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 22
+  },
+  "03245023a": {
+    "text": {
+      "ascii": "saMvibhaktA ca dAtA ca bhogavAn sukhavAn naraH\n",
+      "ud": "संविभक्ता च दाता च भोगवान्सुखवान्नरः\n",
+      "ur": "saṁvibhaktā ca dātā ca bhogavān sukhavān naraḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 23
+  },
+  "03245023c": {
+    "text": {
+      "ascii": "bhavaty ahiMsakaz caiva paramArogyam aznute\n",
+      "ud": "भवत्यहिंसकश्चैव परमारोग्यमश्नुते\n",
+      "ur": "bhavaty ahiṁsakaś caiva paramārogyam aśnute\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 23
+  },
+  "03245024a": {
+    "text": {
+      "ascii": "mAnyAn mAnayitA janma kule mahati vindati\n",
+      "ud": "मान्यान्मानयिता जन्म कुले महति विन्दति\n",
+      "ur": "mānyān mānayitā janma kule mahati vindati\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 24
+  },
+  "03245024c": {
+    "text": {
+      "ascii": "vyasanair na tu saMyogaM prApnoti vijitendriyaH\n",
+      "ud": "व्यसनैर्न तु संयोगं प्राप्नोति विजितेन्द्रियः\n",
+      "ur": "vyasanair na tu saṁyogaṁ prāpnoti vijitendriyaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 24
+  },
+  "03245025a": {
+    "text": {
+      "ascii": "zubhAnuzayabuddhir hi saMyuktaH kAladharmaNA\n",
+      "ud": "शुभानुशयबुद्धिर्हि संयुक्तः कालधर्मणा\n",
+      "ur": "śubhānuśayabuddhir hi saṁyuktaḥ kāladharmaṇā\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 25
+  },
+  "03245025c": {
+    "text": {
+      "ascii": "prAdurbhavati tadyogAt kalyANamatir eva saH\n",
+      "ud": "प्रादुर्भवति तद्योगात्कल्याणमतिरेव सः\n",
+      "ur": "prādurbhavati tadyogāt kalyāṇamatir eva saḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 25
+  },
+  "03245026": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 26
+  },
+  "03245026a": {
+    "text": {
+      "ascii": "bhagavan dAnadharmANAM tapaso vA mahAmune\n",
+      "ud": "भगवन्दानधर्माणां तपसो वा महामुने\n",
+      "ur": "bhagavan dānadharmāṇāṁ tapaso vā mahāmune\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 26
+  },
+  "03245026c": {
+    "text": {
+      "ascii": "kiM svid bahuguNaM pretya kiM vA duSkaram ucyate\n",
+      "ud": "किं स्विद्बहुगुणं प्रेत्य किं वा दुष्करमुच्यते\n",
+      "ur": "kiṁ svid bahuguṇaṁ pretya kiṁ vā duṣkaram ucyate\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 26
+  },
+  "03245027": {
+    "text": {
+      "ascii": "vyAsa uvAca\n",
+      "ud": "व्यास उवाच\n",
+      "ur": "vyāsa uvāca\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 27
+  },
+  "03245027a": {
+    "text": {
+      "ascii": "dAnAn na duSkarataraM pRthivyAm asti kiM cana\n",
+      "ud": "दानान्न दुष्करतरं पृथिव्यामस्ति किंचन\n",
+      "ur": "dānān na duṣkarataraṁ pr̥thivyām asti kiṁ cana\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 27
+  },
+  "03245027c": {
+    "text": {
+      "ascii": "arthe hi mahatI tRSNA sa ca duHkhena labhyate\n",
+      "ud": "अर्थे हि महती तृष्णा स च दुःखेन लभ्यते\n",
+      "ur": "arthe hi mahatī tr̥ṣṇā sa ca duḥkhena labhyate\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 27
+  },
+  "03245028a": {
+    "text": {
+      "ascii": "parityajya priyAn prANAn dhanArthaM hi mahAhavam\n",
+      "ud": "परित्यज्य प्रियान्प्राणान्धनार्थं हि महाहवम्\n",
+      "ur": "parityajya priyān prāṇān dhanārthaṁ hi mahāhavam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 28
+  },
+  "03245028c": {
+    "text": {
+      "ascii": "pravizanti narA vIrAH samudram aTavIM tathA\n",
+      "ud": "प्रविशन्ति नरा वीराः समुद्रमटवीं तथा\n",
+      "ur": "praviśanti narā vīrāḥ samudram aṭavīṁ tathā\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 28
+  },
+  "03245029a": {
+    "text": {
+      "ascii": "kRSigorakSyam ity eke pratipadyanti mAnavAH\n",
+      "ud": "कृषिगोरक्ष्यमित्येके प्रतिपद्यन्ति मानवाः\n",
+      "ur": "kr̥ṣigorakṣyam ity eke pratipadyanti mānavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 29
+  },
+  "03245029c": {
+    "text": {
+      "ascii": "puruSAH preSyatAm eke nirgacchanti dhanArthinaH\n",
+      "ud": "पुरुषाः प्रेष्यतामेके निर्गच्छन्ति धनार्थिनः\n",
+      "ur": "puruṣāḥ preṣyatām eke nirgacchanti dhanārthinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 29
+  },
+  "03245030a": {
+    "text": {
+      "ascii": "tasya duHkhArjitasyaivaM parityAgaH suduSkaraH\n",
+      "ud": "तस्य दुःखार्जितस्यैवं परित्यागः सुदुष्करः\n",
+      "ur": "tasya duḥkhārjitasyaivaṁ parityāgaḥ suduṣkaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 30
+  },
+  "03245030c": {
+    "text": {
+      "ascii": "na duSkarataraM dAnAt tasmAd dAnaM mataM mama\n",
+      "ud": "न दुष्करतरं दानात्तस्माद्दानं मतं मम\n",
+      "ur": "na duṣkarataraṁ dānāt tasmād dānaṁ mataṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 30
+  },
+  "03245031a": {
+    "text": {
+      "ascii": "vizeSas tv atra vijJeyo nyAyenopArjitaM dhanam\n",
+      "ud": "विशेषस्त्वत्र विज्ञेयो न्यायेनोपार्जितं धनम्\n",
+      "ur": "viśeṣas tv atra vijñeyo nyāyenopārjitaṁ dhanam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 31
+  },
+  "03245031c": {
+    "text": {
+      "ascii": "pAtre deze ca kAle ca sAdhubhyaH pratipAdayet\n",
+      "ud": "पात्रे देशे च काले च साधुभ्यः प्रतिपादयेत्\n",
+      "ur": "pātre deśe ca kāle ca sādhubhyaḥ pratipādayet\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 31
+  },
+  "03245032a": {
+    "text": {
+      "ascii": "anyAyasamupAttena dAnadharmo dhanena yaH\n",
+      "ud": "अन्यायसमुपात्तेन दानधर्मो धनेन यः\n",
+      "ur": "anyāyasamupāttena dānadharmo dhanena yaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 32
+  },
+  "03245032c": {
+    "text": {
+      "ascii": "kriyate na sa kartAraM trAyate mahato bhayAt\n",
+      "ud": "क्रियते न स कर्तारं त्रायते महतो भयात्\n",
+      "ur": "kriyate na sa kartāraṁ trāyate mahato bhayāt\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 32
+  },
+  "03245033a": {
+    "text": {
+      "ascii": "pAtre dAnaM svalpam api kAle dattaM yudhiSThira\n",
+      "ud": "पात्रे दानं स्वल्पमपि काले दत्तं युधिष्ठिर\n",
+      "ur": "pātre dānaṁ svalpam api kāle dattaṁ yudhiṣṭhira\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 33
+  },
+  "03245033c": {
+    "text": {
+      "ascii": "manasA suvizuddhena pretyAnantaphalaM smRtam\n",
+      "ud": "मनसा सुविशुद्धेन प्रेत्यानन्तफलं स्मृतम्\n",
+      "ur": "manasā suviśuddhena pretyānantaphalaṁ smr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 33
+  },
+  "03245034a": {
+    "text": {
+      "ascii": "atrApy udAharantImam itihAsaM purAtanam\n",
+      "ud": "अत्राप्युदाहरन्तीममितिहासं पुरातनम्\n",
+      "ur": "atrāpy udāharantīmam itihāsaṁ purātanam\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 34
+  },
+  "03245034c": {
+    "text": {
+      "ascii": "vrIhidroNaparityAgAd yat phalaM prApa mudgalaH\n",
+      "ud": "व्रीहिद्रोणपरित्यागाद्यत्फलं प्राप मुद्गलः\n",
+      "ur": "vrīhidroṇaparityāgād yat phalaṁ prāpa mudgalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 245,
+    "verse": 34
+  }
+}

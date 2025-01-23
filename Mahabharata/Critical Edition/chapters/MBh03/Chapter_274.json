@@ -1,0 +1,652 @@
+{
+  "03274001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 1
+  },
+  "03274001a": {
+    "text": {
+      "ascii": "tataH kruddho dazagrIvaH priye putre nipAtite\n",
+      "ud": "ततः क्रुद्धो दशग्रीवः प्रिये पुत्रे निपातिते\n",
+      "ur": "tataḥ kruddho daśagrīvaḥ priye putre nipātite\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 1
+  },
+  "03274001c": {
+    "text": {
+      "ascii": "niryayau ratham AsthAya hemaratnavibhUSitam\n",
+      "ud": "निर्ययौ रथमास्थाय हेमरत्नविभूषितम्\n",
+      "ur": "niryayau ratham āsthāya hemaratnavibhūṣitam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 1
+  },
+  "03274002a": {
+    "text": {
+      "ascii": "saMvRto rAkSasair ghorair vividhAyudhapANibhiH\n",
+      "ud": "संवृतो राक्षसैर्घोरैर्विविधायुधपाणिभिः\n",
+      "ur": "saṁvr̥to rākṣasair ghorair vividhāyudhapāṇibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 2
+  },
+  "03274002c": {
+    "text": {
+      "ascii": "abhidudrAva rAmaM sa pothayan hariyUthapAn\n",
+      "ud": "अभिदुद्राव रामं स पोथयन्हरियूथपान्\n",
+      "ur": "abhidudrāva rāmaṁ sa pothayan hariyūthapān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 2
+  },
+  "03274003a": {
+    "text": {
+      "ascii": "tam AdravantaM saMkruddhaM maindanIlanalAGgadAH\n",
+      "ud": "तमाद्रवन्तं संक्रुद्धं मैन्दनीलनलाङ्गदाः\n",
+      "ur": "tam ādravantaṁ saṁkruddhaṁ maindanīlanalāṅgadāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 3
+  },
+  "03274003c": {
+    "text": {
+      "ascii": "hanUmAJ jAmbavAMz caiva sasainyAH paryavArayan\n",
+      "ud": "हनूमाञ्जाम्बवांश्चैव ससैन्याः पर्यवारयन्\n",
+      "ur": "hanūmāñ jāmbavāṁś caiva sasainyāḥ paryavārayan\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 3
+  },
+  "03274004a": {
+    "text": {
+      "ascii": "te dazagrIvasainyaM tad RkSavAnarayUthapAH\n",
+      "ud": "ते दशग्रीवसैन्यं तदृक्षवानरयूथपाः\n",
+      "ur": "te daśagrīvasainyaṁ tad r̥kṣavānarayūthapāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 4
+  },
+  "03274004c": {
+    "text": {
+      "ascii": "drumair vidhvaMsayAM cakrur dazagrIvasya pazyataH\n",
+      "ud": "द्रुमैर्विध्वंसयां चक्रुर्दशग्रीवस्य पश्यतः\n",
+      "ur": "drumair vidhvaṁsayāṁ cakrur daśagrīvasya paśyataḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 4
+  },
+  "03274005a": {
+    "text": {
+      "ascii": "tataH svasainyam Alokya vadhyamAnam arAtibhiH\n",
+      "ud": "ततः स्वसैन्यमालोक्य वध्यमानमरातिभिः\n",
+      "ur": "tataḥ svasainyam ālokya vadhyamānam arātibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 5
+  },
+  "03274005c": {
+    "text": {
+      "ascii": "mAyAvI vyadadhAn mAyAM rAvaNo rAkSasezvaraH\n",
+      "ud": "मायावी व्यदधान्मायां रावणो राक्षसेश्वरः\n",
+      "ur": "māyāvī vyadadhān māyāṁ rāvaṇo rākṣaseśvaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 5
+  },
+  "03274006a": {
+    "text": {
+      "ascii": "tasya dehAd viniSkrAntAH zatazo 'tha sahasrazaH\n",
+      "ud": "तस्य देहाद्विनिष्क्रान्ताः शतशोऽथ सहस्रशः\n",
+      "ur": "tasya dehād viniṣkrāntāḥ śataśo ’tha sahasraśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 6
+  },
+  "03274006c": {
+    "text": {
+      "ascii": "rAkSasAH pratyadRzyanta zarazaktyRSTipANayaH\n",
+      "ud": "राक्षसाः प्रत्यदृश्यन्त शरशक्त्यृष्टिपाणयः\n",
+      "ur": "rākṣasāḥ pratyadr̥śyanta śaraśaktyr̥ṣṭipāṇayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 6
+  },
+  "03274007a": {
+    "text": {
+      "ascii": "tAn rAmo jaghnivAn sarvAn divyenAstreNa rAkSasAn\n",
+      "ud": "तान्रामो जघ्निवान्सर्वान्दिव्येनास्त्रेण राक्षसान्\n",
+      "ur": "tān rāmo jaghnivān sarvān divyenāstreṇa rākṣasān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 7
+  },
+  "03274007c": {
+    "text": {
+      "ascii": "atha bhUyo 'pi mAyAM sa vyadadhAd rAkSasAdhipaH\n",
+      "ud": "अथ भूयोऽपि मायां स व्यदधाद्राक्षसाधिपः\n",
+      "ur": "atha bhūyo ’pi māyāṁ sa vyadadhād rākṣasādhipaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 7
+  },
+  "03274008a": {
+    "text": {
+      "ascii": "kRtvA rAmasya rUpANi lakSmaNasya ca bhArata\n",
+      "ud": "कृत्वा रामस्य रूपाणि लक्ष्मणस्य च भारत\n",
+      "ur": "kr̥tvā rāmasya rūpāṇi lakṣmaṇasya ca bhārata\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 8
+  },
+  "03274008c": {
+    "text": {
+      "ascii": "abhidudrAva rAmaM ca lakSmaNaM ca dazAnanaH\n",
+      "ud": "अभिदुद्राव रामं च लक्ष्मणं च दशाननः\n",
+      "ur": "abhidudrāva rāmaṁ ca lakṣmaṇaṁ ca daśānanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 8
+  },
+  "03274009a": {
+    "text": {
+      "ascii": "tatas te rAmam archanto lakSmaNaM ca kSapAcarAH\n",
+      "ud": "ततस्ते राममर्छन्तो लक्ष्मणं च क्षपाचराः\n",
+      "ur": "tatas te rāmam archanto lakṣmaṇaṁ ca kṣapācarāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 9
+  },
+  "03274009c": {
+    "text": {
+      "ascii": "abhipetus tadA rAjan pragRhItoccakArmukAH\n",
+      "ud": "अभिपेतुस्तदा राजन्प्रगृहीतोच्चकार्मुकाः\n",
+      "ur": "abhipetus tadā rājan pragr̥hītoccakārmukāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 9
+  },
+  "03274010a": {
+    "text": {
+      "ascii": "tAM dRSTvA rAkSasendrasya mAyAm ikSvAkunandanaH\n",
+      "ud": "तां दृष्ट्वा राक्षसेन्द्रस्य मायामिक्ष्वाकुनन्दनः\n",
+      "ur": "tāṁ dr̥ṣṭvā rākṣasendrasya māyām ikṣvākunandanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 10
+  },
+  "03274010c": {
+    "text": {
+      "ascii": "uvAca rAmaM saumitrir asaMbhrAnto bRhad vacaH\n",
+      "ud": "उवाच रामं सौमित्रिरसंभ्रान्तो बृहद्वचः\n",
+      "ur": "uvāca rāmaṁ saumitrir asaṁbhrānto br̥had vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 10
+  },
+  "03274011a": {
+    "text": {
+      "ascii": "jahImAn rAkSasAn pApAn AtmanaH pratirUpakAn\n",
+      "ud": "जहीमान्राक्षसान्पापानात्मनः प्रतिरूपकान्\n",
+      "ur": "jahīmān rākṣasān pāpān ātmanaḥ pratirūpakān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 11
+  },
+  "03274011c": {
+    "text": {
+      "ascii": "jaghAna rAmas tAMz cAnyAn AtmanaH pratirUpakAn\n",
+      "ud": "जघान रामस्तांश्चान्यानात्मनः प्रतिरूपकान्\n",
+      "ur": "jaghāna rāmas tāṁś cānyān ātmanaḥ pratirūpakān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 11
+  },
+  "03274012a": {
+    "text": {
+      "ascii": "tato haryazvayuktena rathenAdityavarcasA\n",
+      "ud": "ततो हर्यश्वयुक्तेन रथेनादित्यवर्चसा\n",
+      "ur": "tato haryaśvayuktena rathenādityavarcasā\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 12
+  },
+  "03274012c": {
+    "text": {
+      "ascii": "upatasthe raNe rAmaM mAtaliH zakrasArathiH\n",
+      "ud": "उपतस्थे रणे रामं मातलिः शक्रसारथिः\n",
+      "ur": "upatasthe raṇe rāmaṁ mātaliḥ śakrasārathiḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 12
+  },
+  "03274013": {
+    "text": {
+      "ascii": "mAtalir uvAca\n",
+      "ud": "मातलिरुवाच\n",
+      "ur": "mātalir uvāca\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 13
+  },
+  "03274013a": {
+    "text": {
+      "ascii": "ayaM haryazvayug jaitro maghonaH syandanottamaH\n",
+      "ud": "अयं हर्यश्वयुग्जैत्रो मघोनः स्यन्दनोत्तमः\n",
+      "ur": "ayaṁ haryaśvayug jaitro maghonaḥ syandanottamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 13
+  },
+  "03274013c": {
+    "text": {
+      "ascii": "anena zakraH kAkutstha samare daityadAnavAn\n",
+      "ud": "अनेन शक्रः काकुत्स्थ समरे दैत्यदानवान्\n",
+      "ur": "anena śakraḥ kākutstha samare daityadānavān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 13
+  },
+  "03274013e": {
+    "text": {
+      "ascii": "zatazaH puruSavyAghra rathodAreNa jaghnivAn\n",
+      "ud": "शतशः पुरुषव्याघ्र रथोदारेण जघ्निवान्\n",
+      "ur": "śataśaḥ puruṣavyāghra rathodāreṇa jaghnivān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 13
+  },
+  "03274014a": {
+    "text": {
+      "ascii": "tad anena naravyAghra mayA yat tena saMyuge\n",
+      "ud": "तदनेन नरव्याघ्र मया यत्तेन संयुगे\n",
+      "ur": "tad anena naravyāghra mayā yat tena saṁyuge\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 14
+  },
+  "03274014c": {
+    "text": {
+      "ascii": "syandanena jahi kSipraM rAvaNaM mA ciraM kRthAH\n",
+      "ud": "स्यन्दनेन जहि क्षिप्रं रावणं मा चिरं कृथाः\n",
+      "ur": "syandanena jahi kṣipraṁ rāvaṇaṁ mā ciraṁ kr̥thāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 14
+  },
+  "03274015a": {
+    "text": {
+      "ascii": "ity ukto rAghavas tathyaM vaco 'zaGkata mAtaleH\n",
+      "ud": "इत्युक्तो राघवस्तथ्यं वचोऽशङ्कत मातलेः\n",
+      "ur": "ity ukto rāghavas tathyaṁ vaco ’śaṅkata mātaleḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 15
+  },
+  "03274015c": {
+    "text": {
+      "ascii": "mAyeyaM rAkSasasyeti tam uvAca vibhISaNaH\n",
+      "ud": "मायेयं राक्षसस्येति तमुवाच विभीषणः\n",
+      "ur": "māyeyaṁ rākṣasasyeti tam uvāca vibhīṣaṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 15
+  },
+  "03274016a": {
+    "text": {
+      "ascii": "neyaM mAyA naravyAghra rAvaNasya durAtmanaH\n",
+      "ud": "नेयं माया नरव्याघ्र रावणस्य दुरात्मनः\n",
+      "ur": "neyaṁ māyā naravyāghra rāvaṇasya durātmanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 16
+  },
+  "03274016c": {
+    "text": {
+      "ascii": "tad AtiSTha rathaM zIghram imam aindraM mahAdyute\n",
+      "ud": "तदातिष्ठ रथं शीघ्रमिममैन्द्रं महाद्युते\n",
+      "ur": "tad ātiṣṭha rathaṁ śīghram imam aindraṁ mahādyute\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 16
+  },
+  "03274017a": {
+    "text": {
+      "ascii": "tataH prahRSTaH kAkutsthas tathety uktvA vibhISaNam\n",
+      "ud": "ततः प्रहृष्टः काकुत्स्थस्तथेत्युक्त्वा विभीषणम्\n",
+      "ur": "tataḥ prahr̥ṣṭaḥ kākutsthas tathety uktvā vibhīṣaṇam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 17
+  },
+  "03274017c": {
+    "text": {
+      "ascii": "rathenAbhipapAtAzu dazagrIvaM ruSAnvitaH\n",
+      "ud": "रथेनाभिपपाताशु दशग्रीवं रुषान्वितः\n",
+      "ur": "rathenābhipapātāśu daśagrīvaṁ ruṣānvitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 17
+  },
+  "03274018a": {
+    "text": {
+      "ascii": "hAhAkRtAni bhUtAni rAvaNe samabhidrute\n",
+      "ud": "हाहाकृतानि भूतानि रावणे समभिद्रुते\n",
+      "ur": "hāhākr̥tāni bhūtāni rāvaṇe samabhidrute\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 18
+  },
+  "03274018c": {
+    "text": {
+      "ascii": "siMhanAdAH sapaTahA divi divyAz ca nAnadan\n",
+      "ud": "सिंहनादाः सपटहा दिवि दिव्याश्च नानदन्\n",
+      "ur": "siṁhanādāḥ sapaṭahā divi divyāś ca nānadan\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 18
+  },
+  "03274019a": {
+    "text": {
+      "ascii": "sa rAmAya mahAghoraM visasarja nizAcaraH\n",
+      "ud": "स रामाय महाघोरं विससर्ज निशाचरः\n",
+      "ur": "sa rāmāya mahāghoraṁ visasarja niśācaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 19
+  },
+  "03274019c": {
+    "text": {
+      "ascii": "zUlam indrAzaniprakhyaM brahmadaNDam ivodyatam\n",
+      "ud": "शूलमिन्द्राशनिप्रख्यं ब्रह्मदण्डमिवोद्यतम्\n",
+      "ur": "śūlam indrāśaniprakhyaṁ brahmadaṇḍam ivodyatam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 19
+  },
+  "03274020a": {
+    "text": {
+      "ascii": "tac chUlam antarA rAmaz ciccheda nizitaiH zaraiH\n",
+      "ud": "तच्छूलमन्तरा रामश्चिच्छेद निशितैः शरैः\n",
+      "ur": "tac chūlam antarā rāmaś ciccheda niśitaiḥ śaraiḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 20
+  },
+  "03274020c": {
+    "text": {
+      "ascii": "tad dRSTvA duSkaraM karma rAvaNaM bhayam Avizat\n",
+      "ud": "तद्दृष्ट्वा दुष्करं कर्म रावणं भयमाविशत्\n",
+      "ur": "tad dr̥ṣṭvā duṣkaraṁ karma rāvaṇaṁ bhayam āviśat\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 20
+  },
+  "03274021a": {
+    "text": {
+      "ascii": "tataH kruddhaH sasarjAzu dazagrIvaH zitAJ zarAn\n",
+      "ud": "ततः क्रुद्धः ससर्जाशु दशग्रीवः शिताञ्शरान्\n",
+      "ur": "tataḥ kruddhaḥ sasarjāśu daśagrīvaḥ śitāñ śarān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 21
+  },
+  "03274021c": {
+    "text": {
+      "ascii": "sahasrAyutazo rAme zastrANi vividhAni ca\n",
+      "ud": "सहस्रायुतशो रामे शस्त्राणि विविधानि च\n",
+      "ur": "sahasrāyutaśo rāme śastrāṇi vividhāni ca\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 21
+  },
+  "03274022a": {
+    "text": {
+      "ascii": "tato bhuzuNDIH zUlAMz ca musalAni parazvadhAn\n",
+      "ud": "ततो भुशुण्डीः शूलांश्च मुसलानि परश्वधान्\n",
+      "ur": "tato bhuśuṇḍīḥ śūlāṁś ca musalāni paraśvadhān\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 22
+  },
+  "03274022c": {
+    "text": {
+      "ascii": "zaktIz ca vividhAkArAH zataghnIz ca zitakSurAH\n",
+      "ud": "शक्तीश्च विविधाकाराः शतघ्नीश्च शितक्षुराः\n",
+      "ur": "śaktīś ca vividhākārāḥ śataghnīś ca śitakṣurāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 22
+  },
+  "03274023a": {
+    "text": {
+      "ascii": "tAM mAyAM vikRtAM dRSTvA dazagrIvasya rakSasaH\n",
+      "ud": "तां मायां विकृतां दृष्ट्वा दशग्रीवस्य रक्षसः\n",
+      "ur": "tāṁ māyāṁ vikr̥tāṁ dr̥ṣṭvā daśagrīvasya rakṣasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 23
+  },
+  "03274023c": {
+    "text": {
+      "ascii": "bhayAt pradudruvuH sarve vAnarAH sarvatodizam\n",
+      "ud": "भयात्प्रदुद्रुवुः सर्वे वानराः सर्वतोदिशम्\n",
+      "ur": "bhayāt pradudruvuḥ sarve vānarāḥ sarvatodiśam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 23
+  },
+  "03274024a": {
+    "text": {
+      "ascii": "tataH supatraM sumukhaM hemapuGkhaM zarottamam\n",
+      "ud": "ततः सुपत्रं सुमुखं हेमपुङ्खं शरोत्तमम्\n",
+      "ur": "tataḥ supatraṁ sumukhaṁ hemapuṅkhaṁ śarottamam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 24
+  },
+  "03274024c": {
+    "text": {
+      "ascii": "tUNAd AdAya kAkutstho brahmAstreNa yuyoja ha\n",
+      "ud": "तूणादादाय काकुत्स्थो ब्रह्मास्त्रेण युयोज ह\n",
+      "ur": "tūṇād ādāya kākutstho brahmāstreṇa yuyoja ha\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 24
+  },
+  "03274025a": {
+    "text": {
+      "ascii": "taM bANavaryaM rAmeNa brahmAstreNAbhimantritam\n",
+      "ud": "तं बाणवर्यं रामेण ब्रह्मास्त्रेणाभिमन्त्रितम्\n",
+      "ur": "taṁ bāṇavaryaṁ rāmeṇa brahmāstreṇābhimantritam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 25
+  },
+  "03274025c": {
+    "text": {
+      "ascii": "jahRSur devagandharvA dRSTvA zakrapurogamAH\n",
+      "ud": "जहृषुर्देवगन्धर्वा दृष्ट्वा शक्रपुरोगमाः\n",
+      "ur": "jahr̥ṣur devagandharvā dr̥ṣṭvā śakrapurogamāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 25
+  },
+  "03274026a": {
+    "text": {
+      "ascii": "alpAvazeSam Ayuz ca tato 'manyanta rakSasaH\n",
+      "ud": "अल्पावशेषमायुश्च ततोऽमन्यन्त रक्षसः\n",
+      "ur": "alpāvaśeṣam āyuś ca tato ’manyanta rakṣasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 26
+  },
+  "03274026c": {
+    "text": {
+      "ascii": "brahmAstrodIraNAc chatror devagandharvakiMnarAH\n",
+      "ud": "ब्रह्मास्त्रोदीरणाच्छत्रोर्देवगन्धर्वकिंनराः\n",
+      "ur": "brahmāstrodīraṇāc chatror devagandharvakiṁnarāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 26
+  },
+  "03274027a": {
+    "text": {
+      "ascii": "tataH sasarja taM rAmaH zaram apratimaujasam\n",
+      "ud": "ततः ससर्ज तं रामः शरमप्रतिमौजसम्\n",
+      "ur": "tataḥ sasarja taṁ rāmaḥ śaram apratimaujasam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 27
+  },
+  "03274027c": {
+    "text": {
+      "ascii": "rAvaNAntakaraM ghoraM brahmadaNDam ivodyatam\n",
+      "ud": "रावणान्तकरं घोरं ब्रह्मदण्डमिवोद्यतम्\n",
+      "ur": "rāvaṇāntakaraṁ ghoraṁ brahmadaṇḍam ivodyatam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 27
+  },
+  "03274028a": {
+    "text": {
+      "ascii": "sa tena rAkSasazreSThaH sarathaH sAzvasArathiH\n",
+      "ud": "स तेन राक्षसश्रेष्ठः सरथः साश्वसारथिः\n",
+      "ur": "sa tena rākṣasaśreṣṭhaḥ sarathaḥ sāśvasārathiḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 28
+  },
+  "03274028c": {
+    "text": {
+      "ascii": "prajajvAla mahAjvAlenAgninAbhipariSkRtaH\n",
+      "ud": "प्रजज्वाल महाज्वालेनाग्निनाभिपरिष्कृतः\n",
+      "ur": "prajajvāla mahājvālenāgninābhipariṣkr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 28
+  },
+  "03274029a": {
+    "text": {
+      "ascii": "tataH prahRSTAs tridazAH sagandharvAH sacAraNAH\n",
+      "ud": "ततः प्रहृष्टास्त्रिदशाः सगन्धर्वाः सचारणाः\n",
+      "ur": "tataḥ prahr̥ṣṭās tridaśāḥ sagandharvāḥ sacāraṇāḥ\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 29
+  },
+  "03274029c": {
+    "text": {
+      "ascii": "nihataM rAvaNaM dRSTvA rAmeNAkliSTakarmaNA\n",
+      "ud": "निहतं रावणं दृष्ट्वा रामेणाक्लिष्टकर्मणा\n",
+      "ur": "nihataṁ rāvaṇaṁ dr̥ṣṭvā rāmeṇākliṣṭakarmaṇā\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 29
+  },
+  "03274030a": {
+    "text": {
+      "ascii": "tatyajus taM mahAbhAgaM paJca bhUtAni rAvaNam\n",
+      "ud": "तत्यजुस्तं महाभागं पञ्च भूतानि रावणम्\n",
+      "ur": "tatyajus taṁ mahābhāgaṁ pañca bhūtāni rāvaṇam\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 30
+  },
+  "03274030c": {
+    "text": {
+      "ascii": "bhraMzitaH sarvalokeSu sa hi brahmAstratejasA\n",
+      "ud": "भ्रंशितः सर्वलोकेषु स हि ब्रह्मास्त्रतेजसा\n",
+      "ur": "bhraṁśitaḥ sarvalokeṣu sa hi brahmāstratejasā\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 30
+  },
+  "03274031a": {
+    "text": {
+      "ascii": "zarIradhAtavo hy asya mAMsaM rudhiram eva ca\n",
+      "ud": "शरीरधातवो ह्यस्य मांसं रुधिरमेव च\n",
+      "ur": "śarīradhātavo hy asya māṁsaṁ rudhiram eva ca\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 31
+  },
+  "03274031c": {
+    "text": {
+      "ascii": "nezur brahmAstranirdagdhA na ca bhasmApy adRzyata\n",
+      "ud": "नेशुर्ब्रह्मास्त्रनिर्दग्धा न च भस्माप्यदृश्यत\n",
+      "ur": "neśur brahmāstranirdagdhā na ca bhasmāpy adr̥śyata\n"
+    },
+    "book": 3,
+    "chapter": 274,
+    "verse": 31
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "03211001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 1
+  },
+  "03211001a": {
+    "text": {
+      "ascii": "gurubhir niyamair yukto bharato nAma pAvakaH\n",
+      "ud": "गुरुभिर्नियमैर्युक्तो भरतो नाम पावकः\n",
+      "ur": "gurubhir niyamair yukto bharato nāma pāvakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 1
+  },
+  "03211001c": {
+    "text": {
+      "ascii": "agniH puSTimatir nAma tuSTaH puSTiM prayacchati\n",
+      "ud": "अग्निः पुष्टिमतिर्नाम तुष्टः पुष्टिं प्रयच्छति\n",
+      "ur": "agniḥ puṣṭimatir nāma tuṣṭaḥ puṣṭiṁ prayacchati\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 1
+  },
+  "03211001e": {
+    "text": {
+      "ascii": "bharaty eSa prajAH sarvAs tato bharata ucyate\n",
+      "ud": "भरत्येष प्रजाः सर्वास्ततो भरत उच्यते\n",
+      "ur": "bharaty eṣa prajāḥ sarvās tato bharata ucyate\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 1
+  },
+  "03211002a": {
+    "text": {
+      "ascii": "agnir yas tu zivo nAma zaktipUjAparaz ca saH\n",
+      "ud": "अग्निर्यस्तु शिवो नाम शक्तिपूजापरश्च सः\n",
+      "ur": "agnir yas tu śivo nāma śaktipūjāparaś ca saḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 2
+  },
+  "03211002c": {
+    "text": {
+      "ascii": "duHkhArtAnAM sa sarveSAM zivakRt satataM zivaH\n",
+      "ud": "दुःखार्तानां स सर्वेषां शिवकृत्सततं शिवः\n",
+      "ur": "duḥkhārtānāṁ sa sarveṣāṁ śivakr̥t satataṁ śivaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 2
+  },
+  "03211003a": {
+    "text": {
+      "ascii": "tapasas tu phalaM dRSTvA saMpravRddhaM tapo mahat\n",
+      "ud": "तपसस्तु फलं दृष्ट्वा संप्रवृद्धं तपो महत्\n",
+      "ur": "tapasas tu phalaṁ dr̥ṣṭvā saṁpravr̥ddhaṁ tapo mahat\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 3
+  },
+  "03211003c": {
+    "text": {
+      "ascii": "uddhartukAmo matimAn putro jajJe puraMdaraH\n",
+      "ud": "उद्धर्तुकामो मतिमान्पुत्रो जज्ञे पुरंदरः\n",
+      "ur": "uddhartukāmo matimān putro jajñe puraṁdaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 3
+  },
+  "03211004a": {
+    "text": {
+      "ascii": "USmA caivoSmaNo jajJe so 'gnir bhUteSu lakSyate\n",
+      "ud": "ऊष्मा चैवोष्मणो जज्ञे सोऽग्निर्भूतेषु लक्ष्यते\n",
+      "ur": "ūṣmā caivoṣmaṇo jajñe so ’gnir bhūteṣu lakṣyate\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 4
+  },
+  "03211004c": {
+    "text": {
+      "ascii": "agniz cApi manur nAma prAjApatyam akArayat\n",
+      "ud": "अग्निश्चापि मनुर्नाम प्राजापत्यमकारयत्\n",
+      "ur": "agniś cāpi manur nāma prājāpatyam akārayat\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 4
+  },
+  "03211005a": {
+    "text": {
+      "ascii": "zaMbhum agnim atha prAhur brAhmaNA vedapAragAH\n",
+      "ud": "शंभुमग्निमथ प्राहुर्ब्राह्मणा वेदपारगाः\n",
+      "ur": "śaṁbhum agnim atha prāhur brāhmaṇā vedapāragāḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 5
+  },
+  "03211005c": {
+    "text": {
+      "ascii": "AvasathyaM dvijAH prAhur dIptam agniM mahAprabham\n",
+      "ud": "आवसथ्यं द्विजाः प्राहुर्दीप्तमग्निं महाप्रभम्\n",
+      "ur": "āvasathyaṁ dvijāḥ prāhur dīptam agniṁ mahāprabham\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 5
+  },
+  "03211006a": {
+    "text": {
+      "ascii": "UrjaskarAn havyavAhAn suvarNasadRzaprabhAn\n",
+      "ud": "ऊर्जस्करान्हव्यवाहान्सुवर्णसदृशप्रभान्\n",
+      "ur": "ūrjaskarān havyavāhān suvarṇasadr̥śaprabhān\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 6
+  },
+  "03211006c": {
+    "text": {
+      "ascii": "agnis tapo hy ajanayat paJca yajJasutAn iha\n",
+      "ud": "अग्निस्तपो ह्यजनयत्पञ्च यज्ञसुतानिह\n",
+      "ur": "agnis tapo hy ajanayat pañca yajñasutān iha\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 6
+  },
+  "03211007a": {
+    "text": {
+      "ascii": "prazAnte 'gnir mahAbhAga parizrAnto gavAMpatiH\n",
+      "ud": "प्रशान्तेऽग्निर्महाभाग परिश्रान्तो गवांपतिः\n",
+      "ur": "praśānte ’gnir mahābhāga pariśrānto gavāṁpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 7
+  },
+  "03211007c": {
+    "text": {
+      "ascii": "asurAJ janayan ghorAn martyAMz caiva pRthagvidhAn\n",
+      "ud": "असुराञ्जनयन्घोरान्मर्त्यांश्चैव पृथग्विधान्\n",
+      "ur": "asurāñ janayan ghorān martyāṁś caiva pr̥thagvidhān\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 7
+  },
+  "03211008a": {
+    "text": {
+      "ascii": "tapasaz ca manuM putraM bhAnuM cApy aGgirAsRjat\n",
+      "ud": "तपसश्च मनुं पुत्रं भानुं चाप्यङ्गिरासृजत्\n",
+      "ur": "tapasaś ca manuṁ putraṁ bhānuṁ cāpy aṅgirāsr̥jat\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 8
+  },
+  "03211008c": {
+    "text": {
+      "ascii": "bRhadbhAnuM tu taM prAhur brAhmaNA vedapAragAH\n",
+      "ud": "बृहद्भानुं तु तं प्राहुर्ब्राह्मणा वेदपारगाः\n",
+      "ur": "br̥hadbhānuṁ tu taṁ prāhur brāhmaṇā vedapāragāḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 8
+  },
+  "03211009a": {
+    "text": {
+      "ascii": "bhAnor bhAryA suprajA tu bRhadbhAsA tu somajA\n",
+      "ud": "भानोर्भार्या सुप्रजा तु बृहद्भासा तु सोमजा\n",
+      "ur": "bhānor bhāryā suprajā tu br̥hadbhāsā tu somajā\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 9
+  },
+  "03211009c": {
+    "text": {
+      "ascii": "asRjetAM tu SaT putrAJ zRNu tAsAM prajAvidhim\n",
+      "ud": "असृजेतां तु षट्पुत्राञ्शृणु तासां प्रजाविधिम्\n",
+      "ur": "asr̥jetāṁ tu ṣaṭ putrāñ śr̥ṇu tāsāṁ prajāvidhim\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 9
+  },
+  "03211010a": {
+    "text": {
+      "ascii": "durbalAnAM tu bhUtAnAM tanuM yaH saMprayacchati\n",
+      "ud": "दुर्बलानां तु भूतानां तनुं यः संप्रयच्छति\n",
+      "ur": "durbalānāṁ tu bhūtānāṁ tanuṁ yaḥ saṁprayacchati\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 10
+  },
+  "03211010c": {
+    "text": {
+      "ascii": "tam agniM baladaM prAhuH prathamaM bhAnutaH sutam\n",
+      "ud": "तमग्निं बलदं प्राहुः प्रथमं भानुतः सुतम्\n",
+      "ur": "tam agniṁ baladaṁ prāhuḥ prathamaṁ bhānutaḥ sutam\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 10
+  },
+  "03211011a": {
+    "text": {
+      "ascii": "yaH prazAnteSu bhUteSu manyur bhavati dAruNaH\n",
+      "ud": "यः प्रशान्तेषु भूतेषु मन्युर्भवति दारुणः\n",
+      "ur": "yaḥ praśānteṣu bhūteṣu manyur bhavati dāruṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 11
+  },
+  "03211011c": {
+    "text": {
+      "ascii": "agniH sa manyumAn nAma dvitIyo bhAnutaH sutaH\n",
+      "ud": "अग्निः स मन्युमान्नाम द्वितीयो भानुतः सुतः\n",
+      "ur": "agniḥ sa manyumān nāma dvitīyo bhānutaḥ sutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 11
+  },
+  "03211012a": {
+    "text": {
+      "ascii": "darze ca paurNamAse ca yasyeha havir ucyate\n",
+      "ud": "दर्शे च पौर्णमासे च यस्येह हविरुच्यते\n",
+      "ur": "darśe ca paurṇamāse ca yasyeha havir ucyate\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 12
+  },
+  "03211012c": {
+    "text": {
+      "ascii": "viSNur nAmeha yo 'gnis tu dhRtimAn nAma so 'GgirAH\n",
+      "ud": "विष्णुर्नामेह योऽग्निस्तु धृतिमान्नाम सोऽङ्गिराः\n",
+      "ur": "viṣṇur nāmeha yo ’gnis tu dhr̥timān nāma so ’ṅgirāḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 12
+  },
+  "03211013a": {
+    "text": {
+      "ascii": "indreNa sahitaM yasya havir AgrayaNaM smRtam\n",
+      "ud": "इन्द्रेण सहितं यस्य हविराग्रयणं स्मृतम्\n",
+      "ur": "indreṇa sahitaṁ yasya havir āgrayaṇaṁ smr̥tam\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 13
+  },
+  "03211013c": {
+    "text": {
+      "ascii": "agnir AgrayaNo nAma bhAnor evAnvayas tu saH\n",
+      "ud": "अग्निराग्रयणो नाम भानोरेवान्वयस्तु सः\n",
+      "ur": "agnir āgrayaṇo nāma bhānor evānvayas tu saḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 13
+  },
+  "03211014a": {
+    "text": {
+      "ascii": "cAturmAsyeSu nityAnAM haviSAM yo niragrahaH\n",
+      "ud": "चातुर्मास्येषु नित्यानां हविषां यो निरग्रहः\n",
+      "ur": "cāturmāsyeṣu nityānāṁ haviṣāṁ yo niragrahaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 14
+  },
+  "03211014c": {
+    "text": {
+      "ascii": "caturbhiH sahitaH putrair bhAnor evAnvayas tu saH\n",
+      "ud": "चतुर्भिः सहितः पुत्रैर्भानोरेवान्वयस्तु सः\n",
+      "ur": "caturbhiḥ sahitaḥ putrair bhānor evānvayas tu saḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 14
+  },
+  "03211015a": {
+    "text": {
+      "ascii": "nizAM tv ajanayat kanyAm agnISomAv ubhau tathA\n",
+      "ud": "निशां त्वजनयत्कन्यामग्नीषोमावुभौ तथा\n",
+      "ur": "niśāṁ tv ajanayat kanyām agnīṣomāv ubhau tathā\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 15
+  },
+  "03211015c": {
+    "text": {
+      "ascii": "manor evAbhavad bhAryA suSuve paJca pAvakAn\n",
+      "ud": "मनोरेवाभवद्भार्या सुषुवे पञ्च पावकान्\n",
+      "ur": "manor evābhavad bhāryā suṣuve pañca pāvakān\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 15
+  },
+  "03211016a": {
+    "text": {
+      "ascii": "pUjyate haviSAgryeNa cAturmAsyeSu pAvakaH\n",
+      "ud": "पूज्यते हविषाग्र्येण चातुर्मास्येषु पावकः\n",
+      "ur": "pūjyate haviṣāgryeṇa cāturmāsyeṣu pāvakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 16
+  },
+  "03211016c": {
+    "text": {
+      "ascii": "parjanyasahitaH zrImAn agnir vaizvAnaras tu saH\n",
+      "ud": "पर्जन्यसहितः श्रीमानग्निर्वैश्वानरस्तु सः\n",
+      "ur": "parjanyasahitaḥ śrīmān agnir vaiśvānaras tu saḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 16
+  },
+  "03211017a": {
+    "text": {
+      "ascii": "asya lokasya sarvasya yaH patiH paripaThyate\n",
+      "ud": "अस्य लोकस्य सर्वस्य यः पतिः परिपठ्यते\n",
+      "ur": "asya lokasya sarvasya yaḥ patiḥ paripaṭhyate\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 17
+  },
+  "03211017c": {
+    "text": {
+      "ascii": "so 'gnir vizvapatir nAma dvitIyo vai manoH sutaH\n",
+      "ud": "सोऽग्निर्विश्वपतिर्नाम द्वितीयो वै मनोः सुतः\n",
+      "ur": "so ’gnir viśvapatir nāma dvitīyo vai manoḥ sutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 17
+  },
+  "03211017e": {
+    "text": {
+      "ascii": "tataH sviSTaM bhaved AjyaM sviSTakRt paramaH smRtaH\n",
+      "ud": "ततः स्विष्टं भवेदाज्यं स्विष्टकृत्परमः स्मृतः\n",
+      "ur": "tataḥ sviṣṭaṁ bhaved ājyaṁ sviṣṭakr̥t paramaḥ smr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 17
+  },
+  "03211018a": {
+    "text": {
+      "ascii": "kanyA sA rohiNI nAma hiraNyakazipoH sutA\n",
+      "ud": "कन्या सा रोहिणी नाम हिरण्यकशिपोः सुता\n",
+      "ur": "kanyā sā rohiṇī nāma hiraṇyakaśipoḥ sutā\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 18
+  },
+  "03211018c": {
+    "text": {
+      "ascii": "karmaNAsau babhau bhAryA sa vahniH sa prajApatiH\n",
+      "ud": "कर्मणासौ बभौ भार्या स वह्निः स प्रजापतिः\n",
+      "ur": "karmaṇāsau babhau bhāryā sa vahniḥ sa prajāpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 18
+  },
+  "03211019a": {
+    "text": {
+      "ascii": "prANam Azritya yo dehaM pravartayati dehinAm\n",
+      "ud": "प्राणमाश्रित्य यो देहं प्रवर्तयति देहिनाम्\n",
+      "ur": "prāṇam āśritya yo dehaṁ pravartayati dehinām\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 19
+  },
+  "03211019c": {
+    "text": {
+      "ascii": "tasya saMnihito nAma zabdarUpasya sAdhanaH\n",
+      "ud": "तस्य संनिहितो नाम शब्दरूपस्य साधनः\n",
+      "ur": "tasya saṁnihito nāma śabdarūpasya sādhanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 19
+  },
+  "03211020a": {
+    "text": {
+      "ascii": "zuklakRSNagatir devo yo bibharti hutAzanam\n",
+      "ud": "शुक्लकृष्णगतिर्देवो यो बिभर्ति हुताशनम्\n",
+      "ur": "śuklakr̥ṣṇagatir devo yo bibharti hutāśanam\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 20
+  },
+  "03211020c": {
+    "text": {
+      "ascii": "akalmaSaH kalmaSANAM kartA krodhAzritas tu saH\n",
+      "ud": "अकल्मषः कल्मषाणां कर्ता क्रोधाश्रितस्तु सः\n",
+      "ur": "akalmaṣaḥ kalmaṣāṇāṁ kartā krodhāśritas tu saḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 20
+  },
+  "03211021a": {
+    "text": {
+      "ascii": "kapilaM paramarSiM ca yaM prAhur yatayaH sadA\n",
+      "ud": "कपिलं परमर्षिं च यं प्राहुर्यतयः सदा\n",
+      "ur": "kapilaṁ paramarṣiṁ ca yaṁ prāhur yatayaḥ sadā\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 21
+  },
+  "03211021c": {
+    "text": {
+      "ascii": "agniH sa kapilo nAma sAMkhyayogapravartakaH\n",
+      "ud": "अग्निः स कपिलो नाम सांख्ययोगप्रवर्तकः\n",
+      "ur": "agniḥ sa kapilo nāma sāṁkhyayogapravartakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 21
+  },
+  "03211022a": {
+    "text": {
+      "ascii": "agnir yacchati bhUtAni yena bhUtAni nityadA\n",
+      "ud": "अग्निर्यच्छति भूतानि येन भूतानि नित्यदा\n",
+      "ur": "agnir yacchati bhūtāni yena bhūtāni nityadā\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 22
+  },
+  "03211022c": {
+    "text": {
+      "ascii": "karmasv iha vicitreSu so 'graNIr vahnir ucyate\n",
+      "ud": "कर्मस्विह विचित्रेषु सोऽग्रणीर्वह्निरुच्यते\n",
+      "ur": "karmasv iha vicitreṣu so ’graṇīr vahnir ucyate\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 22
+  },
+  "03211023a": {
+    "text": {
+      "ascii": "imAn anyAn samasRjat pAvakAn prathitAn bhuvi\n",
+      "ud": "इमानन्यान्समसृजत्पावकान्प्रथितान्भुवि\n",
+      "ur": "imān anyān samasr̥jat pāvakān prathitān bhuvi\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 23
+  },
+  "03211023c": {
+    "text": {
+      "ascii": "agnihotrasya duSTasya prAyazcittArtham ulbaNAn\n",
+      "ud": "अग्निहोत्रस्य दुष्टस्य प्रायश्चित्तार्थमुल्बणान्\n",
+      "ur": "agnihotrasya duṣṭasya prāyaścittārtham ulbaṇān\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 23
+  },
+  "03211024a": {
+    "text": {
+      "ascii": "saMspRzeyur yadAnyonyaM kathaM cid vAyunAgnayaH\n",
+      "ud": "संस्पृशेयुर्यदान्योन्यं कथंचिद्वायुनाग्नयः\n",
+      "ur": "saṁspr̥śeyur yadānyonyaṁ kathaṁ cid vāyunāgnayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 24
+  },
+  "03211024c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kAryA vai zucaye 'gnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कार्या वै शुचयेऽग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kāryā vai śucaye ’gnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 24
+  },
+  "03211025a": {
+    "text": {
+      "ascii": "dakSiNAgnir yadA dvAbhyAM saMsRjeta tadA kila\n",
+      "ud": "दक्षिणाग्निर्यदा द्वाभ्यां संसृजेत तदा किल\n",
+      "ur": "dakṣiṇāgnir yadā dvābhyāṁ saṁsr̥jeta tadā kila\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 25
+  },
+  "03211025c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kAryA vai vItaye 'gnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कार्या वै वीतयेऽग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kāryā vai vītaye ’gnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 25
+  },
+  "03211026a": {
+    "text": {
+      "ascii": "yady agnayo hi spRzyeyur nivezasthA davAgninA\n",
+      "ud": "यद्यग्नयो हि स्पृश्येयुर्निवेशस्था दवाग्निना\n",
+      "ur": "yady agnayo hi spr̥śyeyur niveśasthā davāgninā\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 26
+  },
+  "03211026c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kAryA tu zucaye 'gnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कार्या तु शुचयेऽग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kāryā tu śucaye ’gnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 26
+  },
+  "03211027a": {
+    "text": {
+      "ascii": "agniM rajasvalA cet strI saMspRzed agnihotrikam\n",
+      "ud": "अग्निं रजस्वला चेत्स्त्री संस्पृशेदग्निहोत्रिकम्\n",
+      "ur": "agniṁ rajasvalā cet strī saṁspr̥śed agnihotrikam\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 27
+  },
+  "03211027c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kAryA dasyumate 'gnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कार्या दस्युमतेऽग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kāryā dasyumate ’gnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 27
+  },
+  "03211028a": {
+    "text": {
+      "ascii": "mRtaH zrUyeta yo jIvan pareyuH pazavo yathA\n",
+      "ud": "मृतः श्रूयेत यो जीवन्परेयुः पशवो यथा\n",
+      "ur": "mr̥taḥ śrūyeta yo jīvan pareyuḥ paśavo yathā\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 28
+  },
+  "03211028c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kartavyAbhimate 'gnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कर्तव्याभिमतेऽग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kartavyābhimate ’gnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 28
+  },
+  "03211029a": {
+    "text": {
+      "ascii": "Arto na juhuyAd agniM trirAtraM yas tu brAhmaNaH\n",
+      "ud": "आर्तो न जुहुयादग्निं त्रिरात्रं यस्तु ब्राह्मणः\n",
+      "ur": "ārto na juhuyād agniṁ trirātraṁ yas tu brāhmaṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 29
+  },
+  "03211029c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kAryA syAd uttarAgnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कार्या स्यादुत्तराग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kāryā syād uttarāgnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 29
+  },
+  "03211030a": {
+    "text": {
+      "ascii": "darzaM ca paurNamAsaM ca yasya tiSThet pratiSThitam\n",
+      "ud": "दर्शं च पौर्णमासं च यस्य तिष्ठेत्प्रतिष्ठितम्\n",
+      "ur": "darśaṁ ca paurṇamāsaṁ ca yasya tiṣṭhet pratiṣṭhitam\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 30
+  },
+  "03211030c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kAryA pathikRte 'gnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कार्या पथिकृतेऽग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kāryā pathikr̥te ’gnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 30
+  },
+  "03211031a": {
+    "text": {
+      "ascii": "sUtikAgnir yadA cAgniM saMspRzed agnihotrikam\n",
+      "ud": "सूतिकाग्निर्यदा चाग्निं संस्पृशेदग्निहोत्रिकम्\n",
+      "ur": "sūtikāgnir yadā cāgniṁ saṁspr̥śed agnihotrikam\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 31
+  },
+  "03211031c": {
+    "text": {
+      "ascii": "iSTir aSTAkapAlena kAryA cAgnimate 'gnaye\n",
+      "ud": "इष्टिरष्टाकपालेन कार्या चाग्निमतेऽग्नये\n",
+      "ur": "iṣṭir aṣṭākapālena kāryā cāgnimate ’gnaye\n"
+    },
+    "book": 3,
+    "chapter": 211,
+    "verse": 31
+  }
+}

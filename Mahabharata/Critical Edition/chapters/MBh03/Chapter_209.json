@@ -1,0 +1,522 @@
+{
+  "03209001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 1
+  },
+  "03209001a": {
+    "text": {
+      "ascii": "bRhaspatez cAndramasI bhAryAbhUd yA yazasvinI\n",
+      "ud": "बृहस्पतेश्चान्द्रमसी भार्याभूद्या यशस्विनी\n",
+      "ur": "br̥haspateś cāndramasī bhāryābhūd yā yaśasvinī\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 1
+  },
+  "03209001c": {
+    "text": {
+      "ascii": "agnIn sAjanayat puNyAn SaDekAM cApi putrikAm\n",
+      "ud": "अग्नीन्साजनयत्पुण्यान्षडेकां चापि पुत्रिकाम्\n",
+      "ur": "agnīn sājanayat puṇyān ṣaḍekāṁ cāpi putrikām\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 1
+  },
+  "03209002a": {
+    "text": {
+      "ascii": "AhutiSv eva yasyAgner haviSAjyaM vidhIyate\n",
+      "ud": "आहुतिष्वेव यस्याग्नेर्हविषाज्यं विधीयते\n",
+      "ur": "āhutiṣv eva yasyāgner haviṣājyaṁ vidhīyate\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 2
+  },
+  "03209002c": {
+    "text": {
+      "ascii": "so 'gnir bRhaspateH putraH zaMyur nAma mahAprabhaH\n",
+      "ud": "सोऽग्निर्बृहस्पतेः पुत्रः शंयुर्नाम महाप्रभः\n",
+      "ur": "so ’gnir br̥haspateḥ putraḥ śaṁyur nāma mahāprabhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 2
+  },
+  "03209003a": {
+    "text": {
+      "ascii": "cAturmAsyeSu yasyeSTyAm azvamedhe 'grajaH pazuH\n",
+      "ud": "चातुर्मास्येषु यस्येष्ट्यामश्वमेधेऽग्रजः पशुः\n",
+      "ur": "cāturmāsyeṣu yasyeṣṭyām aśvamedhe ’grajaḥ paśuḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 3
+  },
+  "03209003c": {
+    "text": {
+      "ascii": "dIpto jvAlair anekAbhair agnir eko 'tha vIryavAn\n",
+      "ud": "दीप्तो ज्वालैरनेकाभैरग्निरेकोऽथ वीर्यवान्\n",
+      "ur": "dīpto jvālair anekābhair agnir eko ’tha vīryavān\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 3
+  },
+  "03209004a": {
+    "text": {
+      "ascii": "zaMyor apratimA bhAryA satyA satyA ca dharmajA\n",
+      "ud": "शंयोरप्रतिमा भार्या सत्या सत्या च धर्मजा\n",
+      "ur": "śaṁyor apratimā bhāryā satyā satyā ca dharmajā\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 4
+  },
+  "03209004c": {
+    "text": {
+      "ascii": "agnis tasya suto dIptas tisraH kanyAz ca suvratAH\n",
+      "ud": "अग्निस्तस्य सुतो दीप्तस्तिस्रः कन्याश्च सुव्रताः\n",
+      "ur": "agnis tasya suto dīptas tisraḥ kanyāś ca suvratāḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 4
+  },
+  "03209005a": {
+    "text": {
+      "ascii": "prathamenAjyabhAgena pUjyate yo 'gnir adhvare\n",
+      "ud": "प्रथमेनाज्यभागेन पूज्यते योऽग्निरध्वरे\n",
+      "ur": "prathamenājyabhāgena pūjyate yo ’gnir adhvare\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 5
+  },
+  "03209005c": {
+    "text": {
+      "ascii": "agnis tasya bharadvAjaH prathamaH putra ucyate\n",
+      "ud": "अग्निस्तस्य भरद्वाजः प्रथमः पुत्र उच्यते\n",
+      "ur": "agnis tasya bharadvājaḥ prathamaḥ putra ucyate\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 5
+  },
+  "03209006a": {
+    "text": {
+      "ascii": "paurNamAsyeSu sarveSu haviSAjyaM sruvodyatam\n",
+      "ud": "पौर्णमास्येषु सर्वेषु हविषाज्यं स्रुवोद्यतम्\n",
+      "ur": "paurṇamāsyeṣu sarveṣu haviṣājyaṁ sruvodyatam\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 6
+  },
+  "03209006c": {
+    "text": {
+      "ascii": "bharato nAmataH so 'gnir dvitIyaH zaMyutaH sutaH\n",
+      "ud": "भरतो नामतः सोऽग्निर्द्वितीयः शंयुतः सुतः\n",
+      "ur": "bharato nāmataḥ so ’gnir dvitīyaḥ śaṁyutaḥ sutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 6
+  },
+  "03209007a": {
+    "text": {
+      "ascii": "tisraH kanyA bhavanty anyA yAsAM sa bharataH patiH\n",
+      "ud": "तिस्रः कन्या भवन्त्यन्या यासां स भरतः पतिः\n",
+      "ur": "tisraḥ kanyā bhavanty anyā yāsāṁ sa bharataḥ patiḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 7
+  },
+  "03209007c": {
+    "text": {
+      "ascii": "bharatas tu sutas tasya bharaty ekA ca putrikA\n",
+      "ud": "भरतस्तु सुतस्तस्य भरत्येका च पुत्रिका\n",
+      "ur": "bharatas tu sutas tasya bharaty ekā ca putrikā\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 7
+  },
+  "03209008a": {
+    "text": {
+      "ascii": "bharato bharatasyAgneH pAvakas tu prajApateH\n",
+      "ud": "भरतो भरतस्याग्नेः पावकस्तु प्रजापतेः\n",
+      "ur": "bharato bharatasyāgneḥ pāvakas tu prajāpateḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 8
+  },
+  "03209008c": {
+    "text": {
+      "ascii": "mahAn atyartham ahitas tathA bharatasattama\n",
+      "ud": "महानत्यर्थमहितस्तथा भरतसत्तम\n",
+      "ur": "mahān atyartham ahitas tathā bharatasattama\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 8
+  },
+  "03209009a": {
+    "text": {
+      "ascii": "bharadvAjasya bhAryA tu vIrA vIraz ca piNDadaH\n",
+      "ud": "भरद्वाजस्य भार्या तु वीरा वीरश्च पिण्डदः\n",
+      "ur": "bharadvājasya bhāryā tu vīrā vīraś ca piṇḍadaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 9
+  },
+  "03209009c": {
+    "text": {
+      "ascii": "prAhur Ajyena tasyejyAM somasyeva dvijAH zanaiH\n",
+      "ud": "प्राहुराज्येन तस्येज्यां सोमस्येव द्विजाः शनैः\n",
+      "ur": "prāhur ājyena tasyejyāṁ somasyeva dvijāḥ śanaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 9
+  },
+  "03209010a": {
+    "text": {
+      "ascii": "haviSA yo dvitIyena somena saha yujyate\n",
+      "ud": "हविषा यो द्वितीयेन सोमेन सह युज्यते\n",
+      "ur": "haviṣā yo dvitīyena somena saha yujyate\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 10
+  },
+  "03209010c": {
+    "text": {
+      "ascii": "rathaprabhU rathadhvAnaH kumbharetAH sa ucyate\n",
+      "ud": "रथप्रभू रथध्वानः कुम्भरेताः स उच्यते\n",
+      "ur": "rathaprabhū rathadhvānaḥ kumbharetāḥ sa ucyate\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 10
+  },
+  "03209011a": {
+    "text": {
+      "ascii": "sarayvAM janayat siddhiM bhAnuM bhAbhiH samAvRNot\n",
+      "ud": "सरय्वां जनयत्सिद्धिं भानुं भाभिः समावृणोत्\n",
+      "ur": "sarayvāṁ janayat siddhiṁ bhānuṁ bhābhiḥ samāvr̥ṇot\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 11
+  },
+  "03209011c": {
+    "text": {
+      "ascii": "Agneyam Anayan nityam AhvAneSv eSa kathyate\n",
+      "ud": "आग्नेयमानयन्नित्यमाह्वानेष्वेष कथ्यते\n",
+      "ur": "āgneyam ānayan nityam āhvāneṣv eṣa kathyate\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 11
+  },
+  "03209012a": {
+    "text": {
+      "ascii": "yas tu na cyavate nityaM yazasA varcasA zriyA\n",
+      "ud": "यस्तु न च्यवते नित्यं यशसा वर्चसा श्रिया\n",
+      "ur": "yas tu na cyavate nityaṁ yaśasā varcasā śriyā\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 12
+  },
+  "03209012c": {
+    "text": {
+      "ascii": "agnir nizcyavano nAma pRthivIM stauti kevalam\n",
+      "ud": "अग्निर्निश्च्यवनो नाम पृथिवीं स्तौति केवलम्\n",
+      "ur": "agnir niścyavano nāma pr̥thivīṁ stauti kevalam\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 12
+  },
+  "03209013a": {
+    "text": {
+      "ascii": "vipApmA kaluSair mukto vizuddhaz cArciSA jvalan\n",
+      "ud": "विपाप्मा कलुषैर्मुक्तो विशुद्धश्चार्चिषा ज्वलन्\n",
+      "ur": "vipāpmā kaluṣair mukto viśuddhaś cārciṣā jvalan\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 13
+  },
+  "03209013c": {
+    "text": {
+      "ascii": "vipApo 'gniH sutas tasya satyaH samayakarmasu\n",
+      "ud": "विपापोऽग्निः सुतस्तस्य सत्यः समयकर्मसु\n",
+      "ur": "vipāpo ’gniḥ sutas tasya satyaḥ samayakarmasu\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 13
+  },
+  "03209014a": {
+    "text": {
+      "ascii": "AkrozatAM hi bhUtAnAM yaH karoti hi niSkRtim\n",
+      "ud": "आक्रोशतां हि भूतानां यः करोति हि निष्कृतिम्\n",
+      "ur": "ākrośatāṁ hi bhūtānāṁ yaḥ karoti hi niṣkr̥tim\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 14
+  },
+  "03209014c": {
+    "text": {
+      "ascii": "agniH sa niSkRtir nAma zobhayaty abhisevitaH\n",
+      "ud": "अग्निः स निष्कृतिर्नाम शोभयत्यभिसेवितः\n",
+      "ur": "agniḥ sa niṣkr̥tir nāma śobhayaty abhisevitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 14
+  },
+  "03209015a": {
+    "text": {
+      "ascii": "anukUjanti yeneha vedanArtAH svayaM janAH\n",
+      "ud": "अनुकूजन्ति येनेह वेदनार्ताः स्वयं जनाः\n",
+      "ur": "anukūjanti yeneha vedanārtāḥ svayaṁ janāḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 15
+  },
+  "03209015c": {
+    "text": {
+      "ascii": "tasya putraH svano nAma pAvakaH sa rujaskaraH\n",
+      "ud": "तस्य पुत्रः स्वनो नाम पावकः स रुजस्करः\n",
+      "ur": "tasya putraḥ svano nāma pāvakaḥ sa rujaskaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 15
+  },
+  "03209016a": {
+    "text": {
+      "ascii": "yas tu vizvasya jagato buddhim Akramya tiSThati\n",
+      "ud": "यस्तु विश्वस्य जगतो बुद्धिमाक्रम्य तिष्ठति\n",
+      "ur": "yas tu viśvasya jagato buddhim ākramya tiṣṭhati\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 16
+  },
+  "03209016c": {
+    "text": {
+      "ascii": "taM prAhur adhyAtmavido vizvajin nAma pAvakam\n",
+      "ud": "तं प्राहुरध्यात्मविदो विश्वजिन्नाम पावकम्\n",
+      "ur": "taṁ prāhur adhyātmavido viśvajin nāma pāvakam\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 16
+  },
+  "03209017a": {
+    "text": {
+      "ascii": "antarAgniH zrito yo hi bhuktaM pacati dehinAm\n",
+      "ud": "अन्तराग्निः श्रितो यो हि भुक्तं पचति देहिनाम्\n",
+      "ur": "antarāgniḥ śrito yo hi bhuktaṁ pacati dehinām\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 17
+  },
+  "03209017c": {
+    "text": {
+      "ascii": "sa yajJe vizvabhuG nAma sarvalokeSu bhArata\n",
+      "ud": "स यज्ञे विश्वभुङ्नाम सर्वलोकेषु भारत\n",
+      "ur": "sa yajñe viśvabhuṅ nāma sarvalokeṣu bhārata\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 17
+  },
+  "03209018a": {
+    "text": {
+      "ascii": "brahmacArI yatAtmA ca satataM vipulavrataH\n",
+      "ud": "ब्रह्मचारी यतात्मा च सततं विपुलव्रतः\n",
+      "ur": "brahmacārī yatātmā ca satataṁ vipulavrataḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 18
+  },
+  "03209018c": {
+    "text": {
+      "ascii": "brAhmaNAH pUjayanty enaM pAkayajJeSu pAvakam\n",
+      "ud": "ब्राह्मणाः पूजयन्त्येनं पाकयज्ञेषु पावकम्\n",
+      "ur": "brāhmaṇāḥ pūjayanty enaṁ pākayajñeṣu pāvakam\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 18
+  },
+  "03209019a": {
+    "text": {
+      "ascii": "prathito gopatir nAma nadI yasyAbhavat priyA\n",
+      "ud": "प्रथितो गोपतिर्नाम नदी यस्याभवत्प्रिया\n",
+      "ur": "prathito gopatir nāma nadī yasyābhavat priyā\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 19
+  },
+  "03209019c": {
+    "text": {
+      "ascii": "tasmin sarvANi karmANi kriyante karmakartRbhiH\n",
+      "ud": "तस्मिन्सर्वाणि कर्माणि क्रियन्ते कर्मकर्तृभिः\n",
+      "ur": "tasmin sarvāṇi karmāṇi kriyante karmakartr̥bhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 19
+  },
+  "03209020a": {
+    "text": {
+      "ascii": "vaDavAmukhaH pibaty ambho yo 'sau paramadAruNaH\n",
+      "ud": "वडवामुखः पिबत्यम्भो योऽसौ परमदारुणः\n",
+      "ur": "vaḍavāmukhaḥ pibaty ambho yo ’sau paramadāruṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 20
+  },
+  "03209020c": {
+    "text": {
+      "ascii": "UrdhvabhAg UrdhvabhAG nAma kaviH prANAzritas tu saH\n",
+      "ud": "ऊर्ध्वभागूर्ध्वभाङ्नाम कविः प्राणाश्रितस्तु सः\n",
+      "ur": "ūrdhvabhāg ūrdhvabhāṅ nāma kaviḥ prāṇāśritas tu saḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 20
+  },
+  "03209021a": {
+    "text": {
+      "ascii": "udagdvAraM havir yasya gRhe nityaM pradIyate\n",
+      "ud": "उदग्द्वारं हविर्यस्य गृहे नित्यं प्रदीयते\n",
+      "ur": "udagdvāraṁ havir yasya gr̥he nityaṁ pradīyate\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 21
+  },
+  "03209021c": {
+    "text": {
+      "ascii": "tataH sviSTaM bhaved AjyaM sviSTakRt paramaH smRtaH\n",
+      "ud": "ततः स्विष्टं भवेदाज्यं स्विष्टकृत्परमः स्मृतः\n",
+      "ur": "tataḥ sviṣṭaṁ bhaved ājyaṁ sviṣṭakr̥t paramaḥ smr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 21
+  },
+  "03209022a": {
+    "text": {
+      "ascii": "yaH prazAnteSu bhUteSu manyur bhavati pAvakaH\n",
+      "ud": "यः प्रशान्तेषु भूतेषु मन्युर्भवति पावकः\n",
+      "ur": "yaḥ praśānteṣu bhūteṣu manyur bhavati pāvakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 22
+  },
+  "03209022c": {
+    "text": {
+      "ascii": "krodhasya tu raso jajJe manyatI cAtha putrikA\n",
+      "ud": "क्रोधस्य तु रसो जज्ञे मन्यती चाथ पुत्रिका\n",
+      "ur": "krodhasya tu raso jajñe manyatī cātha putrikā\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 22
+  },
+  "03209022e": {
+    "text": {
+      "ascii": "svAheti dAruNA krUrA sarvabhUteSu tiSThati\n",
+      "ud": "स्वाहेति दारुणा क्रूरा सर्वभूतेषु तिष्ठति\n",
+      "ur": "svāheti dāruṇā krūrā sarvabhūteṣu tiṣṭhati\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 22
+  },
+  "03209023a": {
+    "text": {
+      "ascii": "tridive yasya sadRzo nAsti rUpeNa kaz cana\n",
+      "ud": "त्रिदिवे यस्य सदृशो नास्ति रूपेण कश्चन\n",
+      "ur": "tridive yasya sadr̥śo nāsti rūpeṇa kaś cana\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 23
+  },
+  "03209023c": {
+    "text": {
+      "ascii": "atulyatvAt kRto devair nAmnA kAmas tu pAvakaH\n",
+      "ud": "अतुल्यत्वात्कृतो देवैर्नाम्ना कामस्तु पावकः\n",
+      "ur": "atulyatvāt kr̥to devair nāmnā kāmas tu pāvakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 23
+  },
+  "03209024a": {
+    "text": {
+      "ascii": "saMharSAd dhArayan krodhaM dhanvI sragvI rathe sthitaH\n",
+      "ud": "संहर्षाद्धारयन्क्रोधं धन्वी स्रग्वी रथे स्थितः\n",
+      "ur": "saṁharṣād dhārayan krodhaṁ dhanvī sragvī rathe sthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 24
+  },
+  "03209024c": {
+    "text": {
+      "ascii": "samare nAzayec chatrUn amogho nAma pAvakaH\n",
+      "ud": "समरे नाशयेच्छत्रूनमोघो नाम पावकः\n",
+      "ur": "samare nāśayec chatrūn amogho nāma pāvakaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 24
+  },
+  "03209025a": {
+    "text": {
+      "ascii": "uktho nAma mahAbhAga tribhir ukthair abhiSTutaH\n",
+      "ud": "उक्थो नाम महाभाग त्रिभिरुक्थैरभिष्टुतः\n",
+      "ur": "uktho nāma mahābhāga tribhir ukthair abhiṣṭutaḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 25
+  },
+  "03209025c": {
+    "text": {
+      "ascii": "mahAvAcaM tv ajanayat sakAmAzvaM hi yaM viduH\n",
+      "ud": "महावाचं त्वजनयत्सकामाश्वं हि यं विदुः\n",
+      "ur": "mahāvācaṁ tv ajanayat sakāmāśvaṁ hi yaṁ viduḥ\n"
+    },
+    "book": 3,
+    "chapter": 209,
+    "verse": 25
+  }
+}

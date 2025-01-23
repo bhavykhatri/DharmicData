@@ -1,0 +1,432 @@
+{
+  "03233001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 1
+  },
+  "03233001a": {
+    "text": {
+      "ascii": "yudhiSThiravacaH zrutvA bhImasenapurogamAH\n",
+      "ud": "युधिष्ठिरवचः श्रुत्वा भीमसेनपुरोगमाः\n",
+      "ur": "yudhiṣṭhiravacaḥ śrutvā bhīmasenapurogamāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 1
+  },
+  "03233001c": {
+    "text": {
+      "ascii": "prahRSTavadanAH sarve samuttasthur nararSabhAH\n",
+      "ud": "प्रहृष्टवदनाः सर्वे समुत्तस्थुर्नरर्षभाः\n",
+      "ur": "prahr̥ṣṭavadanāḥ sarve samuttasthur nararṣabhāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 1
+  },
+  "03233002a": {
+    "text": {
+      "ascii": "abhedyAni tataH sarve samanahyanta bhArata\n",
+      "ud": "अभेद्यानि ततः सर्वे समनह्यन्त भारत\n",
+      "ur": "abhedyāni tataḥ sarve samanahyanta bhārata\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 2
+  },
+  "03233002c": {
+    "text": {
+      "ascii": "jAmbUnadavicitrANi kavacAni mahArathAH\n",
+      "ud": "जाम्बूनदविचित्राणि कवचानि महारथाः\n",
+      "ur": "jāmbūnadavicitrāṇi kavacāni mahārathāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 2
+  },
+  "03233003a": {
+    "text": {
+      "ascii": "te daMzitA rathaiH sarve dhvajinaH sazarAsanAH\n",
+      "ud": "ते दंशिता रथैः सर्वे ध्वजिनः सशरासनाः\n",
+      "ur": "te daṁśitā rathaiḥ sarve dhvajinaḥ saśarāsanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 3
+  },
+  "03233003c": {
+    "text": {
+      "ascii": "pANDavAH pratyadRzyanta jvalitA iva pAvakAH\n",
+      "ud": "पाण्डवाः प्रत्यदृश्यन्त ज्वलिता इव पावकाः\n",
+      "ur": "pāṇḍavāḥ pratyadr̥śyanta jvalitā iva pāvakāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 3
+  },
+  "03233004a": {
+    "text": {
+      "ascii": "tAn rathAn sAdhu saMpannAn saMyuktAJ javanair hayaiH\n",
+      "ud": "तान्रथान्साधु संपन्नान्संयुक्ताञ्जवनैर्हयैः\n",
+      "ur": "tān rathān sādhu saṁpannān saṁyuktāñ javanair hayaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 4
+  },
+  "03233004c": {
+    "text": {
+      "ascii": "AsthAya rathazArdUlAH zIghram eva yayus tataH\n",
+      "ud": "आस्थाय रथशार्दूलाः शीघ्रमेव ययुस्ततः\n",
+      "ur": "āsthāya rathaśārdūlāḥ śīghram eva yayus tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 4
+  },
+  "03233005a": {
+    "text": {
+      "ascii": "tataH kauravasainyAnAM prAdurAsIn mahAsvanaH\n",
+      "ud": "ततः कौरवसैन्यानां प्रादुरासीन्महास्वनः\n",
+      "ur": "tataḥ kauravasainyānāṁ prādurāsīn mahāsvanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 5
+  },
+  "03233005c": {
+    "text": {
+      "ascii": "prayAtAn sahitAn dRSTvA pANDuputrAn mahArathAn\n",
+      "ud": "प्रयातान्सहितान्दृष्ट्वा पाण्डुपुत्रान्महारथान्\n",
+      "ur": "prayātān sahitān dr̥ṣṭvā pāṇḍuputrān mahārathān\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 5
+  },
+  "03233006a": {
+    "text": {
+      "ascii": "jitakAzinaz ca khacarAs tvaritAz ca mahArathAH\n",
+      "ud": "जितकाशिनश्च खचरास्त्वरिताश्च महारथाः\n",
+      "ur": "jitakāśinaś ca khacarās tvaritāś ca mahārathāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 6
+  },
+  "03233006c": {
+    "text": {
+      "ascii": "kSaNenaiva vane tasmin samAjagmur abhItavat\n",
+      "ud": "क्षणेनैव वने तस्मिन्समाजग्मुरभीतवत्\n",
+      "ur": "kṣaṇenaiva vane tasmin samājagmur abhītavat\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 6
+  },
+  "03233007a": {
+    "text": {
+      "ascii": "nyavartanta tataH sarve gandharvA jitakAzinaH\n",
+      "ud": "न्यवर्तन्त ततः सर्वे गन्धर्वा जितकाशिनः\n",
+      "ur": "nyavartanta tataḥ sarve gandharvā jitakāśinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 7
+  },
+  "03233007c": {
+    "text": {
+      "ascii": "dRSTvA rathagatAn vIrAn pANDavAMz caturo raNe\n",
+      "ud": "दृष्ट्वा रथगतान्वीरान्पाण्डवांश्चतुरो रणे\n",
+      "ur": "dr̥ṣṭvā rathagatān vīrān pāṇḍavāṁś caturo raṇe\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 7
+  },
+  "03233008a": {
+    "text": {
+      "ascii": "tAMs tu vibhrAjato dRSTvA lokapAlAn ivodyatAn\n",
+      "ud": "तांस्तु विभ्राजतो दृष्ट्वा लोकपालानिवोद्यतान्\n",
+      "ur": "tāṁs tu vibhrājato dr̥ṣṭvā lokapālān ivodyatān\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 8
+  },
+  "03233008c": {
+    "text": {
+      "ascii": "vyUDhAnIkA vyatiSThanta gandhamAdanavAsinaH\n",
+      "ud": "व्यूढानीका व्यतिष्ठन्त गन्धमादनवासिनः\n",
+      "ur": "vyūḍhānīkā vyatiṣṭhanta gandhamādanavāsinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 8
+  },
+  "03233009a": {
+    "text": {
+      "ascii": "rAjJas tu vacanaM zrutvA dharmarAjasya dhImataH\n",
+      "ud": "राज्ञस्तु वचनं श्रुत्वा धर्मराजस्य धीमतः\n",
+      "ur": "rājñas tu vacanaṁ śrutvā dharmarājasya dhīmataḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 9
+  },
+  "03233009c": {
+    "text": {
+      "ascii": "krameNa mRdunA yuddham upakrAmanta bhArata\n",
+      "ud": "क्रमेण मृदुना युद्धमुपक्रामन्त भारत\n",
+      "ur": "krameṇa mr̥dunā yuddham upakrāmanta bhārata\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 9
+  },
+  "03233010a": {
+    "text": {
+      "ascii": "na tu gandharvarAjasya sainikA mandacetasaH\n",
+      "ud": "न तु गन्धर्वराजस्य सैनिका मन्दचेतसः\n",
+      "ur": "na tu gandharvarājasya sainikā mandacetasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 10
+  },
+  "03233010c": {
+    "text": {
+      "ascii": "zakyante mRdunA zreyaH pratipAdayituM tadA\n",
+      "ud": "शक्यन्ते मृदुना श्रेयः प्रतिपादयितुं तदा\n",
+      "ur": "śakyante mr̥dunā śreyaḥ pratipādayituṁ tadā\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 10
+  },
+  "03233011a": {
+    "text": {
+      "ascii": "tatas tAn yudhi durdharSaH savyasAcI paraMtapaH\n",
+      "ud": "ततस्तान्युधि दुर्धर्षः सव्यसाची परंतपः\n",
+      "ur": "tatas tān yudhi durdharṣaḥ savyasācī paraṁtapaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 11
+  },
+  "03233011c": {
+    "text": {
+      "ascii": "sAntvapUrvam idaM vAkyam uvAca khacarAn raNe\n",
+      "ud": "सान्त्वपूर्वमिदं वाक्यमुवाच खचरान्रणे\n",
+      "ur": "sāntvapūrvam idaṁ vākyam uvāca khacarān raṇe\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 11
+  },
+  "03233012a": {
+    "text": {
+      "ascii": "naitad gandharvarAjasya yuktaM karma jugupsitam\n",
+      "ud": "नैतद्गन्धर्वराजस्य युक्तं कर्म जुगुप्सितम्\n",
+      "ur": "naitad gandharvarājasya yuktaṁ karma jugupsitam\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 12
+  },
+  "03233012c": {
+    "text": {
+      "ascii": "paradArAbhimarzaz ca mAnuSaiz ca samAgamaH\n",
+      "ud": "परदाराभिमर्शश्च मानुषैश्च समागमः\n",
+      "ur": "paradārābhimarśaś ca mānuṣaiś ca samāgamaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 12
+  },
+  "03233013a": {
+    "text": {
+      "ascii": "utsRjadhvaM mahAvIryAn dhRtarASTrasutAn imAn\n",
+      "ud": "उत्सृजध्वं महावीर्यान्धृतराष्ट्रसुतानिमान्\n",
+      "ur": "utsr̥jadhvaṁ mahāvīryān dhr̥tarāṣṭrasutān imān\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 13
+  },
+  "03233013c": {
+    "text": {
+      "ascii": "dArAMz caiSAM vimuJcadhvaM dharmarAjasya zAsanAt\n",
+      "ud": "दारांश्चैषां विमुञ्चध्वं धर्मराजस्य शासनात्\n",
+      "ur": "dārāṁś caiṣāṁ vimuñcadhvaṁ dharmarājasya śāsanāt\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 13
+  },
+  "03233014a": {
+    "text": {
+      "ascii": "evam uktAs tu gandharvAH pANDavena yazasvinA\n",
+      "ud": "एवमुक्तास्तु गन्धर्वाः पाण्डवेन यशस्विना\n",
+      "ur": "evam uktās tu gandharvāḥ pāṇḍavena yaśasvinā\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 14
+  },
+  "03233014c": {
+    "text": {
+      "ascii": "utsmayantas tadA pArtham idaM vacanam abruvan\n",
+      "ud": "उत्स्मयन्तस्तदा पार्थमिदं वचनमब्रुवन्\n",
+      "ur": "utsmayantas tadā pārtham idaṁ vacanam abruvan\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 14
+  },
+  "03233015a": {
+    "text": {
+      "ascii": "ekasyaiva vayaM tAta kuryAma vacanaM bhuvi\n",
+      "ud": "एकस्यैव वयं तात कुर्याम वचनं भुवि\n",
+      "ur": "ekasyaiva vayaṁ tāta kuryāma vacanaṁ bhuvi\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 15
+  },
+  "03233015c": {
+    "text": {
+      "ascii": "yasya zAsanam AjJAya carAma vigatajvarAH\n",
+      "ud": "यस्य शासनमाज्ञाय चराम विगतज्वराः\n",
+      "ur": "yasya śāsanam ājñāya carāma vigatajvarāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 15
+  },
+  "03233016a": {
+    "text": {
+      "ascii": "tenaikena yathAdiSTaM tathA vartAma bhArata\n",
+      "ud": "तेनैकेन यथादिष्टं तथा वर्ताम भारत\n",
+      "ur": "tenaikena yathādiṣṭaṁ tathā vartāma bhārata\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 16
+  },
+  "03233016c": {
+    "text": {
+      "ascii": "na zAstA vidyate 'smAkam anyas tasmAt surezvarAt\n",
+      "ud": "न शास्ता विद्यतेऽस्माकमन्यस्तस्मात्सुरेश्वरात्\n",
+      "ur": "na śāstā vidyate ’smākam anyas tasmāt sureśvarāt\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 16
+  },
+  "03233017a": {
+    "text": {
+      "ascii": "evam uktas tu gandharvaiH kuntIputro dhanaMjayaH\n",
+      "ud": "एवमुक्तस्तु गन्धर्वैः कुन्तीपुत्रो धनंजयः\n",
+      "ur": "evam uktas tu gandharvaiḥ kuntīputro dhanaṁjayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 17
+  },
+  "03233017c": {
+    "text": {
+      "ascii": "gandharvAn punar evedaM vacanaM pratyabhASata\n",
+      "ud": "गन्धर्वान्पुनरेवेदं वचनं प्रत्यभाषत\n",
+      "ur": "gandharvān punar evedaṁ vacanaṁ pratyabhāṣata\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 17
+  },
+  "03233018a": {
+    "text": {
+      "ascii": "yadi sAmnA na mokSadhvaM gandharvA dhRtarASTrajam\n",
+      "ud": "यदि साम्ना न मोक्षध्वं गन्धर्वा धृतराष्ट्रजम्\n",
+      "ur": "yadi sāmnā na mokṣadhvaṁ gandharvā dhr̥tarāṣṭrajam\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 18
+  },
+  "03233018c": {
+    "text": {
+      "ascii": "mokSayiSyAmi vikramya svayam eva suyodhanam\n",
+      "ud": "मोक्षयिष्यामि विक्रम्य स्वयमेव सुयोधनम्\n",
+      "ur": "mokṣayiṣyāmi vikramya svayam eva suyodhanam\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 18
+  },
+  "03233019a": {
+    "text": {
+      "ascii": "evam uktvA tataH pArthaH savyasAcI dhanaMjayaH\n",
+      "ud": "एवमुक्त्वा ततः पार्थः सव्यसाची धनंजयः\n",
+      "ur": "evam uktvā tataḥ pārthaḥ savyasācī dhanaṁjayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 19
+  },
+  "03233019c": {
+    "text": {
+      "ascii": "sasarja nizitAn bANAn khacarAn khacarAn prati\n",
+      "ud": "ससर्ज निशितान्बाणान्खचरान्खचरान्प्रति\n",
+      "ur": "sasarja niśitān bāṇān khacarān khacarān prati\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 19
+  },
+  "03233020a": {
+    "text": {
+      "ascii": "tathaiva zaravarSeNa gandharvAs te balotkaTAH\n",
+      "ud": "तथैव शरवर्षेण गन्धर्वास्ते बलोत्कटाः\n",
+      "ur": "tathaiva śaravarṣeṇa gandharvās te balotkaṭāḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 20
+  },
+  "03233020c": {
+    "text": {
+      "ascii": "pANDavAn abhyavartanta pANDavAz ca divaukasaH\n",
+      "ud": "पाण्डवानभ्यवर्तन्त पाण्डवाश्च दिवौकसः\n",
+      "ur": "pāṇḍavān abhyavartanta pāṇḍavāś ca divaukasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 20
+  },
+  "03233021a": {
+    "text": {
+      "ascii": "tataH sutumulaM yuddhaM gandharvANAM tarasvinAm\n",
+      "ud": "ततः सुतुमुलं युद्धं गन्धर्वाणां तरस्विनाम्\n",
+      "ur": "tataḥ sutumulaṁ yuddhaṁ gandharvāṇāṁ tarasvinām\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 21
+  },
+  "03233021c": {
+    "text": {
+      "ascii": "babhUva bhImavegAnAM pANDavAnAM ca bhArata\n",
+      "ud": "बभूव भीमवेगानां पाण्डवानां च भारत\n",
+      "ur": "babhūva bhīmavegānāṁ pāṇḍavānāṁ ca bhārata\n"
+    },
+    "book": 3,
+    "chapter": 233,
+    "verse": 21
+  }
+}

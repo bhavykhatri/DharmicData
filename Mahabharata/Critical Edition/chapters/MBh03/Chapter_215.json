@@ -1,0 +1,522 @@
+{
+  "03215001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 1
+  },
+  "03215001a": {
+    "text": {
+      "ascii": "RSayas tu mahAghorAn dRSTvotpAtAn pRthagvidhAn\n",
+      "ud": "ऋषयस्तु महाघोरान्दृष्ट्वोत्पातान्पृथग्विधान्\n",
+      "ur": "r̥ṣayas tu mahāghorān dr̥ṣṭvotpātān pr̥thagvidhān\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 1
+  },
+  "03215001c": {
+    "text": {
+      "ascii": "akurvaJ zAntim udvignA lokAnAM lokabhAvanAH\n",
+      "ud": "अकुर्वञ्शान्तिमुद्विग्ना लोकानां लोकभावनाः\n",
+      "ur": "akurvañ śāntim udvignā lokānāṁ lokabhāvanāḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 1
+  },
+  "03215002a": {
+    "text": {
+      "ascii": "nivasanti vane ye tu tasmiMz caitrarathe janAH\n",
+      "ud": "निवसन्ति वने ये तु तस्मिंश्चैत्ररथे जनाः\n",
+      "ur": "nivasanti vane ye tu tasmiṁś caitrarathe janāḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 2
+  },
+  "03215002c": {
+    "text": {
+      "ascii": "te 'bruvann eSa no 'narthaH pAvakenAhRto mahAn\n",
+      "ud": "तेऽब्रुवन्नेष नोऽनर्थः पावकेनाहृतो महान्\n",
+      "ur": "te ’bruvann eṣa no ’narthaḥ pāvakenāhr̥to mahān\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 2
+  },
+  "03215002e": {
+    "text": {
+      "ascii": "saMgamya SaDbhiH patnIbhiH saptarSINAm iti sma ha\n",
+      "ud": "संगम्य षड्भिः पत्नीभिः सप्तर्षीणामिति स्म ह\n",
+      "ur": "saṁgamya ṣaḍbhiḥ patnībhiḥ saptarṣīṇām iti sma ha\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 2
+  },
+  "03215003a": {
+    "text": {
+      "ascii": "apare garuDIm Ahus tvayAnartho 'yam AhRtaH\n",
+      "ud": "अपरे गरुडीमाहुस्त्वयानर्थोऽयमाहृतः\n",
+      "ur": "apare garuḍīm āhus tvayānartho ’yam āhr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 3
+  },
+  "03215003c": {
+    "text": {
+      "ascii": "yair dRSTA sA tadA devI tasyA rUpeNa gacchatI\n",
+      "ud": "यैर्दृष्टा सा तदा देवी तस्या रूपेण गच्छती\n",
+      "ur": "yair dr̥ṣṭā sā tadā devī tasyā rūpeṇa gacchatī\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 3
+  },
+  "03215003e": {
+    "text": {
+      "ascii": "na tu tat svAhayA karma kRtaM jAnAti vai janaH\n",
+      "ud": "न तु तत्स्वाहया कर्म कृतं जानाति वै जनः\n",
+      "ur": "na tu tat svāhayā karma kr̥taṁ jānāti vai janaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 3
+  },
+  "03215004a": {
+    "text": {
+      "ascii": "suparNI tu vacaH zrutvA mamAyaM tanayas tv iti\n",
+      "ud": "सुपर्णी तु वचः श्रुत्वा ममायं तनयस्त्विति\n",
+      "ur": "suparṇī tu vacaḥ śrutvā mamāyaṁ tanayas tv iti\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 4
+  },
+  "03215004c": {
+    "text": {
+      "ascii": "upagamya zanaiH skandam AhAhaM jananI tava\n",
+      "ud": "उपगम्य शनैः स्कन्दमाहाहं जननी तव\n",
+      "ur": "upagamya śanaiḥ skandam āhāhaṁ jananī tava\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 4
+  },
+  "03215005a": {
+    "text": {
+      "ascii": "atha saptarSayaH zrutvA jAtaM putraM mahaujasam\n",
+      "ud": "अथ सप्तर्षयः श्रुत्वा जातं पुत्रं महौजसम्\n",
+      "ur": "atha saptarṣayaḥ śrutvā jātaṁ putraṁ mahaujasam\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 5
+  },
+  "03215005c": {
+    "text": {
+      "ascii": "tatyajuH SaT tadA patnIr vinA devIm arundhatIm\n",
+      "ud": "तत्यजुः षट्तदा पत्नीर्विना देवीमरुन्धतीम्\n",
+      "ur": "tatyajuḥ ṣaṭ tadā patnīr vinā devīm arundhatīm\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 5
+  },
+  "03215006a": {
+    "text": {
+      "ascii": "SaDbhir eva tadA jAtam Ahus tad vanavAsinaH\n",
+      "ud": "षड्भिरेव तदा जातमाहुस्तद्वनवासिनः\n",
+      "ur": "ṣaḍbhir eva tadā jātam āhus tad vanavāsinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 6
+  },
+  "03215006c": {
+    "text": {
+      "ascii": "saptarSIn Aha ca svAhA mama putro 'yam ity uta\n",
+      "ud": "सप्तर्षीनाह च स्वाहा मम पुत्रोऽयमित्युत\n",
+      "ur": "saptarṣīn āha ca svāhā mama putro ’yam ity uta\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 6
+  },
+  "03215006e": {
+    "text": {
+      "ascii": "ahaM jAne naitad evam iti rAjan punaH punaH\n",
+      "ud": "अहं जाने नैतदेवमिति राजन्पुनः पुनः\n",
+      "ur": "ahaṁ jāne naitad evam iti rājan punaḥ punaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 6
+  },
+  "03215007a": {
+    "text": {
+      "ascii": "vizvAmitras tu kRtveSTiM saptarSINAM mahAmuniH\n",
+      "ud": "विश्वामित्रस्तु कृत्वेष्टिं सप्तर्षीणां महामुनिः\n",
+      "ur": "viśvāmitras tu kr̥tveṣṭiṁ saptarṣīṇāṁ mahāmuniḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 7
+  },
+  "03215007c": {
+    "text": {
+      "ascii": "pAvakaM kAmasaMtaptam adRSTaH pRSThato 'nvagAt\n",
+      "ud": "पावकं कामसंतप्तमदृष्टः पृष्ठतोऽन्वगात्\n",
+      "ur": "pāvakaṁ kāmasaṁtaptam adr̥ṣṭaḥ pr̥ṣṭhato ’nvagāt\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 7
+  },
+  "03215007e": {
+    "text": {
+      "ascii": "tat tena nikhilaM sarvam avabuddhaM yathAtatham\n",
+      "ud": "तत्तेन निखिलं सर्वमवबुद्धं यथातथम्\n",
+      "ur": "tat tena nikhilaṁ sarvam avabuddhaṁ yathātatham\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 7
+  },
+  "03215008a": {
+    "text": {
+      "ascii": "vizvAmitras tu prathamaM kumAraM zaraNaM gataH\n",
+      "ud": "विश्वामित्रस्तु प्रथमं कुमारं शरणं गतः\n",
+      "ur": "viśvāmitras tu prathamaṁ kumāraṁ śaraṇaṁ gataḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 8
+  },
+  "03215008c": {
+    "text": {
+      "ascii": "stavaM divyaM saMpracakre mahAsenasya cApi saH\n",
+      "ud": "स्तवं दिव्यं संप्रचक्रे महासेनस्य चापि सः\n",
+      "ur": "stavaṁ divyaṁ saṁpracakre mahāsenasya cāpi saḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 8
+  },
+  "03215009a": {
+    "text": {
+      "ascii": "maGgalAni ca sarvANi kaumArANi trayodaza\n",
+      "ud": "मङ्गलानि च सर्वाणि कौमाराणि त्रयोदश\n",
+      "ur": "maṅgalāni ca sarvāṇi kaumārāṇi trayodaśa\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 9
+  },
+  "03215009c": {
+    "text": {
+      "ascii": "jAtakarmAdikAs tasya kriyAz cakre mahAmuniH\n",
+      "ud": "जातकर्मादिकास्तस्य क्रियाश्चक्रे महामुनिः\n",
+      "ur": "jātakarmādikās tasya kriyāś cakre mahāmuniḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 9
+  },
+  "03215010a": {
+    "text": {
+      "ascii": "SaDvaktrasya tu mAhAtmyaM kukkuTasya ca sAdhanam\n",
+      "ud": "षड्वक्त्रस्य तु माहात्म्यं कुक्कुटस्य च साधनम्\n",
+      "ur": "ṣaḍvaktrasya tu māhātmyaṁ kukkuṭasya ca sādhanam\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 10
+  },
+  "03215010c": {
+    "text": {
+      "ascii": "zaktyA devyAH sAdhanaM ca tathA pAriSadAm api\n",
+      "ud": "शक्त्या देव्याः साधनं च तथा पारिषदामपि\n",
+      "ur": "śaktyā devyāḥ sādhanaṁ ca tathā pāriṣadām api\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 10
+  },
+  "03215011a": {
+    "text": {
+      "ascii": "vizvAmitraz cakAraitat karma lokahitAya vai\n",
+      "ud": "विश्वामित्रश्चकारैतत्कर्म लोकहिताय वै\n",
+      "ur": "viśvāmitraś cakāraitat karma lokahitāya vai\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 11
+  },
+  "03215011c": {
+    "text": {
+      "ascii": "tasmAd RSiH kumArasya vizvAmitro 'bhavat priyaH\n",
+      "ud": "तस्मादृषिः कुमारस्य विश्वामित्रोऽभवत्प्रियः\n",
+      "ur": "tasmād r̥ṣiḥ kumārasya viśvāmitro ’bhavat priyaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 11
+  },
+  "03215012a": {
+    "text": {
+      "ascii": "anvajAnAc ca svAhAyA rUpAnyatvaM mahAmuniH\n",
+      "ud": "अन्वजानाच्च स्वाहाया रूपान्यत्वं महामुनिः\n",
+      "ur": "anvajānāc ca svāhāyā rūpānyatvaṁ mahāmuniḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 12
+  },
+  "03215012c": {
+    "text": {
+      "ascii": "abravIc ca munIn sarvAn nAparAdhyanti vai striyaH\n",
+      "ud": "अब्रवीच्च मुनीन्सर्वान्नापराध्यन्ति वै स्त्रियः\n",
+      "ur": "abravīc ca munīn sarvān nāparādhyanti vai striyaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 12
+  },
+  "03215012e": {
+    "text": {
+      "ascii": "zrutvA tu tattvatas tasmAt te patnIH sarvato 'tyajan\n",
+      "ud": "श्रुत्वा तु तत्त्वतस्तस्मात्ते पत्नीः सर्वतोऽत्यजन्\n",
+      "ur": "śrutvā tu tattvatas tasmāt te patnīḥ sarvato ’tyajan\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 12
+  },
+  "03215013a": {
+    "text": {
+      "ascii": "skandaM zrutvA tato devA vAsavaM sahitAbruvan\n",
+      "ud": "स्कन्दं श्रुत्वा ततो देवा वासवं सहिताब्रुवन्\n",
+      "ur": "skandaṁ śrutvā tato devā vāsavaṁ sahitābruvan\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 13
+  },
+  "03215013c": {
+    "text": {
+      "ascii": "aviSahyabalaM skandaM jahi zakrAzu mAciram\n",
+      "ud": "अविषह्यबलं स्कन्दं जहि शक्राशु माचिरम्\n",
+      "ur": "aviṣahyabalaṁ skandaṁ jahi śakrāśu māciram\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 13
+  },
+  "03215014a": {
+    "text": {
+      "ascii": "yadi vA na nihaMsy enam adyendro 'yaM bhaviSyati\n",
+      "ud": "यदि वा न निहंस्येनमद्येन्द्रोऽयं भविष्यति\n",
+      "ur": "yadi vā na nihaṁsy enam adyendro ’yaṁ bhaviṣyati\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 14
+  },
+  "03215014c": {
+    "text": {
+      "ascii": "trailokyaM saMnigRhyAsmAMs tvAM ca zakra mahAbalaH\n",
+      "ud": "त्रैलोक्यं संनिगृह्यास्मांस्त्वां च शक्र महाबलः\n",
+      "ur": "trailokyaṁ saṁnigr̥hyāsmāṁs tvāṁ ca śakra mahābalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 14
+  },
+  "03215015a": {
+    "text": {
+      "ascii": "sa tAn uvAca vyathito bAlo 'yaM sumahAbalaH\n",
+      "ud": "स तानुवाच व्यथितो बालोऽयं सुमहाबलः\n",
+      "ur": "sa tān uvāca vyathito bālo ’yaṁ sumahābalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 15
+  },
+  "03215015c": {
+    "text": {
+      "ascii": "sraSTAram api lokAnAM yudhi vikramya nAzayet\n",
+      "ud": "स्रष्टारमपि लोकानां युधि विक्रम्य नाशयेत्\n",
+      "ur": "sraṣṭāram api lokānāṁ yudhi vikramya nāśayet\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 15
+  },
+  "03215016a": {
+    "text": {
+      "ascii": "sarvAs tv adyAbhigacchantu skandaM lokasya mAtaraH\n",
+      "ud": "सर्वास्त्वद्याभिगच्छन्तु स्कन्दं लोकस्य मातरः\n",
+      "ur": "sarvās tv adyābhigacchantu skandaṁ lokasya mātaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 16
+  },
+  "03215016c": {
+    "text": {
+      "ascii": "kAmavIryA ghnantu cainaM tathety uktvA ca tA yayuH\n",
+      "ud": "कामवीर्या घ्नन्तु चैनं तथेत्युक्त्वा च ता ययुः\n",
+      "ur": "kāmavīryā ghnantu cainaṁ tathety uktvā ca tā yayuḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 16
+  },
+  "03215017a": {
+    "text": {
+      "ascii": "tam apratibalaM dRSTvA viSaNNavadanAs tu tAH\n",
+      "ud": "तमप्रतिबलं दृष्ट्वा विषण्णवदनास्तु ताः\n",
+      "ur": "tam apratibalaṁ dr̥ṣṭvā viṣaṇṇavadanās tu tāḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 17
+  },
+  "03215017c": {
+    "text": {
+      "ascii": "azakyo 'yaM vicintyaivaM tam eva zaraNaM yayuH\n",
+      "ud": "अशक्योऽयं विचिन्त्यैवं तमेव शरणं ययुः\n",
+      "ur": "aśakyo ’yaṁ vicintyaivaṁ tam eva śaraṇaṁ yayuḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 17
+  },
+  "03215018a": {
+    "text": {
+      "ascii": "Ucuz cApi tvam asmAkaM putro 'smAbhir dhRtaM jagat\n",
+      "ud": "ऊचुश्चापि त्वमस्माकं पुत्रोऽस्माभिर्धृतं जगत्\n",
+      "ur": "ūcuś cāpi tvam asmākaṁ putro ’smābhir dhr̥taṁ jagat\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 18
+  },
+  "03215018c": {
+    "text": {
+      "ascii": "abhinandasva naH sarvAH prasnutAH snehaviklavAH\n",
+      "ud": "अभिनन्दस्व नः सर्वाः प्रस्नुताः स्नेहविक्लवाः\n",
+      "ur": "abhinandasva naḥ sarvāḥ prasnutāḥ snehaviklavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 18
+  },
+  "03215019a": {
+    "text": {
+      "ascii": "tAH saMpUjya mahAsenaH kAmAMz cAsAM pradAya saH\n",
+      "ud": "ताः संपूज्य महासेनः कामांश्चासां प्रदाय सः\n",
+      "ur": "tāḥ saṁpūjya mahāsenaḥ kāmāṁś cāsāṁ pradāya saḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 19
+  },
+  "03215019c": {
+    "text": {
+      "ascii": "apazyad agnim AyAntaM pitaraM balinAM balI\n",
+      "ud": "अपश्यदग्निमायान्तं पितरं बलिनां बली\n",
+      "ur": "apaśyad agnim āyāntaṁ pitaraṁ balināṁ balī\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 19
+  },
+  "03215020a": {
+    "text": {
+      "ascii": "sa tu saMpUjitas tena saha mAtRgaNena ha\n",
+      "ud": "स तु संपूजितस्तेन सह मातृगणेन ह\n",
+      "ur": "sa tu saṁpūjitas tena saha mātr̥gaṇena ha\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 20
+  },
+  "03215020c": {
+    "text": {
+      "ascii": "parivArya mahAsenaM rakSamANaH sthitaH sthiram\n",
+      "ud": "परिवार्य महासेनं रक्षमाणः स्थितः स्थिरम्\n",
+      "ur": "parivārya mahāsenaṁ rakṣamāṇaḥ sthitaḥ sthiram\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 20
+  },
+  "03215021a": {
+    "text": {
+      "ascii": "sarvAsAM yA tu mAtqNAM nArI krodhasamudbhavA\n",
+      "ud": "सर्वासां या तु मातॄणां नारी क्रोधसमुद्भवा\n",
+      "ur": "sarvāsāṁ yā tu mātr̥̄ṇāṁ nārī krodhasamudbhavā\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 21
+  },
+  "03215021c": {
+    "text": {
+      "ascii": "dhAtrI sA putravat skandaM zUlahastAbhyarakSata\n",
+      "ud": "धात्री सा पुत्रवत्स्कन्दं शूलहस्ताभ्यरक्षत\n",
+      "ur": "dhātrī sā putravat skandaṁ śūlahastābhyarakṣata\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 21
+  },
+  "03215022a": {
+    "text": {
+      "ascii": "lohitasyodadheH kanyA krUrA lohitabhojanA\n",
+      "ud": "लोहितस्योदधेः कन्या क्रूरा लोहितभोजना\n",
+      "ur": "lohitasyodadheḥ kanyā krūrā lohitabhojanā\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 22
+  },
+  "03215022c": {
+    "text": {
+      "ascii": "pariSvajya mahAsenaM putravat paryarakSata\n",
+      "ud": "परिष्वज्य महासेनं पुत्रवत्पर्यरक्षत\n",
+      "ur": "pariṣvajya mahāsenaṁ putravat paryarakṣata\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 22
+  },
+  "03215023a": {
+    "text": {
+      "ascii": "agnir bhUtvA naigameyaz chAgavaktro bahuprajaH\n",
+      "ud": "अग्निर्भूत्वा नैगमेयश्छागवक्त्रो बहुप्रजः\n",
+      "ur": "agnir bhūtvā naigameyaś chāgavaktro bahuprajaḥ\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 23
+  },
+  "03215023c": {
+    "text": {
+      "ascii": "ramayAm Asa zailasthaM bAlaM krIDanakair iva\n",
+      "ud": "रमयामास शैलस्थं बालं क्रीडनकैरिव\n",
+      "ur": "ramayām āsa śailasthaṁ bālaṁ krīḍanakair iva\n"
+    },
+    "book": 3,
+    "chapter": 215,
+    "verse": 23
+  }
+}

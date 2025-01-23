@@ -1,0 +1,602 @@
+{
+  "03287001": {
+    "text": {
+      "ascii": "janamejaya uvAca\n",
+      "ud": "जनमेजय उवाच\n",
+      "ur": "janamejaya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 1
+  },
+  "03287001a": {
+    "text": {
+      "ascii": "kiM tad guhyaM na cAkhyAtaM karNAyehoSNarazminA\n",
+      "ud": "किं तद्गुह्यं न चाख्यातं कर्णायेहोष्णरश्मिना\n",
+      "ur": "kiṁ tad guhyaṁ na cākhyātaṁ karṇāyehoṣṇaraśminā\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 1
+  },
+  "03287001c": {
+    "text": {
+      "ascii": "kIdRze kuNDale te ca kavacaM caiva kIdRzam\n",
+      "ud": "कीदृशे कुण्डले ते च कवचं चैव कीदृशम्\n",
+      "ur": "kīdr̥śe kuṇḍale te ca kavacaṁ caiva kīdr̥śam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 1
+  },
+  "03287002a": {
+    "text": {
+      "ascii": "kutaz ca kavacaM tasya kuNDale caiva sattama\n",
+      "ud": "कुतश्च कवचं तस्य कुण्डले चैव सत्तम\n",
+      "ur": "kutaś ca kavacaṁ tasya kuṇḍale caiva sattama\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 2
+  },
+  "03287002c": {
+    "text": {
+      "ascii": "etad icchAmy ahaM zrotuM tan me brUhi tapodhana\n",
+      "ud": "एतदिच्छाम्यहं श्रोतुं तन्मे ब्रूहि तपोधन\n",
+      "ur": "etad icchāmy ahaṁ śrotuṁ tan me brūhi tapodhana\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 2
+  },
+  "03287003": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 3
+  },
+  "03287003a": {
+    "text": {
+      "ascii": "ayaM rAjan bravImy etad yat tad guhyaM vibhAvasoH\n",
+      "ud": "अयं राजन्ब्रवीम्येतद्यत्तद्गुह्यं विभावसोः\n",
+      "ur": "ayaṁ rājan bravīmy etad yat tad guhyaṁ vibhāvasoḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 3
+  },
+  "03287003c": {
+    "text": {
+      "ascii": "yAdRze kuNDale caiva kavacaM caiva yAdRzam\n",
+      "ud": "यादृशे कुण्डले चैव कवचं चैव यादृशम्\n",
+      "ur": "yādr̥śe kuṇḍale caiva kavacaṁ caiva yādr̥śam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 3
+  },
+  "03287004a": {
+    "text": {
+      "ascii": "kuntibhojaM purA rAjan brAhmaNaH samupasthitaH\n",
+      "ud": "कुन्तिभोजं पुरा राजन्ब्राह्मणः समुपस्थितः\n",
+      "ur": "kuntibhojaṁ purā rājan brāhmaṇaḥ samupasthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 4
+  },
+  "03287004c": {
+    "text": {
+      "ascii": "tigmatejA mahAprAMzuH zmazrudaNDajaTAdharaH\n",
+      "ud": "तिग्मतेजा महाप्रांशुः श्मश्रुदण्डजटाधरः\n",
+      "ur": "tigmatejā mahāprāṁśuḥ śmaśrudaṇḍajaṭādharaḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 4
+  },
+  "03287005a": {
+    "text": {
+      "ascii": "darzanIyo 'navadyAGgas tejasA prajvalann iva\n",
+      "ud": "दर्शनीयोऽनवद्याङ्गस्तेजसा प्रज्वलन्निव\n",
+      "ur": "darśanīyo ’navadyāṅgas tejasā prajvalann iva\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 5
+  },
+  "03287005c": {
+    "text": {
+      "ascii": "madhupiGgo madhuravAk tapaHsvAdhyAyabhUSaNaH\n",
+      "ud": "मधुपिङ्गो मधुरवाक्तपःस्वाध्यायभूषणः\n",
+      "ur": "madhupiṅgo madhuravāk tapaḥsvādhyāyabhūṣaṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 5
+  },
+  "03287006a": {
+    "text": {
+      "ascii": "sa rAjAnaM kuntibhojam abravIt sumahAtapAH\n",
+      "ud": "स राजानं कुन्तिभोजमब्रवीत्सुमहातपाः\n",
+      "ur": "sa rājānaṁ kuntibhojam abravīt sumahātapāḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 6
+  },
+  "03287006c": {
+    "text": {
+      "ascii": "bhikSAm icchAmy ahaM bhoktuM tava gehe vimatsara\n",
+      "ud": "भिक्षामिच्छाम्यहं भोक्तुं तव गेहे विमत्सर\n",
+      "ur": "bhikṣām icchāmy ahaṁ bhoktuṁ tava gehe vimatsara\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 6
+  },
+  "03287007a": {
+    "text": {
+      "ascii": "na me vyalIkaM kartavyaM tvayA vA tava cAnugaiH\n",
+      "ud": "न मे व्यलीकं कर्तव्यं त्वया वा तव चानुगैः\n",
+      "ur": "na me vyalīkaṁ kartavyaṁ tvayā vā tava cānugaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 7
+  },
+  "03287007c": {
+    "text": {
+      "ascii": "evaM vatsyAmi te gehe yadi te rocate 'nagha\n",
+      "ud": "एवं वत्स्यामि ते गेहे यदि ते रोचतेऽनघ\n",
+      "ur": "evaṁ vatsyāmi te gehe yadi te rocate ’nagha\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 7
+  },
+  "03287008a": {
+    "text": {
+      "ascii": "yathAkAmaM ca gaccheyam AgaccheyaM tathaiva ca\n",
+      "ud": "यथाकामं च गच्छेयमागच्छेयं तथैव च\n",
+      "ur": "yathākāmaṁ ca gaccheyam āgaccheyaṁ tathaiva ca\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 8
+  },
+  "03287008c": {
+    "text": {
+      "ascii": "zayyAsane ca me rAjan nAparAdhyeta kaz cana\n",
+      "ud": "शय्यासने च मे राजन्नापराध्येत कश्चन\n",
+      "ur": "śayyāsane ca me rājan nāparādhyeta kaś cana\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 8
+  },
+  "03287009a": {
+    "text": {
+      "ascii": "tam abravIt kuntibhojaH prItiyuktam idaM vacaH\n",
+      "ud": "तमब्रवीत्कुन्तिभोजः प्रीतियुक्तमिदं वचः\n",
+      "ur": "tam abravīt kuntibhojaḥ prītiyuktam idaṁ vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 9
+  },
+  "03287009c": {
+    "text": {
+      "ascii": "evam astu paraM ceti punaz cainam athAbravIt\n",
+      "ud": "एवमस्तु परं चेति पुनश्चैनमथाब्रवीत्\n",
+      "ur": "evam astu paraṁ ceti punaś cainam athābravīt\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 9
+  },
+  "03287010a": {
+    "text": {
+      "ascii": "mama kanyA mahAbrahman pRthA nAma yazasvinI\n",
+      "ud": "मम कन्या महाब्रह्मन्पृथा नाम यशस्विनी\n",
+      "ur": "mama kanyā mahābrahman pr̥thā nāma yaśasvinī\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 10
+  },
+  "03287010c": {
+    "text": {
+      "ascii": "zIlavRttAnvitA sAdhvI niyatA na ca mAninI\n",
+      "ud": "शीलवृत्तान्विता साध्वी नियता न च मानिनी\n",
+      "ur": "śīlavr̥ttānvitā sādhvī niyatā na ca māninī\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 10
+  },
+  "03287011a": {
+    "text": {
+      "ascii": "upasthAsyati sA tvAM vai pUjayAnavamanya ca\n",
+      "ud": "उपस्थास्यति सा त्वां वै पूजयानवमन्य च\n",
+      "ur": "upasthāsyati sā tvāṁ vai pūjayānavamanya ca\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 11
+  },
+  "03287011c": {
+    "text": {
+      "ascii": "tasyAz ca zIlavRttena tuSTiM samupayAsyasi\n",
+      "ud": "तस्याश्च शीलवृत्तेन तुष्टिं समुपयास्यसि\n",
+      "ur": "tasyāś ca śīlavr̥ttena tuṣṭiṁ samupayāsyasi\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 11
+  },
+  "03287012a": {
+    "text": {
+      "ascii": "evam uktvA tu taM vipram abhipUjya yathAvidhi\n",
+      "ud": "एवमुक्त्वा तु तं विप्रमभिपूज्य यथाविधि\n",
+      "ur": "evam uktvā tu taṁ vipram abhipūjya yathāvidhi\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 12
+  },
+  "03287012c": {
+    "text": {
+      "ascii": "uvAca kanyAm abhyetya pRthAM pRthulalocanAm\n",
+      "ud": "उवाच कन्यामभ्येत्य पृथां पृथुललोचनाम्\n",
+      "ur": "uvāca kanyām abhyetya pr̥thāṁ pr̥thulalocanām\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 12
+  },
+  "03287013a": {
+    "text": {
+      "ascii": "ayaM vatse mahAbhAgo brAhmaNo vastum icchati\n",
+      "ud": "अयं वत्से महाभागो ब्राह्मणो वस्तुमिच्छति\n",
+      "ur": "ayaṁ vatse mahābhāgo brāhmaṇo vastum icchati\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 13
+  },
+  "03287013c": {
+    "text": {
+      "ascii": "mama gehe mayA cAsya tathety evaM pratizrutam\n",
+      "ud": "मम गेहे मया चास्य तथेत्येवं प्रतिश्रुतम्\n",
+      "ur": "mama gehe mayā cāsya tathety evaṁ pratiśrutam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 13
+  },
+  "03287014a": {
+    "text": {
+      "ascii": "tvayi vatse parAzvasya brAhmaNasyAbhirAdhanam\n",
+      "ud": "त्वयि वत्से पराश्वस्य ब्राह्मणस्याभिराधनम्\n",
+      "ur": "tvayi vatse parāśvasya brāhmaṇasyābhirādhanam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 14
+  },
+  "03287014c": {
+    "text": {
+      "ascii": "tan me vAkyaM na mithyA tvaM kartum arhasi karhi cit\n",
+      "ud": "तन्मे वाक्यं न मिथ्या त्वं कर्तुमर्हसि कर्हिचित्\n",
+      "ur": "tan me vākyaṁ na mithyā tvaṁ kartum arhasi karhi cit\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 14
+  },
+  "03287015a": {
+    "text": {
+      "ascii": "ayaM tapasvI bhagavAn svAdhyAyaniyato dvijaH\n",
+      "ud": "अयं तपस्वी भगवान्स्वाध्यायनियतो द्विजः\n",
+      "ur": "ayaṁ tapasvī bhagavān svādhyāyaniyato dvijaḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 15
+  },
+  "03287015c": {
+    "text": {
+      "ascii": "yad yad brUyAn mahAtejAs tat tad deyam amatsarAt\n",
+      "ud": "यद्यद्ब्रूयान्महातेजास्तत्तद्देयममत्सरात्\n",
+      "ur": "yad yad brūyān mahātejās tat tad deyam amatsarāt\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 15
+  },
+  "03287016a": {
+    "text": {
+      "ascii": "brAhmaNA hi paraM tejo brAhmaNA hi paraM tapaH\n",
+      "ud": "ब्राह्मणा हि परं तेजो ब्राह्मणा हि परं तपः\n",
+      "ur": "brāhmaṇā hi paraṁ tejo brāhmaṇā hi paraṁ tapaḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 16
+  },
+  "03287016c": {
+    "text": {
+      "ascii": "brAhmaNAnAM namaskAraiH sUryo divi virAjate\n",
+      "ud": "ब्राह्मणानां नमस्कारैः सूर्यो दिवि विराजते\n",
+      "ur": "brāhmaṇānāṁ namaskāraiḥ sūryo divi virājate\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 16
+  },
+  "03287017a": {
+    "text": {
+      "ascii": "amAnayan hi mAnArhAn vAtApiz ca mahAsuraH\n",
+      "ud": "अमानयन्हि मानार्हान्वातापिश्च महासुरः\n",
+      "ur": "amānayan hi mānārhān vātāpiś ca mahāsuraḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 17
+  },
+  "03287017c": {
+    "text": {
+      "ascii": "nihato brahmadaNDena tAlajaGghas tathaiva ca\n",
+      "ud": "निहतो ब्रह्मदण्डेन तालजङ्घस्तथैव च\n",
+      "ur": "nihato brahmadaṇḍena tālajaṅghas tathaiva ca\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 17
+  },
+  "03287018a": {
+    "text": {
+      "ascii": "so 'yaM vatse mahAbhAra Ahitas tvayi sAMpratam\n",
+      "ud": "सोऽयं वत्से महाभार आहितस्त्वयि सांप्रतम्\n",
+      "ur": "so ’yaṁ vatse mahābhāra āhitas tvayi sāṁpratam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 18
+  },
+  "03287018c": {
+    "text": {
+      "ascii": "tvaM sadA niyatA kuryA brAhmaNasyAbhirAdhanam\n",
+      "ud": "त्वं सदा नियता कुर्या ब्राह्मणस्याभिराधनम्\n",
+      "ur": "tvaṁ sadā niyatā kuryā brāhmaṇasyābhirādhanam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 18
+  },
+  "03287019a": {
+    "text": {
+      "ascii": "jAnAmi praNidhAnaM te bAlyAt prabhRti nandini\n",
+      "ud": "जानामि प्रणिधानं ते बाल्यात्प्रभृति नन्दिनि\n",
+      "ur": "jānāmi praṇidhānaṁ te bālyāt prabhr̥ti nandini\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 19
+  },
+  "03287019c": {
+    "text": {
+      "ascii": "brAhmaNeSv iha sarveSu gurubandhuSu caiva ha\n",
+      "ud": "ब्राह्मणेष्विह सर्वेषु गुरुबन्धुषु चैव ह\n",
+      "ur": "brāhmaṇeṣv iha sarveṣu gurubandhuṣu caiva ha\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 19
+  },
+  "03287020a": {
+    "text": {
+      "ascii": "tathA preSyeSu sarveSu mitrasaMbandhimAtRSu\n",
+      "ud": "तथा प्रेष्येषु सर्वेषु मित्रसंबन्धिमातृषु\n",
+      "ur": "tathā preṣyeṣu sarveṣu mitrasaṁbandhimātr̥ṣu\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 20
+  },
+  "03287020c": {
+    "text": {
+      "ascii": "mayi caiva yathAvat tvaM sarvam AdRtya vartase\n",
+      "ud": "मयि चैव यथावत्त्वं सर्वमादृत्य वर्तसे\n",
+      "ur": "mayi caiva yathāvat tvaṁ sarvam ādr̥tya vartase\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 20
+  },
+  "03287021a": {
+    "text": {
+      "ascii": "na hy atuSTo jano 'stIha pure cAntaHpure ca te\n",
+      "ud": "न ह्यतुष्टो जनोऽस्तीह पुरे चान्तःपुरे च ते\n",
+      "ur": "na hy atuṣṭo jano ’stīha pure cāntaḥpure ca te\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 21
+  },
+  "03287021c": {
+    "text": {
+      "ascii": "samyagvRttyAnavadyAGgi tava bhRtyajaneSv api\n",
+      "ud": "सम्यग्वृत्त्यानवद्याङ्गि तव भृत्यजनेष्वपि\n",
+      "ur": "samyagvr̥ttyānavadyāṅgi tava bhr̥tyajaneṣv api\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 21
+  },
+  "03287022a": {
+    "text": {
+      "ascii": "saMdeSTavyAM tu manye tvAM dvijAtiM kopanaM prati\n",
+      "ud": "संदेष्टव्यां तु मन्ये त्वां द्विजातिं कोपनं प्रति\n",
+      "ur": "saṁdeṣṭavyāṁ tu manye tvāṁ dvijātiṁ kopanaṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 22
+  },
+  "03287022c": {
+    "text": {
+      "ascii": "pRthe bAleti kRtvA vai sutA cAsi mameti ca\n",
+      "ud": "पृथे बालेति कृत्वा वै सुता चासि ममेति च\n",
+      "ur": "pr̥the bāleti kr̥tvā vai sutā cāsi mameti ca\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 22
+  },
+  "03287023a": {
+    "text": {
+      "ascii": "vRSNInAM tvaM kule jAtA zUrasya dayitA sutA\n",
+      "ud": "वृष्णीनां त्वं कुले जाता शूरस्य दयिता सुता\n",
+      "ur": "vr̥ṣṇīnāṁ tvaṁ kule jātā śūrasya dayitā sutā\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 23
+  },
+  "03287023c": {
+    "text": {
+      "ascii": "dattA prItimatA mahyaM pitrA bAlA purA svayam\n",
+      "ud": "दत्ता प्रीतिमता मह्यं पित्रा बाला पुरा स्वयम्\n",
+      "ur": "dattā prītimatā mahyaṁ pitrā bālā purā svayam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 23
+  },
+  "03287024a": {
+    "text": {
+      "ascii": "vasudevasya bhaginI sutAnAM pravarA mama\n",
+      "ud": "वसुदेवस्य भगिनी सुतानां प्रवरा मम\n",
+      "ur": "vasudevasya bhaginī sutānāṁ pravarā mama\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 24
+  },
+  "03287024c": {
+    "text": {
+      "ascii": "agryam agre pratijJAya tenAsi duhitA mama\n",
+      "ud": "अग्र्यमग्रे प्रतिज्ञाय तेनासि दुहिता मम\n",
+      "ur": "agryam agre pratijñāya tenāsi duhitā mama\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 24
+  },
+  "03287025a": {
+    "text": {
+      "ascii": "tAdRze hi kule jAtA kule caiva vivardhitA\n",
+      "ud": "तादृशे हि कुले जाता कुले चैव विवर्धिता\n",
+      "ur": "tādr̥śe hi kule jātā kule caiva vivardhitā\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 25
+  },
+  "03287025c": {
+    "text": {
+      "ascii": "sukhAt sukham anuprAptA hradAd dhradam ivAgatA\n",
+      "ud": "सुखात्सुखमनुप्राप्ता ह्रदाद्ध्रदमिवागता\n",
+      "ur": "sukhāt sukham anuprāptā hradād dhradam ivāgatā\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 25
+  },
+  "03287026a": {
+    "text": {
+      "ascii": "dauSkuleyA vizeSeNa kathaM cit pragrahaM gatAH\n",
+      "ud": "दौष्कुलेया विशेषेण कथंचित्प्रग्रहं गताः\n",
+      "ur": "dauṣkuleyā viśeṣeṇa kathaṁ cit pragrahaṁ gatāḥ\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 26
+  },
+  "03287026c": {
+    "text": {
+      "ascii": "bAlabhAvAd vikurvanti prAyazaH pramadAH zubhe\n",
+      "ud": "बालभावाद्विकुर्वन्ति प्रायशः प्रमदाः शुभे\n",
+      "ur": "bālabhāvād vikurvanti prāyaśaḥ pramadāḥ śubhe\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 26
+  },
+  "03287027a": {
+    "text": {
+      "ascii": "pRthe rAjakule janma rUpaM cAdbhutadarzanam\n",
+      "ud": "पृथे राजकुले जन्म रूपं चाद्भुतदर्शनम्\n",
+      "ur": "pr̥the rājakule janma rūpaṁ cādbhutadarśanam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 27
+  },
+  "03287027c": {
+    "text": {
+      "ascii": "tena tenAsi saMpannA samupetA ca bhAminI\n",
+      "ud": "तेन तेनासि संपन्ना समुपेता च भामिनी\n",
+      "ur": "tena tenāsi saṁpannā samupetā ca bhāminī\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 27
+  },
+  "03287028a": {
+    "text": {
+      "ascii": "sA tvaM darpaM parityajya dambhaM mAnaM ca bhAmini\n",
+      "ud": "सा त्वं दर्पं परित्यज्य दम्भं मानं च भामिनि\n",
+      "ur": "sā tvaṁ darpaṁ parityajya dambhaṁ mānaṁ ca bhāmini\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 28
+  },
+  "03287028c": {
+    "text": {
+      "ascii": "ArAdhya varadaM vipraM zreyasA yokSyase pRthe\n",
+      "ud": "आराध्य वरदं विप्रं श्रेयसा योक्ष्यसे पृथे\n",
+      "ur": "ārādhya varadaṁ vipraṁ śreyasā yokṣyase pr̥the\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 28
+  },
+  "03287029a": {
+    "text": {
+      "ascii": "evaM prApsyasi kalyANi kalyANam anaghe dhruvam\n",
+      "ud": "एवं प्राप्स्यसि कल्याणि कल्याणमनघे ध्रुवम्\n",
+      "ur": "evaṁ prāpsyasi kalyāṇi kalyāṇam anaghe dhruvam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 29
+  },
+  "03287029c": {
+    "text": {
+      "ascii": "kopite tu dvijazreSThe kRtsnaM dahyeta me kulam\n",
+      "ud": "कोपिते तु द्विजश्रेष्ठे कृत्स्नं दह्येत मे कुलम्\n",
+      "ur": "kopite tu dvijaśreṣṭhe kr̥tsnaṁ dahyeta me kulam\n"
+    },
+    "book": 3,
+    "chapter": 287,
+    "verse": 29
+  }
+}

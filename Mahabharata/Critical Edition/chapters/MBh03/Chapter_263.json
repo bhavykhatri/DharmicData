@@ -1,0 +1,912 @@
+{
+  "03263001": {
+    "text": {
+      "ascii": "mArkaNDeya uvAca\n",
+      "ud": "मार्कण्डेय उवाच\n",
+      "ur": "mārkaṇḍeya uvāca\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 1
+  },
+  "03263001a": {
+    "text": {
+      "ascii": "sakhA dazarathasyAsIj jaTAyur aruNAtmajaH\n",
+      "ud": "सखा दशरथस्यासीज्जटायुररुणात्मजः\n",
+      "ur": "sakhā daśarathasyāsīj jaṭāyur aruṇātmajaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 1
+  },
+  "03263001c": {
+    "text": {
+      "ascii": "gRdhrarAjo mahAvIryaH saMpAtir yasya sodaraH\n",
+      "ud": "गृध्रराजो महावीर्यः संपातिर्यस्य सोदरः\n",
+      "ur": "gr̥dhrarājo mahāvīryaḥ saṁpātir yasya sodaraḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 1
+  },
+  "03263002a": {
+    "text": {
+      "ascii": "sa dadarza tadA sItAM rAvaNAGkagatAM snuSAm\n",
+      "ud": "स ददर्श तदा सीतां रावणाङ्कगतां स्नुषाम्\n",
+      "ur": "sa dadarśa tadā sītāṁ rāvaṇāṅkagatāṁ snuṣām\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 2
+  },
+  "03263002c": {
+    "text": {
+      "ascii": "krodhAd abhyadravat pakSI rAvaNaM rAkSasezvaram\n",
+      "ud": "क्रोधादभ्यद्रवत्पक्षी रावणं राक्षसेश्वरम्\n",
+      "ur": "krodhād abhyadravat pakṣī rāvaṇaṁ rākṣaseśvaram\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 2
+  },
+  "03263003a": {
+    "text": {
+      "ascii": "athainam abravId gRdhro muJca muJceti maithilIm\n",
+      "ud": "अथैनमब्रवीद्गृध्रो मुञ्च मुञ्चेति मैथिलीम्\n",
+      "ur": "athainam abravīd gr̥dhro muñca muñceti maithilīm\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 3
+  },
+  "03263003c": {
+    "text": {
+      "ascii": "dhriyamANe mayi kathaM hariSyasi nizAcara\n",
+      "ud": "ध्रियमाणे मयि कथं हरिष्यसि निशाचर\n",
+      "ur": "dhriyamāṇe mayi kathaṁ hariṣyasi niśācara\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 3
+  },
+  "03263003e": {
+    "text": {
+      "ascii": "na hi me mokSyase jIvan yadi notsRjase vadhUm\n",
+      "ud": "न हि मे मोक्ष्यसे जीवन्यदि नोत्सृजसे वधूम्\n",
+      "ur": "na hi me mokṣyase jīvan yadi notsr̥jase vadhūm\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 3
+  },
+  "03263004a": {
+    "text": {
+      "ascii": "uktvaivaM rAkSasendraM taM cakarta nakharair bhRzam\n",
+      "ud": "उक्त्वैवं राक्षसेन्द्रं तं चकर्त नखरैर्भृशम्\n",
+      "ur": "uktvaivaṁ rākṣasendraṁ taṁ cakarta nakharair bhr̥śam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 4
+  },
+  "03263004c": {
+    "text": {
+      "ascii": "pakSatuNDaprahAraiz ca bahuzo jarjarIkRtaH\n",
+      "ud": "पक्षतुण्डप्रहारैश्च बहुशो जर्जरीकृतः\n",
+      "ur": "pakṣatuṇḍaprahāraiś ca bahuśo jarjarīkr̥taḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 4
+  },
+  "03263004e": {
+    "text": {
+      "ascii": "cakSAra rudhiraM bhUri giriH prasravaNair iva\n",
+      "ud": "चक्षार रुधिरं भूरि गिरिः प्रस्रवणैरिव\n",
+      "ur": "cakṣāra rudhiraṁ bhūri giriḥ prasravaṇair iva\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 4
+  },
+  "03263005a": {
+    "text": {
+      "ascii": "sa vadhyamAno gRdhreNa rAmapriyahitaiSiNA\n",
+      "ud": "स वध्यमानो गृध्रेण रामप्रियहितैषिणा\n",
+      "ur": "sa vadhyamāno gr̥dhreṇa rāmapriyahitaiṣiṇā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 5
+  },
+  "03263005c": {
+    "text": {
+      "ascii": "khaDgam AdAya ciccheda bhujau tasya patatriNaH\n",
+      "ud": "खड्गमादाय चिच्छेद भुजौ तस्य पतत्रिणः\n",
+      "ur": "khaḍgam ādāya ciccheda bhujau tasya patatriṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 5
+  },
+  "03263006a": {
+    "text": {
+      "ascii": "nihatya gRdhrarAjaM sa chinnAbhrazikharopamam\n",
+      "ud": "निहत्य गृध्रराजं स छिन्नाभ्रशिखरोपमम्\n",
+      "ur": "nihatya gr̥dhrarājaṁ sa chinnābhraśikharopamam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 6
+  },
+  "03263006c": {
+    "text": {
+      "ascii": "Urdhvam Acakrame sItAM gRhItvAGkena rAkSasaH\n",
+      "ud": "ऊर्ध्वमाचक्रमे सीतां गृहीत्वाङ्केन राक्षसः\n",
+      "ur": "ūrdhvam ācakrame sītāṁ gr̥hītvāṅkena rākṣasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 6
+  },
+  "03263007a": {
+    "text": {
+      "ascii": "yatra yatra tu vaidehI pazyaty AzramamaNDalam\n",
+      "ud": "यत्र यत्र तु वैदेही पश्यत्याश्रममण्डलम्\n",
+      "ur": "yatra yatra tu vaidehī paśyaty āśramamaṇḍalam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 7
+  },
+  "03263007c": {
+    "text": {
+      "ascii": "saro vA saritaM vApi tatra muJcati bhUSaNam\n",
+      "ud": "सरो वा सरितं वापि तत्र मुञ्चति भूषणम्\n",
+      "ur": "saro vā saritaṁ vāpi tatra muñcati bhūṣaṇam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 7
+  },
+  "03263008a": {
+    "text": {
+      "ascii": "sA dadarza giriprasthe paJca vAnarapuMgavAn\n",
+      "ud": "सा ददर्श गिरिप्रस्थे पञ्च वानरपुंगवान्\n",
+      "ur": "sā dadarśa giriprasthe pañca vānarapuṁgavān\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 8
+  },
+  "03263008c": {
+    "text": {
+      "ascii": "tatra vAso mahad divyam utsasarja manasvinI\n",
+      "ud": "तत्र वासो महद्दिव्यमुत्ससर्ज मनस्विनी\n",
+      "ur": "tatra vāso mahad divyam utsasarja manasvinī\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 8
+  },
+  "03263009a": {
+    "text": {
+      "ascii": "tat teSAM vAnarendrANAM papAta pavanoddhutam\n",
+      "ud": "तत्तेषां वानरेन्द्राणां पपात पवनोद्धुतम्\n",
+      "ur": "tat teṣāṁ vānarendrāṇāṁ papāta pavanoddhutam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 9
+  },
+  "03263009c": {
+    "text": {
+      "ascii": "madhye supItaM paJcAnAM vidyun meghAntare yathA\n",
+      "ud": "मध्ये सुपीतं पञ्चानां विद्युन्मेघान्तरे यथा\n",
+      "ur": "madhye supītaṁ pañcānāṁ vidyun meghāntare yathā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 9
+  },
+  "03263010a": {
+    "text": {
+      "ascii": "evaM hRtAyAM vaidehyAM rAmo hatvA mahAmRgam\n",
+      "ud": "एवं हृतायां वैदेह्यां रामो हत्वा महामृगम्\n",
+      "ur": "evaṁ hr̥tāyāṁ vaidehyāṁ rāmo hatvā mahāmr̥gam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 10
+  },
+  "03263010c": {
+    "text": {
+      "ascii": "nivRtto dadRze dhImAn bhrAtaraM lakSmaNaM tadA\n",
+      "ud": "निवृत्तो ददृशे धीमान्भ्रातरं लक्ष्मणं तदा\n",
+      "ur": "nivr̥tto dadr̥śe dhīmān bhrātaraṁ lakṣmaṇaṁ tadā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 10
+  },
+  "03263011a": {
+    "text": {
+      "ascii": "katham utsRjya vaidehIM vane rAkSasasevite\n",
+      "ud": "कथमुत्सृज्य वैदेहीं वने राक्षससेविते\n",
+      "ur": "katham utsr̥jya vaidehīṁ vane rākṣasasevite\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 11
+  },
+  "03263011c": {
+    "text": {
+      "ascii": "ity evaM bhrAtaraM dRSTvA prApto 'sIti vyagarhayat\n",
+      "ud": "इत्येवं भ्रातरं दृष्ट्वा प्राप्तोऽसीति व्यगर्हयत्\n",
+      "ur": "ity evaṁ bhrātaraṁ dr̥ṣṭvā prāpto ’sīti vyagarhayat\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 11
+  },
+  "03263012a": {
+    "text": {
+      "ascii": "mRgarUpadhareNAtha rakSasA so 'pakarSaNam\n",
+      "ud": "मृगरूपधरेणाथ रक्षसा सोऽपकर्षणम्\n",
+      "ur": "mr̥garūpadhareṇātha rakṣasā so ’pakarṣaṇam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 12
+  },
+  "03263012c": {
+    "text": {
+      "ascii": "bhrAtur AgamanaM caiva cintayan paryatapyata\n",
+      "ud": "भ्रातुरागमनं चैव चिन्तयन्पर्यतप्यत\n",
+      "ur": "bhrātur āgamanaṁ caiva cintayan paryatapyata\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 12
+  },
+  "03263013a": {
+    "text": {
+      "ascii": "garhayann eva rAmas tu tvaritas taM samAsadat\n",
+      "ud": "गर्हयन्नेव रामस्तु त्वरितस्तं समासदत्\n",
+      "ur": "garhayann eva rāmas tu tvaritas taṁ samāsadat\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 13
+  },
+  "03263013c": {
+    "text": {
+      "ascii": "api jIvati vaidehI neti pazyAmi lakSmaNa\n",
+      "ud": "अपि जीवति वैदेही नेति पश्यामि लक्ष्मण\n",
+      "ur": "api jīvati vaidehī neti paśyāmi lakṣmaṇa\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 13
+  },
+  "03263014a": {
+    "text": {
+      "ascii": "tasya tat sarvam Acakhyau sItAyA lakSmaNo vacaH\n",
+      "ud": "तस्य तत्सर्वमाचख्यौ सीताया लक्ष्मणो वचः\n",
+      "ur": "tasya tat sarvam ācakhyau sītāyā lakṣmaṇo vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 14
+  },
+  "03263014c": {
+    "text": {
+      "ascii": "yad uktavaty asadRzaM vaidehI pazcimaM vacaH\n",
+      "ud": "यदुक्तवत्यसदृशं वैदेही पश्चिमं वचः\n",
+      "ur": "yad uktavaty asadr̥śaṁ vaidehī paścimaṁ vacaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 14
+  },
+  "03263015a": {
+    "text": {
+      "ascii": "dahyamAnena tu hRdA rAmo 'bhyapatad Azramam\n",
+      "ud": "दह्यमानेन तु हृदा रामोऽभ्यपतदाश्रमम्\n",
+      "ur": "dahyamānena tu hr̥dā rāmo ’bhyapatad āśramam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 15
+  },
+  "03263015c": {
+    "text": {
+      "ascii": "sa dadarza tadA gRdhraM nihataM parvatopamam\n",
+      "ud": "स ददर्श तदा गृध्रं निहतं पर्वतोपमम्\n",
+      "ur": "sa dadarśa tadā gr̥dhraṁ nihataṁ parvatopamam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 15
+  },
+  "03263016a": {
+    "text": {
+      "ascii": "rAkSasaM zaGkamAnas tu vikRSya balavad dhanuH\n",
+      "ud": "राक्षसं शङ्कमानस्तु विकृष्य बलवद्धनुः\n",
+      "ur": "rākṣasaṁ śaṅkamānas tu vikr̥ṣya balavad dhanuḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 16
+  },
+  "03263016c": {
+    "text": {
+      "ascii": "abhyadhAvata kAkutsthas tatas taM sahalakSmaNaH\n",
+      "ud": "अभ्यधावत काकुत्स्थस्ततस्तं सहलक्ष्मणः\n",
+      "ur": "abhyadhāvata kākutsthas tatas taṁ sahalakṣmaṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 16
+  },
+  "03263017a": {
+    "text": {
+      "ascii": "sa tAv uvAca tejasvI sahitau rAmalakSmaNau\n",
+      "ud": "स तावुवाच तेजस्वी सहितौ रामलक्ष्मणौ\n",
+      "ur": "sa tāv uvāca tejasvī sahitau rāmalakṣmaṇau\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 17
+  },
+  "03263017c": {
+    "text": {
+      "ascii": "gRdhrarAjo 'smi bhadraM vAM sakhA dazarathasya ha\n",
+      "ud": "गृध्रराजोऽस्मि भद्रं वां सखा दशरथस्य ह\n",
+      "ur": "gr̥dhrarājo ’smi bhadraṁ vāṁ sakhā daśarathasya ha\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 17
+  },
+  "03263018a": {
+    "text": {
+      "ascii": "tasya tad vacanaM zrutvA saMgRhya dhanuSI zubhe\n",
+      "ud": "तस्य तद्वचनं श्रुत्वा संगृह्य धनुषी शुभे\n",
+      "ur": "tasya tad vacanaṁ śrutvā saṁgr̥hya dhanuṣī śubhe\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 18
+  },
+  "03263018c": {
+    "text": {
+      "ascii": "ko 'yaM pitaram asmAkaM nAmnAhety Ucatuz ca tau\n",
+      "ud": "कोऽयं पितरमस्माकं नाम्नाहेत्यूचतुश्च तौ\n",
+      "ur": "ko ’yaṁ pitaram asmākaṁ nāmnāhety ūcatuś ca tau\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 18
+  },
+  "03263019a": {
+    "text": {
+      "ascii": "tato dadRzatus tau taM chinnapakSadvayaM tathA\n",
+      "ud": "ततो ददृशतुस्तौ तं छिन्नपक्षद्वयं तथा\n",
+      "ur": "tato dadr̥śatus tau taṁ chinnapakṣadvayaṁ tathā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 19
+  },
+  "03263019c": {
+    "text": {
+      "ascii": "tayoH zazaMsa gRdhras tu sItArthe rAvaNAd vadham\n",
+      "ud": "तयोः शशंस गृध्रस्तु सीतार्थे रावणाद्वधम्\n",
+      "ur": "tayoḥ śaśaṁsa gr̥dhras tu sītārthe rāvaṇād vadham\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 19
+  },
+  "03263020a": {
+    "text": {
+      "ascii": "apRcchad rAghavo gRdhraM rAvaNaH kAM dizaM gataH\n",
+      "ud": "अपृच्छद्राघवो गृध्रं रावणः कां दिशं गतः\n",
+      "ur": "apr̥cchad rāghavo gr̥dhraṁ rāvaṇaḥ kāṁ diśaṁ gataḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 20
+  },
+  "03263020c": {
+    "text": {
+      "ascii": "tasya gRdhraH ziraHkampair AcacakSe mamAra ca\n",
+      "ud": "तस्य गृध्रः शिरःकम्पैराचचक्षे ममार च\n",
+      "ur": "tasya gr̥dhraḥ śiraḥkampair ācacakṣe mamāra ca\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 20
+  },
+  "03263021a": {
+    "text": {
+      "ascii": "dakSiNAm iti kAkutstho viditvAsya tad iGgitam\n",
+      "ud": "दक्षिणामिति काकुत्स्थो विदित्वास्य तदिङ्गितम्\n",
+      "ur": "dakṣiṇām iti kākutstho viditvāsya tad iṅgitam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 21
+  },
+  "03263021c": {
+    "text": {
+      "ascii": "saMskAraM lambhayAm Asa sakhAyaM pUjayan pituH\n",
+      "ud": "संस्कारं लम्भयामास सखायं पूजयन्पितुः\n",
+      "ur": "saṁskāraṁ lambhayām āsa sakhāyaṁ pūjayan pituḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 21
+  },
+  "03263022a": {
+    "text": {
+      "ascii": "tato dRSTvAzramapadaM vyapaviddhabRsIghaTam\n",
+      "ud": "ततो दृष्ट्वाश्रमपदं व्यपविद्धबृसीघटम्\n",
+      "ur": "tato dr̥ṣṭvāśramapadaṁ vyapaviddhabr̥sīghaṭam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 22
+  },
+  "03263022c": {
+    "text": {
+      "ascii": "vidhvastakalazaM zUnyaM gomAyubalasevitam\n",
+      "ud": "विध्वस्तकलशं शून्यं गोमायुबलसेवितम्\n",
+      "ur": "vidhvastakalaśaṁ śūnyaṁ gomāyubalasevitam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 22
+  },
+  "03263023a": {
+    "text": {
+      "ascii": "duHkhazokasamAviSTau vaidehIharaNArditau\n",
+      "ud": "दुःखशोकसमाविष्टौ वैदेहीहरणार्दितौ\n",
+      "ur": "duḥkhaśokasamāviṣṭau vaidehīharaṇārditau\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 23
+  },
+  "03263023c": {
+    "text": {
+      "ascii": "jagmatur daNDakAraNyaM dakSiNena paraMtapau\n",
+      "ud": "जग्मतुर्दण्डकारण्यं दक्षिणेन परंतपौ\n",
+      "ur": "jagmatur daṇḍakāraṇyaṁ dakṣiṇena paraṁtapau\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 23
+  },
+  "03263024a": {
+    "text": {
+      "ascii": "vane mahati tasmiMs tu rAmaH saumitriNA saha\n",
+      "ud": "वने महति तस्मिंस्तु रामः सौमित्रिणा सह\n",
+      "ur": "vane mahati tasmiṁs tu rāmaḥ saumitriṇā saha\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 24
+  },
+  "03263024c": {
+    "text": {
+      "ascii": "dadarza mRgayUthAni dravamANAni sarvazaH\n",
+      "ud": "ददर्श मृगयूथानि द्रवमाणानि सर्वशः\n",
+      "ur": "dadarśa mr̥gayūthāni dravamāṇāni sarvaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 24
+  },
+  "03263024e": {
+    "text": {
+      "ascii": "zabdaM ca ghoraM sattvAnAM dAvAgner iva vardhataH\n",
+      "ud": "शब्दं च घोरं सत्त्वानां दावाग्नेरिव वर्धतः\n",
+      "ur": "śabdaṁ ca ghoraṁ sattvānāṁ dāvāgner iva vardhataḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 24
+  },
+  "03263025a": {
+    "text": {
+      "ascii": "apazyetAM muhUrtAc ca kabandhaM ghoradarzanam\n",
+      "ud": "अपश्येतां मुहूर्ताच्च कबन्धं घोरदर्शनम्\n",
+      "ur": "apaśyetāṁ muhūrtāc ca kabandhaṁ ghoradarśanam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 25
+  },
+  "03263025c": {
+    "text": {
+      "ascii": "meghaparvatasaMkAzaM zAlaskandhaM mahAbhujam\n",
+      "ud": "मेघपर्वतसंकाशं शालस्कन्धं महाभुजम्\n",
+      "ur": "meghaparvatasaṁkāśaṁ śālaskandhaṁ mahābhujam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 25
+  },
+  "03263025e": {
+    "text": {
+      "ascii": "urogatavizAlAkSaM mahodaramahAmukham\n",
+      "ud": "उरोगतविशालाक्षं महोदरमहामुखम्\n",
+      "ur": "urogataviśālākṣaṁ mahodaramahāmukham\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 25
+  },
+  "03263026a": {
+    "text": {
+      "ascii": "yadRcchayAtha tad rakSaH kare jagrAha lakSmaNam\n",
+      "ud": "यदृच्छयाथ तद्रक्षः करे जग्राह लक्ष्मणम्\n",
+      "ur": "yadr̥cchayātha tad rakṣaḥ kare jagrāha lakṣmaṇam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 26
+  },
+  "03263026c": {
+    "text": {
+      "ascii": "viSAdam agamat sadyaH saumitrir atha bhArata\n",
+      "ud": "विषादमगमत्सद्यः सौमित्रिरथ भारत\n",
+      "ur": "viṣādam agamat sadyaḥ saumitrir atha bhārata\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 26
+  },
+  "03263027a": {
+    "text": {
+      "ascii": "sa rAmam abhisaMprekSya kRSyate yena tanmukham\n",
+      "ud": "स राममभिसंप्रेक्ष्य कृष्यते येन तन्मुखम्\n",
+      "ur": "sa rāmam abhisaṁprekṣya kr̥ṣyate yena tanmukham\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 27
+  },
+  "03263027c": {
+    "text": {
+      "ascii": "viSaNNaz cAbravId rAmaM pazyAvasthAm imAM mama\n",
+      "ud": "विषण्णश्चाब्रवीद्रामं पश्यावस्थामिमां मम\n",
+      "ur": "viṣaṇṇaś cābravīd rāmaṁ paśyāvasthām imāṁ mama\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 27
+  },
+  "03263028a": {
+    "text": {
+      "ascii": "haraNaM caiva vaidehyA mama cAyam upaplavaH\n",
+      "ud": "हरणं चैव वैदेह्या मम चायमुपप्लवः\n",
+      "ur": "haraṇaṁ caiva vaidehyā mama cāyam upaplavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 28
+  },
+  "03263028c": {
+    "text": {
+      "ascii": "rAjyabhraMzaz ca bhavatas tAtasya maraNaM tathA\n",
+      "ud": "राज्यभ्रंशश्च भवतस्तातस्य मरणं तथा\n",
+      "ur": "rājyabhraṁśaś ca bhavatas tātasya maraṇaṁ tathā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 28
+  },
+  "03263029a": {
+    "text": {
+      "ascii": "nAhaM tvAM saha vaidehyA sametaM kosalAgatam\n",
+      "ud": "नाहं त्वां सह वैदेह्या समेतं कोसलागतम्\n",
+      "ur": "nāhaṁ tvāṁ saha vaidehyā sametaṁ kosalāgatam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 29
+  },
+  "03263029c": {
+    "text": {
+      "ascii": "drakSyAmi pRthivIrAjye pitRpaitAmahe sthitam\n",
+      "ud": "द्रक्ष्यामि पृथिवीराज्ये पितृपैतामहे स्थितम्\n",
+      "ur": "drakṣyāmi pr̥thivīrājye pitr̥paitāmahe sthitam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 29
+  },
+  "03263030a": {
+    "text": {
+      "ascii": "drakSyanty Aryasya dhanyA ye kuzalAjazamIlavaiH\n",
+      "ud": "द्रक्ष्यन्त्यार्यस्य धन्या ये कुशलाजशमीलवैः\n",
+      "ur": "drakṣyanty āryasya dhanyā ye kuśalājaśamīlavaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 30
+  },
+  "03263030c": {
+    "text": {
+      "ascii": "abhiSiktasya vadanaM somaM sAbhralavaM yathA\n",
+      "ud": "अभिषिक्तस्य वदनं सोमं साभ्रलवं यथा\n",
+      "ur": "abhiṣiktasya vadanaṁ somaṁ sābhralavaṁ yathā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 30
+  },
+  "03263031a": {
+    "text": {
+      "ascii": "evaM bahuvidhaM dhImAn vilalApa sa lakSmaNaH\n",
+      "ud": "एवं बहुविधं धीमान्विललाप स लक्ष्मणः\n",
+      "ur": "evaṁ bahuvidhaṁ dhīmān vilalāpa sa lakṣmaṇaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 31
+  },
+  "03263031c": {
+    "text": {
+      "ascii": "tam uvAcAtha kAkutsthaH saMbhrameSv apy asaMbhramaH\n",
+      "ud": "तमुवाचाथ काकुत्स्थः संभ्रमेष्वप्यसंभ्रमः\n",
+      "ur": "tam uvācātha kākutsthaḥ saṁbhrameṣv apy asaṁbhramaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 31
+  },
+  "03263032a": {
+    "text": {
+      "ascii": "mA viSIda naravyAghra naiSa kaz cin mayi sthite\n",
+      "ud": "मा विषीद नरव्याघ्र नैष कश्चिन्मयि स्थिते\n",
+      "ur": "mā viṣīda naravyāghra naiṣa kaś cin mayi sthite\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 32
+  },
+  "03263032c": {
+    "text": {
+      "ascii": "chindhy asya dakSiNaM bAhuM chinnaH savyo mayA bhujaH\n",
+      "ud": "छिन्ध्यस्य दक्षिणं बाहुं छिन्नः सव्यो मया भुजः\n",
+      "ur": "chindhy asya dakṣiṇaṁ bāhuṁ chinnaḥ savyo mayā bhujaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 32
+  },
+  "03263033a": {
+    "text": {
+      "ascii": "ity evaM vadatA tasya bhujo rAmeNa pAtitaH\n",
+      "ud": "इत्येवं वदता तस्य भुजो रामेण पातितः\n",
+      "ur": "ity evaṁ vadatā tasya bhujo rāmeṇa pātitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 33
+  },
+  "03263033c": {
+    "text": {
+      "ascii": "khaDgena bhRzatIkSNena nikRttas tilakANDavat\n",
+      "ud": "खड्गेन भृशतीक्ष्णेन निकृत्तस्तिलकाण्डवत्\n",
+      "ur": "khaḍgena bhr̥śatīkṣṇena nikr̥ttas tilakāṇḍavat\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 33
+  },
+  "03263034a": {
+    "text": {
+      "ascii": "tato 'sya dakSiNaM bAhuM khaDgenAjaghnivAn balI\n",
+      "ud": "ततोऽस्य दक्षिणं बाहुं खड्गेनाजघ्निवान्बली\n",
+      "ur": "tato ’sya dakṣiṇaṁ bāhuṁ khaḍgenājaghnivān balī\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 34
+  },
+  "03263034c": {
+    "text": {
+      "ascii": "saumitrir api saMprekSya bhrAtaraM rAghavaM sthitam\n",
+      "ud": "सौमित्रिरपि संप्रेक्ष्य भ्रातरं राघवं स्थितम्\n",
+      "ur": "saumitrir api saṁprekṣya bhrātaraṁ rāghavaṁ sthitam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 34
+  },
+  "03263035a": {
+    "text": {
+      "ascii": "punar abhyAhanat pArzve tad rakSo lakSmaNo bhRzam\n",
+      "ud": "पुनरभ्याहनत्पार्श्वे तद्रक्षो लक्ष्मणो भृशम्\n",
+      "ur": "punar abhyāhanat pārśve tad rakṣo lakṣmaṇo bhr̥śam\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 35
+  },
+  "03263035c": {
+    "text": {
+      "ascii": "gatAsur apatad bhUmau kabandhaH sumahAMs tataH\n",
+      "ud": "गतासुरपतद्भूमौ कबन्धः सुमहांस्ततः\n",
+      "ur": "gatāsur apatad bhūmau kabandhaḥ sumahāṁs tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 35
+  },
+  "03263036a": {
+    "text": {
+      "ascii": "tasya dehAd viniHsRtya puruSo divyadarzanaH\n",
+      "ud": "तस्य देहाद्विनिःसृत्य पुरुषो दिव्यदर्शनः\n",
+      "ur": "tasya dehād viniḥsr̥tya puruṣo divyadarśanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 36
+  },
+  "03263036c": {
+    "text": {
+      "ascii": "dadRze divam AsthAya divi sUrya iva jvalan\n",
+      "ud": "ददृशे दिवमास्थाय दिवि सूर्य इव ज्वलन्\n",
+      "ur": "dadr̥śe divam āsthāya divi sūrya iva jvalan\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 36
+  },
+  "03263037a": {
+    "text": {
+      "ascii": "papraccha rAmas taM vAgmI kas tvaM prabrUhi pRcchataH\n",
+      "ud": "पप्रच्छ रामस्तं वाग्मी कस्त्वं प्रब्रूहि पृच्छतः\n",
+      "ur": "papraccha rāmas taṁ vāgmī kas tvaṁ prabrūhi pr̥cchataḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 37
+  },
+  "03263037c": {
+    "text": {
+      "ascii": "kAmayA kim idaM citram AzcaryaM pratibhAti me\n",
+      "ud": "कामया किमिदं चित्रमाश्चर्यं प्रतिभाति मे\n",
+      "ur": "kāmayā kim idaṁ citram āścaryaṁ pratibhāti me\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 37
+  },
+  "03263038a": {
+    "text": {
+      "ascii": "tasyAcacakSe gandharvo vizvAvasur ahaM nRpa\n",
+      "ud": "तस्याचचक्षे गन्धर्वो विश्वावसुरहं नृप\n",
+      "ur": "tasyācacakṣe gandharvo viśvāvasur ahaṁ nr̥pa\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 38
+  },
+  "03263038c": {
+    "text": {
+      "ascii": "prApto brahmAnuzApena yoniM rAkSasasevitAm\n",
+      "ud": "प्राप्तो ब्रह्मानुशापेन योनिं राक्षससेविताम्\n",
+      "ur": "prāpto brahmānuśāpena yoniṁ rākṣasasevitām\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 38
+  },
+  "03263039a": {
+    "text": {
+      "ascii": "rAvaNena hRtA sItA rAjJA laGkAnivAsinA\n",
+      "ud": "रावणेन हृता सीता राज्ञा लङ्कानिवासिना\n",
+      "ur": "rāvaṇena hr̥tā sītā rājñā laṅkānivāsinā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 39
+  },
+  "03263039c": {
+    "text": {
+      "ascii": "sugrIvam abhigacchasva sa te sAhyaM kariSyati\n",
+      "ud": "सुग्रीवमभिगच्छस्व स ते साह्यं करिष्यति\n",
+      "ur": "sugrīvam abhigacchasva sa te sāhyaṁ kariṣyati\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 39
+  },
+  "03263040a": {
+    "text": {
+      "ascii": "eSA pampA zivajalA haMsakAraNDavAyutA\n",
+      "ud": "एषा पम्पा शिवजला हंसकारण्डवायुता\n",
+      "ur": "eṣā pampā śivajalā haṁsakāraṇḍavāyutā\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 40
+  },
+  "03263040c": {
+    "text": {
+      "ascii": "RzyamUkasya zailasya saMnikarSe taTAkinI\n",
+      "ud": "ऋश्यमूकस्य शैलस्य संनिकर्षे तटाकिनी\n",
+      "ur": "r̥śyamūkasya śailasya saṁnikarṣe taṭākinī\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 40
+  },
+  "03263041a": {
+    "text": {
+      "ascii": "saMvasaty atra sugrIvaz caturbhiH sacivaiH saha\n",
+      "ud": "संवसत्यत्र सुग्रीवश्चतुर्भिः सचिवैः सह\n",
+      "ur": "saṁvasaty atra sugrīvaś caturbhiḥ sacivaiḥ saha\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 41
+  },
+  "03263041c": {
+    "text": {
+      "ascii": "bhrAtA vAnararAjasya vAlino hemamAlinaH\n",
+      "ud": "भ्राता वानरराजस्य वालिनो हेममालिनः\n",
+      "ur": "bhrātā vānararājasya vālino hemamālinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 41
+  },
+  "03263042a": {
+    "text": {
+      "ascii": "etAvac chakyam asmAbhir vaktuM draSTAsi jAnakIm\n",
+      "ud": "एतावच्छक्यमस्माभिर्वक्तुं द्रष्टासि जानकीम्\n",
+      "ur": "etāvac chakyam asmābhir vaktuṁ draṣṭāsi jānakīm\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 42
+  },
+  "03263042c": {
+    "text": {
+      "ascii": "dhruvaM vAnararAjasya vidito rAvaNAlayaH\n",
+      "ud": "ध्रुवं वानरराजस्य विदितो रावणालयः\n",
+      "ur": "dhruvaṁ vānararājasya vidito rāvaṇālayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 42
+  },
+  "03263043a": {
+    "text": {
+      "ascii": "ity uktvAntarhito divyaH puruSaH sa mahAprabhaH\n",
+      "ud": "इत्युक्त्वान्तर्हितो दिव्यः पुरुषः स महाप्रभः\n",
+      "ur": "ity uktvāntarhito divyaḥ puruṣaḥ sa mahāprabhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 43
+  },
+  "03263043c": {
+    "text": {
+      "ascii": "vismayaM jagmatuz cobhau tau vIrau rAmalakSmaNau\n",
+      "ud": "विस्मयं जग्मतुश्चोभौ तौ वीरौ रामलक्ष्मणौ\n",
+      "ur": "vismayaṁ jagmatuś cobhau tau vīrau rāmalakṣmaṇau\n"
+    },
+    "book": 3,
+    "chapter": 263,
+    "verse": 43
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "03227001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 1
+  },
+  "03227001a": {
+    "text": {
+      "ascii": "karNasya vacanaM zrutvA rAjA duryodhanas tadA\n",
+      "ud": "कर्णस्य वचनं श्रुत्वा राजा दुर्योधनस्तदा\n",
+      "ur": "karṇasya vacanaṁ śrutvā rājā duryodhanas tadā\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 1
+  },
+  "03227001c": {
+    "text": {
+      "ascii": "hRSTo bhUtvA punar dIna idaM vacanam abravIt\n",
+      "ud": "हृष्टो भूत्वा पुनर्दीन इदं वचनमब्रवीत्\n",
+      "ur": "hr̥ṣṭo bhūtvā punar dīna idaṁ vacanam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 1
+  },
+  "03227002a": {
+    "text": {
+      "ascii": "bravISi yad idaM karNa sarvaM me manasi sthitam\n",
+      "ud": "ब्रवीषि यदिदं कर्ण सर्वं मे मनसि स्थितम्\n",
+      "ur": "bravīṣi yad idaṁ karṇa sarvaṁ me manasi sthitam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 2
+  },
+  "03227002c": {
+    "text": {
+      "ascii": "na tv abhyanujJAM lapsyAmi gamane yatra pANDavAH\n",
+      "ud": "न त्वभ्यनुज्ञां लप्स्यामि गमने यत्र पाण्डवाः\n",
+      "ur": "na tv abhyanujñāṁ lapsyāmi gamane yatra pāṇḍavāḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 2
+  },
+  "03227003a": {
+    "text": {
+      "ascii": "paridevati tAn vIrAn dhRtarASTro mahIpatiH\n",
+      "ud": "परिदेवति तान्वीरान्धृतराष्ट्रो महीपतिः\n",
+      "ur": "paridevati tān vīrān dhr̥tarāṣṭro mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 3
+  },
+  "03227003c": {
+    "text": {
+      "ascii": "manyate 'bhyadhikAMz cApi tapoyogena pANDavAn\n",
+      "ud": "मन्यतेऽभ्यधिकांश्चापि तपोयोगेन पाण्डवान्\n",
+      "ur": "manyate ’bhyadhikāṁś cāpi tapoyogena pāṇḍavān\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 3
+  },
+  "03227004a": {
+    "text": {
+      "ascii": "atha vApy anubudhyeta nRpo 'smAkaM cikIrSitam\n",
+      "ud": "अथ वाप्यनुबुध्येत नृपोऽस्माकं चिकीर्षितम्\n",
+      "ur": "atha vāpy anubudhyeta nr̥po ’smākaṁ cikīrṣitam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 4
+  },
+  "03227004c": {
+    "text": {
+      "ascii": "evam apy AyatiM rakSan nAbhyanujJAtum arhati\n",
+      "ud": "एवमप्यायतिं रक्षन्नाभ्यनुज्ञातुमर्हति\n",
+      "ur": "evam apy āyatiṁ rakṣan nābhyanujñātum arhati\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 4
+  },
+  "03227005a": {
+    "text": {
+      "ascii": "na hi dvaitavane kiM cid vidyate 'nyat prayojanam\n",
+      "ud": "न हि द्वैतवने किंचिद्विद्यतेऽन्यत्प्रयोजनम्\n",
+      "ur": "na hi dvaitavane kiṁ cid vidyate ’nyat prayojanam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 5
+  },
+  "03227005c": {
+    "text": {
+      "ascii": "utsAdanam Rte teSAM vanasthAnAM mama dviSAm\n",
+      "ud": "उत्सादनमृते तेषां वनस्थानां मम द्विषाम्\n",
+      "ur": "utsādanam r̥te teṣāṁ vanasthānāṁ mama dviṣām\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 5
+  },
+  "03227006a": {
+    "text": {
+      "ascii": "jAnAsi hi yathA kSattA dyUtakAla upasthite\n",
+      "ud": "जानासि हि यथा क्षत्ता द्यूतकाल उपस्थिते\n",
+      "ur": "jānāsi hi yathā kṣattā dyūtakāla upasthite\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 6
+  },
+  "03227006c": {
+    "text": {
+      "ascii": "abravId yac ca mAM tvAM ca saubalaM ca vacas tadA\n",
+      "ud": "अब्रवीद्यच्च मां त्वां च सौबलं च वचस्तदा\n",
+      "ur": "abravīd yac ca māṁ tvāṁ ca saubalaṁ ca vacas tadā\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 6
+  },
+  "03227007a": {
+    "text": {
+      "ascii": "tAni pUrvANi vAkyAni yac cAnyat paridevitam\n",
+      "ud": "तानि पूर्वाणि वाक्यानि यच्चान्यत्परिदेवितम्\n",
+      "ur": "tāni pūrvāṇi vākyāni yac cānyat paridevitam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 7
+  },
+  "03227007c": {
+    "text": {
+      "ascii": "vicintya nAdhigacchAmi gamanAyetarAya vA\n",
+      "ud": "विचिन्त्य नाधिगच्छामि गमनायेतराय वा\n",
+      "ur": "vicintya nādhigacchāmi gamanāyetarāya vā\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 7
+  },
+  "03227008a": {
+    "text": {
+      "ascii": "mamApi hi mahAn harSo yad ahaM bhImaphalgunau\n",
+      "ud": "ममापि हि महान्हर्षो यदहं भीमफल्गुनौ\n",
+      "ur": "mamāpi hi mahān harṣo yad ahaṁ bhīmaphalgunau\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 8
+  },
+  "03227008c": {
+    "text": {
+      "ascii": "kliSTAv araNye pazyeyaM kRSNayA sahitAv iti\n",
+      "ud": "क्लिष्टावरण्ये पश्येयं कृष्णया सहिताविति\n",
+      "ur": "kliṣṭāv araṇye paśyeyaṁ kr̥ṣṇayā sahitāv iti\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 8
+  },
+  "03227009a": {
+    "text": {
+      "ascii": "na tathA prApnuyAM prItim avApya vasudhAm api\n",
+      "ud": "न तथा प्राप्नुयां प्रीतिमवाप्य वसुधामपि\n",
+      "ur": "na tathā prāpnuyāṁ prītim avāpya vasudhām api\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 9
+  },
+  "03227009c": {
+    "text": {
+      "ascii": "dRSTvA yathA pANDusutAn valkalAjinavAsasaH\n",
+      "ud": "दृष्ट्वा यथा पाण्डुसुतान्वल्कलाजिनवाससः\n",
+      "ur": "dr̥ṣṭvā yathā pāṇḍusutān valkalājinavāsasaḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 9
+  },
+  "03227010a": {
+    "text": {
+      "ascii": "kiM nu syAd adhikaM tasmAd yad ahaM drupadAtmajAm\n",
+      "ud": "किं नु स्यादधिकं तस्माद्यदहं द्रुपदात्मजाम्\n",
+      "ur": "kiṁ nu syād adhikaṁ tasmād yad ahaṁ drupadātmajām\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 10
+  },
+  "03227010c": {
+    "text": {
+      "ascii": "draupadIM karNa pazyeyaM kASAyavasanAM vane\n",
+      "ud": "द्रौपदीं कर्ण पश्येयं काषायवसनां वने\n",
+      "ur": "draupadīṁ karṇa paśyeyaṁ kāṣāyavasanāṁ vane\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 10
+  },
+  "03227011a": {
+    "text": {
+      "ascii": "yadi mAM dharmarAjaz ca bhImasenaz ca pANDavaH\n",
+      "ud": "यदि मां धर्मराजश्च भीमसेनश्च पाण्डवः\n",
+      "ur": "yadi māṁ dharmarājaś ca bhīmasenaś ca pāṇḍavaḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 11
+  },
+  "03227011c": {
+    "text": {
+      "ascii": "yuktaM paramayA lakSmyA pazyetAM jIvitaM bhavet\n",
+      "ud": "युक्तं परमया लक्ष्म्या पश्येतां जीवितं भवेत्\n",
+      "ur": "yuktaṁ paramayā lakṣmyā paśyetāṁ jīvitaṁ bhavet\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 11
+  },
+  "03227012a": {
+    "text": {
+      "ascii": "upAyaM na tu pazyAmi yena gacchema tad vanam\n",
+      "ud": "उपायं न तु पश्यामि येन गच्छेम तद्वनम्\n",
+      "ur": "upāyaṁ na tu paśyāmi yena gacchema tad vanam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 12
+  },
+  "03227012c": {
+    "text": {
+      "ascii": "yathA cAbhyanujAnIyAd gacchantaM mAM mahIpatiH\n",
+      "ud": "यथा चाभ्यनुजानीयाद्गच्छन्तं मां महीपतिः\n",
+      "ur": "yathā cābhyanujānīyād gacchantaṁ māṁ mahīpatiḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 12
+  },
+  "03227013a": {
+    "text": {
+      "ascii": "sa saubalena sahitas tathA duHzAsanena ca\n",
+      "ud": "स सौबलेन सहितस्तथा दुःशासनेन च\n",
+      "ur": "sa saubalena sahitas tathā duḥśāsanena ca\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 13
+  },
+  "03227013c": {
+    "text": {
+      "ascii": "upAyaM pazya nipuNaM yena gacchema tad vanam\n",
+      "ud": "उपायं पश्य निपुणं येन गच्छेम तद्वनम्\n",
+      "ur": "upāyaṁ paśya nipuṇaṁ yena gacchema tad vanam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 13
+  },
+  "03227014a": {
+    "text": {
+      "ascii": "aham apy adya nizcitya gamanAyetarAya vA\n",
+      "ud": "अहमप्यद्य निश्चित्य गमनायेतराय वा\n",
+      "ur": "aham apy adya niścitya gamanāyetarāya vā\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 14
+  },
+  "03227014c": {
+    "text": {
+      "ascii": "kAlyam eva gamiSyAmi samIpaM pArthivasya ha\n",
+      "ud": "काल्यमेव गमिष्यामि समीपं पार्थिवस्य ह\n",
+      "ur": "kālyam eva gamiṣyāmi samīpaṁ pārthivasya ha\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 14
+  },
+  "03227015a": {
+    "text": {
+      "ascii": "mayi tatropaviSTe tu bhISme ca kurusattame\n",
+      "ud": "मयि तत्रोपविष्टे तु भीष्मे च कुरुसत्तमे\n",
+      "ur": "mayi tatropaviṣṭe tu bhīṣme ca kurusattame\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 15
+  },
+  "03227015c": {
+    "text": {
+      "ascii": "upAyo yo bhaved dRSTas taM brUyAH sahasaubalaH\n",
+      "ud": "उपायो यो भवेद्दृष्टस्तं ब्रूयाः सहसौबलः\n",
+      "ur": "upāyo yo bhaved dr̥ṣṭas taṁ brūyāḥ sahasaubalaḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 15
+  },
+  "03227016a": {
+    "text": {
+      "ascii": "tato bhISmasya rAjJaz ca nizamya gamanaM prati\n",
+      "ud": "ततो भीष्मस्य राज्ञश्च निशम्य गमनं प्रति\n",
+      "ur": "tato bhīṣmasya rājñaś ca niśamya gamanaṁ prati\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 16
+  },
+  "03227016c": {
+    "text": {
+      "ascii": "vyavasAyaM kariSye 'ham anunIya pitAmaham\n",
+      "ud": "व्यवसायं करिष्येऽहमनुनीय पितामहम्\n",
+      "ur": "vyavasāyaṁ kariṣye ’ham anunīya pitāmaham\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 16
+  },
+  "03227017a": {
+    "text": {
+      "ascii": "tathety uktvA tu te sarve jagmur AvasathAn prati\n",
+      "ud": "तथेत्युक्त्वा तु ते सर्वे जग्मुरावसथान्प्रति\n",
+      "ur": "tathety uktvā tu te sarve jagmur āvasathān prati\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 17
+  },
+  "03227017c": {
+    "text": {
+      "ascii": "vyuSitAyAM rajanyAM tu karNo rAjAnam abhyayAt\n",
+      "ud": "व्युषितायां रजन्यां तु कर्णो राजानमभ्ययात्\n",
+      "ur": "vyuṣitāyāṁ rajanyāṁ tu karṇo rājānam abhyayāt\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 17
+  },
+  "03227018a": {
+    "text": {
+      "ascii": "tato duryodhanaM karNaH prahasann idam abravIt\n",
+      "ud": "ततो दुर्योधनं कर्णः प्रहसन्निदमब्रवीत्\n",
+      "ur": "tato duryodhanaṁ karṇaḥ prahasann idam abravīt\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 18
+  },
+  "03227018c": {
+    "text": {
+      "ascii": "upAyaH paridRSTo 'yaM taM nibodha janezvara\n",
+      "ud": "उपायः परिदृष्टोऽयं तं निबोध जनेश्वर\n",
+      "ur": "upāyaḥ paridr̥ṣṭo ’yaṁ taṁ nibodha janeśvara\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 18
+  },
+  "03227019a": {
+    "text": {
+      "ascii": "ghoSA dvaitavane sarve tvatpratIkSA narAdhipa\n",
+      "ud": "घोषा द्वैतवने सर्वे त्वत्प्रतीक्षा नराधिप\n",
+      "ur": "ghoṣā dvaitavane sarve tvatpratīkṣā narādhipa\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 19
+  },
+  "03227019c": {
+    "text": {
+      "ascii": "ghoSayAtrApadezena gamiSyAmo na saMzayaH\n",
+      "ud": "घोषयात्रापदेशेन गमिष्यामो न संशयः\n",
+      "ur": "ghoṣayātrāpadeśena gamiṣyāmo na saṁśayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 19
+  },
+  "03227020a": {
+    "text": {
+      "ascii": "ucitaM hi sadA gantuM ghoSayAtrAM vizAM pate\n",
+      "ud": "उचितं हि सदा गन्तुं घोषयात्रां विशां पते\n",
+      "ur": "ucitaṁ hi sadā gantuṁ ghoṣayātrāṁ viśāṁ pate\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 20
+  },
+  "03227020c": {
+    "text": {
+      "ascii": "evaM ca tvAM pitA rAjan samanujJAtum arhati\n",
+      "ud": "एवं च त्वां पिता राजन्समनुज्ञातुमर्हति\n",
+      "ur": "evaṁ ca tvāṁ pitā rājan samanujñātum arhati\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 20
+  },
+  "03227021a": {
+    "text": {
+      "ascii": "tathA kathayamAnau tau ghoSayAtrAvinizcayam\n",
+      "ud": "तथा कथयमानौ तौ घोषयात्राविनिश्चयम्\n",
+      "ur": "tathā kathayamānau tau ghoṣayātrāviniścayam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 21
+  },
+  "03227021c": {
+    "text": {
+      "ascii": "gAndhArarAjaH zakuniH pratyuvAca hasann iva\n",
+      "ud": "गान्धारराजः शकुनिः प्रत्युवाच हसन्निव\n",
+      "ur": "gāndhārarājaḥ śakuniḥ pratyuvāca hasann iva\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 21
+  },
+  "03227022a": {
+    "text": {
+      "ascii": "upAyo 'yaM mayA dRSTo gamanAya nirAmayaH\n",
+      "ud": "उपायोऽयं मया दृष्टो गमनाय निरामयः\n",
+      "ur": "upāyo ’yaṁ mayā dr̥ṣṭo gamanāya nirāmayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 22
+  },
+  "03227022c": {
+    "text": {
+      "ascii": "anujJAsyati no rAjA codayiSyati cApy uta\n",
+      "ud": "अनुज्ञास्यति नो राजा चोदयिष्यति चाप्युत\n",
+      "ur": "anujñāsyati no rājā codayiṣyati cāpy uta\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 22
+  },
+  "03227023a": {
+    "text": {
+      "ascii": "ghoSA dvaitavane sarve tvatpratIkSA narAdhipa\n",
+      "ud": "घोषा द्वैतवने सर्वे त्वत्प्रतीक्षा नराधिप\n",
+      "ur": "ghoṣā dvaitavane sarve tvatpratīkṣā narādhipa\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 23
+  },
+  "03227023c": {
+    "text": {
+      "ascii": "ghoSayAtrApadezena gamiSyAmo na saMzayaH\n",
+      "ud": "घोषयात्रापदेशेन गमिष्यामो न संशयः\n",
+      "ur": "ghoṣayātrāpadeśena gamiṣyāmo na saṁśayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 23
+  },
+  "03227024a": {
+    "text": {
+      "ascii": "tataH prahasitAH sarve te 'nyonyasya talAn daduH\n",
+      "ud": "ततः प्रहसिताः सर्वे तेऽन्योन्यस्य तलान्ददुः\n",
+      "ur": "tataḥ prahasitāḥ sarve te ’nyonyasya talān daduḥ\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 24
+  },
+  "03227024c": {
+    "text": {
+      "ascii": "tad eva ca vinizcitya dadRzuH kurusattamam\n",
+      "ud": "तदेव च विनिश्चित्य ददृशुः कुरुसत्तमम्\n",
+      "ur": "tad eva ca viniścitya dadr̥śuḥ kurusattamam\n"
+    },
+    "book": 3,
+    "chapter": 227,
+    "verse": 24
+  }
+}

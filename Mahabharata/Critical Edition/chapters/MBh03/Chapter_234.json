@@ -1,0 +1,592 @@
+{
+  "03234001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 1
+  },
+  "03234001a": {
+    "text": {
+      "ascii": "tato divyAstrasaMpannA gandharvA hemamAlinaH\n",
+      "ud": "ततो दिव्यास्त्रसंपन्ना गन्धर्वा हेममालिनः\n",
+      "ur": "tato divyāstrasaṁpannā gandharvā hemamālinaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 1
+  },
+  "03234001c": {
+    "text": {
+      "ascii": "visRjantaH zarAn dIptAn samantAt paryavArayan\n",
+      "ud": "विसृजन्तः शरान्दीप्तान्समन्तात्पर्यवारयन्\n",
+      "ur": "visr̥jantaḥ śarān dīptān samantāt paryavārayan\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 1
+  },
+  "03234002a": {
+    "text": {
+      "ascii": "catvAraH pANDavA vIrA gandharvAz ca sahasrazaH\n",
+      "ud": "चत्वारः पाण्डवा वीरा गन्धर्वाश्च सहस्रशः\n",
+      "ur": "catvāraḥ pāṇḍavā vīrā gandharvāś ca sahasraśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 2
+  },
+  "03234002c": {
+    "text": {
+      "ascii": "raNe saMnyapatan rAjaMs tad adbhutam ivAbhavat\n",
+      "ud": "रणे संन्यपतन्राजंस्तदद्भुतमिवाभवत्\n",
+      "ur": "raṇe saṁnyapatan rājaṁs tad adbhutam ivābhavat\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 2
+  },
+  "03234003a": {
+    "text": {
+      "ascii": "yathA karNasya ca ratho dhArtarASTrasya cobhayoH\n",
+      "ud": "यथा कर्णस्य च रथो धार्तराष्ट्रस्य चोभयोः\n",
+      "ur": "yathā karṇasya ca ratho dhārtarāṣṭrasya cobhayoḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 3
+  },
+  "03234003c": {
+    "text": {
+      "ascii": "gandharvaiH zatazaz chinnau tathA teSAM pracakrire\n",
+      "ud": "गन्धर्वैः शतशश्छिन्नौ तथा तेषां प्रचक्रिरे\n",
+      "ur": "gandharvaiḥ śataśaś chinnau tathā teṣāṁ pracakrire\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 3
+  },
+  "03234004a": {
+    "text": {
+      "ascii": "tAn samApatato rAjan gandharvAJ zatazo raNe\n",
+      "ud": "तान्समापततो राजन्गन्धर्वाञ्शतशो रणे\n",
+      "ur": "tān samāpatato rājan gandharvāñ śataśo raṇe\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 4
+  },
+  "03234004c": {
+    "text": {
+      "ascii": "pratyagRhNan naravyAghrAH zaravarSair anekazaH\n",
+      "ud": "प्रत्यगृह्णन्नरव्याघ्राः शरवर्षैरनेकशः\n",
+      "ur": "pratyagr̥hṇan naravyāghrāḥ śaravarṣair anekaśaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 4
+  },
+  "03234005a": {
+    "text": {
+      "ascii": "avakIryamANAH khagamAH zaravarSaiH samantataH\n",
+      "ud": "अवकीर्यमाणाः खगमाः शरवर्षैः समन्ततः\n",
+      "ur": "avakīryamāṇāḥ khagamāḥ śaravarṣaiḥ samantataḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 5
+  },
+  "03234005c": {
+    "text": {
+      "ascii": "na zekuH pANDuputrANAM samIpe parivartitum\n",
+      "ud": "न शेकुः पाण्डुपुत्राणां समीपे परिवर्तितुम्\n",
+      "ur": "na śekuḥ pāṇḍuputrāṇāṁ samīpe parivartitum\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 5
+  },
+  "03234006a": {
+    "text": {
+      "ascii": "abhikruddhAn abhiprekSya gandharvAn arjunas tadA\n",
+      "ud": "अभिक्रुद्धानभिप्रेक्ष्य गन्धर्वानर्जुनस्तदा\n",
+      "ur": "abhikruddhān abhiprekṣya gandharvān arjunas tadā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 6
+  },
+  "03234006c": {
+    "text": {
+      "ascii": "lakSayitvAtha divyAni mahAstrANy upacakrame\n",
+      "ud": "लक्षयित्वाथ दिव्यानि महास्त्राण्युपचक्रमे\n",
+      "ur": "lakṣayitvātha divyāni mahāstrāṇy upacakrame\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 6
+  },
+  "03234007a": {
+    "text": {
+      "ascii": "sahasrANAM sahasraM sa prAhiNod yamasAdanam\n",
+      "ud": "सहस्राणां सहस्रं स प्राहिणोद्यमसादनम्\n",
+      "ur": "sahasrāṇāṁ sahasraṁ sa prāhiṇod yamasādanam\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 7
+  },
+  "03234007c": {
+    "text": {
+      "ascii": "AgneyenArjunaH saMkhye gandharvANAM balotkaTaH\n",
+      "ud": "आग्नेयेनार्जुनः संख्ये गन्धर्वाणां बलोत्कटः\n",
+      "ur": "āgneyenārjunaḥ saṁkhye gandharvāṇāṁ balotkaṭaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 7
+  },
+  "03234008a": {
+    "text": {
+      "ascii": "tathA bhImo maheSvAsaH saMyuge balinAM varaH\n",
+      "ud": "तथा भीमो महेष्वासः संयुगे बलिनां वरः\n",
+      "ur": "tathā bhīmo maheṣvāsaḥ saṁyuge balināṁ varaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 8
+  },
+  "03234008c": {
+    "text": {
+      "ascii": "gandharvAJ zatazo rAjaJ jaghAna nizitaiH zaraiH\n",
+      "ud": "गन्धर्वाञ्शतशो राजञ्जघान निशितैः शरैः\n",
+      "ur": "gandharvāñ śataśo rājañ jaghāna niśitaiḥ śaraiḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 8
+  },
+  "03234009a": {
+    "text": {
+      "ascii": "mAdrIputrAv api tathA yudhyamAnau balotkaTau\n",
+      "ud": "माद्रीपुत्रावपि तथा युध्यमानौ बलोत्कटौ\n",
+      "ur": "mādrīputrāv api tathā yudhyamānau balotkaṭau\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 9
+  },
+  "03234009c": {
+    "text": {
+      "ascii": "parigRhyAgrato rAjaJ jaghnatuH zatazaH parAn\n",
+      "ud": "परिगृह्याग्रतो राजञ्जघ्नतुः शतशः परान्\n",
+      "ur": "parigr̥hyāgrato rājañ jaghnatuḥ śataśaḥ parān\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 9
+  },
+  "03234010a": {
+    "text": {
+      "ascii": "te vadhyamAnA gandharvA divyair astrair mahAtmabhiH\n",
+      "ud": "ते वध्यमाना गन्धर्वा दिव्यैरस्त्रैर्महात्मभिः\n",
+      "ur": "te vadhyamānā gandharvā divyair astrair mahātmabhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 10
+  },
+  "03234010c": {
+    "text": {
+      "ascii": "utpetuH kham upAdAya dhRtarASTrasutAMs tataH\n",
+      "ud": "उत्पेतुः खमुपादाय धृतराष्ट्रसुतांस्ततः\n",
+      "ur": "utpetuḥ kham upādāya dhr̥tarāṣṭrasutāṁs tataḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 10
+  },
+  "03234011a": {
+    "text": {
+      "ascii": "tAn utpatiSNUn buddhvA tu kuntIputro dhanaMjayaH\n",
+      "ud": "तानुत्पतिष्णून्बुद्ध्वा तु कुन्तीपुत्रो धनंजयः\n",
+      "ur": "tān utpatiṣṇūn buddhvā tu kuntīputro dhanaṁjayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 11
+  },
+  "03234011c": {
+    "text": {
+      "ascii": "mahatA zarajAlena samantAt paryavArayat\n",
+      "ud": "महता शरजालेन समन्तात्पर्यवारयत्\n",
+      "ur": "mahatā śarajālena samantāt paryavārayat\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 11
+  },
+  "03234012a": {
+    "text": {
+      "ascii": "te baddhAH zarajAlena zakuntA iva paJjare\n",
+      "ud": "ते बद्धाः शरजालेन शकुन्ता इव पञ्जरे\n",
+      "ur": "te baddhāḥ śarajālena śakuntā iva pañjare\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 12
+  },
+  "03234012c": {
+    "text": {
+      "ascii": "vavarSur arjunaM krodhAd gadAzaktyRSTivRSTibhiH\n",
+      "ud": "ववर्षुरर्जुनं क्रोधाद्गदाशक्त्यृष्टिवृष्टिभिः\n",
+      "ur": "vavarṣur arjunaṁ krodhād gadāśaktyr̥ṣṭivr̥ṣṭibhiḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 12
+  },
+  "03234013a": {
+    "text": {
+      "ascii": "gadAzaktyasivRSTIs tA nihatya sa mahAstravit\n",
+      "ud": "गदाशक्त्यसिवृष्टीस्ता निहत्य स महास्त्रवित्\n",
+      "ur": "gadāśaktyasivr̥ṣṭīs tā nihatya sa mahāstravit\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 13
+  },
+  "03234013c": {
+    "text": {
+      "ascii": "gAtrANi cAhanad bhallair gandharvANAM dhanaMjayaH\n",
+      "ud": "गात्राणि चाहनद्भल्लैर्गन्धर्वाणां धनंजयः\n",
+      "ur": "gātrāṇi cāhanad bhallair gandharvāṇāṁ dhanaṁjayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 13
+  },
+  "03234014a": {
+    "text": {
+      "ascii": "zirobhiH prapatadbhiz ca caraNair bAhubhis tathA\n",
+      "ud": "शिरोभिः प्रपतद्भिश्च चरणैर्बाहुभिस्तथा\n",
+      "ur": "śirobhiḥ prapatadbhiś ca caraṇair bāhubhis tathā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 14
+  },
+  "03234014c": {
+    "text": {
+      "ascii": "azmavRSTir ivAbhAti pareSAm abhavad bhayam\n",
+      "ud": "अश्मवृष्टिरिवाभाति परेषामभवद्भयम्\n",
+      "ur": "aśmavr̥ṣṭir ivābhāti pareṣām abhavad bhayam\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 14
+  },
+  "03234015a": {
+    "text": {
+      "ascii": "te vadhyamAnA gandharvAH pANDavena mahAtmanA\n",
+      "ud": "ते वध्यमाना गन्धर्वाः पाण्डवेन महात्मना\n",
+      "ur": "te vadhyamānā gandharvāḥ pāṇḍavena mahātmanā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 15
+  },
+  "03234015c": {
+    "text": {
+      "ascii": "bhUmiSTham antarikSasthAH zaravarSair avAkiran\n",
+      "ud": "भूमिष्ठमन्तरिक्षस्थाः शरवर्षैरवाकिरन्\n",
+      "ur": "bhūmiṣṭham antarikṣasthāḥ śaravarṣair avākiran\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 15
+  },
+  "03234016a": {
+    "text": {
+      "ascii": "teSAM tu zaravarSANi savyasAcI paraMtapaH\n",
+      "ud": "तेषां तु शरवर्षाणि सव्यसाची परंतपः\n",
+      "ur": "teṣāṁ tu śaravarṣāṇi savyasācī paraṁtapaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 16
+  },
+  "03234016c": {
+    "text": {
+      "ascii": "astraiH saMvArya tejasvI gandharvAn pratyavidhyata\n",
+      "ud": "अस्त्रैः संवार्य तेजस्वी गन्धर्वान्प्रत्यविध्यत\n",
+      "ur": "astraiḥ saṁvārya tejasvī gandharvān pratyavidhyata\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 16
+  },
+  "03234017a": {
+    "text": {
+      "ascii": "sthUNAkarNendrajAlaM ca sauraM cApi tathArjunaH\n",
+      "ud": "स्थूणाकर्णेन्द्रजालं च सौरं चापि तथार्जुनः\n",
+      "ur": "sthūṇākarṇendrajālaṁ ca sauraṁ cāpi tathārjunaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 17
+  },
+  "03234017c": {
+    "text": {
+      "ascii": "AgneyaM cApi saumyaM ca sasarja kurunandanaH\n",
+      "ud": "आग्नेयं चापि सौम्यं च ससर्ज कुरुनन्दनः\n",
+      "ur": "āgneyaṁ cāpi saumyaṁ ca sasarja kurunandanaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 17
+  },
+  "03234018a": {
+    "text": {
+      "ascii": "te dahyamAnA gandharvAH kuntIputrasya sAyakaiH\n",
+      "ud": "ते दह्यमाना गन्धर्वाः कुन्तीपुत्रस्य सायकैः\n",
+      "ur": "te dahyamānā gandharvāḥ kuntīputrasya sāyakaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 18
+  },
+  "03234018c": {
+    "text": {
+      "ascii": "daiteyA iva zakreNa viSAdam agaman param\n",
+      "ud": "दैतेया इव शक्रेण विषादमगमन्परम्\n",
+      "ur": "daiteyā iva śakreṇa viṣādam agaman param\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 18
+  },
+  "03234019a": {
+    "text": {
+      "ascii": "Urdhvam AkramamANAz ca zarajAlena vAritAH\n",
+      "ud": "ऊर्ध्वमाक्रममाणाश्च शरजालेन वारिताः\n",
+      "ur": "ūrdhvam ākramamāṇāś ca śarajālena vāritāḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 19
+  },
+  "03234019c": {
+    "text": {
+      "ascii": "visarpamANA bhallaiz ca vAryante savyasAcinA\n",
+      "ud": "विसर्पमाणा भल्लैश्च वार्यन्ते सव्यसाचिना\n",
+      "ur": "visarpamāṇā bhallaiś ca vāryante savyasācinā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 19
+  },
+  "03234020a": {
+    "text": {
+      "ascii": "gandharvAMs trAsitAn dRSTvA kuntIputreNa dhImatA\n",
+      "ud": "गन्धर्वांस्त्रासितान्दृष्ट्वा कुन्तीपुत्रेण धीमता\n",
+      "ur": "gandharvāṁs trāsitān dr̥ṣṭvā kuntīputreṇa dhīmatā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 20
+  },
+  "03234020c": {
+    "text": {
+      "ascii": "citraseno gadAM gRhya savyasAcinam Adravat\n",
+      "ud": "चित्रसेनो गदां गृह्य सव्यसाचिनमाद्रवत्\n",
+      "ur": "citraseno gadāṁ gr̥hya savyasācinam ādravat\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 20
+  },
+  "03234021a": {
+    "text": {
+      "ascii": "tasyAbhipatatas tUrNaM gadAhastasya saMyuge\n",
+      "ud": "तस्याभिपततस्तूर्णं गदाहस्तस्य संयुगे\n",
+      "ur": "tasyābhipatatas tūrṇaṁ gadāhastasya saṁyuge\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 21
+  },
+  "03234021c": {
+    "text": {
+      "ascii": "gadAM sarvAyasIM pArthaH zaraiz ciccheda saptadhA\n",
+      "ud": "गदां सर्वायसीं पार्थः शरैश्चिच्छेद सप्तधा\n",
+      "ur": "gadāṁ sarvāyasīṁ pārthaḥ śaraiś ciccheda saptadhā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 21
+  },
+  "03234022a": {
+    "text": {
+      "ascii": "sa gadAM bahudhA dRSTvA kRttAM bANais tarasvinA\n",
+      "ud": "स गदां बहुधा दृष्ट्वा कृत्तां बाणैस्तरस्विना\n",
+      "ur": "sa gadāṁ bahudhā dr̥ṣṭvā kr̥ttāṁ bāṇais tarasvinā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 22
+  },
+  "03234022c": {
+    "text": {
+      "ascii": "saMvRtya vidyayAtmAnaM yodhayAm Asa pANDavam\n",
+      "ud": "संवृत्य विद्ययात्मानं योधयामास पाण्डवम्\n",
+      "ur": "saṁvr̥tya vidyayātmānaṁ yodhayām āsa pāṇḍavam\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 22
+  },
+  "03234022e": {
+    "text": {
+      "ascii": "astrANi tasya divyAni yodhayAm Asa khe sthitaH\n",
+      "ud": "अस्त्राणि तस्य दिव्यानि योधयामास खे स्थितः\n",
+      "ur": "astrāṇi tasya divyāni yodhayām āsa khe sthitaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 22
+  },
+  "03234023a": {
+    "text": {
+      "ascii": "gandharvarAjo balavAn mAyayAntarhitas tadA\n",
+      "ud": "गन्धर्वराजो बलवान्माययान्तर्हितस्तदा\n",
+      "ur": "gandharvarājo balavān māyayāntarhitas tadā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 23
+  },
+  "03234023c": {
+    "text": {
+      "ascii": "antarhitaM samAlakSya praharantam athArjunaH\n",
+      "ud": "अन्तर्हितं समालक्ष्य प्रहरन्तमथार्जुनः\n",
+      "ur": "antarhitaṁ samālakṣya praharantam athārjunaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 23
+  },
+  "03234023e": {
+    "text": {
+      "ascii": "tADayAm Asa khacarair divyAstrapratimantritaiH\n",
+      "ud": "ताडयामास खचरैर्दिव्यास्त्रप्रतिमन्त्रितैः\n",
+      "ur": "tāḍayām āsa khacarair divyāstrapratimantritaiḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 23
+  },
+  "03234024a": {
+    "text": {
+      "ascii": "antardhAnavadhaM cAsya cakre kruddho 'rjunas tadA\n",
+      "ud": "अन्तर्धानवधं चास्य चक्रे क्रुद्धोऽर्जुनस्तदा\n",
+      "ur": "antardhānavadhaṁ cāsya cakre kruddho ’rjunas tadā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 24
+  },
+  "03234024c": {
+    "text": {
+      "ascii": "zabdavedhyam upAzritya bahurUpo dhanaMjayaH\n",
+      "ud": "शब्दवेध्यमुपाश्रित्य बहुरूपो धनंजयः\n",
+      "ur": "śabdavedhyam upāśritya bahurūpo dhanaṁjayaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 24
+  },
+  "03234025a": {
+    "text": {
+      "ascii": "sa vadhyamAnas tair astrair arjunena mahAtmanA\n",
+      "ud": "स वध्यमानस्तैरस्त्रैरर्जुनेन महात्मना\n",
+      "ur": "sa vadhyamānas tair astrair arjunena mahātmanā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 25
+  },
+  "03234025c": {
+    "text": {
+      "ascii": "athAsya darzayAm Asa tadAtmAnaM priyaH sakhA\n",
+      "ud": "अथास्य दर्शयामास तदात्मानं प्रियः सखा\n",
+      "ur": "athāsya darśayām āsa tadātmānaṁ priyaḥ sakhā\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 25
+  },
+  "03234026a": {
+    "text": {
+      "ascii": "citrasenam athAlakSya sakhAyaM yudhi durbalam\n",
+      "ud": "चित्रसेनमथालक्ष्य सखायं युधि दुर्बलम्\n",
+      "ur": "citrasenam athālakṣya sakhāyaṁ yudhi durbalam\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 26
+  },
+  "03234026c": {
+    "text": {
+      "ascii": "saMjahArAstram atha tat prasRSTaM pANDavarSabhaH\n",
+      "ud": "संजहारास्त्रमथ तत्प्रसृष्टं पाण्डवर्षभः\n",
+      "ur": "saṁjahārāstram atha tat prasr̥ṣṭaṁ pāṇḍavarṣabhaḥ\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 26
+  },
+  "03234027a": {
+    "text": {
+      "ascii": "dRSTvA tu pANDavAH sarve saMhRtAstraM dhanaMjayam\n",
+      "ud": "दृष्ट्वा तु पाण्डवाः सर्वे संहृतास्त्रं धनंजयम्\n",
+      "ur": "dr̥ṣṭvā tu pāṇḍavāḥ sarve saṁhr̥tāstraṁ dhanaṁjayam\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 27
+  },
+  "03234027c": {
+    "text": {
+      "ascii": "saMjahruH pradrutAn azvAJ zaravegAn dhanUMSi ca\n",
+      "ud": "संजह्रुः प्रद्रुतानश्वाञ्शरवेगान्धनूंषि च\n",
+      "ur": "saṁjahruḥ pradrutān aśvāñ śaravegān dhanūṁṣi ca\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 27
+  },
+  "03234028a": {
+    "text": {
+      "ascii": "citrasenaz ca bhImaz ca savyasAcI yamAv api\n",
+      "ud": "चित्रसेनश्च भीमश्च सव्यसाची यमावपि\n",
+      "ur": "citrasenaś ca bhīmaś ca savyasācī yamāv api\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 28
+  },
+  "03234028c": {
+    "text": {
+      "ascii": "pRSTvA kauzalam anyonyaM ratheSv evAvatasthire\n",
+      "ud": "पृष्ट्वा कौशलमन्योन्यं रथेष्वेवावतस्थिरे\n",
+      "ur": "pr̥ṣṭvā kauśalam anyonyaṁ ratheṣv evāvatasthire\n"
+    },
+    "book": 3,
+    "chapter": 234,
+    "verse": 28
+  }
+}
