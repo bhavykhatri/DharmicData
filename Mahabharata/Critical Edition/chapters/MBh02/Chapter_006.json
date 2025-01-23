@@ -1,0 +1,372 @@
+{
+  "02006001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 1
+  },
+  "02006001a": {
+    "text": {
+      "ascii": "saMpUjyAthAbhyanujJAto maharSer vacanAt param\n",
+      "ud": "संपूज्याथाभ्यनुज्ञातो महर्षेर्वचनात्परम्\n",
+      "ur": "saṁpūjyāthābhyanujñāto maharṣer vacanāt param\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 1
+  },
+  "02006001c": {
+    "text": {
+      "ascii": "pratyuvAcAnupUrvyeNa dharmarAjo yudhiSThiraH\n",
+      "ud": "प्रत्युवाचानुपूर्व्येण धर्मराजो युधिष्ठिरः\n",
+      "ur": "pratyuvācānupūrvyeṇa dharmarājo yudhiṣṭhiraḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 1
+  },
+  "02006002a": {
+    "text": {
+      "ascii": "bhagavan nyAyyam AhaitaM yathAvad dharmanizcayam\n",
+      "ud": "भगवन्न्याय्यमाहैतं यथावद्धर्मनिश्चयम्\n",
+      "ur": "bhagavan nyāyyam āhaitaṁ yathāvad dharmaniścayam\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 2
+  },
+  "02006002c": {
+    "text": {
+      "ascii": "yathAzakti yathAnyAyaM kriyate 'yaM vidhir mayA\n",
+      "ud": "यथाशक्ति यथान्यायं क्रियतेऽयं विधिर्मया\n",
+      "ur": "yathāśakti yathānyāyaṁ kriyate ’yaṁ vidhir mayā\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 2
+  },
+  "02006003a": {
+    "text": {
+      "ascii": "rAjabhir yad yathA kAryaM purA tat tan na saMzayaH\n",
+      "ud": "राजभिर्यद्यथा कार्यं पुरा तत्तन्न संशयः\n",
+      "ur": "rājabhir yad yathā kāryaṁ purā tat tan na saṁśayaḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 3
+  },
+  "02006003c": {
+    "text": {
+      "ascii": "yathAnyAyopanItArthaM kRtaM hetumad arthavat\n",
+      "ud": "यथान्यायोपनीतार्थं कृतं हेतुमदर्थवत्\n",
+      "ur": "yathānyāyopanītārthaṁ kr̥taṁ hetumad arthavat\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 3
+  },
+  "02006004a": {
+    "text": {
+      "ascii": "vayaM tu satpathaM teSAM yAtum icchAmahe prabho\n",
+      "ud": "वयं तु सत्पथं तेषां यातुमिच्छामहे प्रभो\n",
+      "ur": "vayaṁ tu satpathaṁ teṣāṁ yātum icchāmahe prabho\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 4
+  },
+  "02006004c": {
+    "text": {
+      "ascii": "na tu zakyaM tathA gantuM yathA tair niyatAtmabhiH\n",
+      "ud": "न तु शक्यं तथा गन्तुं यथा तैर्नियतात्मभिः\n",
+      "ur": "na tu śakyaṁ tathā gantuṁ yathā tair niyatātmabhiḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 4
+  },
+  "02006005a": {
+    "text": {
+      "ascii": "evam uktvA sa dharmAtmA vAkyaM tad abhipUjya ca\n",
+      "ud": "एवमुक्त्वा स धर्मात्मा वाक्यं तदभिपूज्य च\n",
+      "ur": "evam uktvā sa dharmātmā vākyaṁ tad abhipūjya ca\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 5
+  },
+  "02006005c": {
+    "text": {
+      "ascii": "muhUrtAt prAptakAlaM ca dRSTvA lokacaraM munim\n",
+      "ud": "मुहूर्तात्प्राप्तकालं च दृष्ट्वा लोकचरं मुनिम्\n",
+      "ur": "muhūrtāt prāptakālaṁ ca dr̥ṣṭvā lokacaraṁ munim\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 5
+  },
+  "02006006a": {
+    "text": {
+      "ascii": "nAradaM svastham AsInam upAsIno yudhiSThiraH\n",
+      "ud": "नारदं स्वस्थमासीनमुपासीनो युधिष्ठिरः\n",
+      "ur": "nāradaṁ svastham āsīnam upāsīno yudhiṣṭhiraḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 6
+  },
+  "02006006c": {
+    "text": {
+      "ascii": "apRcchat pANDavas tatra rAjamadhye mahAmatiH\n",
+      "ud": "अपृच्छत्पाण्डवस्तत्र राजमध्ये महामतिः\n",
+      "ur": "apr̥cchat pāṇḍavas tatra rājamadhye mahāmatiḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 6
+  },
+  "02006007a": {
+    "text": {
+      "ascii": "bhavAn saMcarate lokAn sadA nAnAvidhAn bahUn\n",
+      "ud": "भवान्संचरते लोकान्सदा नानाविधान्बहून्\n",
+      "ur": "bhavān saṁcarate lokān sadā nānāvidhān bahūn\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 7
+  },
+  "02006007c": {
+    "text": {
+      "ascii": "brahmaNA nirmitAn pUrvaM prekSamANo manojavaH\n",
+      "ud": "ब्रह्मणा निर्मितान्पूर्वं प्रेक्षमाणो मनोजवः\n",
+      "ur": "brahmaṇā nirmitān pūrvaṁ prekṣamāṇo manojavaḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 7
+  },
+  "02006008a": {
+    "text": {
+      "ascii": "IdRzI bhavatA kA cid dRSTapUrvA sabhA kva cit\n",
+      "ud": "ईदृशी भवता काचिद्दृष्टपूर्वा सभा क्वचित्\n",
+      "ur": "īdr̥śī bhavatā kā cid dr̥ṣṭapūrvā sabhā kva cit\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 8
+  },
+  "02006008c": {
+    "text": {
+      "ascii": "ito vA zreyasI brahmaMs tan mamAcakSva pRcchataH\n",
+      "ud": "इतो वा श्रेयसी ब्रह्मंस्तन्ममाचक्ष्व पृच्छतः\n",
+      "ur": "ito vā śreyasī brahmaṁs tan mamācakṣva pr̥cchataḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 8
+  },
+  "02006009a": {
+    "text": {
+      "ascii": "tac chrutvA nAradas tasya dharmarAjasya bhASitam\n",
+      "ud": "तच्छ्रुत्वा नारदस्तस्य धर्मराजस्य भाषितम्\n",
+      "ur": "tac chrutvā nāradas tasya dharmarājasya bhāṣitam\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 9
+  },
+  "02006009c": {
+    "text": {
+      "ascii": "pANDavaM pratyuvAcedaM smayan madhurayA girA\n",
+      "ud": "पाण्डवं प्रत्युवाचेदं स्मयन्मधुरया गिरा\n",
+      "ur": "pāṇḍavaṁ pratyuvācedaṁ smayan madhurayā girā\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 9
+  },
+  "02006010a": {
+    "text": {
+      "ascii": "mAnuSeSu na me tAta dRSTapUrvA na ca zrutA\n",
+      "ud": "मानुषेषु न मे तात दृष्टपूर्वा न च श्रुता\n",
+      "ur": "mānuṣeṣu na me tāta dr̥ṣṭapūrvā na ca śrutā\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 10
+  },
+  "02006010c": {
+    "text": {
+      "ascii": "sabhA maNimayI rAjan yatheyaM tava bhArata\n",
+      "ud": "सभा मणिमयी राजन्यथेयं तव भारत\n",
+      "ur": "sabhā maṇimayī rājan yatheyaṁ tava bhārata\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 10
+  },
+  "02006011a": {
+    "text": {
+      "ascii": "sabhAM tu pitRrAjasya varuNasya ca dhImataH\n",
+      "ud": "सभां तु पितृराजस्य वरुणस्य च धीमतः\n",
+      "ur": "sabhāṁ tu pitr̥rājasya varuṇasya ca dhīmataḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 11
+  },
+  "02006011c": {
+    "text": {
+      "ascii": "kathayiSye tathendrasya kailAsanilayasya ca\n",
+      "ud": "कथयिष्ये तथेन्द्रस्य कैलासनिलयस्य च\n",
+      "ur": "kathayiṣye tathendrasya kailāsanilayasya ca\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 11
+  },
+  "02006012a": {
+    "text": {
+      "ascii": "brahmaNaz ca sabhAM divyAM kathayiSye gataklamAm\n",
+      "ud": "ब्रह्मणश्च सभां दिव्यां कथयिष्ये गतक्लमाम्\n",
+      "ur": "brahmaṇaś ca sabhāṁ divyāṁ kathayiṣye gataklamām\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 12
+  },
+  "02006012c": {
+    "text": {
+      "ascii": "yadi te zravaNe buddhir vartate bharatarSabha\n",
+      "ud": "यदि ते श्रवणे बुद्धिर्वर्तते भरतर्षभ\n",
+      "ur": "yadi te śravaṇe buddhir vartate bharatarṣabha\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 12
+  },
+  "02006013a": {
+    "text": {
+      "ascii": "nAradenaivam uktas tu dharmarAjo yudhiSThiraH\n",
+      "ud": "नारदेनैवमुक्तस्तु धर्मराजो युधिष्ठिरः\n",
+      "ur": "nāradenaivam uktas tu dharmarājo yudhiṣṭhiraḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 13
+  },
+  "02006013c": {
+    "text": {
+      "ascii": "prAJjalir bhrAtRbhiH sArdhaM taiz ca sarvair nRpair vRtaH\n",
+      "ud": "प्राञ्जलिर्भ्रातृभिः सार्धं तैश्च सर्वैर्नृपैर्वृतः\n",
+      "ur": "prāñjalir bhrātr̥bhiḥ sārdhaṁ taiś ca sarvair nr̥pair vr̥taḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 13
+  },
+  "02006014a": {
+    "text": {
+      "ascii": "nAradaM pratyuvAcedaM dharmarAjo mahAmanAH\n",
+      "ud": "नारदं प्रत्युवाचेदं धर्मराजो महामनाः\n",
+      "ur": "nāradaṁ pratyuvācedaṁ dharmarājo mahāmanāḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 14
+  },
+  "02006014c": {
+    "text": {
+      "ascii": "sabhAH kathaya tAH sarvAH zrotum icchAmahe vayam\n",
+      "ud": "सभाः कथय ताः सर्वाः श्रोतुमिच्छामहे वयम्\n",
+      "ur": "sabhāḥ kathaya tāḥ sarvāḥ śrotum icchāmahe vayam\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 14
+  },
+  "02006015a": {
+    "text": {
+      "ascii": "kiMdravyAs tAH sabhA brahman kiMvistArAH kimAyatAH\n",
+      "ud": "किंद्रव्यास्ताः सभा ब्रह्मन्किंविस्ताराः किमायताः\n",
+      "ur": "kiṁdravyās tāḥ sabhā brahman kiṁvistārāḥ kimāyatāḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 15
+  },
+  "02006015c": {
+    "text": {
+      "ascii": "pitAmahaM ca ke tasyAM sabhAyAM paryupAsate\n",
+      "ud": "पितामहं च के तस्यां सभायां पर्युपासते\n",
+      "ur": "pitāmahaṁ ca ke tasyāṁ sabhāyāṁ paryupāsate\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 15
+  },
+  "02006016a": {
+    "text": {
+      "ascii": "vAsavaM devarAjaM ca yamaM vaivasvataM ca ke\n",
+      "ud": "वासवं देवराजं च यमं वैवस्वतं च के\n",
+      "ur": "vāsavaṁ devarājaṁ ca yamaṁ vaivasvataṁ ca ke\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 16
+  },
+  "02006016c": {
+    "text": {
+      "ascii": "varuNaM ca kuberaM ca sabhAyAM paryupAsate\n",
+      "ud": "वरुणं च कुबेरं च सभायां पर्युपासते\n",
+      "ur": "varuṇaṁ ca kuberaṁ ca sabhāyāṁ paryupāsate\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 16
+  },
+  "02006017a": {
+    "text": {
+      "ascii": "etat sarvaM yathAtattvaM devarSe vadatas tava\n",
+      "ud": "एतत्सर्वं यथातत्त्वं देवर्षे वदतस्तव\n",
+      "ur": "etat sarvaṁ yathātattvaṁ devarṣe vadatas tava\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 17
+  },
+  "02006017c": {
+    "text": {
+      "ascii": "zrotum icchAma sahitAH paraM kautUhalaM hi naH\n",
+      "ud": "श्रोतुमिच्छाम सहिताः परं कौतूहलं हि नः\n",
+      "ur": "śrotum icchāma sahitāḥ paraṁ kautūhalaṁ hi naḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 17
+  },
+  "02006018a": {
+    "text": {
+      "ascii": "evam uktaH pANDavena nAradaH pratyuvAca tam\n",
+      "ud": "एवमुक्तः पाण्डवेन नारदः प्रत्युवाच तम्\n",
+      "ur": "evam uktaḥ pāṇḍavena nāradaḥ pratyuvāca tam\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 18
+  },
+  "02006018c": {
+    "text": {
+      "ascii": "krameNa rAjan divyAs tAH zrUyantAm iha naH sabhAH\n",
+      "ud": "क्रमेण राजन्दिव्यास्ताः श्रूयन्तामिह नः सभाः\n",
+      "ur": "krameṇa rājan divyās tāḥ śrūyantām iha naḥ sabhāḥ\n"
+    },
+    "book": 2,
+    "chapter": 6,
+    "verse": 18
+  }
+}

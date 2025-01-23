@@ -1,0 +1,442 @@
+{
+  "02057001": {
+    "text": {
+      "ascii": "duryodhana uvAca\n",
+      "ud": "दुर्योधन उवाच\n",
+      "ur": "duryodhana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 1
+  },
+  "02057001a": {
+    "text": {
+      "ascii": "pareSAm eva yazasA zlAghase tvaM; sadA channaH kutsayan dhArtarASTrAn\n",
+      "ud": "परेषामेव यशसा श्लाघसे त्वं; सदा छन्नः कुत्सयन्धार्तराष्ट्रान्\n",
+      "ur": "pareṣām eva yaśasā ślāghase tvaṁ; sadā channaḥ kutsayan dhārtarāṣṭrān\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 1
+  },
+  "02057001c": {
+    "text": {
+      "ascii": "jAnImas tvAM vidura yatpriyas tvaM; bAlAn ivAsmAn avamanyase tvam\n",
+      "ud": "जानीमस्त्वां विदुर यत्प्रियस्त्वं; बालानिवास्मानवमन्यसे त्वम्\n",
+      "ur": "jānīmas tvāṁ vidura yatpriyas tvaṁ; bālān ivāsmān avamanyase tvam\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 1
+  },
+  "02057002a": {
+    "text": {
+      "ascii": "suvijJeyaH puruSo 'nyatrakAmo; nindAprazaMse hi tathA yunakti\n",
+      "ud": "सुविज्ञेयः पुरुषोऽन्यत्रकामो; निन्दाप्रशंसे हि तथा युनक्ति\n",
+      "ur": "suvijñeyaḥ puruṣo ’nyatrakāmo; nindāpraśaṁse hi tathā yunakti\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 2
+  },
+  "02057002c": {
+    "text": {
+      "ascii": "jihvA manas te hRdayaM nirvyanakti; jyAyo nirAha manasaH prAtikUlyam\n",
+      "ud": "जिह्वा मनस्ते हृदयं निर्व्यनक्ति; ज्यायो निराह मनसः प्रातिकूल्यम्\n",
+      "ur": "jihvā manas te hr̥dayaṁ nirvyanakti; jyāyo nirāha manasaḥ prātikūlyam\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 2
+  },
+  "02057003a": {
+    "text": {
+      "ascii": "utsaGgena vyAla ivAhRto 'si; mArjAravat poSakaM copahaMsi\n",
+      "ud": "उत्सङ्गेन व्याल इवाहृतोऽसि; मार्जारवत्पोषकं चोपहंसि\n",
+      "ur": "utsaṅgena vyāla ivāhr̥to ’si; mārjāravat poṣakaṁ copahaṁsi\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 3
+  },
+  "02057003c": {
+    "text": {
+      "ascii": "bhartRghnatvAn na hi pApIya Ahus; tasmAt kSattaH kiM na bibheSi pApAt\n",
+      "ud": "भर्तृघ्नत्वान्न हि पापीय आहु;स्तस्मात्क्षत्तः किं न बिभेषि पापात्\n",
+      "ur": "bhartr̥ghnatvān na hi pāpīya āhus; tasmāt kṣattaḥ kiṁ na bibheṣi pāpāt\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 3
+  },
+  "02057004a": {
+    "text": {
+      "ascii": "jitvA zatrUn phalam AptaM mahan no; mAsmAn kSattaH paruSANIha vocaH\n",
+      "ud": "जित्वा शत्रून्फलमाप्तं महन्नो; मास्मान्क्षत्तः परुषाणीह वोचः\n",
+      "ur": "jitvā śatrūn phalam āptaṁ mahan no; māsmān kṣattaḥ paruṣāṇīha vocaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 4
+  },
+  "02057004c": {
+    "text": {
+      "ascii": "dviSadbhis tvaM saMprayogAbhinandI; muhur dveSaM yAsi naH saMpramohAt\n",
+      "ud": "द्विषद्भिस्त्वं संप्रयोगाभिनन्दी; मुहुर्द्वेषं यासि नः संप्रमोहात्\n",
+      "ur": "dviṣadbhis tvaṁ saṁprayogābhinandī; muhur dveṣaṁ yāsi naḥ saṁpramohāt\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 4
+  },
+  "02057005a": {
+    "text": {
+      "ascii": "amitratAM yAti naro 'kSamaM bruvan; nigUhate guhyam amitrasaMstave\n",
+      "ud": "अमित्रतां याति नरोऽक्षमं ब्रुव;न्निगूहते गुह्यममित्रसंस्तवे\n",
+      "ur": "amitratāṁ yāti naro ’kṣamaṁ bruvan; nigūhate guhyam amitrasaṁstave\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 5
+  },
+  "02057005c": {
+    "text": {
+      "ascii": "tadAzritApatrapA kiM na bAdhate; yad icchasi tvaM tad ihAdya bhASase\n",
+      "ud": "तदाश्रितापत्रपा किं न बाधते; यदिच्छसि त्वं तदिहाद्य भाषसे\n",
+      "ur": "tadāśritāpatrapā kiṁ na bādhate; yad icchasi tvaṁ tad ihādya bhāṣase\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 5
+  },
+  "02057006a": {
+    "text": {
+      "ascii": "mA no 'vamaMsthA vidma manas tavedaM; zikSasva buddhiM sthavirANAM sakAzAt\n",
+      "ud": "मा नोऽवमंस्था विद्म मनस्तवेदं; शिक्षस्व बुद्धिं स्थविराणां सकाशात्\n",
+      "ur": "mā no ’vamaṁsthā vidma manas tavedaṁ; śikṣasva buddhiṁ sthavirāṇāṁ sakāśāt\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 6
+  },
+  "02057006c": {
+    "text": {
+      "ascii": "yazo rakSasva vidura saMpraNItaM; mA vyApRtaH parakAryeSu bhUs tvam\n",
+      "ud": "यशो रक्षस्व विदुर संप्रणीतं; मा व्यापृतः परकार्येषु भूस्त्वम्\n",
+      "ur": "yaśo rakṣasva vidura saṁpraṇītaṁ; mā vyāpr̥taḥ parakāryeṣu bhūs tvam\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 6
+  },
+  "02057007a": {
+    "text": {
+      "ascii": "ahaM karteti vidura mAvamaMsthA; mA no nityaM paruSANIha vocaH\n",
+      "ud": "अहं कर्तेति विदुर मावमंस्था; मा नो नित्यं परुषाणीह वोचः\n",
+      "ur": "ahaṁ karteti vidura māvamaṁsthā; mā no nityaṁ paruṣāṇīha vocaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 7
+  },
+  "02057007c": {
+    "text": {
+      "ascii": "na tvAM pRcchAmi vidura yad dhitaM me; svasti kSattar mA titikSUn kSiNu tvam\n",
+      "ud": "न त्वां पृच्छामि विदुर यद्धितं मे; स्वस्ति क्षत्तर्मा तितिक्षून्क्षिणु त्वम्\n",
+      "ur": "na tvāṁ pr̥cchāmi vidura yad dhitaṁ me; svasti kṣattar mā titikṣūn kṣiṇu tvam\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 7
+  },
+  "02057008a": {
+    "text": {
+      "ascii": "ekaH zAstA na dvitIyo 'sti zAstA; garbhe zayAnaM puruSaM zAsti zAstA\n",
+      "ud": "एकः शास्ता न द्वितीयोऽस्ति शास्ता; गर्भे शयानं पुरुषं शास्ति शास्ता\n",
+      "ur": "ekaḥ śāstā na dvitīyo ’sti śāstā; garbhe śayānaṁ puruṣaṁ śāsti śāstā\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 8
+  },
+  "02057008c": {
+    "text": {
+      "ascii": "tenAnuziSTaH pravaNAd ivAmbho; yathA niyukto 'smi tathA vahAmi\n",
+      "ud": "तेनानुशिष्टः प्रवणादिवाम्भो; यथा नियुक्तोऽस्मि तथा वहामि\n",
+      "ur": "tenānuśiṣṭaḥ pravaṇād ivāmbho; yathā niyukto ’smi tathā vahāmi\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 8
+  },
+  "02057009a": {
+    "text": {
+      "ascii": "bhinatti zirasA zailam ahiM bhojayate ca yaH\n",
+      "ud": "भिनत्ति शिरसा शैलमहिं भोजयते च यः\n",
+      "ur": "bhinatti śirasā śailam ahiṁ bhojayate ca yaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 9
+  },
+  "02057009c": {
+    "text": {
+      "ascii": "sa eva tasya kurute kAryANAm anuzAsanam\n",
+      "ud": "स एव तस्य कुरुते कार्याणामनुशासनम्\n",
+      "ur": "sa eva tasya kurute kāryāṇām anuśāsanam\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 9
+  },
+  "02057010a": {
+    "text": {
+      "ascii": "yo balAd anuzAstIha so 'mitraM tena vindati\n",
+      "ud": "यो बलादनुशास्तीह सोऽमित्रं तेन विन्दति\n",
+      "ur": "yo balād anuśāstīha so ’mitraṁ tena vindati\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 10
+  },
+  "02057010c": {
+    "text": {
+      "ascii": "mitratAm anuvRttaM tu samupekSeta paNDitaH\n",
+      "ud": "मित्रतामनुवृत्तं तु समुपेक्षेत पण्डितः\n",
+      "ur": "mitratām anuvr̥ttaṁ tu samupekṣeta paṇḍitaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 10
+  },
+  "02057011a": {
+    "text": {
+      "ascii": "pradIpya yaH pradIptAgniM prAk tvaran nAbhidhAvati\n",
+      "ud": "प्रदीप्य यः प्रदीप्ताग्निं प्राक्त्वरन्नाभिधावति\n",
+      "ur": "pradīpya yaḥ pradīptāgniṁ prāk tvaran nābhidhāvati\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 11
+  },
+  "02057011c": {
+    "text": {
+      "ascii": "bhasmApi na sa vindeta ziSTaM kva cana bhArata\n",
+      "ud": "भस्मापि न स विन्देत शिष्टं क्वचन भारत\n",
+      "ur": "bhasmāpi na sa vindeta śiṣṭaṁ kva cana bhārata\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 11
+  },
+  "02057012a": {
+    "text": {
+      "ascii": "na vAsayet pAravargyaM dviSantaM; vizeSataH kSattar ahitaM manuSyam\n",
+      "ud": "न वासयेत्पारवर्ग्यं द्विषन्तं; विशेषतः क्षत्तरहितं मनुष्यम्\n",
+      "ur": "na vāsayet pāravargyaṁ dviṣantaṁ; viśeṣataḥ kṣattar ahitaṁ manuṣyam\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 12
+  },
+  "02057012c": {
+    "text": {
+      "ascii": "sa yatrecchasi vidura tatra gaccha; susAntvitApi hy asatI strI jahAti\n",
+      "ud": "स यत्रेच्छसि विदुर तत्र गच्छ; सुसान्त्वितापि ह्यसती स्त्री जहाति\n",
+      "ur": "sa yatrecchasi vidura tatra gaccha; susāntvitāpi hy asatī strī jahāti\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 12
+  },
+  "02057013": {
+    "text": {
+      "ascii": "vidura uvAca\n",
+      "ud": "विदुर उवाच\n",
+      "ur": "vidura uvāca\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 13
+  },
+  "02057013a": {
+    "text": {
+      "ascii": "etAvatA ye puruSaM tyajanti; teSAM sakhyam antavad brUhi rAjan\n",
+      "ud": "एतावता ये पुरुषं त्यजन्ति; तेषां सख्यमन्तवद्ब्रूहि राजन्\n",
+      "ur": "etāvatā ye puruṣaṁ tyajanti; teṣāṁ sakhyam antavad brūhi rājan\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 13
+  },
+  "02057013c": {
+    "text": {
+      "ascii": "rAjJAM hi cittAni pariplutAni; sAntvaM dattvA musalair ghAtayanti\n",
+      "ud": "राज्ञां हि चित्तानि परिप्लुतानि; सान्त्वं दत्त्वा मुसलैर्घातयन्ति\n",
+      "ur": "rājñāṁ hi cittāni pariplutāni; sāntvaṁ dattvā musalair ghātayanti\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 13
+  },
+  "02057014a": {
+    "text": {
+      "ascii": "abAlas tvaM manyase rAjaputra; bAlo 'ham ity eva sumandabuddhe\n",
+      "ud": "अबालस्त्वं मन्यसे राजपुत्र; बालोऽहमित्येव सुमन्दबुद्धे\n",
+      "ur": "abālas tvaṁ manyase rājaputra; bālo ’ham ity eva sumandabuddhe\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 14
+  },
+  "02057014c": {
+    "text": {
+      "ascii": "yaH sauhRde puruSaM sthApayitvA; pazcAd enaM dUSayate sa bAlaH\n",
+      "ud": "यः सौहृदे पुरुषं स्थापयित्वा; पश्चादेनं दूषयते स बालः\n",
+      "ur": "yaḥ sauhr̥de puruṣaṁ sthāpayitvā; paścād enaṁ dūṣayate sa bālaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 14
+  },
+  "02057015a": {
+    "text": {
+      "ascii": "na zreyase nIyate mandabuddhiH; strI zrotriyasyeva gRhe praduSTA\n",
+      "ud": "न श्रेयसे नीयते मन्दबुद्धिः; स्त्री श्रोत्रियस्येव गृहे प्रदुष्टा\n",
+      "ur": "na śreyase nīyate mandabuddhiḥ; strī śrotriyasyeva gr̥he praduṣṭā\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 15
+  },
+  "02057015c": {
+    "text": {
+      "ascii": "dhruvaM na roced bharatarSabhasya; patiH kumAryA iva SaSTivarSaH\n",
+      "ud": "ध्रुवं न रोचेद्भरतर्षभस्य; पतिः कुमार्या इव षष्टिवर्षः\n",
+      "ur": "dhruvaṁ na roced bharatarṣabhasya; patiḥ kumāryā iva ṣaṣṭivarṣaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 15
+  },
+  "02057016a": {
+    "text": {
+      "ascii": "anupriyaM ced anukAGkSase tvaM; sarveSu kAryeSu hitAhiteSu\n",
+      "ud": "अनुप्रियं चेदनुकाङ्क्षसे त्वं; सर्वेषु कार्येषु हिताहितेषु\n",
+      "ur": "anupriyaṁ ced anukāṅkṣase tvaṁ; sarveṣu kāryeṣu hitāhiteṣu\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 16
+  },
+  "02057016c": {
+    "text": {
+      "ascii": "striyaz ca rAjaJ jaDapaGgukAMz ca; pRccha tvaM vai tAdRzAMz caiva mUDhAn\n",
+      "ud": "स्त्रियश्च राजञ्जडपङ्गुकांश्च; पृच्छ त्वं वै तादृशांश्चैव मूढान्\n",
+      "ur": "striyaś ca rājañ jaḍapaṅgukāṁś ca; pr̥ccha tvaṁ vai tādr̥śāṁś caiva mūḍhān\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 16
+  },
+  "02057017a": {
+    "text": {
+      "ascii": "labhyaH khalu prAtipIya naro 'nupriyavAg iha\n",
+      "ud": "लभ्यः खलु प्रातिपीय नरोऽनुप्रियवागिह\n",
+      "ur": "labhyaḥ khalu prātipīya naro ’nupriyavāg iha\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 17
+  },
+  "02057017c": {
+    "text": {
+      "ascii": "apriyasya tu pathyasya vaktA zrotA ca durlabhaH\n",
+      "ud": "अप्रियस्य तु पथ्यस्य वक्ता श्रोता च दुर्लभः\n",
+      "ur": "apriyasya tu pathyasya vaktā śrotā ca durlabhaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 17
+  },
+  "02057018a": {
+    "text": {
+      "ascii": "yas tu dharme parAzvasya hitvA bhartuH priyApriye\n",
+      "ud": "यस्तु धर्मे पराश्वस्य हित्वा भर्तुः प्रियाप्रिये\n",
+      "ur": "yas tu dharme parāśvasya hitvā bhartuḥ priyāpriye\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 18
+  },
+  "02057018c": {
+    "text": {
+      "ascii": "apriyANy Aha pathyAni tena rAjA sahAyavAn\n",
+      "ud": "अप्रियाण्याह पथ्यानि तेन राजा सहायवान्\n",
+      "ur": "apriyāṇy āha pathyāni tena rājā sahāyavān\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 18
+  },
+  "02057019a": {
+    "text": {
+      "ascii": "avyAdhijaM kaTukaM tIkSNam uSNaM; yazomuSaM paruSaM pUtigandhi\n",
+      "ud": "अव्याधिजं कटुकं तीक्ष्णमुष्णं; यशोमुषं परुषं पूतिगन्धि\n",
+      "ur": "avyādhijaṁ kaṭukaṁ tīkṣṇam uṣṇaṁ; yaśomuṣaṁ paruṣaṁ pūtigandhi\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 19
+  },
+  "02057019c": {
+    "text": {
+      "ascii": "satAM peyaM yan na pibanty asanto; manyuM mahArAja piba prazAmya\n",
+      "ud": "सतां पेयं यन्न पिबन्त्यसन्तो; मन्युं महाराज पिब प्रशाम्य\n",
+      "ur": "satāṁ peyaṁ yan na pibanty asanto; manyuṁ mahārāja piba praśāmya\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 19
+  },
+  "02057020a": {
+    "text": {
+      "ascii": "vaicitravIryasya yazo dhanaM ca; vAJchAmy ahaM sahaputrasya zazvat\n",
+      "ud": "वैचित्रवीर्यस्य यशो धनं च; वाञ्छाम्यहं सहपुत्रस्य शश्वत्\n",
+      "ur": "vaicitravīryasya yaśo dhanaṁ ca; vāñchāmy ahaṁ sahaputrasya śaśvat\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 20
+  },
+  "02057020c": {
+    "text": {
+      "ascii": "yathA tathA vo 'stu namaz ca vo 'stu; mamApi ca svasti dizantu viprAH\n",
+      "ud": "यथा तथा वोऽस्तु नमश्च वोऽस्तु; ममापि च स्वस्ति दिशन्तु विप्राः\n",
+      "ur": "yathā tathā vo ’stu namaś ca vo ’stu; mamāpi ca svasti diśantu viprāḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 20
+  },
+  "02057021a": {
+    "text": {
+      "ascii": "AzIviSAn netraviSAn kopayen na tu paNDitaH\n",
+      "ud": "आशीविषान्नेत्रविषान्कोपयेन्न तु पण्डितः\n",
+      "ur": "āśīviṣān netraviṣān kopayen na tu paṇḍitaḥ\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 21
+  },
+  "02057021c": {
+    "text": {
+      "ascii": "evaM te 'haM vadAmIdaM prayataH kurunandana\n",
+      "ud": "एवं तेऽहं वदामीदं प्रयतः कुरुनन्दन\n",
+      "ur": "evaṁ te ’haṁ vadāmīdaṁ prayataḥ kurunandana\n"
+    },
+    "book": 2,
+    "chapter": 57,
+    "verse": 21
+  }
+}

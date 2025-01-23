@@ -1,0 +1,1202 @@
+{
+  "02058001": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 1
+  },
+  "02058001a": {
+    "text": {
+      "ascii": "bahu vittaM parAjaiSIH pANDavAnAM yudhiSThira\n",
+      "ud": "बहु वित्तं पराजैषीः पाण्डवानां युधिष्ठिर\n",
+      "ur": "bahu vittaṁ parājaiṣīḥ pāṇḍavānāṁ yudhiṣṭhira\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 1
+  },
+  "02058001c": {
+    "text": {
+      "ascii": "AcakSva vittaM kaunteya yadi te 'sty aparAjitam\n",
+      "ud": "आचक्ष्व वित्तं कौन्तेय यदि तेऽस्त्यपराजितम्\n",
+      "ur": "ācakṣva vittaṁ kaunteya yadi te ’sty aparājitam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 1
+  },
+  "02058002": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 2
+  },
+  "02058002a": {
+    "text": {
+      "ascii": "mama vittam asaMkhyeyaM yad ahaM veda saubala\n",
+      "ud": "मम वित्तमसंख्येयं यदहं वेद सौबल\n",
+      "ur": "mama vittam asaṁkhyeyaṁ yad ahaṁ veda saubala\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 2
+  },
+  "02058002c": {
+    "text": {
+      "ascii": "atha tvaM zakune kasmAd vittaM samanupRcchasi\n",
+      "ud": "अथ त्वं शकुने कस्माद्वित्तं समनुपृच्छसि\n",
+      "ur": "atha tvaṁ śakune kasmād vittaṁ samanupr̥cchasi\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 2
+  },
+  "02058003a": {
+    "text": {
+      "ascii": "ayutaM prayutaM caiva kharvaM padmaM tathArbudam\n",
+      "ud": "अयुतं प्रयुतं चैव खर्वं पद्मं तथार्बुदम्\n",
+      "ur": "ayutaṁ prayutaṁ caiva kharvaṁ padmaṁ tathārbudam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 3
+  },
+  "02058003c": {
+    "text": {
+      "ascii": "zaGkhaM caiva nikharvaM ca samudraM cAtra paNyatAm\n",
+      "ud": "शङ्खं चैव निखर्वं च समुद्रं चात्र पण्यताम्\n",
+      "ur": "śaṅkhaṁ caiva nikharvaṁ ca samudraṁ cātra paṇyatām\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 3
+  },
+  "02058003e": {
+    "text": {
+      "ascii": "etan mama dhanaM rAjaMs tena dIvyAmy ahaM tvayA\n",
+      "ud": "एतन्मम धनं राजंस्तेन दीव्याम्यहं त्वया\n",
+      "ur": "etan mama dhanaṁ rājaṁs tena dīvyāmy ahaṁ tvayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 3
+  },
+  "02058004": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 4
+  },
+  "02058004a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 4
+  },
+  "02058004c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 4
+  },
+  "02058005": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 5
+  },
+  "02058005a": {
+    "text": {
+      "ascii": "gavAzvaM bahudhenUkam asaMkhyeyam ajAvikam\n",
+      "ud": "गवाश्वं बहुधेनूकमसंख्येयमजाविकम्\n",
+      "ur": "gavāśvaṁ bahudhenūkam asaṁkhyeyam ajāvikam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 5
+  },
+  "02058005c": {
+    "text": {
+      "ascii": "yat kiM cid anuvarNAnAM prAk sindhor api saubala\n",
+      "ud": "यत्किंचिदनुवर्णानां प्राक्सिन्धोरपि सौबल\n",
+      "ur": "yat kiṁ cid anuvarṇānāṁ prāk sindhor api saubala\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 5
+  },
+  "02058005e": {
+    "text": {
+      "ascii": "etan mama dhanaM rAjaMs tena dIvyAmy ahaM tvayA\n",
+      "ud": "एतन्मम धनं राजंस्तेन दीव्याम्यहं त्वया\n",
+      "ur": "etan mama dhanaṁ rājaṁs tena dīvyāmy ahaṁ tvayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 5
+  },
+  "02058006": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 6
+  },
+  "02058006a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 6
+  },
+  "02058006c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 6
+  },
+  "02058007": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 7
+  },
+  "02058007a": {
+    "text": {
+      "ascii": "puraM janapado bhUmir abrAhmaNadhanaiH saha\n",
+      "ud": "पुरं जनपदो भूमिरब्राह्मणधनैः सह\n",
+      "ur": "puraṁ janapado bhūmir abrāhmaṇadhanaiḥ saha\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 7
+  },
+  "02058007c": {
+    "text": {
+      "ascii": "abrAhmaNAz ca puruSA rAjaJ ziSTaM dhanaM mama\n",
+      "ud": "अब्राह्मणाश्च पुरुषा राजञ्शिष्टं धनं मम\n",
+      "ur": "abrāhmaṇāś ca puruṣā rājañ śiṣṭaṁ dhanaṁ mama\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 7
+  },
+  "02058007e": {
+    "text": {
+      "ascii": "etad rAjan dhanaM mahyaM tena dIvyAmy ahaM tvayA\n",
+      "ud": "एतद्राजन्धनं मह्यं तेन दीव्याम्यहं त्वया\n",
+      "ur": "etad rājan dhanaṁ mahyaṁ tena dīvyāmy ahaṁ tvayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 7
+  },
+  "02058008": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 8
+  },
+  "02058008a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 8
+  },
+  "02058008c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 8
+  },
+  "02058009": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 9
+  },
+  "02058009a": {
+    "text": {
+      "ascii": "rAjaputrA ime rAjaJ zobhante yena bhUSitAH\n",
+      "ud": "राजपुत्रा इमे राजञ्शोभन्ते येन भूषिताः\n",
+      "ur": "rājaputrā ime rājañ śobhante yena bhūṣitāḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 9
+  },
+  "02058009c": {
+    "text": {
+      "ascii": "kuNDalAni ca niSkAz ca sarvaM cAGgavibhUSaNam\n",
+      "ud": "कुण्डलानि च निष्काश्च सर्वं चाङ्गविभूषणम्\n",
+      "ur": "kuṇḍalāni ca niṣkāś ca sarvaṁ cāṅgavibhūṣaṇam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 9
+  },
+  "02058009e": {
+    "text": {
+      "ascii": "etan mama dhanaM rAjaMs tena dIvyAmy ahaM tvayA\n",
+      "ud": "एतन्मम धनं राजंस्तेन दीव्याम्यहं त्वया\n",
+      "ur": "etan mama dhanaṁ rājaṁs tena dīvyāmy ahaṁ tvayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 9
+  },
+  "02058010": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 10
+  },
+  "02058010a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 10
+  },
+  "02058010c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 10
+  },
+  "02058011": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 11
+  },
+  "02058011a": {
+    "text": {
+      "ascii": "zyAmo yuvA lohitAkSaH siMhaskandho mahAbhujaH\n",
+      "ud": "श्यामो युवा लोहिताक्षः सिंहस्कन्धो महाभुजः\n",
+      "ur": "śyāmo yuvā lohitākṣaḥ siṁhaskandho mahābhujaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 11
+  },
+  "02058011c": {
+    "text": {
+      "ascii": "nakulo glaha eko me yac caitat svagataM dhanam\n",
+      "ud": "नकुलो ग्लह एको मे यच्चैतत्स्वगतं धनम्\n",
+      "ur": "nakulo glaha eko me yac caitat svagataṁ dhanam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 11
+  },
+  "02058012": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 12
+  },
+  "02058012a": {
+    "text": {
+      "ascii": "priyas te nakulo rAjan rAjaputro yudhiSThira\n",
+      "ud": "प्रियस्ते नकुलो राजन्राजपुत्रो युधिष्ठिर\n",
+      "ur": "priyas te nakulo rājan rājaputro yudhiṣṭhira\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 12
+  },
+  "02058012c": {
+    "text": {
+      "ascii": "asmAkaM dhanatAM prApto bhUyas tvaM kena dIvyasi\n",
+      "ud": "अस्माकं धनतां प्राप्तो भूयस्त्वं केन दीव्यसि\n",
+      "ur": "asmākaṁ dhanatāṁ prāpto bhūyas tvaṁ kena dīvyasi\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 12
+  },
+  "02058013": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 13
+  },
+  "02058013a": {
+    "text": {
+      "ascii": "evam uktvA tu zakunis tAn akSAn pratyapadyata\n",
+      "ud": "एवमुक्त्वा तु शकुनिस्तानक्षान्प्रत्यपद्यत\n",
+      "ur": "evam uktvā tu śakunis tān akṣān pratyapadyata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 13
+  },
+  "02058013c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 13
+  },
+  "02058014": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 14
+  },
+  "02058014a": {
+    "text": {
+      "ascii": "ayaM dharmAn sahadevo 'nuzAsti; loke hy asmin paNDitAkhyAM gataz ca\n",
+      "ud": "अयं धर्मान्सहदेवोऽनुशास्ति; लोके ह्यस्मिन्पण्डिताख्यां गतश्च\n",
+      "ur": "ayaṁ dharmān sahadevo ’nuśāsti; loke hy asmin paṇḍitākhyāṁ gataś ca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 14
+  },
+  "02058014c": {
+    "text": {
+      "ascii": "anarhatA rAjaputreNa tena; tvayA dIvyAmy apriyavat priyeNa\n",
+      "ud": "अनर्हता राजपुत्रेण तेन; त्वया दीव्याम्यप्रियवत्प्रियेण\n",
+      "ur": "anarhatā rājaputreṇa tena; tvayā dīvyāmy apriyavat priyeṇa\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 14
+  },
+  "02058015": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 15
+  },
+  "02058015a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 15
+  },
+  "02058015c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 15
+  },
+  "02058016": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 16
+  },
+  "02058016a": {
+    "text": {
+      "ascii": "mAdrIputrau priyau rAjaMs tavemau vijitau mayA\n",
+      "ud": "माद्रीपुत्रौ प्रियौ राजंस्तवेमौ विजितौ मया\n",
+      "ur": "mādrīputrau priyau rājaṁs tavemau vijitau mayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 16
+  },
+  "02058016c": {
+    "text": {
+      "ascii": "garIyAMsau tu te manye bhImasenadhanaMjayau\n",
+      "ud": "गरीयांसौ तु ते मन्ये भीमसेनधनंजयौ\n",
+      "ur": "garīyāṁsau tu te manye bhīmasenadhanaṁjayau\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 16
+  },
+  "02058017": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 17
+  },
+  "02058017a": {
+    "text": {
+      "ascii": "adharmaM carase nUnaM yo nAvekSasi vai nayam\n",
+      "ud": "अधर्मं चरसे नूनं यो नावेक्षसि वै नयम्\n",
+      "ur": "adharmaṁ carase nūnaṁ yo nāvekṣasi vai nayam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 17
+  },
+  "02058017c": {
+    "text": {
+      "ascii": "yo naH sumanasAM mUDha vibhedaM kartum icchasi\n",
+      "ud": "यो नः सुमनसां मूढ विभेदं कर्तुमिच्छसि\n",
+      "ur": "yo naḥ sumanasāṁ mūḍha vibhedaṁ kartum icchasi\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 17
+  },
+  "02058018": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 18
+  },
+  "02058018a": {
+    "text": {
+      "ascii": "garte mattaH prapatati pramattaH sthANum Rcchati\n",
+      "ud": "गर्ते मत्तः प्रपतति प्रमत्तः स्थाणुमृच्छति\n",
+      "ur": "garte mattaḥ prapatati pramattaḥ sthāṇum r̥cchati\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 18
+  },
+  "02058018c": {
+    "text": {
+      "ascii": "jyeSTho rAjan variSTho 'si namas te bharatarSabha\n",
+      "ud": "ज्येष्ठो राजन्वरिष्ठोऽसि नमस्ते भरतर्षभ\n",
+      "ur": "jyeṣṭho rājan variṣṭho ’si namas te bharatarṣabha\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 18
+  },
+  "02058019a": {
+    "text": {
+      "ascii": "svapne na tAni pazyanti jAgrato vA yudhiSThira\n",
+      "ud": "स्वप्ने न तानि पश्यन्ति जाग्रतो वा युधिष्ठिर\n",
+      "ur": "svapne na tāni paśyanti jāgrato vā yudhiṣṭhira\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 19
+  },
+  "02058019c": {
+    "text": {
+      "ascii": "kitavA yAni dIvyantaH pralapanty utkaTA iva\n",
+      "ud": "कितवा यानि दीव्यन्तः प्रलपन्त्युत्कटा इव\n",
+      "ur": "kitavā yāni dīvyantaḥ pralapanty utkaṭā iva\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 19
+  },
+  "02058020": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 20
+  },
+  "02058020a": {
+    "text": {
+      "ascii": "yo naH saMkhye naur iva pAranetA; jetA ripUNAM rAjaputras tarasvI\n",
+      "ud": "यो नः संख्ये नौरिव पारनेता; जेता रिपूणां राजपुत्रस्तरस्वी\n",
+      "ur": "yo naḥ saṁkhye naur iva pāranetā; jetā ripūṇāṁ rājaputras tarasvī\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 20
+  },
+  "02058020c": {
+    "text": {
+      "ascii": "anarhatA lokavIreNa tena; dIvyAmy ahaM zakune phalgunena\n",
+      "ud": "अनर्हता लोकवीरेण तेन; दीव्याम्यहं शकुने फल्गुनेन\n",
+      "ur": "anarhatā lokavīreṇa tena; dīvyāmy ahaṁ śakune phalgunena\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 20
+  },
+  "02058021": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 21
+  },
+  "02058021a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 21
+  },
+  "02058021c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 21
+  },
+  "02058022": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 22
+  },
+  "02058022a": {
+    "text": {
+      "ascii": "ayaM mayA pANDavAnAM dhanurdharaH; parAjitaH pANDavaH savyasAcI\n",
+      "ud": "अयं मया पाण्डवानां धनुर्धरः; पराजितः पाण्डवः सव्यसाची\n",
+      "ur": "ayaṁ mayā pāṇḍavānāṁ dhanurdharaḥ; parājitaḥ pāṇḍavaḥ savyasācī\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 22
+  },
+  "02058022c": {
+    "text": {
+      "ascii": "bhImena rAjan dayitena dIvya; yat kaitavyaM pANDava te 'vaziSTam\n",
+      "ud": "भीमेन राजन्दयितेन दीव्य; यत्कैतव्यं पाण्डव तेऽवशिष्टम्\n",
+      "ur": "bhīmena rājan dayitena dīvya; yat kaitavyaṁ pāṇḍava te ’vaśiṣṭam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 22
+  },
+  "02058023": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 23
+  },
+  "02058023a": {
+    "text": {
+      "ascii": "yo no netA yo yudhAM naH praNetA; yathA vajrI dAnavazatrur ekaH\n",
+      "ud": "यो नो नेता यो युधां नः प्रणेता; यथा वज्री दानवशत्रुरेकः\n",
+      "ur": "yo no netā yo yudhāṁ naḥ praṇetā; yathā vajrī dānavaśatrur ekaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 23
+  },
+  "02058023c": {
+    "text": {
+      "ascii": "tiryakprekSI saMhatabhrUr mahAtmA; siMhaskandho yaz ca sadAtyamarSI\n",
+      "ud": "तिर्यक्प्रेक्षी संहतभ्रूर्महात्मा; सिंहस्कन्धो यश्च सदात्यमर्षी\n",
+      "ur": "tiryakprekṣī saṁhatabhrūr mahātmā; siṁhaskandho yaś ca sadātyamarṣī\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 23
+  },
+  "02058024a": {
+    "text": {
+      "ascii": "balena tulyo yasya pumAn na vidyate; gadAbhRtAm agrya ihArimardanaH\n",
+      "ud": "बलेन तुल्यो यस्य पुमान्न विद्यते; गदाभृतामग्र्य इहारिमर्दनः\n",
+      "ur": "balena tulyo yasya pumān na vidyate; gadābhr̥tām agrya ihārimardanaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 24
+  },
+  "02058024c": {
+    "text": {
+      "ascii": "anarhatA rAjaputreNa tena; dIvyAmy ahaM bhImasenena rAjan\n",
+      "ud": "अनर्हता राजपुत्रेण तेन; दीव्याम्यहं भीमसेनेन राजन्\n",
+      "ur": "anarhatā rājaputreṇa tena; dīvyāmy ahaṁ bhīmasenena rājan\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 24
+  },
+  "02058025": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 25
+  },
+  "02058025a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 25
+  },
+  "02058025c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 25
+  },
+  "02058026": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 26
+  },
+  "02058026a": {
+    "text": {
+      "ascii": "bahu vittaM parAjaiSIr bhrAtqMz ca sahayadvipAn\n",
+      "ud": "बहु वित्तं पराजैषीर्भ्रातॄंश्च सहयद्विपान्\n",
+      "ur": "bahu vittaṁ parājaiṣīr bhrātr̥̄ṁś ca sahayadvipān\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 26
+  },
+  "02058026c": {
+    "text": {
+      "ascii": "AcakSva vittaM kaunteya yadi te 'sty aparAjitam\n",
+      "ud": "आचक्ष्व वित्तं कौन्तेय यदि तेऽस्त्यपराजितम्\n",
+      "ur": "ācakṣva vittaṁ kaunteya yadi te ’sty aparājitam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 26
+  },
+  "02058027": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 27
+  },
+  "02058027a": {
+    "text": {
+      "ascii": "ahaM viziSTaH sarveSAM bhrAtqNAM dayitas tathA\n",
+      "ud": "अहं विशिष्टः सर्वेषां भ्रातॄणां दयितस्तथा\n",
+      "ur": "ahaṁ viśiṣṭaḥ sarveṣāṁ bhrātr̥̄ṇāṁ dayitas tathā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 27
+  },
+  "02058027c": {
+    "text": {
+      "ascii": "kuryAmas te jitAH karma svayam Atmany upaplave\n",
+      "ud": "कुर्यामस्ते जिताः कर्म स्वयमात्मन्युपप्लवे\n",
+      "ur": "kuryāmas te jitāḥ karma svayam ātmany upaplave\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 27
+  },
+  "02058028": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 28
+  },
+  "02058028a": {
+    "text": {
+      "ascii": "etac chrutvA vyavasito nikRtiM samupAzritaH\n",
+      "ud": "एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः\n",
+      "ur": "etac chrutvā vyavasito nikr̥tiṁ samupāśritaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 28
+  },
+  "02058028c": {
+    "text": {
+      "ascii": "jitam ity eva zakunir yudhiSThiram abhASata\n",
+      "ud": "जितमित्येव शकुनिर्युधिष्ठिरमभाषत\n",
+      "ur": "jitam ity eva śakunir yudhiṣṭhiram abhāṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 28
+  },
+  "02058029": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 29
+  },
+  "02058029a": {
+    "text": {
+      "ascii": "etat pApiSTham akaror yad AtmAnaM parAjitaH\n",
+      "ud": "एतत्पापिष्ठमकरोर्यदात्मानं पराजितः\n",
+      "ur": "etat pāpiṣṭham akaror yad ātmānaṁ parājitaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 29
+  },
+  "02058029c": {
+    "text": {
+      "ascii": "ziSTe sati dhane rAjan pApa AtmaparAjayaH\n",
+      "ud": "शिष्टे सति धने राजन्पाप आत्मपराजयः\n",
+      "ur": "śiṣṭe sati dhane rājan pāpa ātmaparājayaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 29
+  },
+  "02058030": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 30
+  },
+  "02058030a": {
+    "text": {
+      "ascii": "evam uktvA matAkSas tAn glahe sarvAn avasthitAn\n",
+      "ud": "एवमुक्त्वा मताक्षस्तान्ग्लहे सर्वानवस्थितान्\n",
+      "ur": "evam uktvā matākṣas tān glahe sarvān avasthitān\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 30
+  },
+  "02058030c": {
+    "text": {
+      "ascii": "parAjayal lokavIrAn AkSepeNa pRthak pRthak\n",
+      "ud": "पराजयल्लोकवीरानाक्षेपेण पृथक्पृथक्\n",
+      "ur": "parājayal lokavīrān ākṣepeṇa pr̥thak pr̥thak\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 30
+  },
+  "02058031": {
+    "text": {
+      "ascii": "zakunir uvAca\n",
+      "ud": "शकुनिरुवाच\n",
+      "ur": "śakunir uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 31
+  },
+  "02058031a": {
+    "text": {
+      "ascii": "asti vai te priyA devI glaha eko 'parAjitaH\n",
+      "ud": "अस्ति वै ते प्रिया देवी ग्लह एकोऽपराजितः\n",
+      "ur": "asti vai te priyā devī glaha eko ’parājitaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 31
+  },
+  "02058031c": {
+    "text": {
+      "ascii": "paNasva kRSNAM pAJcAlIM tayAtmAnaM punar jaya\n",
+      "ud": "पणस्व कृष्णां पाञ्चालीं तयात्मानं पुनर्जय\n",
+      "ur": "paṇasva kr̥ṣṇāṁ pāñcālīṁ tayātmānaṁ punar jaya\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 31
+  },
+  "02058032": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 32
+  },
+  "02058032a": {
+    "text": {
+      "ascii": "naiva hrasvA na mahatI nAtikRSNA na rohiNI\n",
+      "ud": "नैव ह्रस्वा न महती नातिकृष्णा न रोहिणी\n",
+      "ur": "naiva hrasvā na mahatī nātikr̥ṣṇā na rohiṇī\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 32
+  },
+  "02058032c": {
+    "text": {
+      "ascii": "sarAgaraktanetrA ca tayA dIvyAmy ahaM tvayA\n",
+      "ud": "सरागरक्तनेत्रा च तया दीव्याम्यहं त्वया\n",
+      "ur": "sarāgaraktanetrā ca tayā dīvyāmy ahaṁ tvayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 32
+  },
+  "02058033a": {
+    "text": {
+      "ascii": "zAradotpalapatrAkSyA zAradotpalagandhayA\n",
+      "ud": "शारदोत्पलपत्राक्ष्या शारदोत्पलगन्धया\n",
+      "ur": "śāradotpalapatrākṣyā śāradotpalagandhayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 33
+  },
+  "02058033c": {
+    "text": {
+      "ascii": "zAradotpalasevinyA rUpeNa zrIsamAnayA\n",
+      "ud": "शारदोत्पलसेविन्या रूपेण श्रीसमानया\n",
+      "ur": "śāradotpalasevinyā rūpeṇa śrīsamānayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 33
+  },
+  "02058034a": {
+    "text": {
+      "ascii": "tathaiva syAd AnRzaMsyAt tathA syAd rUpasaMpadA\n",
+      "ud": "तथैव स्यादानृशंस्यात्तथा स्याद्रूपसंपदा\n",
+      "ur": "tathaiva syād ānr̥śaṁsyāt tathā syād rūpasaṁpadā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 34
+  },
+  "02058034c": {
+    "text": {
+      "ascii": "tathA syAc chIlasaMpattyA yAm icchet puruSaH striyam\n",
+      "ud": "तथा स्याच्छीलसंपत्त्या यामिच्छेत्पुरुषः स्त्रियम्\n",
+      "ur": "tathā syāc chīlasaṁpattyā yām icchet puruṣaḥ striyam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 34
+  },
+  "02058035a": {
+    "text": {
+      "ascii": "caramaM saMvizati yA prathamaM pratibudhyate\n",
+      "ud": "चरमं संविशति या प्रथमं प्रतिबुध्यते\n",
+      "ur": "caramaṁ saṁviśati yā prathamaṁ pratibudhyate\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 35
+  },
+  "02058035c": {
+    "text": {
+      "ascii": "A gopAlAvipAlebhyaH sarvaM veda kRtAkRtam\n",
+      "ud": "आ गोपालाविपालेभ्यः सर्वं वेद कृताकृतम्\n",
+      "ur": "ā gopālāvipālebhyaḥ sarvaṁ veda kr̥tākr̥tam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 35
+  },
+  "02058036a": {
+    "text": {
+      "ascii": "AbhAti padmavad vaktraM sasvedaM mallikeva ca\n",
+      "ud": "आभाति पद्मवद्वक्त्रं सस्वेदं मल्लिकेव च\n",
+      "ur": "ābhāti padmavad vaktraṁ sasvedaṁ mallikeva ca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 36
+  },
+  "02058036c": {
+    "text": {
+      "ascii": "vedImadhyA dIrghakezI tAmrAkSI nAtiromazA\n",
+      "ud": "वेदीमध्या दीर्घकेशी ताम्राक्षी नातिरोमशा\n",
+      "ur": "vedīmadhyā dīrghakeśī tāmrākṣī nātiromaśā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 36
+  },
+  "02058037a": {
+    "text": {
+      "ascii": "tayaivaMvidhayA rAjan pAJcAlyAhaM sumadhyayA\n",
+      "ud": "तयैवंविधया राजन्पाञ्चाल्याहं सुमध्यया\n",
+      "ur": "tayaivaṁvidhayā rājan pāñcālyāhaṁ sumadhyayā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 37
+  },
+  "02058037c": {
+    "text": {
+      "ascii": "glahaM dIvyAmi cArvaGgyA draupadyA hanta saubala\n",
+      "ud": "ग्लहं दीव्यामि चार्वङ्ग्या द्रौपद्या हन्त सौबल\n",
+      "ur": "glahaṁ dīvyāmi cārvaṅgyā draupadyā hanta saubala\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 37
+  },
+  "02058038": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 38
+  },
+  "02058038a": {
+    "text": {
+      "ascii": "evam ukte tu vacane dharmarAjena bhArata\n",
+      "ud": "एवमुक्ते तु वचने धर्मराजेन भारत\n",
+      "ur": "evam ukte tu vacane dharmarājena bhārata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 38
+  },
+  "02058038c": {
+    "text": {
+      "ascii": "dhig dhig ity eva vRddhAnAM sabhyAnAM niHsRtA giraH\n",
+      "ud": "धिग्धिगित्येव वृद्धानां सभ्यानां निःसृता गिरः\n",
+      "ur": "dhig dhig ity eva vr̥ddhānāṁ sabhyānāṁ niḥsr̥tā giraḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 38
+  },
+  "02058039a": {
+    "text": {
+      "ascii": "cukSubhe sA sabhA rAjan rAjJAM saMjajJire kathAH\n",
+      "ud": "चुक्षुभे सा सभा राजन्राज्ञां संजज्ञिरे कथाः\n",
+      "ur": "cukṣubhe sā sabhā rājan rājñāṁ saṁjajñire kathāḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 39
+  },
+  "02058039c": {
+    "text": {
+      "ascii": "bhISmadroNakRpAdInAM svedaz ca samajAyata\n",
+      "ud": "भीष्मद्रोणकृपादीनां स्वेदश्च समजायत\n",
+      "ur": "bhīṣmadroṇakr̥pādīnāṁ svedaś ca samajāyata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 39
+  },
+  "02058040a": {
+    "text": {
+      "ascii": "ziro gRhItvA viduro gatasattva ivAbhavat\n",
+      "ud": "शिरो गृहीत्वा विदुरो गतसत्त्व इवाभवत्\n",
+      "ur": "śiro gr̥hītvā viduro gatasattva ivābhavat\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 40
+  },
+  "02058040c": {
+    "text": {
+      "ascii": "Aste dhyAyann adhovaktro niHzvasan pannago yathA\n",
+      "ud": "आस्ते ध्यायन्नधोवक्त्रो निःश्वसन्पन्नगो यथा\n",
+      "ur": "āste dhyāyann adhovaktro niḥśvasan pannago yathā\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 40
+  },
+  "02058041a": {
+    "text": {
+      "ascii": "dhRtarASTras tu saMhRSTaH paryapRcchat punaH punaH\n",
+      "ud": "धृतराष्ट्रस्तु संहृष्टः पर्यपृच्छत्पुनः पुनः\n",
+      "ur": "dhr̥tarāṣṭras tu saṁhr̥ṣṭaḥ paryapr̥cchat punaḥ punaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 41
+  },
+  "02058041c": {
+    "text": {
+      "ascii": "kiM jitaM kiM jitam iti hy AkAraM nAbhyarakSata\n",
+      "ud": "किं जितं किं जितमिति ह्याकारं नाभ्यरक्षत\n",
+      "ur": "kiṁ jitaṁ kiṁ jitam iti hy ākāraṁ nābhyarakṣata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 41
+  },
+  "02058042a": {
+    "text": {
+      "ascii": "jaharSa karNo 'tibhRzaM saha duHzAsanAdibhiH\n",
+      "ud": "जहर्ष कर्णोऽतिभृशं सह दुःशासनादिभिः\n",
+      "ur": "jaharṣa karṇo ’tibhr̥śaṁ saha duḥśāsanādibhiḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 42
+  },
+  "02058042c": {
+    "text": {
+      "ascii": "itareSAM tu sabhyAnAM netrebhyaH prApataj jalam\n",
+      "ud": "इतरेषां तु सभ्यानां नेत्रेभ्यः प्रापतज्जलम्\n",
+      "ur": "itareṣāṁ tu sabhyānāṁ netrebhyaḥ prāpataj jalam\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 42
+  },
+  "02058043a": {
+    "text": {
+      "ascii": "saubalas tv avicAryaiva jitakAzI madotkaTaH\n",
+      "ud": "सौबलस्त्वविचार्यैव जितकाशी मदोत्कटः\n",
+      "ur": "saubalas tv avicāryaiva jitakāśī madotkaṭaḥ\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 43
+  },
+  "02058043c": {
+    "text": {
+      "ascii": "jitam ity eva tAn akSAn punar evAnvapadyata\n",
+      "ud": "जितमित्येव तानक्षान्पुनरेवान्वपद्यत\n",
+      "ur": "jitam ity eva tān akṣān punar evānvapadyata\n"
+    },
+    "book": 2,
+    "chapter": 58,
+    "verse": 43
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "02012001": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 1
+  },
+  "02012001a": {
+    "text": {
+      "ascii": "RSes tad vacanaM zrutvA nizazvAsa yudhiSThiraH\n",
+      "ud": "ऋषेस्तद्वचनं श्रुत्वा निशश्वास युधिष्ठिरः\n",
+      "ur": "r̥ṣes tad vacanaṁ śrutvā niśaśvāsa yudhiṣṭhiraḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 1
+  },
+  "02012001c": {
+    "text": {
+      "ascii": "cintayan rAjasUyAptiM na lebhe zarma bhArata\n",
+      "ud": "चिन्तयन्राजसूयाप्तिं न लेभे शर्म भारत\n",
+      "ur": "cintayan rājasūyāptiṁ na lebhe śarma bhārata\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 1
+  },
+  "02012002a": {
+    "text": {
+      "ascii": "rAjarSINAM hi taM zrutvA mahimAnaM mahAtmanAm\n",
+      "ud": "राजर्षीणां हि तं श्रुत्वा महिमानं महात्मनाम्\n",
+      "ur": "rājarṣīṇāṁ hi taṁ śrutvā mahimānaṁ mahātmanām\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 2
+  },
+  "02012002c": {
+    "text": {
+      "ascii": "yajvanAM karmabhiH puNyair lokaprAptiM samIkSya ca\n",
+      "ud": "यज्वनां कर्मभिः पुण्यैर्लोकप्राप्तिं समीक्ष्य च\n",
+      "ur": "yajvanāṁ karmabhiḥ puṇyair lokaprāptiṁ samīkṣya ca\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 2
+  },
+  "02012003a": {
+    "text": {
+      "ascii": "harizcandraM ca rAjarSiM rocamAnaM vizeSataH\n",
+      "ud": "हरिश्चन्द्रं च राजर्षिं रोचमानं विशेषतः\n",
+      "ur": "hariścandraṁ ca rājarṣiṁ rocamānaṁ viśeṣataḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 3
+  },
+  "02012003c": {
+    "text": {
+      "ascii": "yajvAnaM yajJam AhartuM rAjasUyam iyeSa saH\n",
+      "ud": "यज्वानं यज्ञमाहर्तुं राजसूयमियेष सः\n",
+      "ur": "yajvānaṁ yajñam āhartuṁ rājasūyam iyeṣa saḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 3
+  },
+  "02012004a": {
+    "text": {
+      "ascii": "yudhiSThiras tataH sarvAn arcayitvA sabhAsadaH\n",
+      "ud": "युधिष्ठिरस्ततः सर्वानर्चयित्वा सभासदः\n",
+      "ur": "yudhiṣṭhiras tataḥ sarvān arcayitvā sabhāsadaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 4
+  },
+  "02012004c": {
+    "text": {
+      "ascii": "pratyarcitaz ca taiH sarvair yajJAyaiva mano dadhe\n",
+      "ud": "प्रत्यर्चितश्च तैः सर्वैर्यज्ञायैव मनो दधे\n",
+      "ur": "pratyarcitaś ca taiḥ sarvair yajñāyaiva mano dadhe\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 4
+  },
+  "02012005a": {
+    "text": {
+      "ascii": "sa rAjasUyaM rAjendra kurUNAm RSabhaH kratum\n",
+      "ud": "स राजसूयं राजेन्द्र कुरूणामृषभः क्रतुम्\n",
+      "ur": "sa rājasūyaṁ rājendra kurūṇām r̥ṣabhaḥ kratum\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 5
+  },
+  "02012005c": {
+    "text": {
+      "ascii": "AhartuM pravaNaM cakre manaH saMcintya so 'sakRt\n",
+      "ud": "आहर्तुं प्रवणं चक्रे मनः संचिन्त्य सोऽसकृत्\n",
+      "ur": "āhartuṁ pravaṇaṁ cakre manaḥ saṁcintya so ’sakr̥t\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 5
+  },
+  "02012006a": {
+    "text": {
+      "ascii": "bhUyaz cAdbhutavIryaujA dharmam evAnupAlayan\n",
+      "ud": "भूयश्चाद्भुतवीर्यौजा धर्ममेवानुपालयन्\n",
+      "ur": "bhūyaś cādbhutavīryaujā dharmam evānupālayan\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 6
+  },
+  "02012006c": {
+    "text": {
+      "ascii": "kiM hitaM sarvalokAnAM bhaved iti mano dadhe\n",
+      "ud": "किं हितं सर्वलोकानां भवेदिति मनो दधे\n",
+      "ur": "kiṁ hitaṁ sarvalokānāṁ bhaved iti mano dadhe\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 6
+  },
+  "02012007a": {
+    "text": {
+      "ascii": "anugRhNan prajAH sarvAH sarvadharmavidAM varaH\n",
+      "ud": "अनुगृह्णन्प्रजाः सर्वाः सर्वधर्मविदां वरः\n",
+      "ur": "anugr̥hṇan prajāḥ sarvāḥ sarvadharmavidāṁ varaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 7
+  },
+  "02012007c": {
+    "text": {
+      "ascii": "avizeSeNa sarveSAM hitaM cakre yudhiSThiraH\n",
+      "ud": "अविशेषेण सर्वेषां हितं चक्रे युधिष्ठिरः\n",
+      "ur": "aviśeṣeṇa sarveṣāṁ hitaṁ cakre yudhiṣṭhiraḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 7
+  },
+  "02012008a": {
+    "text": {
+      "ascii": "evaM gate tatas tasmin pitarIvAzvasaJ janAH\n",
+      "ud": "एवं गते ततस्तस्मिन्पितरीवाश्वसञ्जनाः\n",
+      "ur": "evaṁ gate tatas tasmin pitarīvāśvasañ janāḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 8
+  },
+  "02012008c": {
+    "text": {
+      "ascii": "na tasya vidyate dveSTA tato 'syAjAtazatrutA\n",
+      "ud": "न तस्य विद्यते द्वेष्टा ततोऽस्याजातशत्रुता\n",
+      "ur": "na tasya vidyate dveṣṭā tato ’syājātaśatrutā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 8
+  },
+  "02012009a": {
+    "text": {
+      "ascii": "sa mantriNaH samAnAyya bhrAtqMz ca vadatAM varaH\n",
+      "ud": "स मन्त्रिणः समानाय्य भ्रातॄंश्च वदतां वरः\n",
+      "ur": "sa mantriṇaḥ samānāyya bhrātr̥̄ṁś ca vadatāṁ varaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 9
+  },
+  "02012009c": {
+    "text": {
+      "ascii": "rAjasUyaM prati tadA punaH punar apRcchata\n",
+      "ud": "राजसूयं प्रति तदा पुनः पुनरपृच्छत\n",
+      "ur": "rājasūyaṁ prati tadā punaḥ punar apr̥cchata\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 9
+  },
+  "02012010a": {
+    "text": {
+      "ascii": "te pRcchyamAnAH sahitA vaco 'rthyaM mantriNas tadA\n",
+      "ud": "ते पृच्छ्यमानाः सहिता वचोऽर्थ्यं मन्त्रिणस्तदा\n",
+      "ur": "te pr̥cchyamānāḥ sahitā vaco ’rthyaṁ mantriṇas tadā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 10
+  },
+  "02012010c": {
+    "text": {
+      "ascii": "yudhiSThiraM mahAprAjJaM yiyakSum idam abruvan\n",
+      "ud": "युधिष्ठिरं महाप्राज्ञं यियक्षुमिदमब्रुवन्\n",
+      "ur": "yudhiṣṭhiraṁ mahāprājñaṁ yiyakṣum idam abruvan\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 10
+  },
+  "02012011a": {
+    "text": {
+      "ascii": "yenAbhiSikto nRpatir vAruNaM guNam Rcchati\n",
+      "ud": "येनाभिषिक्तो नृपतिर्वारुणं गुणमृच्छति\n",
+      "ur": "yenābhiṣikto nr̥patir vāruṇaṁ guṇam r̥cchati\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 11
+  },
+  "02012011c": {
+    "text": {
+      "ascii": "tena rAjApi san kRtsnaM samrADguNam abhIpsati\n",
+      "ud": "तेन राजापि सन्कृत्स्नं सम्राड्गुणमभीप्सति\n",
+      "ur": "tena rājāpi san kr̥tsnaṁ samrāḍguṇam abhīpsati\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 11
+  },
+  "02012012a": {
+    "text": {
+      "ascii": "tasya samrADguNArhasya bhavataH kurunandana\n",
+      "ud": "तस्य सम्राड्गुणार्हस्य भवतः कुरुनन्दन\n",
+      "ur": "tasya samrāḍguṇārhasya bhavataḥ kurunandana\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 12
+  },
+  "02012012c": {
+    "text": {
+      "ascii": "rAjasUyasya samayaM manyante suhRdas tava\n",
+      "ud": "राजसूयस्य समयं मन्यन्ते सुहृदस्तव\n",
+      "ur": "rājasūyasya samayaṁ manyante suhr̥das tava\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 12
+  },
+  "02012013a": {
+    "text": {
+      "ascii": "tasya yajJasya samayaH svAdhInaH kSatrasaMpadA\n",
+      "ud": "तस्य यज्ञस्य समयः स्वाधीनः क्षत्रसंपदा\n",
+      "ur": "tasya yajñasya samayaḥ svādhīnaḥ kṣatrasaṁpadā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 13
+  },
+  "02012013c": {
+    "text": {
+      "ascii": "sAmnA SaD agnayo yasmiMz cIyante saMzitavrataiH\n",
+      "ud": "साम्ना षडग्नयो यस्मिंश्चीयन्ते संशितव्रतैः\n",
+      "ur": "sāmnā ṣaḍ agnayo yasmiṁś cīyante saṁśitavrataiḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 13
+  },
+  "02012014a": {
+    "text": {
+      "ascii": "darvIhomAn upAdAya sarvAn yaH prApnute kratUn\n",
+      "ud": "दर्वीहोमानुपादाय सर्वान्यः प्राप्नुते क्रतून्\n",
+      "ur": "darvīhomān upādāya sarvān yaḥ prāpnute kratūn\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 14
+  },
+  "02012014c": {
+    "text": {
+      "ascii": "abhiSekaM ca yajJAnte sarvajit tena cocyate\n",
+      "ud": "अभिषेकं च यज्ञान्ते सर्वजित्तेन चोच्यते\n",
+      "ur": "abhiṣekaṁ ca yajñānte sarvajit tena cocyate\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 14
+  },
+  "02012015a": {
+    "text": {
+      "ascii": "samartho 'si mahAbAho sarve te vazagA vayam\n",
+      "ud": "समर्थोऽसि महाबाहो सर्वे ते वशगा वयम्\n",
+      "ur": "samartho ’si mahābāho sarve te vaśagā vayam\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 15
+  },
+  "02012015c": {
+    "text": {
+      "ascii": "avicArya mahArAja rAjasUye manaH kuru\n",
+      "ud": "अविचार्य महाराज राजसूये मनः कुरु\n",
+      "ur": "avicārya mahārāja rājasūye manaḥ kuru\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 15
+  },
+  "02012016a": {
+    "text": {
+      "ascii": "ity evaM suhRdaH sarve pRthak ca saha cAbruvan\n",
+      "ud": "इत्येवं सुहृदः सर्वे पृथक्च सह चाब्रुवन्\n",
+      "ur": "ity evaṁ suhr̥daḥ sarve pr̥thak ca saha cābruvan\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 16
+  },
+  "02012016c": {
+    "text": {
+      "ascii": "sa dharmyaM pANDavas teSAM vacaH zrutvA vizAM pate\n",
+      "ud": "स धर्म्यं पाण्डवस्तेषां वचः श्रुत्वा विशां पते\n",
+      "ur": "sa dharmyaṁ pāṇḍavas teṣāṁ vacaḥ śrutvā viśāṁ pate\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 16
+  },
+  "02012016e": {
+    "text": {
+      "ascii": "dhRSTam iSTaM variSThaM ca jagrAha manasArihA\n",
+      "ud": "धृष्टमिष्टं वरिष्ठं च जग्राह मनसारिहा\n",
+      "ur": "dhr̥ṣṭam iṣṭaṁ variṣṭhaṁ ca jagrāha manasārihā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 16
+  },
+  "02012017a": {
+    "text": {
+      "ascii": "zrutvA suhRdvacas tac ca jAnaMz cApy AtmanaH kSamam\n",
+      "ud": "श्रुत्वा सुहृद्वचस्तच्च जानंश्चाप्यात्मनः क्षमम्\n",
+      "ur": "śrutvā suhr̥dvacas tac ca jānaṁś cāpy ātmanaḥ kṣamam\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 17
+  },
+  "02012017c": {
+    "text": {
+      "ascii": "punaH punar mano dadhre rAjasUyAya bhArata\n",
+      "ud": "पुनः पुनर्मनो दध्रे राजसूयाय भारत\n",
+      "ur": "punaḥ punar mano dadhre rājasūyāya bhārata\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 17
+  },
+  "02012018a": {
+    "text": {
+      "ascii": "sa bhrAtRbhiH punar dhImAn Rtvigbhiz ca mahAtmabhiH\n",
+      "ud": "स भ्रातृभिः पुनर्धीमानृत्विग्भिश्च महात्मभिः\n",
+      "ur": "sa bhrātr̥bhiḥ punar dhīmān r̥tvigbhiś ca mahātmabhiḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 18
+  },
+  "02012018c": {
+    "text": {
+      "ascii": "dhaumyadvaipAyanAdyaiz ca mantrayAm Asa mantribhiH\n",
+      "ud": "धौम्यद्वैपायनाद्यैश्च मन्त्रयामास मन्त्रिभिः\n",
+      "ur": "dhaumyadvaipāyanādyaiś ca mantrayām āsa mantribhiḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 18
+  },
+  "02012019": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 19
+  },
+  "02012019a": {
+    "text": {
+      "ascii": "iyaM yA rAjasUyasya samrADarhasya sukratoH\n",
+      "ud": "इयं या राजसूयस्य सम्राडर्हस्य सुक्रतोः\n",
+      "ur": "iyaṁ yā rājasūyasya samrāḍarhasya sukratoḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 19
+  },
+  "02012019c": {
+    "text": {
+      "ascii": "zraddadhAnasya vadataH spRhA me sA kathaM bhavet\n",
+      "ud": "श्रद्दधानस्य वदतः स्पृहा मे सा कथं भवेत्\n",
+      "ur": "śraddadhānasya vadataḥ spr̥hā me sā kathaṁ bhavet\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 19
+  },
+  "02012020": {
+    "text": {
+      "ascii": "vaizaMpAyana uvAca\n",
+      "ud": "वैशंपायन उवाच\n",
+      "ur": "vaiśaṁpāyana uvāca\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 20
+  },
+  "02012020a": {
+    "text": {
+      "ascii": "evam uktAs tu te tena rAjJA rAjIvalocana\n",
+      "ud": "एवमुक्तास्तु ते तेन राज्ञा राजीवलोचन\n",
+      "ur": "evam uktās tu te tena rājñā rājīvalocana\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 20
+  },
+  "02012020c": {
+    "text": {
+      "ascii": "idam Ucur vacaH kAle dharmAtmAnaM yudhiSThiram\n",
+      "ud": "इदमूचुर्वचः काले धर्मात्मानं युधिष्ठिरम्\n",
+      "ur": "idam ūcur vacaḥ kāle dharmātmānaṁ yudhiṣṭhiram\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 20
+  },
+  "02012020e": {
+    "text": {
+      "ascii": "arhas tvam asi dharmajJa rAjasUyaM mahAkratum\n",
+      "ud": "अर्हस्त्वमसि धर्मज्ञ राजसूयं महाक्रतुम्\n",
+      "ur": "arhas tvam asi dharmajña rājasūyaṁ mahākratum\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 20
+  },
+  "02012021a": {
+    "text": {
+      "ascii": "athaivam ukte nRpatAv Rtvigbhir RSibhis tathA\n",
+      "ud": "अथैवमुक्ते नृपतावृत्विग्भिरृषिभिस्तथा\n",
+      "ur": "athaivam ukte nr̥patāv r̥tvigbhir r̥ṣibhis tathā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 21
+  },
+  "02012021c": {
+    "text": {
+      "ascii": "mantriNo bhrAtaraz cAsya tad vacaH pratyapUjayan\n",
+      "ud": "मन्त्रिणो भ्रातरश्चास्य तद्वचः प्रत्यपूजयन्\n",
+      "ur": "mantriṇo bhrātaraś cāsya tad vacaḥ pratyapūjayan\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 21
+  },
+  "02012022a": {
+    "text": {
+      "ascii": "sa tu rAjA mahAprAjJaH punar evAtmanAtmavAn\n",
+      "ud": "स तु राजा महाप्राज्ञः पुनरेवात्मनात्मवान्\n",
+      "ur": "sa tu rājā mahāprājñaḥ punar evātmanātmavān\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 22
+  },
+  "02012022c": {
+    "text": {
+      "ascii": "bhUyo vimamRze pArtho lokAnAM hitakAmyayA\n",
+      "ud": "भूयो विममृशे पार्थो लोकानां हितकाम्यया\n",
+      "ur": "bhūyo vimamr̥śe pārtho lokānāṁ hitakāmyayā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 22
+  },
+  "02012023a": {
+    "text": {
+      "ascii": "sAmarthyayogaM saMprekSya dezakAlau vyayAgamau\n",
+      "ud": "सामर्थ्ययोगं संप्रेक्ष्य देशकालौ व्ययागमौ\n",
+      "ur": "sāmarthyayogaṁ saṁprekṣya deśakālau vyayāgamau\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 23
+  },
+  "02012023c": {
+    "text": {
+      "ascii": "vimRzya samyak ca dhiyA kurvan prAjJo na sIdati\n",
+      "ud": "विमृश्य सम्यक्च धिया कुर्वन्प्राज्ञो न सीदति\n",
+      "ur": "vimr̥śya samyak ca dhiyā kurvan prājño na sīdati\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 23
+  },
+  "02012024a": {
+    "text": {
+      "ascii": "na hi yajJasamArambhaH kevalAtmavipattaye\n",
+      "ud": "न हि यज्ञसमारम्भः केवलात्मविपत्तये\n",
+      "ur": "na hi yajñasamārambhaḥ kevalātmavipattaye\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 24
+  },
+  "02012024c": {
+    "text": {
+      "ascii": "bhavatIti samAjJAya yatnataH kAryam udvahan\n",
+      "ud": "भवतीति समाज्ञाय यत्नतः कार्यमुद्वहन्\n",
+      "ur": "bhavatīti samājñāya yatnataḥ kāryam udvahan\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 24
+  },
+  "02012025a": {
+    "text": {
+      "ascii": "sa nizcayArthaM kAryasya kRSNam eva janArdanam\n",
+      "ud": "स निश्चयार्थं कार्यस्य कृष्णमेव जनार्दनम्\n",
+      "ur": "sa niścayārthaṁ kāryasya kr̥ṣṇam eva janārdanam\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 25
+  },
+  "02012025c": {
+    "text": {
+      "ascii": "sarvalokAt paraM matvA jagAma manasA harim\n",
+      "ud": "सर्वलोकात्परं मत्वा जगाम मनसा हरिम्\n",
+      "ur": "sarvalokāt paraṁ matvā jagāma manasā harim\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 25
+  },
+  "02012026a": {
+    "text": {
+      "ascii": "aprameyaM mahAbAhuM kAmAj jAtam ajaM nRSu\n",
+      "ud": "अप्रमेयं महाबाहुं कामाज्जातमजं नृषु\n",
+      "ur": "aprameyaṁ mahābāhuṁ kāmāj jātam ajaṁ nr̥ṣu\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 26
+  },
+  "02012026c": {
+    "text": {
+      "ascii": "pANDavas tarkayAm Asa karmabhir devasaMmitaiH\n",
+      "ud": "पाण्डवस्तर्कयामास कर्मभिर्देवसंमितैः\n",
+      "ur": "pāṇḍavas tarkayām āsa karmabhir devasaṁmitaiḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 26
+  },
+  "02012027a": {
+    "text": {
+      "ascii": "nAsya kiM cid avijJAtaM nAsya kiM cid akarmajam\n",
+      "ud": "नास्य किंचिदविज्ञातं नास्य किंचिदकर्मजम्\n",
+      "ur": "nāsya kiṁ cid avijñātaṁ nāsya kiṁ cid akarmajam\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 27
+  },
+  "02012027c": {
+    "text": {
+      "ascii": "na sa kiM cin na viSahed iti kRSNam amanyata\n",
+      "ud": "न स किंचिन्न विषहेदिति कृष्णममन्यत\n",
+      "ur": "na sa kiṁ cin na viṣahed iti kr̥ṣṇam amanyata\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 27
+  },
+  "02012028a": {
+    "text": {
+      "ascii": "sa tu tAM naiSThikIM buddhiM kRtvA pArtho yudhiSThiraH\n",
+      "ud": "स तु तां नैष्ठिकीं बुद्धिं कृत्वा पार्थो युधिष्ठिरः\n",
+      "ur": "sa tu tāṁ naiṣṭhikīṁ buddhiṁ kr̥tvā pārtho yudhiṣṭhiraḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 28
+  },
+  "02012028c": {
+    "text": {
+      "ascii": "guruvad bhUtagurave prAhiNod dUtam aJjasA\n",
+      "ud": "गुरुवद्भूतगुरवे प्राहिणोद्दूतमञ्जसा\n",
+      "ur": "guruvad bhūtagurave prāhiṇod dūtam añjasā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 28
+  },
+  "02012029a": {
+    "text": {
+      "ascii": "zIghragena rathenAzu sa dUtaH prApya yAdavAn\n",
+      "ud": "शीघ्रगेन रथेनाशु स दूतः प्राप्य यादवान्\n",
+      "ur": "śīghragena rathenāśu sa dūtaḥ prāpya yādavān\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 29
+  },
+  "02012029c": {
+    "text": {
+      "ascii": "dvArakAvAsinaM kRSNaM dvAravatyAM samAsadat\n",
+      "ud": "द्वारकावासिनं कृष्णं द्वारवत्यां समासदत्\n",
+      "ur": "dvārakāvāsinaṁ kr̥ṣṇaṁ dvāravatyāṁ samāsadat\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 29
+  },
+  "02012030a": {
+    "text": {
+      "ascii": "darzanAkAGkSiNaM pArthaM darzanAkAGkSayAcyutaH\n",
+      "ud": "दर्शनाकाङ्क्षिणं पार्थं दर्शनाकाङ्क्षयाच्युतः\n",
+      "ur": "darśanākāṅkṣiṇaṁ pārthaṁ darśanākāṅkṣayācyutaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 30
+  },
+  "02012030c": {
+    "text": {
+      "ascii": "indrasenena sahita indraprasthaM yayau tadA\n",
+      "ud": "इन्द्रसेनेन सहित इन्द्रप्रस्थं ययौ तदा\n",
+      "ur": "indrasenena sahita indraprasthaṁ yayau tadā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 30
+  },
+  "02012031a": {
+    "text": {
+      "ascii": "vyatItya vividhAn dezAMs tvarAvAn kSipravAhanaH\n",
+      "ud": "व्यतीत्य विविधान्देशांस्त्वरावान्क्षिप्रवाहनः\n",
+      "ur": "vyatītya vividhān deśāṁs tvarāvān kṣipravāhanaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 31
+  },
+  "02012031c": {
+    "text": {
+      "ascii": "indraprasthagataM pArtham abhyagacchaj janArdanaH\n",
+      "ud": "इन्द्रप्रस्थगतं पार्थमभ्यगच्छज्जनार्दनः\n",
+      "ur": "indraprasthagataṁ pārtham abhyagacchaj janārdanaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 31
+  },
+  "02012032a": {
+    "text": {
+      "ascii": "sa gRhe bhrAtRvad bhrAtrA dharmarAjena pUjitaH\n",
+      "ud": "स गृहे भ्रातृवद्भ्रात्रा धर्मराजेन पूजितः\n",
+      "ur": "sa gr̥he bhrātr̥vad bhrātrā dharmarājena pūjitaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 32
+  },
+  "02012032c": {
+    "text": {
+      "ascii": "bhImena ca tato 'pazyat svasAraM prItimAn pituH\n",
+      "ud": "भीमेन च ततोऽपश्यत्स्वसारं प्रीतिमान्पितुः\n",
+      "ur": "bhīmena ca tato ’paśyat svasāraṁ prītimān pituḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 32
+  },
+  "02012033a": {
+    "text": {
+      "ascii": "prItaH priyeNa suhRdA reme sa sahitas tadA\n",
+      "ud": "प्रीतः प्रियेण सुहृदा रेमे स सहितस्तदा\n",
+      "ur": "prītaḥ priyeṇa suhr̥dā reme sa sahitas tadā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 33
+  },
+  "02012033c": {
+    "text": {
+      "ascii": "arjunena yamAbhyAM ca guruvat paryupasthitaH\n",
+      "ud": "अर्जुनेन यमाभ्यां च गुरुवत्पर्युपस्थितः\n",
+      "ur": "arjunena yamābhyāṁ ca guruvat paryupasthitaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 33
+  },
+  "02012034a": {
+    "text": {
+      "ascii": "taM vizrAntaM zubhe deze kSaNinaM kalyam acyutam\n",
+      "ud": "तं विश्रान्तं शुभे देशे क्षणिनं कल्यमच्युतम्\n",
+      "ur": "taṁ viśrāntaṁ śubhe deśe kṣaṇinaṁ kalyam acyutam\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 34
+  },
+  "02012034c": {
+    "text": {
+      "ascii": "dharmarAjaH samAgamya jJApayat svaM prayojanam\n",
+      "ud": "धर्मराजः समागम्य ज्ञापयत्स्वं प्रयोजनम्\n",
+      "ur": "dharmarājaḥ samāgamya jñāpayat svaṁ prayojanam\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 34
+  },
+  "02012035": {
+    "text": {
+      "ascii": "yudhiSThira uvAca\n",
+      "ud": "युधिष्ठिर उवाच\n",
+      "ur": "yudhiṣṭhira uvāca\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 35
+  },
+  "02012035a": {
+    "text": {
+      "ascii": "prArthito rAjasUyo me na cAsau kevalepsayA\n",
+      "ud": "प्रार्थितो राजसूयो मे न चासौ केवलेप्सया\n",
+      "ur": "prārthito rājasūyo me na cāsau kevalepsayā\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 35
+  },
+  "02012035c": {
+    "text": {
+      "ascii": "prApyate yena tat te ha viditaM kRSNa sarvazaH\n",
+      "ud": "प्राप्यते येन तत्ते ह विदितं कृष्ण सर्वशः\n",
+      "ur": "prāpyate yena tat te ha viditaṁ kr̥ṣṇa sarvaśaḥ\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 35
+  },
+  "02012036a": {
+    "text": {
+      "ascii": "yasmin sarvaM saMbhavati yaz ca sarvatra pUjyate\n",
+      "ud": "यस्मिन्सर्वं संभवति यश्च सर्वत्र पूज्यते\n",
+      "ur": "yasmin sarvaṁ saṁbhavati yaś ca sarvatra pūjyate\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 36
+  },
+  "02012036c": {
+    "text": {
+      "ascii": "yaz ca sarvezvaro rAjA rAjasUyaM sa vindati\n",
+      "ud": "यश्च सर्वेश्वरो राजा राजसूयं स विन्दति\n",
+      "ur": "yaś ca sarveśvaro rājā rājasūyaṁ sa vindati\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 36
+  },
+  "02012037a": {
+    "text": {
+      "ascii": "taM rAjasUyaM suhRdaH kAryam AhuH sametya me\n",
+      "ud": "तं राजसूयं सुहृदः कार्यमाहुः समेत्य मे\n",
+      "ur": "taṁ rājasūyaṁ suhr̥daḥ kāryam āhuḥ sametya me\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 37
+  },
+  "02012037c": {
+    "text": {
+      "ascii": "tatra me nizcitatamaM tava kRSNa girA bhavet\n",
+      "ud": "तत्र मे निश्चिततमं तव कृष्ण गिरा भवेत्\n",
+      "ur": "tatra me niścitatamaṁ tava kr̥ṣṇa girā bhavet\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 37
+  },
+  "02012038a": {
+    "text": {
+      "ascii": "ke cid dhi sauhRdAd eva doSaM na paricakSate\n",
+      "ud": "केचिद्धि सौहृदादेव दोषं न परिचक्षते\n",
+      "ur": "ke cid dhi sauhr̥dād eva doṣaṁ na paricakṣate\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 38
+  },
+  "02012038c": {
+    "text": {
+      "ascii": "arthahetos tathaivAnye priyam eva vadanty uta\n",
+      "ud": "अर्थहेतोस्तथैवान्ये प्रियमेव वदन्त्युत\n",
+      "ur": "arthahetos tathaivānye priyam eva vadanty uta\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 38
+  },
+  "02012039a": {
+    "text": {
+      "ascii": "priyam eva parIpsante ke cid Atmani yad dhitam\n",
+      "ud": "प्रियमेव परीप्सन्ते केचिदात्मनि यद्धितम्\n",
+      "ur": "priyam eva parīpsante ke cid ātmani yad dhitam\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 39
+  },
+  "02012039c": {
+    "text": {
+      "ascii": "evaMprAyAz ca dRzyante janavAdAH prayojane\n",
+      "ud": "एवंप्रायाश्च दृश्यन्ते जनवादाः प्रयोजने\n",
+      "ur": "evaṁprāyāś ca dr̥śyante janavādāḥ prayojane\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 39
+  },
+  "02012040a": {
+    "text": {
+      "ascii": "tvaM tu hetUn atItyaitAn kAmakrodhau vyatItya ca\n",
+      "ud": "त्वं तु हेतूनतीत्यैतान्कामक्रोधौ व्यतीत्य च\n",
+      "ur": "tvaṁ tu hetūn atītyaitān kāmakrodhau vyatītya ca\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 40
+  },
+  "02012040c": {
+    "text": {
+      "ascii": "paramaM naH kSamaM loke yathAvad vaktum arhasi\n",
+      "ud": "परमं नः क्षमं लोके यथावद्वक्तुमर्हसि\n",
+      "ur": "paramaṁ naḥ kṣamaṁ loke yathāvad vaktum arhasi\n"
+    },
+    "book": 2,
+    "chapter": 12,
+    "verse": 40
+  }
+}

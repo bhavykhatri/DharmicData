@@ -1,0 +1,482 @@
+{
+  "02034001": {
+    "text": {
+      "ascii": "zizupAla uvAca\n",
+      "ud": "शिशुपाल उवाच\n",
+      "ur": "śiśupāla uvāca\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 1
+  },
+  "02034001a": {
+    "text": {
+      "ascii": "nAyam arhati vArSNeyas tiSThatsv iha mahAtmasu\n",
+      "ud": "नायमर्हति वार्ष्णेयस्तिष्ठत्स्विह महात्मसु\n",
+      "ur": "nāyam arhati vārṣṇeyas tiṣṭhatsv iha mahātmasu\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 1
+  },
+  "02034001c": {
+    "text": {
+      "ascii": "mahIpatiSu kauravya rAjavat pArthivArhaNam\n",
+      "ud": "महीपतिषु कौरव्य राजवत्पार्थिवार्हणम्\n",
+      "ur": "mahīpatiṣu kauravya rājavat pārthivārhaṇam\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 1
+  },
+  "02034002a": {
+    "text": {
+      "ascii": "nAyaM yuktaH samAcAraH pANDaveSu mahAtmasu\n",
+      "ud": "नायं युक्तः समाचारः पाण्डवेषु महात्मसु\n",
+      "ur": "nāyaṁ yuktaḥ samācāraḥ pāṇḍaveṣu mahātmasu\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 2
+  },
+  "02034002c": {
+    "text": {
+      "ascii": "yat kAmAt puNDarIkAkSaM pANDavArcitavAn asi\n",
+      "ud": "यत्कामात्पुण्डरीकाक्षं पाण्डवार्चितवानसि\n",
+      "ur": "yat kāmāt puṇḍarīkākṣaṁ pāṇḍavārcitavān asi\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 2
+  },
+  "02034003a": {
+    "text": {
+      "ascii": "bAlA yUyaM na jAnIdhvaM dharmaH sUkSmo hi pANDavAH\n",
+      "ud": "बाला यूयं न जानीध्वं धर्मः सूक्ष्मो हि पाण्डवाः\n",
+      "ur": "bālā yūyaṁ na jānīdhvaṁ dharmaḥ sūkṣmo hi pāṇḍavāḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 3
+  },
+  "02034003c": {
+    "text": {
+      "ascii": "ayaM tatrAbhyatikrAnta Apageyo 'lpadarzanaH\n",
+      "ud": "अयं तत्राभ्यतिक्रान्त आपगेयोऽल्पदर्शनः\n",
+      "ur": "ayaṁ tatrābhyatikrānta āpageyo ’lpadarśanaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 3
+  },
+  "02034004a": {
+    "text": {
+      "ascii": "tvAdRzo dharmayukto hi kurvANaH priyakAmyayA\n",
+      "ud": "त्वादृशो धर्मयुक्तो हि कुर्वाणः प्रियकाम्यया\n",
+      "ur": "tvādr̥śo dharmayukto hi kurvāṇaḥ priyakāmyayā\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 4
+  },
+  "02034004c": {
+    "text": {
+      "ascii": "bhavaty abhyadhikaM bhISmo lokeSv avamataH satAm\n",
+      "ud": "भवत्यभ्यधिकं भीष्मो लोकेष्ववमतः सताम्\n",
+      "ur": "bhavaty abhyadhikaṁ bhīṣmo lokeṣv avamataḥ satām\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 4
+  },
+  "02034005a": {
+    "text": {
+      "ascii": "kathaM hy arAjA dAzArho madhye sarvamahIkSitAm\n",
+      "ud": "कथं ह्यराजा दाशार्हो मध्ये सर्वमहीक्षिताम्\n",
+      "ur": "kathaṁ hy arājā dāśārho madhye sarvamahīkṣitām\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 5
+  },
+  "02034005c": {
+    "text": {
+      "ascii": "arhaNAm arhati tathA yathA yuSmAbhir arcitaH\n",
+      "ud": "अर्हणामर्हति तथा यथा युष्माभिरर्चितः\n",
+      "ur": "arhaṇām arhati tathā yathā yuṣmābhir arcitaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 5
+  },
+  "02034006a": {
+    "text": {
+      "ascii": "atha vA manyase kRSNaM sthaviraM bharatarSabha\n",
+      "ud": "अथ वा मन्यसे कृष्णं स्थविरं भरतर्षभ\n",
+      "ur": "atha vā manyase kr̥ṣṇaṁ sthaviraṁ bharatarṣabha\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 6
+  },
+  "02034006c": {
+    "text": {
+      "ascii": "vasudeve sthite vRddhe katham arhati tatsutaH\n",
+      "ud": "वसुदेवे स्थिते वृद्धे कथमर्हति तत्सुतः\n",
+      "ur": "vasudeve sthite vr̥ddhe katham arhati tatsutaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 6
+  },
+  "02034007a": {
+    "text": {
+      "ascii": "atha vA vAsudevo 'pi priyakAmo 'nuvRttavAn\n",
+      "ud": "अथ वा वासुदेवोऽपि प्रियकामोऽनुवृत्तवान्\n",
+      "ur": "atha vā vāsudevo ’pi priyakāmo ’nuvr̥ttavān\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 7
+  },
+  "02034007c": {
+    "text": {
+      "ascii": "drupade tiSThati kathaM mAdhavo 'rhati pUjanam\n",
+      "ud": "द्रुपदे तिष्ठति कथं माधवोऽर्हति पूजनम्\n",
+      "ur": "drupade tiṣṭhati kathaṁ mādhavo ’rhati pūjanam\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 7
+  },
+  "02034008a": {
+    "text": {
+      "ascii": "AcAryaM manyase kRSNam atha vA kurupuMgava\n",
+      "ud": "आचार्यं मन्यसे कृष्णमथ वा कुरुपुंगव\n",
+      "ur": "ācāryaṁ manyase kr̥ṣṇam atha vā kurupuṁgava\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 8
+  },
+  "02034008c": {
+    "text": {
+      "ascii": "droNe tiSThati vArSNeyaM kasmAd arcitavAn asi\n",
+      "ud": "द्रोणे तिष्ठति वार्ष्णेयं कस्मादर्चितवानसि\n",
+      "ur": "droṇe tiṣṭhati vārṣṇeyaṁ kasmād arcitavān asi\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 8
+  },
+  "02034009a": {
+    "text": {
+      "ascii": "RtvijaM manyase kRSNam atha vA kurunandana\n",
+      "ud": "ऋत्विजं मन्यसे कृष्णमथ वा कुरुनन्दन\n",
+      "ur": "r̥tvijaṁ manyase kr̥ṣṇam atha vā kurunandana\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 9
+  },
+  "02034009c": {
+    "text": {
+      "ascii": "dvaipAyane sthite vipre kathaM kRSNo 'rcitas tvayA\n",
+      "ud": "द्वैपायने स्थिते विप्रे कथं कृष्णोऽर्चितस्त्वया\n",
+      "ur": "dvaipāyane sthite vipre kathaṁ kr̥ṣṇo ’rcitas tvayā\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 9
+  },
+  "02034010a": {
+    "text": {
+      "ascii": "naiva RtviG na cAcAryo na rAjA madhusUdanaH\n",
+      "ud": "नैव ऋत्विङ्न चाचार्यो न राजा मधुसूदनः\n",
+      "ur": "naiva r̥tviṅ na cācāryo na rājā madhusūdanaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 10
+  },
+  "02034010c": {
+    "text": {
+      "ascii": "arcitaz ca kuruzreSTha kim anyat priyakAmyayA\n",
+      "ud": "अर्चितश्च कुरुश्रेष्ठ किमन्यत्प्रियकाम्यया\n",
+      "ur": "arcitaś ca kuruśreṣṭha kim anyat priyakāmyayā\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 10
+  },
+  "02034011a": {
+    "text": {
+      "ascii": "atha vApy arcanIyo 'yaM yuSmAkaM madhusUdanaH\n",
+      "ud": "अथ वाप्यर्चनीयोऽयं युष्माकं मधुसूदनः\n",
+      "ur": "atha vāpy arcanīyo ’yaṁ yuṣmākaṁ madhusūdanaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 11
+  },
+  "02034011c": {
+    "text": {
+      "ascii": "kiM rAjabhir ihAnItair avamAnAya bhArata\n",
+      "ud": "किं राजभिरिहानीतैरवमानाय भारत\n",
+      "ur": "kiṁ rājabhir ihānītair avamānāya bhārata\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 11
+  },
+  "02034012a": {
+    "text": {
+      "ascii": "vayaM tu na bhayAd asya kaunteyasya mahAtmanaH\n",
+      "ud": "वयं तु न भयादस्य कौन्तेयस्य महात्मनः\n",
+      "ur": "vayaṁ tu na bhayād asya kaunteyasya mahātmanaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 12
+  },
+  "02034012c": {
+    "text": {
+      "ascii": "prayacchAmaH karAn sarve na lobhAn na ca sAntvanAt\n",
+      "ud": "प्रयच्छामः करान्सर्वे न लोभान्न च सान्त्वनात्\n",
+      "ur": "prayacchāmaḥ karān sarve na lobhān na ca sāntvanāt\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 12
+  },
+  "02034013a": {
+    "text": {
+      "ascii": "asya dharmapravRttasya pArthivatvaM cikIrSataH\n",
+      "ud": "अस्य धर्मप्रवृत्तस्य पार्थिवत्वं चिकीर्षतः\n",
+      "ur": "asya dharmapravr̥ttasya pārthivatvaṁ cikīrṣataḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 13
+  },
+  "02034013c": {
+    "text": {
+      "ascii": "karAn asmai prayacchAmaH so 'yam asmAn na manyate\n",
+      "ud": "करानस्मै प्रयच्छामः सोऽयमस्मान्न मन्यते\n",
+      "ur": "karān asmai prayacchāmaḥ so ’yam asmān na manyate\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 13
+  },
+  "02034014a": {
+    "text": {
+      "ascii": "kim anyad avamAnAd dhi yad imaM rAjasaMsadi\n",
+      "ud": "किमन्यदवमानाद्धि यदिमं राजसंसदि\n",
+      "ur": "kim anyad avamānād dhi yad imaṁ rājasaṁsadi\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 14
+  },
+  "02034014c": {
+    "text": {
+      "ascii": "aprAptalakSaNaM kRSNam arghyeNArcitavAn asi\n",
+      "ud": "अप्राप्तलक्षणं कृष्णमर्घ्येणार्चितवानसि\n",
+      "ur": "aprāptalakṣaṇaṁ kr̥ṣṇam arghyeṇārcitavān asi\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 14
+  },
+  "02034015a": {
+    "text": {
+      "ascii": "akasmAd dharmaputrasya dharmAtmeti yazo gatam\n",
+      "ud": "अकस्माद्धर्मपुत्रस्य धर्मात्मेति यशो गतम्\n",
+      "ur": "akasmād dharmaputrasya dharmātmeti yaśo gatam\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 15
+  },
+  "02034015c": {
+    "text": {
+      "ascii": "ko hi dharmacyute pUjAm evaM yuktAM prayojayet\n",
+      "ud": "को हि धर्मच्युते पूजामेवं युक्तां प्रयोजयेत्\n",
+      "ur": "ko hi dharmacyute pūjām evaṁ yuktāṁ prayojayet\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 15
+  },
+  "02034015e": {
+    "text": {
+      "ascii": "yo 'yaM vRSNikule jAto rAjAnaM hatavAn purA\n",
+      "ud": "योऽयं वृष्णिकुले जातो राजानं हतवान्पुरा\n",
+      "ur": "yo ’yaṁ vr̥ṣṇikule jāto rājānaṁ hatavān purā\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 15
+  },
+  "02034016a": {
+    "text": {
+      "ascii": "adya dharmAtmatA caiva vyapakRSTA yudhiSThirAt\n",
+      "ud": "अद्य धर्मात्मता चैव व्यपकृष्टा युधिष्ठिरात्\n",
+      "ur": "adya dharmātmatā caiva vyapakr̥ṣṭā yudhiṣṭhirāt\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 16
+  },
+  "02034016c": {
+    "text": {
+      "ascii": "kRpaNatvaM niviSTaM ca kRSNe 'rghyasya nivedanAt\n",
+      "ud": "कृपणत्वं निविष्टं च कृष्णेऽर्घ्यस्य निवेदनात्\n",
+      "ur": "kr̥paṇatvaṁ niviṣṭaṁ ca kr̥ṣṇe ’rghyasya nivedanāt\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 16
+  },
+  "02034017a": {
+    "text": {
+      "ascii": "yadi bhItAz ca kaunteyAH kRpaNAz ca tapasvinaH\n",
+      "ud": "यदि भीताश्च कौन्तेयाः कृपणाश्च तपस्विनः\n",
+      "ur": "yadi bhītāś ca kaunteyāḥ kr̥paṇāś ca tapasvinaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 17
+  },
+  "02034017c": {
+    "text": {
+      "ascii": "nanu tvayApi boddhavyaM yAM pUjAM mAdhavo 'rhati\n",
+      "ud": "ननु त्वयापि बोद्धव्यं यां पूजां माधवोऽर्हति\n",
+      "ur": "nanu tvayāpi boddhavyaṁ yāṁ pūjāṁ mādhavo ’rhati\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 17
+  },
+  "02034018a": {
+    "text": {
+      "ascii": "atha vA kRpaNair etAm upanItAM janArdana\n",
+      "ud": "अथ वा कृपणैरेतामुपनीतां जनार्दन\n",
+      "ur": "atha vā kr̥paṇair etām upanītāṁ janārdana\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 18
+  },
+  "02034018c": {
+    "text": {
+      "ascii": "pUjAm anarhaH kasmAt tvam abhyanujJAtavAn asi\n",
+      "ud": "पूजामनर्हः कस्मात्त्वमभ्यनुज्ञातवानसि\n",
+      "ur": "pūjām anarhaḥ kasmāt tvam abhyanujñātavān asi\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 18
+  },
+  "02034019a": {
+    "text": {
+      "ascii": "ayuktAm AtmanaH pUjAM tvaM punar bahu manyase\n",
+      "ud": "अयुक्तामात्मनः पूजां त्वं पुनर्बहु मन्यसे\n",
+      "ur": "ayuktām ātmanaḥ pūjāṁ tvaṁ punar bahu manyase\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 19
+  },
+  "02034019c": {
+    "text": {
+      "ascii": "haviSaH prApya niSyandaM prAzituM zveva nirjane\n",
+      "ud": "हविषः प्राप्य निष्यन्दं प्राशितुं श्वेव निर्जने\n",
+      "ur": "haviṣaḥ prāpya niṣyandaṁ prāśituṁ śveva nirjane\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 19
+  },
+  "02034020a": {
+    "text": {
+      "ascii": "na tv ayaM pArthivendrANAm avamAnaH prayujyate\n",
+      "ud": "न त्वयं पार्थिवेन्द्राणामवमानः प्रयुज्यते\n",
+      "ur": "na tv ayaṁ pārthivendrāṇām avamānaḥ prayujyate\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 20
+  },
+  "02034020c": {
+    "text": {
+      "ascii": "tvAm eva kuravo vyaktaM pralambhante janArdana\n",
+      "ud": "त्वामेव कुरवो व्यक्तं प्रलम्भन्ते जनार्दन\n",
+      "ur": "tvām eva kuravo vyaktaṁ pralambhante janārdana\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 20
+  },
+  "02034021a": {
+    "text": {
+      "ascii": "klIbe dArakriyA yAdRg andhe vA rUpadarzanam\n",
+      "ud": "क्लीबे दारक्रिया यादृगन्धे वा रूपदर्शनम्\n",
+      "ur": "klībe dārakriyā yādr̥g andhe vā rūpadarśanam\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 21
+  },
+  "02034021c": {
+    "text": {
+      "ascii": "arAjJo rAjavat pUjA tathA te madhusUdana\n",
+      "ud": "अराज्ञो राजवत्पूजा तथा ते मधुसूदन\n",
+      "ur": "arājño rājavat pūjā tathā te madhusūdana\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 21
+  },
+  "02034022a": {
+    "text": {
+      "ascii": "dRSTo yudhiSThiro rAjA dRSTo bhISmaz ca yAdRzaH\n",
+      "ud": "दृष्टो युधिष्ठिरो राजा दृष्टो भीष्मश्च यादृशः\n",
+      "ur": "dr̥ṣṭo yudhiṣṭhiro rājā dr̥ṣṭo bhīṣmaś ca yādr̥śaḥ\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 22
+  },
+  "02034022c": {
+    "text": {
+      "ascii": "vAsudevo 'py ayaM dRSTaH sarvam etad yathAtatham\n",
+      "ud": "वासुदेवोऽप्ययं दृष्टः सर्वमेतद्यथातथम्\n",
+      "ur": "vāsudevo ’py ayaṁ dr̥ṣṭaḥ sarvam etad yathātatham\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 22
+  },
+  "02034023a": {
+    "text": {
+      "ascii": "ity uktvA zizupAlas tAn utthAya paramAsanAt\n",
+      "ud": "इत्युक्त्वा शिशुपालस्तानुत्थाय परमासनात्\n",
+      "ur": "ity uktvā śiśupālas tān utthāya paramāsanāt\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 23
+  },
+  "02034023c": {
+    "text": {
+      "ascii": "niryayau sadasas tasmAt sahito rAjabhis tadA\n",
+      "ud": "निर्ययौ सदसस्तस्मात्सहितो राजभिस्तदा\n",
+      "ur": "niryayau sadasas tasmāt sahito rājabhis tadā\n"
+    },
+    "book": 2,
+    "chapter": 34,
+    "verse": 23
+  }
+}

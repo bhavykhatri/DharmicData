@@ -1,0 +1,352 @@
+{
+  "02055001": {
+    "text": {
+      "ascii": "vidura uvAca\n",
+      "ud": "विदुर उवाच\n",
+      "ur": "vidura uvāca\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 1
+  },
+  "02055001a": {
+    "text": {
+      "ascii": "mahArAja vijAnIhi yat tvAM vakSyAmi tac chRNu\n",
+      "ud": "महाराज विजानीहि यत्त्वां वक्ष्यामि तच्छृणु\n",
+      "ur": "mahārāja vijānīhi yat tvāṁ vakṣyāmi tac chr̥ṇu\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 1
+  },
+  "02055001c": {
+    "text": {
+      "ascii": "mumUrSor auSadham iva na rocetApi te zrutam\n",
+      "ud": "मुमूर्षोरौषधमिव न रोचेतापि ते श्रुतम्\n",
+      "ur": "mumūrṣor auṣadham iva na rocetāpi te śrutam\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 1
+  },
+  "02055002a": {
+    "text": {
+      "ascii": "yad vai purA jAtamAtro rurAva; gomAyuvad visvaraM pApacetAH\n",
+      "ud": "यद्वै पुरा जातमात्रो रुराव; गोमायुवद्विस्वरं पापचेताः\n",
+      "ur": "yad vai purā jātamātro rurāva; gomāyuvad visvaraṁ pāpacetāḥ\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 2
+  },
+  "02055002c": {
+    "text": {
+      "ascii": "duryodhano bhAratAnAM kulaghnaH; so 'yaM yukto bhavitA kAlahetuH\n",
+      "ud": "दुर्योधनो भारतानां कुलघ्नः; सोऽयं युक्तो भविता कालहेतुः\n",
+      "ur": "duryodhano bhāratānāṁ kulaghnaḥ; so ’yaṁ yukto bhavitā kālahetuḥ\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 2
+  },
+  "02055003a": {
+    "text": {
+      "ascii": "gRhe vasantaM gomAyuM tvaM vai matvA na budhyase\n",
+      "ud": "गृहे वसन्तं गोमायुं त्वं वै मत्वा न बुध्यसे\n",
+      "ur": "gr̥he vasantaṁ gomāyuṁ tvaṁ vai matvā na budhyase\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 3
+  },
+  "02055003c": {
+    "text": {
+      "ascii": "duryodhanasya rUpeNa zRNu kAvyAM giraM mama\n",
+      "ud": "दुर्योधनस्य रूपेण शृणु काव्यां गिरं मम\n",
+      "ur": "duryodhanasya rūpeṇa śr̥ṇu kāvyāṁ giraṁ mama\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 3
+  },
+  "02055004a": {
+    "text": {
+      "ascii": "madhu vai mAdhviko labdhvA prapAtaM nAvabudhyate\n",
+      "ud": "मधु वै माध्विको लब्ध्वा प्रपातं नावबुध्यते\n",
+      "ur": "madhu vai mādhviko labdhvā prapātaṁ nāvabudhyate\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 4
+  },
+  "02055004c": {
+    "text": {
+      "ascii": "Aruhya taM majjati vA patanaM vAdhigacchati\n",
+      "ud": "आरुह्य तं मज्जति वा पतनं वाधिगच्छति\n",
+      "ur": "āruhya taṁ majjati vā patanaṁ vādhigacchati\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 4
+  },
+  "02055005a": {
+    "text": {
+      "ascii": "so 'yaM matto 'kSadevena madhuvan na parIkSate\n",
+      "ud": "सोऽयं मत्तोऽक्षदेवेन मधुवन्न परीक्षते\n",
+      "ur": "so ’yaṁ matto ’kṣadevena madhuvan na parīkṣate\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 5
+  },
+  "02055005c": {
+    "text": {
+      "ascii": "prapAtaM budhyate naiva vairaM kRtvA mahArathaiH\n",
+      "ud": "प्रपातं बुध्यते नैव वैरं कृत्वा महारथैः\n",
+      "ur": "prapātaṁ budhyate naiva vairaṁ kr̥tvā mahārathaiḥ\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 5
+  },
+  "02055006a": {
+    "text": {
+      "ascii": "viditaM te mahArAja rAjasv evAsamaJjasam\n",
+      "ud": "विदितं ते महाराज राजस्वेवासमञ्जसम्\n",
+      "ur": "viditaṁ te mahārāja rājasv evāsamañjasam\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 6
+  },
+  "02055006c": {
+    "text": {
+      "ascii": "andhakA yAdavA bhojAH sametAH kaMsam atyajan\n",
+      "ud": "अन्धका यादवा भोजाः समेताः कंसमत्यजन्\n",
+      "ur": "andhakā yādavā bhojāḥ sametāḥ kaṁsam atyajan\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 6
+  },
+  "02055007a": {
+    "text": {
+      "ascii": "niyogAc ca hate tasmin kRSNenAmitraghAtinA\n",
+      "ud": "नियोगाच्च हते तस्मिन्कृष्णेनामित्रघातिना\n",
+      "ur": "niyogāc ca hate tasmin kr̥ṣṇenāmitraghātinā\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 7
+  },
+  "02055007c": {
+    "text": {
+      "ascii": "evaM te jJAtayaH sarve modamAnAH zataM samAH\n",
+      "ud": "एवं ते ज्ञातयः सर्वे मोदमानाः शतं समाः\n",
+      "ur": "evaṁ te jñātayaḥ sarve modamānāḥ śataṁ samāḥ\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 7
+  },
+  "02055008a": {
+    "text": {
+      "ascii": "tvanniyuktaH savyasAcI nigRhNAtu suyodhanam\n",
+      "ud": "त्वन्नियुक्तः सव्यसाची निगृह्णातु सुयोधनम्\n",
+      "ur": "tvanniyuktaḥ savyasācī nigr̥hṇātu suyodhanam\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 8
+  },
+  "02055008c": {
+    "text": {
+      "ascii": "nigrahAd asya pApasya modantAM kuravaH sukham\n",
+      "ud": "निग्रहादस्य पापस्य मोदन्तां कुरवः सुखम्\n",
+      "ur": "nigrahād asya pāpasya modantāṁ kuravaḥ sukham\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 8
+  },
+  "02055009a": {
+    "text": {
+      "ascii": "kAkenemAMz citrabarhAJ zArdUlAn kroSTukena ca\n",
+      "ud": "काकेनेमांश्चित्रबर्हाञ्शार्दूलान्क्रोष्टुकेन च\n",
+      "ur": "kākenemāṁś citrabarhāñ śārdūlān kroṣṭukena ca\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 9
+  },
+  "02055009c": {
+    "text": {
+      "ascii": "krINISva pANDavAn rAjan mA majjIH zokasAgare\n",
+      "ud": "क्रीणीष्व पाण्डवान्राजन्मा मज्जीः शोकसागरे\n",
+      "ur": "krīṇīṣva pāṇḍavān rājan mā majjīḥ śokasāgare\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 9
+  },
+  "02055010a": {
+    "text": {
+      "ascii": "tyajet kulArthe puruSaM grAmasyArthe kulaM tyajet\n",
+      "ud": "त्यजेत्कुलार्थे पुरुषं ग्रामस्यार्थे कुलं त्यजेत्\n",
+      "ur": "tyajet kulārthe puruṣaṁ grāmasyārthe kulaṁ tyajet\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 10
+  },
+  "02055010c": {
+    "text": {
+      "ascii": "grAmaM janapadasyArthe AtmArthe pRthivIM tyajet\n",
+      "ud": "ग्रामं जनपदस्यार्थे आत्मार्थे पृथिवीं त्यजेत्\n",
+      "ur": "grāmaṁ janapadasyārthe ātmārthe pr̥thivīṁ tyajet\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 10
+  },
+  "02055011a": {
+    "text": {
+      "ascii": "sarvajJaH sarvabhAvajJaH sarvazatrubhayaMkaraH\n",
+      "ud": "सर्वज्ञः सर्वभावज्ञः सर्वशत्रुभयंकरः\n",
+      "ur": "sarvajñaḥ sarvabhāvajñaḥ sarvaśatrubhayaṁkaraḥ\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 11
+  },
+  "02055011c": {
+    "text": {
+      "ascii": "iti sma bhASate kAvyo jambhatyAge mahAsurAn\n",
+      "ud": "इति स्म भाषते काव्यो जम्भत्यागे महासुरान्\n",
+      "ur": "iti sma bhāṣate kāvyo jambhatyāge mahāsurān\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 11
+  },
+  "02055012a": {
+    "text": {
+      "ascii": "hiraNyaSThIvinaH kaz cit pakSiNo vanagocarAn\n",
+      "ud": "हिरण्यष्ठीविनः कश्चित्पक्षिणो वनगोचरान्\n",
+      "ur": "hiraṇyaṣṭhīvinaḥ kaś cit pakṣiṇo vanagocarān\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 12
+  },
+  "02055012c": {
+    "text": {
+      "ascii": "gRhe kila kRtAvAsA\u0026l lobhAd rAjann apIDayat\n",
+      "ud": "गृहे किल कृतावासाँल्लोभाद्राजन्नपीडयत्\n",
+      "ur": "gr̥he kila kr̥tāvāsām̐l lobhād rājann apīḍayat\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 12
+  },
+  "02055013a": {
+    "text": {
+      "ascii": "sadopabhojyA\u0026l lobhAndho hiraNyArthe paraMtapa\n",
+      "ud": "सदोपभोज्याँल्लोभान्धो हिरण्यार्थे परंतप\n",
+      "ur": "sadopabhojyām̐l lobhāndho hiraṇyārthe paraṁtapa\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 13
+  },
+  "02055013c": {
+    "text": {
+      "ascii": "AyatiM ca tadAtvaM ca ubhe sadyo vyanAzayat\n",
+      "ud": "आयतिं च तदात्वं च उभे सद्यो व्यनाशयत्\n",
+      "ur": "āyatiṁ ca tadātvaṁ ca ubhe sadyo vyanāśayat\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 13
+  },
+  "02055014a": {
+    "text": {
+      "ascii": "tadAtvakAmaH pANDUMs tvaM mA druho bharatarSabha\n",
+      "ud": "तदात्वकामः पाण्डूंस्त्वं मा द्रुहो भरतर्षभ\n",
+      "ur": "tadātvakāmaḥ pāṇḍūṁs tvaṁ mā druho bharatarṣabha\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 14
+  },
+  "02055014c": {
+    "text": {
+      "ascii": "mohAtmA tapyase pazcAt pakSihA puruSo yathA\n",
+      "ud": "मोहात्मा तप्यसे पश्चात्पक्षिहा पुरुषो यथा\n",
+      "ur": "mohātmā tapyase paścāt pakṣihā puruṣo yathā\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 14
+  },
+  "02055015a": {
+    "text": {
+      "ascii": "jAtaM jAtaM pANDavebhyaH puSpam Adatsva bhArata\n",
+      "ud": "जातं जातं पाण्डवेभ्यः पुष्पमादत्स्व भारत\n",
+      "ur": "jātaṁ jātaṁ pāṇḍavebhyaḥ puṣpam ādatsva bhārata\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 15
+  },
+  "02055015c": {
+    "text": {
+      "ascii": "mAlAkAra ivArAme snehaM kurvan punaH punaH\n",
+      "ud": "मालाकार इवारामे स्नेहं कुर्वन्पुनः पुनः\n",
+      "ur": "mālākāra ivārāme snehaṁ kurvan punaḥ punaḥ\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 15
+  },
+  "02055016a": {
+    "text": {
+      "ascii": "vRkSAn aGgArakArIva mainAn dhAkSIH samUlakAn\n",
+      "ud": "वृक्षानङ्गारकारीव मैनान्धाक्षीः समूलकान्\n",
+      "ur": "vr̥kṣān aṅgārakārīva mainān dhākṣīḥ samūlakān\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 16
+  },
+  "02055016c": {
+    "text": {
+      "ascii": "mA gamaH sasutAmAtyaH sabalaz ca parAbhavam\n",
+      "ud": "मा गमः ससुतामात्यः सबलश्च पराभवम्\n",
+      "ur": "mā gamaḥ sasutāmātyaḥ sabalaś ca parābhavam\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 16
+  },
+  "02055017a": {
+    "text": {
+      "ascii": "samavetAn hi kaH pArthAn pratiyudhyeta bhArata\n",
+      "ud": "समवेतान्हि कः पार्थान्प्रतियुध्येत भारत\n",
+      "ur": "samavetān hi kaḥ pārthān pratiyudhyeta bhārata\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 17
+  },
+  "02055017c": {
+    "text": {
+      "ascii": "marudbhiH sahito rAjann api sAkSAn marutpatiH\n",
+      "ud": "मरुद्भिः सहितो राजन्नपि साक्षान्मरुत्पतिः\n",
+      "ur": "marudbhiḥ sahito rājann api sākṣān marutpatiḥ\n"
+    },
+    "book": 2,
+    "chapter": 55,
+    "verse": 17
+  }
+}
