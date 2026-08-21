@@ -16,6 +16,8 @@ The dataset is organized into two main directories: `Ramcharitmanas`, `Srimad Bh
 | [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
 | Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with Brahmana and Aranyaka sections | Varies widely | - |
 | [Atharvaveda](#atharvaveda) | Hymns and prose | Approximately 6,000 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
+| [Samaveda](#samaveda) | Verses | Approximately 1794 | [The Hymns of Samaveda](https://en.wikisource.org/wiki/The_Hymns_of_the_Samaveda) |
+
 
 
 ### [Ramcharitmanas](./Ramcharitmanas/)
