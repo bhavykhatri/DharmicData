@@ -25,10 +25,8 @@ Each verse record includes:
 
 | File | Description |
 |------|-------------|
-| `samaveda_fixed.json` | Complete dataset with metadata |
-| `metadata.json` | Standalone dataset metadata |
+| `samaveda.json` | Complete dataset with metadata |
 | `samaveda_validation_report.md` | Validation report with correction details |
-| `SamaVeda.pdf` | Source PDF (authoritative source) |
 
 ## Validation
 
