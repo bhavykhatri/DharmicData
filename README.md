@@ -99,23 +99,6 @@ The `Yajurveda` directory has been added to the repository, containing JSON file
 - Vajasaneyi Madhyandina Samhita
 - Vajasaneyi Kanva Samhita
 
-### [Samaveda](./Samaveda/)
-
-English translation of the hymns of the Samaveda, based on Ralph T. H. Griffith's 
-*The Hymns of the Sama-Veda* (1895), which is in the public domain. The dataset 
-contains 1,794 verse records extracted and validated from the complete 124-page 
-source PDF, covering the First Part (577 verses, Books I–VI) and Second Part 
-(1,217 verses, Books I–IX).
-
-- [samaveda_fixed.json](./Samaveda/samaveda_fixed.json) - Complete dataset with metadata
-- [metadata.json](./Samaveda/metadata.json) - Standalone dataset metadata
-- [samaveda_validation_report.md](./Samaveda/samaveda_validation_report.md) - Validation report with correction details
-
-Each verse record includes a unique ID (SV-000001–SV-001794), Part, Book, Chapter, 
-Section/Decade, Hymn number, deity name, verse number, and text. See the 
-[folder README](./Samaveda/README.md) for full details on validation and source 
-numbering.
-
 ### Shukla Yajurveda Samhitas
 
 #### Vajasaneyi Madhyandina Samhita
@@ -133,6 +116,22 @@ The `Vajasaneyi Kanva Samhita` directory contains JSON files for the chapters of
 ![Structure of Rigveda](./Images/atharvaveda%20strucutre.jpg)
 
 There are 20 kaandas in atharvaveda which are present in [Atharavaveda Repo](./AtharvaVeda/)
+
+### [Samaveda](./Samaveda/)
+
+English translation of the hymns of the Samaveda, based on Ralph T. H. Griffith's 
+*The Hymns of the Sama-Veda* (1895), which is in the public domain. The dataset 
+contains 1,794 verse records extracted and validated from the complete 124-page 
+source PDF, covering the First Part (577 verses, Books I–VI) and Second Part 
+(1,217 verses, Books I–IX).
+
+- [samaveda.json](./Samaveda/samaveda.json) - Complete dataset with metadata
+- [samaveda_validation_report.md](./Samaveda/samaveda_validation_report.md) - Validation report with correction details
+
+Each verse record includes a unique ID (SV-000001–SV-001794), Part, Book, Chapter, 
+Section/Decade, Hymn number, deity name, verse number, and text. See the 
+[folder README](./Samaveda/README.md) for full details on validation and source 
+numbering
 
 
 ## Usage
