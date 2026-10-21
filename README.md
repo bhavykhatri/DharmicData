@@ -26,7 +26,7 @@ The `Ramcharitmanas` directory contains the following files representing each of
 - [1_बाल_काण्ड_data.json](./Ramcharitmanas/1_बाल_काण्ड_data.json) - Bal Kānd
 - [2_अयोध्या_काण्ड_data.json](./Ramcharitmanas/2_अयोध्या_काण्ड_data.json) - Ayodhya Kānd
 - [3_अरण्य_काण्ड_data.json](./Ramcharitmanas/3_अरण्य_काण्ड_data.json) - Aranya Kānd
-- [4_किष्किंधा_काण्ड_data.json](./Ramcharitmanas/4_किष्किंधा_काण्ड_data.json) - Kishkindha Kānd
+- [4_किष्किन्धा_काण्ड_data.json](./Ramcharitmanas/4_किष्किन्धा_काण्ड_data.json) - Kishkindha Kānd
 - [5_सुंदर_काण्ड_data.json](./Ramcharitmanas/5_सुंदर_काण्ड_data.json) - Sundar Kānd
 - [6_लंका_काण्ड_data.json](./Ramcharitmanas/6_लंका_काण्ड_data.json) - Lanka Kānd
 - [7_उत्तर_काण्ड_data.json](./Ramcharitmanas/7_उत्तर_काण्ड_data.json) - Uttar Kānd
