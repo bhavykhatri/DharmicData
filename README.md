@@ -1,7 +1,7 @@
 # Hindu Sacred Texts Dataset
 
 ## Overview
-This repository contains a structured collection of sacred texts from Hinduism, formatted in JSON for easy access and analysis. It includes texts from the 'Ramcharitmanas' , 'Srimad Bhagavad Gita', 'Valmiki Ramayana' , 'Rigveda' , 'Yajurveda' and the 'Atharvaveda'.
+This repository contains a structured collection of Hindu sacred texts, primarily formatted in JSON for access and analysis. It includes the Ramcharitmanas, Srimad Bhagavad Gita, Mahabharata, Valmiki Ramayana, Rigveda, Shukla Yajurveda, Atharvaveda, and Samaveda.
 
 ## File Structure
 The dataset is organized into two main directories: `Ramcharitmanas`, `Srimad Bhagavad Gita`, `Mahabharata`, `Valmiki Ramayana`, `Rigveda`, `Yajurveda`, and `Atharvaveda`, each containing JSON files for different chapters or काण्ड.
@@ -16,7 +16,7 @@ The dataset is organized into two main directories: `Ramcharitmanas`, `Srimad Bh
 | [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
 | Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with Brahmana and Aranyaka sections | Varies widely | - |
 | [Atharvaveda](#atharvaveda) | Hymns and prose | Approximately 6,000 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
-| [Samaveda](#samaveda) | Verses | Approximately 1794 | [The Hymns of Samaveda](https://en.wikisource.org/wiki/The_Hymns_of_the_Samaveda) |
+| [Samaveda](#samaveda) | English translation of verses | 1,794 | Ralph T. H. Griffith, *The Hymns of the Sama-Veda* (1895); see [dataset notes](./Samaveda/README.md) |
 
 
 
@@ -127,7 +127,7 @@ contains 1,794 verse records extracted and validated from the complete 124-page
 source PDF, covering the First Part (577 verses, Books I–VI) and Second Part 
 (1,217 verses, Books I–IX).
 
-- [samaveda.json](./Samaveda/samaveda.json) - Complete dataset with metadata
+- [Samaveda.json](./Samaveda/Samaveda.json) - Complete dataset with metadata
 - [samaveda_validation_report.md](./Samaveda/samaveda_validation_report.md) - Validation report with correction details
 
 Each verse record includes a unique ID (SV-000001–SV-001794), Part, Book, Chapter, 
@@ -144,14 +144,29 @@ Projects and applications built using this dataset
 
 - **[Dharmik](https://github.com/shub39/Dharmik)** - App to browse bhagavad gita with audio transcriptions
 
-## Upcoming Additions
-We plan to expand this collection by including the following texts:
+## Dataset provenance and validation
 
-- Sam Veda
-- Krishna Yajurveda Samhita
-- The missing chapter 1 of the Vajasaneyi Kanva Samhita
+The database license below does not replace the copyright or licensing terms of an individual source text, translation, or commentary. Each addition must be legally shareable in the form included. Keep source text, translation, and commentary clearly distinguished; do not assume a translation or commentary is public domain because the underlying text is ancient.
 
-These will be added in a similar structured format, making it easy for users to access and study these ancient texts.
+For every added text or collection, document:
+
+- The precise source edition or recension, publisher or repository, stable URL, and access date.
+- The language and script, translator (if any), and the copyright/license status of the included text and any translation or commentary.
+- The text's structure and original numbering system; preserve source numbering, including gaps or duplicates, and explain any normalization.
+- The extraction and validation method, coverage, known omissions, and corrections. Include a validation report for large or OCR-derived datasets.
+
+Validate JSON syntax, record structure, expected book/chapter/verse coverage, and a sample of records against the cited source. Do not silently fill gaps or “correct” a source reading; record evidence-based corrections and retain an audit trail.
+
+## Upcoming additions
+
+The following are proposed priorities, not datasets currently included:
+
+1. **Complete current Vedic gaps:** add the missing first chapter of the Vajasaneyi Kanva Samhita and a Krishna Yajurveda Samhita edition. Record the specific recension for each.
+2. **Principal Upanishads:** begin with the ten principal Upanishads, documenting each text's recension or edition separately.
+3. **Yoga Sutras of Patanjali:** add the sutra text as a separate dataset from translations and commentaries.
+4. **Bhagavata Purana:** document the edition and its book/chapter/verse numbering, and distinguish the base text from translations and commentary.
+
+Select and verify an appropriately licensed source edition and translation before importing each dataset. Additions should include their own provenance and validation notes rather than relying only on this repository overview.
 
 ## Contributing
 Contributions to this dataset are welcome. Please submit a pull request or raise an issue if you find any errors or have suggestions for improvements.
