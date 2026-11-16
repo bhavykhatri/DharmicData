@@ -76,6 +76,8 @@ body {
   font-size: 1.0625rem;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
+  /* The full-bleed hero uses 100vw, which includes the scrollbar width. */
+  overflow-x: clip;
 }
 
 .scripture {
