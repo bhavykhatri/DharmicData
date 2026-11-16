@@ -1,11 +1,11 @@
 // Offline support. Pages you have opened and the app's static files stay
 // available without a connection. Bump VERSION to invalidate old caches.
-const VERSION = "v2";
+const VERSION = "v3";
 const PAGES = `pages-${VERSION}`;
 const STATIC = `static-${VERSION}`;
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(PAGES).then((c) => c.addAll(["/", "/library", "/about", "/bookmarks"])).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(PAGES).then((c) => c.addAll(["/", "/library", "/search", "/about", "/bookmarks"])).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (e) => {

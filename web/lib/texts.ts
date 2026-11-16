@@ -59,7 +59,7 @@ export const TEXTS: TextMeta[] = [
     kind: "verses",
     lang: "sa",
     unitName: "sargas",
-    credit: "Ramayana Book (svenkatreddy)",
+    credit: "Ramayana Book (svenkatreddy); missing sargas from Valmiki Ramayan Dataset (Ashutosh Vijay, MIT), compiled from IIT Kanpur",
     creditUrl: "https://github.com/svenkatreddy/Ramayana_Book",
   },
   {

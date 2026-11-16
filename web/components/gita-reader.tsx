@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { BookmarkButton } from "./bookmark-button";
 import { CopyButton, ShareButton } from "./verse-actions";
+import { VerseText } from "./verse-text";
 import { setGitaPrefs, useGitaPrefs } from "@/lib/store";
 import type { GitaVerse } from "@/lib/data";
 
@@ -25,7 +26,8 @@ export function GitaReader({
 
   return (
     <div>
-      <div className="sticky top-14 z-10 -mx-4 mb-2 flex flex-wrap items-center gap-x-4 gap-y-2 border-b border-line bg-bg/95 px-4 py-2.5 backdrop-blur">
+      <div data-pagefind-ignore
+        className="sticky top-14 z-10 -mx-4 mb-2 flex flex-wrap items-center gap-x-4 gap-y-2 border-b border-line bg-bg/95 px-4 py-2.5 backdrop-blur">
         <label className="flex min-w-0 items-center gap-2 text-sm">
           <span className="text-muted">Translation</span>
           <select
@@ -47,7 +49,7 @@ export function GitaReader({
             onChange={(e) => setGitaPrefs({ showSanskrit: e.target.checked })}
             className="h-4 w-4 accent-[var(--kumkum)]"
           />
-          Sanskrit
+          Show verse
         </label>
       </div>
 
@@ -119,10 +121,7 @@ function GitaVerseRow({
   return (
     <li id={id} className="scroll-mt-32 border-b border-line py-7 last:border-0 target:bg-accent-soft/60">
       {showSanskrit ? (
-        <p className="scripture" lang="sa">
-          {verse.sa}
-          <span className="danda"> ॥ {label} ॥</span>
-        </p>
+        <VerseText text={verse.sa} lang="sa" suffix={<span className="danda"> ॥ {label} ॥</span>} />
       ) : (
         <p className="danda mb-1 text-lg">॥ {label} ॥</p>
       )}
@@ -130,7 +129,7 @@ function GitaVerseRow({
         {translation || <span className="text-muted">This translator has no rendering of this verse.</span>}
       </p>
 
-      <div className="-ml-2 mt-3 flex flex-wrap items-center gap-1">
+      <div className="-ml-2 mt-3 flex flex-wrap items-center gap-1" data-pagefind-ignore>
         <BookmarkButton text="gita" unit={String(chapter)} n={String(idx)} title={ref} snippet={translation.replace(/\s+/g, " ")} />
         <CopyButton text={`${verse.sa}\n\n${translation}\n— ${ref}`} />
         <ShareButton title={ref} text={`${verse.sa}\n\n${translation}\n— ${ref}`} path={`/read/gita/${chapter}#v-${idx}`} />

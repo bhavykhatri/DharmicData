@@ -6,6 +6,7 @@ import { TEXTS, textById } from "@/lib/texts";
 import { VerseList } from "@/components/verse-list";
 import { GitaReader } from "@/components/gita-reader";
 import { FinishMark, ReadingProgress, TrackRead } from "@/components/track-read";
+import { SearchJump } from "@/components/search-jump";
 
 export const dynamicParams = false;
 
@@ -64,6 +65,11 @@ export default async function UnitPage({ params }: P) {
         </div>
       </header>
 
+      <article
+        data-pagefind-body
+        data-pagefind-filter={`text:${meta.name}`}
+        data-pagefind-meta={`title:${meta.name}, ${readTitle}`}
+      >
       {meta.kind === "gita" ? (
         <GitaReader
           chapter={Number(unit)}
@@ -74,6 +80,8 @@ export default async function UnitPage({ params }: P) {
       ) : (
         <VerseList meta={meta} unit={unit} unitTitle={readTitle} content={getUnitContent(text, unit)} />
       )}
+      </article>
+      <SearchJump />
 
       <FinishMark
         text={text}

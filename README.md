@@ -11,7 +11,7 @@ The dataset is organized into two main directories: `Ramcharitmanas`, `Srimad Bh
 | [Ramcharitmanas](#ramcharitmanas) | Composed of chaupais, dohas (sorthas), and various chhands | Approximately 10,000 chaupais | [IIT Kanpur Ramcharitmanas Project](https://www.ramcharitmanas.iitk.ac.in/) |
 | [Srimad Bhagavad Gita](#srimad-bhagavad-gita) | Verses (shlokas) in classical Sanskrit | Approximately 700 | [Gita Supersite by IIT Kanpur](https://www.gitasupersite.iitk.ac.in/) |
 | [Mahabharata](#mahabharata) | 18 books divided into multiple chapters | Approximately 1,00,000 | [Sacred Texts Mahabharata](https://sacred-texts.com/hin/mbs/mbsi01.htm) |
-| [Valmiki Ramayana](#valmiki-ramayana) | Verses (shlokas) in classical Sanskrit | Approximately 24,000 | [GitHub Repository - Ramayana Book](https://github.com/svenkatreddy/Ramayana_Book) |
+| [Valmiki Ramayana](#valmiki-ramayana) | Verses (shlokas) in classical Sanskrit | 23,592 | [GitHub Repository - Ramayana Book](https://github.com/svenkatreddy/Ramayana_Book) |
 | [Rigveda](#rigveda) | Hymns (suktas) divided into mandalas | Over 10,000 (including all Mandalas) | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
 | [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
 | Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with Brahmana and Aranyaka sections | Varies widely | - |
@@ -71,6 +71,17 @@ All 7 kaands (~24,000 shlokas) of Valmiki Ramayana are present in the directory.
 - [Uttarakanda](./ValmikiRamayana/7_uttarakanda.json) - उत्तरकाण्ड: Talks about Rama's life after returning to Ayodhya, his coronation, and the banishment of Sita.
 
 Credits to [Ramayana book](https://github.com/svenkatreddy/Ramayana_Book) for providing the data.
+
+**Repairs (November 2026).** All 648 sargas are now present (23,592 shlokas):
+
+- Aranya kanda sarga 24 had been filed under sarga 34; its shlokas are back under 24.
+- 35 repeated shlokas in Kishkindha kanda were removed.
+- Sargas that were missing (Bala 70–72, Kishkindha 11 and 65, Yuddha 4, 67, 114 and 129–131) were added from the
+  [Valmiki Ramayan Dataset](https://github.com/Ashutosh-Vijay/Valmiki_Ramayan_Dataset) by Ashutosh Vijay (MIT licence),
+  which was compiled from the [IIT Kanpur Valmiki Ramayana](https://www.valmiki.iitk.ac.in/) site. These records carry
+  `"source": "valmiki_ramayan_dataset"`.
+
+The script that made these changes is [`tools/fix_ramayana.py`](./tools/fix_ramayana.py).
 
 
 

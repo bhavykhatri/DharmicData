@@ -1,5 +1,6 @@
 import { BookmarkButton } from "./bookmark-button";
 import { CopyButton, ShareButton } from "./verse-actions";
+import { VerseText } from "./verse-text";
 import type { UnitContent } from "@/lib/data";
 import type { TextMeta } from "@/lib/texts";
 
@@ -41,12 +42,9 @@ export function VerseList({
                   {v.n ? <span className="danda"> ॥ {v.n} ॥</span> : null}
                 </p>
               ) : (
-                <p className="scripture" lang={lang}>
-                  {v.text}
-                  {v.n ? <span className="danda"> ॥ {v.n} ॥</span> : null}
-                </p>
+                <VerseText text={v.text} lang={lang} suffix={v.n ? <span className="danda"> ॥ {v.n} ॥</span> : null} />
               )}
-              <div className="-ml-2 mt-2 flex items-center gap-1">
+              <div className="-ml-2 mt-2 flex items-center gap-1" data-pagefind-ignore>
                 <BookmarkButton
                   text={meta.id}
                   unit={unit}

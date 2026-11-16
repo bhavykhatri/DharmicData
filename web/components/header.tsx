@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
+import { setScriptMode, useScriptMode, type ScriptMode } from "@/lib/script";
 
 const clampScale = (n: number) => Math.min(1.8, Math.max(0.85, Math.round(n * 100) / 100));
 
@@ -38,6 +39,7 @@ function useReaderSettings() {
 
 function SettingsPanel({ onClose }: { onClose: () => void }) {
   const s = useReaderSettings();
+  const script = useScriptMode();
   const ref = useRef<HTMLDivElement>(null);
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
@@ -74,6 +76,20 @@ function SettingsPanel({ onClose }: { onClose: () => void }) {
           अ
         </button>
       </div>
+      <p className="mb-2 text-sm font-semibold">Script</p>
+      <div className="mb-4 flex gap-1 rounded-xl bg-bg p-1">
+        {(
+          [
+            ["deva", "देवनागरी"],
+            ["roman", "Roman"],
+            ["both", "Both"],
+          ] as [ScriptMode, string][]
+        ).map(([m, label]) => (
+          <button key={m} className={seg(script === m)} onClick={() => setScriptMode(m)} aria-pressed={script === m}>
+            <span className={m === "deva" ? "font-deva" : ""}>{label}</span>
+          </button>
+        ))}
+      </div>
       <p className="mb-2 text-sm font-semibold">Light</p>
       <div className="flex gap-1 rounded-xl bg-bg p-1">
         <button className={seg(s.theme === "light")} onClick={() => s.setTheme("light")} aria-pressed={s.theme === "light"}>
@@ -90,6 +106,7 @@ function SettingsPanel({ onClose }: { onClose: () => void }) {
 const NAV = [
   { href: "/", label: "Today", icon: "M12 3v2M12 19v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M3 12h2M19 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4M12 8a4 4 0 100 8 4 4 0 000-8z" },
   { href: "/library", label: "Library", icon: "M4 5h4v14H4zM10 5h4v14h-4zM16.5 5.5l3.5 1-3.5 12.5-3.5-1z" },
+  { href: "/search", label: "Search", icon: "M10.5 4a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM20 20l-4.8-4.8" },
   { href: "/bookmarks", label: "Saved", icon: "M6 3h12v18l-6-4-6 4z" },
 ];
 

@@ -87,6 +87,17 @@ body {
   white-space: pre-line;
   overflow-wrap: anywhere;
 }
+.roman {
+  font-family: var(--font-deva);
+  font-size: calc(1.05rem * var(--scale));
+  line-height: 1.75;
+  white-space: pre-line;
+  font-style: italic;
+}
+.scripture-roman {
+  font-size: calc(1.2rem * var(--scale));
+  font-style: normal;
+}
 .translation {
   font-size: calc(1.05rem * var(--scale));
   line-height: 1.7;
@@ -156,4 +167,17 @@ input:focus-visible {
     transition: none !important;
     animation: none !important;
   }
+}
+
+/* A verse reached from search glows briefly in turmeric. */
+.search-hit {
+  background: color-mix(in srgb, var(--haldi) 22%, transparent);
+  box-shadow: -4px 0 0 var(--haldi);
+  transition: background 1.2s ease;
+}
+mark {
+  background: color-mix(in srgb, var(--haldi) 35%, transparent);
+  color: inherit;
+  border-radius: 3px;
+  padding: 0 1px;
 }
