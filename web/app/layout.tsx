@@ -14,8 +14,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fbf6ec" },
-    { media: "(prefers-color-scheme: dark)", color: "#15110d" },
+    { media: "(prefers-color-scheme: light)", color: "#14163b" },
+    { media: "(prefers-color-scheme: dark)", color: "#14163b" },
   ],
 };
 
@@ -30,12 +30,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="min-h-dvh">
         <Header />
-        <main className="mx-auto w-full max-w-3xl px-4 pb-24 pt-6">{children}</main>
-        <footer className="mx-auto max-w-3xl px-4 pb-10 text-center text-xs text-muted">
+        <main className="mx-auto w-full max-w-3xl px-4 pb-10 pt-6">{children}</main>
+        <footer className="mx-auto max-w-3xl px-4 pb-28 text-center text-sm text-muted sm:pb-10">
           <a className="underline" href="/about">
-            About & credits
-          </a>{" "}
-          · Texts from the open DharmicData set (ODbL)
+            About & credits</a>. Texts from the open DharmicData set, under the ODbL.
         </footer>
         <SwRegister />
       </body>

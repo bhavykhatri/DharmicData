@@ -1,4 +1,5 @@
 import { BookmarkButton } from "./bookmark-button";
+import { CopyButton, ShareButton } from "./verse-actions";
 import type { UnitContent } from "@/lib/data";
 import type { TextMeta } from "@/lib/texts";
 
@@ -13,51 +14,52 @@ export function VerseList({
   unitTitle: string;
   content: UnitContent;
 }) {
-  const inline = meta.kind === "vedic";
-  const lang = meta.lang === "en" ? "en" : meta.lang === "hi" ? "hi" : "sa";
+  const isEnglish = meta.lang === "en";
+  const lang = meta.lang === "hi" ? "hi" : "sa";
 
   return (
     <div>
       {content.header?.length ? (
-        <div className="mb-6 rounded-xl border border-line bg-surface px-4 py-3 text-sm text-muted" lang="sa">
+        <aside className="mb-6 border-l-2 border-kumkum pl-4 text-muted" lang="sa" aria-label="Seer, deity and metre">
           {content.header.map((h, i) => (
             <p key={i} className="font-deva leading-relaxed">
               {h}
             </p>
           ))}
-        </div>
+        </aside>
       ) : null}
 
-      <ol className="divide-y divide-line">
-        {content.verses.map((v, i) => (
-          <li key={i} id={`v-${i}`} className="group scroll-mt-20 py-5">
-            <div className="flex items-start gap-3">
-              <div className="min-w-0 flex-1">
-                {v.label ? (
-                  <p className="mb-1 text-xs font-medium uppercase tracking-wide text-accent">{v.label}</p>
-                ) : null}
-                {meta.lang === "en" ? (
-                  <p className="translation" lang="en">
-                    {v.text}
-                  </p>
-                ) : (
-                  <p className="scripture" lang={lang === "hi" ? "hi" : "sa"}>
-                    {v.text}
-                    {inline && v.n ? <span className="text-muted"> ॥ {v.n} ॥</span> : null}
-                  </p>
-                )}
-                {!inline && v.n ? <p className="mt-1 text-xs text-muted">{v.n}</p> : null}
+      <ol>
+        {content.verses.map((v, i) => {
+          const ref = `${meta.name}, ${unitTitle}${v.n ? `, ${v.n}` : ""}`;
+          return (
+            <li key={i} id={`v-${i}`} className="scroll-mt-24 border-b border-line py-6 last:border-0 target:bg-accent-soft/60">
+              {v.label ? <p className="mb-1.5 text-sm font-semibold" style={{ color: meta.hue }}>{v.label}</p> : null}
+              {isEnglish ? (
+                <p className="translation font-deva text-[1.15em]" lang="en">
+                  {v.text}
+                  {v.n ? <span className="danda"> ॥ {v.n} ॥</span> : null}
+                </p>
+              ) : (
+                <p className="scripture" lang={lang}>
+                  {v.text}
+                  {v.n ? <span className="danda"> ॥ {v.n} ॥</span> : null}
+                </p>
+              )}
+              <div className="-ml-2 mt-2 flex items-center gap-1">
+                <BookmarkButton
+                  text={meta.id}
+                  unit={unit}
+                  n={String(i)}
+                  title={`${meta.name} · ${unitTitle}${v.n ? ` · ${v.n}` : ""}`}
+                  snippet={v.text.replace(/\s+/g, " ")}
+                />
+                <CopyButton text={`${v.text}\n— ${ref}`} />
+                <ShareButton title={ref} text={`${v.text}\n— ${ref}`} path={`/read/${meta.id}/${unit}#v-${i}`} />
               </div>
-              <BookmarkButton
-                text={meta.id}
-                unit={unit}
-                n={String(i)}
-                title={`${meta.name} · ${unitTitle}${v.n ? ` · ${v.n}` : ""}`}
-                snippet={v.text.replace(/\s+/g, " ")}
-              />
-            </div>
-          </li>
-        ))}
+            </li>
+          );
+        })}
       </ol>
     </div>
   );

@@ -5,7 +5,7 @@ import { flatUnits, getCatalog, getGitaChapter, getUnitContent } from "@/lib/dat
 import { TEXTS, textById } from "@/lib/texts";
 import { VerseList } from "@/components/verse-list";
 import { GitaReader } from "@/components/gita-reader";
-import { TrackRead } from "@/components/track-read";
+import { FinishMark, ReadingProgress, TrackRead } from "@/components/track-read";
 
 export const dynamicParams = false;
 
@@ -34,15 +34,15 @@ export default async function UnitPage({ params }: P) {
   const next = units[i + 1];
   const showPart = u.partTitle && !["अध्याय", "काण्ड"].includes(u.partTitle);
 
-  const crumb = `${showPart ? u.partTitle + " · " : ""}${u.title}`;
   const readTitle = showPart ? `${u.partTitle} · ${u.title}` : u.title;
 
   return (
     <>
       <TrackRead text={text} unit={unit} title={readTitle} />
+      <ReadingProgress />
       <nav className="mb-4 flex items-center gap-2 text-sm text-muted">
-        <Link href="/" className="hover:text-ink">
-          Home
+        <Link href="/library" className="hover:text-ink">
+          Library
         </Link>
         <span aria-hidden>/</span>
         <Link href={`/read/${text}`} className="hover:text-ink">
@@ -50,9 +50,19 @@ export default async function UnitPage({ params }: P) {
         </Link>
       </nav>
 
-      <h1 className="mb-6 font-deva text-2xl font-semibold leading-snug" lang="sa">
-        {crumb}
-      </h1>
+      <header className="mb-6 flex items-center gap-4">
+        <span
+          className="grid h-12 w-11 shrink-0 place-items-center rounded-xl font-deva text-2xl text-white"
+          style={{ background: meta.hue }}
+          aria-hidden
+        >
+          {meta.glyph}
+        </span>
+        <div className="min-w-0">
+          {showPart ? <p className="font-deva text-muted">{u.partTitle}</p> : null}
+          <h1 className="font-deva text-3xl leading-tight">{u.title}</h1>
+        </div>
+      </header>
 
       {meta.kind === "gita" ? (
         <GitaReader
@@ -65,34 +75,20 @@ export default async function UnitPage({ params }: P) {
         <VerseList meta={meta} unit={unit} unitTitle={readTitle} content={getUnitContent(text, unit)} />
       )}
 
-      <nav className="mt-10 flex items-stretch justify-between gap-3 border-t border-line pt-5 text-sm" aria-label="Previous and next">
-        {prev ? (
-          <Link
-            href={`/read/${text}/${prev.id}`}
-            className="flex-1 rounded-lg border border-line bg-surface px-3 py-2 hover:bg-accent-soft"
-          >
-            <span className="block text-xs text-muted">← Previous</span>
-            <span className="font-deva" lang="sa">
-              {prev.title}
-            </span>
+      <FinishMark
+        text={text}
+        unit={unit}
+        hue={meta.hue}
+        next={next ? { href: `/read/${text}/${next.id}`, title: next.title } : undefined}
+      />
+
+      {prev ? (
+        <p className="mt-4 text-center text-sm">
+          <Link href={`/read/${text}/${prev.id}`} prefetch={false} className="text-muted hover:text-ink">
+            Previous: <span className="font-deva">{prev.title}</span>
           </Link>
-        ) : (
-          <span className="flex-1" />
-        )}
-        {next ? (
-          <Link
-            href={`/read/${text}/${next.id}`}
-            className="flex-1 rounded-lg border border-line bg-surface px-3 py-2 text-right hover:bg-accent-soft"
-          >
-            <span className="block text-xs text-muted">Next →</span>
-            <span className="font-deva" lang="sa">
-              {next.title}
-            </span>
-          </Link>
-        ) : (
-          <span className="flex-1" />
-        )}
-      </nav>
+        </p>
+      ) : null}
     </>
   );
 }

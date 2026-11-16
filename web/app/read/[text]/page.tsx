@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getCatalog } from "@/lib/data";
 import { TEXTS, textById } from "@/lib/texts";
+import { UnitGrid } from "@/components/unit-grid";
 
 export const dynamicParams = false;
 
@@ -21,45 +22,36 @@ export default async function TextIndex({ params }: { params: Promise<{ text: st
   const meta = textById(text);
   if (!meta) notFound();
   const entry = getCatalog()[text];
-  const single = entry.parts.length === 1;
+  const total = entry.parts.reduce((s, p) => s + p.units.length, 0);
+  // Long titles (Gita chapter names, Ramcharitmanas kandas, Samaveda books) need full-width rows.
+  const wide = entry.parts.every((p) => p.units.every((u) => !/^(सर्ग|सूक्त|अध्याय) \d+$/.test(u.title)));
 
   return (
     <>
-      <nav className="mb-4 text-sm text-muted">
-        <Link href="/" className="hover:text-ink">
-          Home
+      <nav className="mb-5 text-sm">
+        <Link href="/library" className="text-muted hover:text-ink">
+          Library
         </Link>
       </nav>
-      <h1 className="font-deva text-3xl font-semibold text-accent" lang="sa">
-        {meta.sa}
-      </h1>
-      <p className="mb-1 text-lg font-semibold">{meta.name}</p>
-      <p className="mb-8 text-muted">{meta.blurb}</p>
-
-      {entry.parts.map((p) => (
-        <section key={p.id} className="mb-8">
-          {!single || p.id !== "all" ? (
-            <h2 className="mb-3 font-deva text-lg font-semibold" lang="sa">
-              {p.title}
-            </h2>
-          ) : null}
-          <ul className={meta.id === "gita" || p.units.every((u) => u.title.length > 12) ? "space-y-2" : "grid grid-cols-3 gap-2 sm:grid-cols-4"}>
-            {p.units.map((u) => (
-              <li key={u.id}>
-                <Link
-                  href={`/read/${meta.id}/${u.id}`}
-                  className="flex items-center justify-between rounded-lg border border-line bg-surface px-3 py-2 text-sm transition-colors hover:bg-accent-soft"
-                >
-                  <span className="font-deva" lang="sa">
-                    {u.title}
-                  </span>
-                  <span className="ml-2 shrink-0 text-xs text-muted">{u.count || ""}</span>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
+      <header className="mb-8 flex items-center gap-5">
+        <span
+          className="grid h-24 w-20 shrink-0 place-items-center rounded-2xl font-deva text-5xl text-white shadow-lg"
+          style={{ background: meta.hue }}
+          aria-hidden
+        >
+          {meta.glyph}
+        </span>
+        <div className="min-w-0">
+          <h1 className="font-deva text-3xl leading-tight" lang="sa">
+            {meta.sa}
+          </h1>
+          <p className="text-lg font-semibold">{meta.name}</p>
+          <p className="mt-1 text-sm text-muted">
+            {meta.blurb} {total.toLocaleString("en-IN")} {meta.unitName}.
+          </p>
+        </div>
+      </header>
+      <UnitGrid text={text} parts={entry.parts} hue={meta.hue} wide={wide} />
     </>
   );
 }

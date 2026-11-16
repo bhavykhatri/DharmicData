@@ -88,3 +88,43 @@ const GP_KEY = "dd:gita-prefs";
 const DEFAULT_GP: GitaPrefs = { translator: "swami sivananda", showSanskrit: true };
 export const useGitaPrefs = () => useStored<GitaPrefs>(GP_KEY, DEFAULT_GP);
 export const setGitaPrefs = (p: Partial<GitaPrefs>) => write(GP_KEY, { ...read(GP_KEY, DEFAULT_GP), ...p });
+
+// ------------------------------------------------------------ reading progress
+/** text id -> list of unit ids the reader has finished. */
+export type ReadMap = Record<string, string[]>;
+const RD_KEY = "dd:read";
+const EMPTY_RD: ReadMap = {};
+export const useReadMap = () => useStored<ReadMap>(RD_KEY, EMPTY_RD);
+
+/** Local dates (YYYY-MM-DD) on which the reader finished at least one section. */
+const DAYS_KEY = "dd:days";
+const EMPTY_DAYS: string[] = [];
+export const useReadDays = () => useStored<string[]>(DAYS_KEY, EMPTY_DAYS);
+
+export function localDay(d = new Date()) {
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const day = String(d.getDate()).padStart(2, "0");
+  return `${d.getFullYear()}-${m}-${day}`;
+}
+
+export function markRead(text: string, unit: string) {
+  const map = read<ReadMap>(RD_KEY, EMPTY_RD);
+  const list = map[text] ?? [];
+  if (!list.includes(unit)) write(RD_KEY, { ...map, [text]: [...list, unit] });
+  const days = read<string[]>(DAYS_KEY, EMPTY_DAYS);
+  const today = localDay();
+  if (!days.includes(today)) write(DAYS_KEY, [...days, today].slice(-400));
+}
+
+/** Consecutive days ending today (or yesterday, so a streak survives until tonight). */
+export function streakOf(days: string[]) {
+  const set = new Set(days);
+  const d = new Date();
+  if (!set.has(localDay(d))) d.setDate(d.getDate() - 1);
+  let n = 0;
+  while (set.has(localDay(d))) {
+    n++;
+    d.setDate(d.getDate() - 1);
+  }
+  return n;
+}

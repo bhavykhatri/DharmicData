@@ -7,8 +7,8 @@ export default function manifest(): MetadataRoute.Manifest {
     description: "Read the Gita, Ramayana, Mahabharata and the Vedas, online or offline.",
     start_url: "/",
     display: "standalone",
-    background_color: "#fbf6ec",
-    theme_color: "#b8510a",
+    background_color: "#14163b",
+    theme_color: "#14163b",
     icons: [
       { src: "/icon-192.png", sizes: "192x192", type: "image/png" },
       { src: "/icon-512.png", sizes: "512x512", type: "image/png" },
