@@ -149,7 +149,6 @@ export function ReadingStatus() {
             <p className="mt-0.5 text-sm text-leaf/75">Finish one section today to start a streak</p>
           </div>
         )}
-        </div>
       </div>
     </section>
   );
