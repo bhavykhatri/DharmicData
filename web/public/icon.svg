@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#b8510a"/>
+  <g fill="#fbf6ec">
+    <!-- lotus: five petals -->
+    <path d="M256 120c40 52 56 104 0 176-56-72-40-124 0-176z"/>
+    <path d="M150 190c58 6 98 40 106 106-70 4-112-26-106-106z" opacity=".9"/>
+    <path d="M362 190c6 80-36 110-106 106 8-66 48-100 106-106z" opacity=".9"/>
+    <path d="M112 262c56-4 102 20 144 60-64 40-122 36-144-60z" opacity=".75"/>
+    <path d="M400 262c-22 96-80 100-144 60 42-40 88-64 144-60z" opacity=".75"/>
+    <rect x="156" y="352" width="200" height="22" rx="11"/>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+@import "tailwindcss";
+@import "@fontsource-variable/inter";
+@import "@fontsource-variable/noto-serif-devanagari";
+
+:root {
+  --bg: #fbf6ec;
+  --surface: #fffdf8;
+  --ink: #2b2118;
+  --muted: #7a6a58;
+  --line: #e6dac6;
+  --accent: #b8510a;
+  --accent-soft: #f6e3cf;
+  --scale: 1;
+}
+
+:root[data-theme="dark"] {
+  --bg: #15110d;
+  --surface: #1d1814;
+  --ink: #eadfce;
+  --muted: #a8998a;
+  --line: #342b23;
+  --accent: #f0974f;
+  --accent-soft: #33261a;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --font-sans: "Inter Variable", system-ui, sans-serif;
+  --font-deva: "Noto Serif Devanagari Variable", "Noto Serif Devanagari", "Nirmala UI", "Kohinoor Devanagari", serif;
+}
+
+html {
+  background: var(--bg);
+  color-scheme: light;
+}
+html[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Scripture text: Devanagari serif, scalable by the reader's font-size setting. */
+.scripture {
+  font-family: var(--font-deva);
+  font-size: calc(1.25rem * var(--scale));
+  line-height: 2;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+.translation {
+  font-size: calc(1rem * var(--scale));
+  line-height: 1.75;
+  white-space: pre-line;
+}
+.translation[lang="hi"] {
+  font-family: var(--font-deva);
+  line-height: 1.95;
+}
+
+a:focus-visible,
+button:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
+}
