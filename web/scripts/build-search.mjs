@@ -47,7 +47,7 @@ for (const [text, entry] of Object.entries(catalog)) {
         content = ch.verses.map((v) => `${v.sa}\n${v.tr[GITA_TRANSLATOR] ?? ""}`).join("\n\n");
       } else {
         const c = readJson(path.join(dataRoot, "content", text, `${unit.id}.json`));
-        content = [...(c.header ?? []), ...c.verses.map((v) => [v.label, v.text].filter(Boolean).join(" "))].join("\n\n");
+        content = [...(c.header ?? []), ...c.verses.map((v) => [v.label, v.text, v.tr].filter(Boolean).join(" "))].join("\n\n");
       }
       const res = await index.addCustomRecord({
         url: `/read/${text}/${unit.id}`,

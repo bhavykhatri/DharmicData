@@ -4,6 +4,7 @@ import { useState } from "react";
 import { BookmarkButton } from "./bookmark-button";
 import { CopyButton, ShareButton } from "./verse-actions";
 import { VerseText } from "./verse-text";
+import { ShareImageButton } from "./share-image";
 import { setGitaPrefs, useGitaPrefs } from "@/lib/store";
 import type { GitaVerse } from "@/lib/data";
 
@@ -133,6 +134,7 @@ function GitaVerseRow({
         <BookmarkButton text="gita" unit={String(chapter)} n={String(idx)} title={ref} snippet={translation.replace(/\s+/g, " ")} />
         <CopyButton text={`${verse.sa}\n\n${translation}\n— ${ref}`} />
         <ShareButton title={ref} text={`${verse.sa}\n\n${translation}\n— ${ref}`} path={`/read/gita/${chapter}#v-${idx}`} />
+        <ShareImageButton verse={verse.sa} translation={translator.lang === "en" ? translation : undefined} reference={`Bhagavad Gita ${label}`} title={ref} />
         <button
           type="button"
           onClick={toggle}

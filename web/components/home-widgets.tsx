@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { streakOf, useLastRead, useReadDays, useReadMap } from "@/lib/store";
 import { textById } from "@/lib/texts";
 import { ShareButton } from "./verse-actions";
+import { ShareImageButton } from "./share-image";
 
 type DailyVerse = { ch: number; v: string; idx: number; sa: string; en: string };
 
@@ -82,6 +83,9 @@ export function DailyLeaf({ counts }: { counts: number[] }) {
               text={`${verse.sa}\n\n${verse.en}\n\nBhagavad Gita ${verse.ch}.${verse.v}`}
               path={`/read/gita/${verse.ch}#v-${verse.idx}`}
             />
+            <span className="rounded-full border border-leaf/30 [&>button]:px-4 [&>button]:py-2.5 [&>button]:font-semibold [&>button]:text-leaf">
+              <ShareImageButton verse={verse.sa} translation={verse.en} reference={`Bhagavad Gita ${verse.ch}.${verse.v}`} title={`Bhagavad Gita ${verse.ch}.${verse.v}`} />
+            </span>
           </div>
         </>
       ) : (

@@ -11,7 +11,15 @@ export type CatalogEntry = {
 };
 export type Catalog = Record<string, CatalogEntry>;
 
-export type Verse = { n?: string; label?: string; text: string };
+export type Verse = {
+  n?: string;
+  label?: string;
+  text: string;
+  /** English translation (Valmiki Ramayana). */
+  tr?: string;
+  /** Word-by-word meanings (Valmiki Ramayana). */
+  wm?: string;
+};
 export type UnitContent = { header?: string[]; verses: Verse[] };
 
 export type GitaVerse = { v: string; sa: string; tr: Record<string, string> };

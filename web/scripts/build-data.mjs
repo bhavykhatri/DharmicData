@@ -25,6 +25,8 @@ const writeJson = (file, obj) => {
   fs.writeFileSync(file, JSON.stringify(obj));
 };
 const num = (v) => Number(v);
+// "॥५-१-१॥" at the end of a shloka repeats the reference the reader already shows.
+const stripShlokaRef = (t) => t.replace(/\s*॥\s*[०-९0-9]+(?:\s*-\s*[०-९0-9]+)+\s*॥\s*$/, "").trim();
 const byNum = (a, b) => num(a) - num(b);
 
 fs.rmSync(outData, { recursive: true, force: true });
@@ -164,7 +166,10 @@ KAANDAS.forEach(([slug, name], i) => {
   for (const r of rows) {
     const k = String(r.sarg);
     if (!sargs.has(k)) sargs.set(k, []);
-    sargs.get(k).push({ n: String(r.shloka), text: String(r.text).trim() });
+    const v = { n: String(r.shloka), text: stripShlokaRef(String(r.text)) };
+    if (r.translation) v.tr = String(r.translation).trim();
+    if (r.word_meanings) v.wm = String(r.word_meanings).trim();
+    sargs.get(k).push(v);
   }
   for (const k of [...sargs.keys()].sort(byNum)) {
     const verses = sargs.get(k).sort((a, b) => byNum(a.n, b.n));

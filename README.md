@@ -11,7 +11,7 @@ The dataset is organized into two main directories: `Ramcharitmanas`, `Srimad Bh
 | [Ramcharitmanas](#ramcharitmanas) | Composed of chaupais, dohas (sorthas), and various chhands | Approximately 10,000 chaupais | [IIT Kanpur Ramcharitmanas Project](https://www.ramcharitmanas.iitk.ac.in/) |
 | [Srimad Bhagavad Gita](#srimad-bhagavad-gita) | Verses (shlokas) in classical Sanskrit | Approximately 700 | [Gita Supersite by IIT Kanpur](https://www.gitasupersite.iitk.ac.in/) |
 | [Mahabharata](#mahabharata) | 18 books divided into multiple chapters | Approximately 1,00,000 | [Sacred Texts Mahabharata](https://sacred-texts.com/hin/mbs/mbsi01.htm) |
-| [Valmiki Ramayana](#valmiki-ramayana) | Verses (shlokas) in classical Sanskrit | 23,592 | [GitHub Repository - Ramayana Book](https://github.com/svenkatreddy/Ramayana_Book) |
+| [Valmiki Ramayana](#valmiki-ramayana) | Verses (shlokas) in classical Sanskrit, with English translation | 23,592 | [GitHub Repository - Ramayana Book](https://github.com/svenkatreddy/Ramayana_Book) |
 | [Rigveda](#rigveda) | Hymns (suktas) divided into mandalas | Over 10,000 (including all Mandalas) | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
 | [Yajurveda Shukla](#yajurveda) | - Vajasaneyi Madhyandina Samhita: Prose and verses (shlokas)<br>- Vajasaneyi Kanva Samhita: Prose and verses (shlokas) | Madhyandina: Approximately 1,900<br>Kanva: Approximately 1,980 | [Vedic Heritage Portal](https://vedicheritage.gov.in/) |
 | Yajurveda Krishna (to be added) | Prose and verses (shlokas), often mixed with Brahmana and Aranyaka sections | Varies widely | - |
@@ -72,16 +72,28 @@ All 7 kaands (~24,000 shlokas) of Valmiki Ramayana are present in the directory.
 
 Credits to [Ramayana book](https://github.com/svenkatreddy/Ramayana_Book) for providing the data.
 
-**Repairs (November 2026).** All 648 sargas are now present (23,592 shlokas):
+**Repairs and translations (November 2026).** All 648 sargas are present (23,592 shlokas), and most shlokas now carry an English translation.
 
-- Aranya kanda sarga 24 had been filed under sarga 34; its shlokas are back under 24.
-- 35 repeated shlokas in Kishkindha kanda were removed.
-- Sargas that were missing (Bala 70–72, Kishkindha 11 and 65, Yuddha 4, 67, 114 and 129–131) were added from the
-  [Valmiki Ramayan Dataset](https://github.com/Ashutosh-Vijay/Valmiki_Ramayan_Dataset) by Ashutosh Vijay (MIT licence),
-  which was compiled from the [IIT Kanpur Valmiki Ramayana](https://www.valmiki.iitk.ac.in/) site. These records carry
-  `"source": "valmiki_ramayan_dataset"`.
+Each record looks like this:
 
-The script that made these changes is [`tools/fix_ramayana.py`](./tools/fix_ramayana.py).
+```json
+{
+  "kaanda": "sundarakanda",
+  "sarg": 1,
+  "shloka": 1,
+  "text": "ततो रावणनीतायाः सीतायाः शत्रुकर्शनः । इयेष पदमन्वेष्टुं चारणाचरिते पथि ॥५-१-१॥",
+  "translation": "Hanuman, crusher of enemies resolved to find the whereabouts of Sita, carried away by Ravana. He followed the path of the Charanas, celestial bards.",
+  "word_meanings": "ततः then, शत्रुकर्शनः crusher off enemies, रावणनीतायाः carried by Ravana, ..."
+}
+```
+
+- **Structure.** Aranya kanda sarga 24 had been filed under sarga 34 and is back in place. 35 repeated shlokas in Kishkindha kanda were removed. Missing sargas (Bala 70–72, Kishkindha 11 and 65, Yuddha 4, 67, 114 and 129–131) were added.
+- **Clean text.** Stray inner verse numbers and runs of dandas ("।। ५.१९.१।।।।") left by the original scrape were removed, and every shloka ends with one `॥kanda-sarga-shloka॥`. Leftover transliteration letters ("ऋष्यश्R^ङ्गो", "मङ्गLअम्") were converted or replaced with the matching reference shloka; one unclear word remains (Yuddha 129.10).
+- **Translations.** `translation` and `word_meanings` were added to 20,067 shlokas (86%). The reference often translates two or three shlokas together; such a translation sits on the last shloka it covers. Shlokas without a confident match have no translation rather than a wrong one.
+
+Translations, word meanings and the added sargas come from the [Valmiki Ramayan Dataset](https://github.com/Ashutosh-Vijay/Valmiki_Ramayan_Dataset) by Ashutosh Vijay (MIT licence), compiled from the [IIT Kanpur Valmiki Ramayana](https://www.valmiki.iitk.ac.in/) site.
+
+The changes are reproducible with [`tools/fix_ramayana.py`](./tools/fix_ramayana.py) followed by [`tools/enrich_ramayana.py`](./tools/enrich_ramayana.py), each run on the reference dataset's `data/Valmiki_Ramayan_Shlokas.json`.
 
 
 

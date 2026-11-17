@@ -55,11 +55,11 @@ export const TEXTS: TextMeta[] = [
     sa: "वाल्मीकि रामायण",
     glyph: "रा",
     hue: "#b11d2b",
-    blurb: "The original Sanskrit epic in seven kandas.",
+    blurb: "The original Sanskrit epic in seven kandas, with English translation and word-by-word meanings.",
     kind: "verses",
     lang: "sa",
     unitName: "sargas",
-    credit: "Ramayana Book (svenkatreddy); missing sargas from Valmiki Ramayan Dataset (Ashutosh Vijay, MIT), compiled from IIT Kanpur",
+    credit: "Ramayana Book (svenkatreddy); translations, word meanings and missing sargas from the Valmiki Ramayan Dataset (Ashutosh Vijay, MIT), compiled from IIT Kanpur",
     creditUrl: "https://github.com/svenkatreddy/Ramayana_Book",
   },
   {
