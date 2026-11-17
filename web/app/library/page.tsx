@@ -11,7 +11,7 @@ export default function Library() {
   return (
     <>
       <h1 className="font-deva text-4xl text-ink">ग्रन्थालय</h1>
-      <p className="mb-8 mt-1 text-muted">Nine texts, from the Rigveda to the Ramcharitmanas.</p>
+      <p className="mb-8 mt-1 text-muted">Ten texts, from the Rigveda to the Ramcharitmanas.</p>
       <Shelves totals={totals} />
     </>
   );

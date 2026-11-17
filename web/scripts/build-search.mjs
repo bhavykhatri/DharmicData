@@ -20,6 +20,7 @@ const NAMES = {
   mahabharata: "Mahabharata",
   rigveda: "Rigveda",
   "yajurveda-madhyandina": "Yajurveda, Madhyandina",
+  upanishads: "Upanishads",
   "yajurveda-kanva": "Yajurveda, Kanva",
   samaveda: "Samaveda",
   atharvaveda: "Atharvaveda",

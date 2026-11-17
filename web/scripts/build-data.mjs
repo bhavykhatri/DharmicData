@@ -230,6 +230,18 @@ for (const row of readJson("Yajurveda/vajasneyi_madhyadina_samhita.json").sort((
   const { verses } = splitVerses(String(row.text).trim(), []);
   addUnit("yajurveda-madhyandina", "all", "अध्याय", { id: String(row.adhyaya), title: `अध्याय ${row.adhyaya}` }, { verses });
 }
+// The Isha Upanishad is the 40th adhyaya of the Madhyandina Samhita.
+{
+  const row = readJson("Yajurveda/vajasneyi_madhyadina_samhita.json").find((r) => Number(r.adhyaya) === 40);
+  if (row) {
+    const { verses } = splitVerses(String(row.text).trim(), []);
+    addUnit("upanishads", "all", "उपनिषद्", { id: "isha", title: "ईशोपनिषद् · Isha" }, {
+      header: ["शुक्लयजुर्वेद माध्यन्दिनसंहिता, अध्याय ४०"],
+      verses,
+    });
+  }
+}
+
 for (const row of readJson("Yajurveda/vajasneyi_kanva_samhita_chapters.json").sort((a, b) => byNum(a.chapter, b.chapter))) {
   const body = String(row.text).replace(/^\s*अथ[^\n]*ध्यायः[^\n]*\n/, "").trim();
   const { verses } = splitVerses(body, []);

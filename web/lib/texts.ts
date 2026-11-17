@@ -25,6 +25,13 @@ export const SHELVES: Shelf[] = [
   { id: "gita", sa: "गीता", name: "The Gita", note: "Krishna's teaching to Arjuna on the field of Kurukshetra", texts: ["gita"] },
   { id: "itihasa", sa: "इतिहास", name: "The epics", note: "The stories of Rama and of the Kuru dynasty", texts: ["ramayana", "ramcharitmanas", "mahabharata"] },
   {
+    id: "upanishad",
+    sa: "उपनिषद्",
+    name: "The Upanishads",
+    note: "The philosophical close of the Vedas",
+    texts: ["upanishads"],
+  },
+  {
     id: "veda",
     sa: "वेद",
     name: "The Vedas",
@@ -87,6 +94,18 @@ export const TEXTS: TextMeta[] = [
     unitName: "chapters",
     credit: "Sacred Texts",
     creditUrl: "https://sacred-texts.com/hin/mbs/mbsi01.htm",
+  },
+  {
+    id: "upanishads",
+    name: "Upanishads",
+    sa: "उपनिषद्",
+    glyph: "उ",
+    hue: "#7b3f8f",
+    blurb: "The Isha Upanishad, from the Shukla Yajurveda, with its accent marks. More Upanishads are on the way.",
+    kind: "vedic",
+    lang: "sa",
+    unitName: "Upanishad",
+    ...VEDIC,
   },
   {
     id: "rigveda",
